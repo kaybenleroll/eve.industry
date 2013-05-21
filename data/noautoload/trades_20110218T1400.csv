@@ -1,0 +1,1001 @@
+linetype,characterID,characterName,transactTime,transactionID,transactionType,stationID,stationName,clientID,clientName,typeID,typeName,quantity,price,transactionFor
+TRADE,90192277,Gynax Gallenor,2011-02-18 13:07:00,1724924719,sell,60010906,Luminaire III (Astrin) - Moon 1 - Duvolle Laboratories Factory,511971341,Slavemaster,17455,Azure Plagioclase,32803,30.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 11:57:00,1724883750,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90200393,como kampela,223,Iron Charge M,100,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 10:59:00,1724871789,buy,60011605,Old Man Star VIII - Moon 2 - Senate Bureau,90062641,eEcilopp,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 10:15:00,1724844999,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90358402,zaed ronin,223,Iron Charge M,120,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 10:05:00,1724839909,sell,60015144,Villore VI - Federal Defence Union Logistic Support,1510185911,Sloaf,226,Lead Charge M,4000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 10:05:00,1724839661,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90358402,zaed ronin,223,Iron Charge M,560,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 07:08:00,1724741976,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1386552075,Skjeld Karlsson,1319,Expanded Cargohold II,1,390000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 07:08:00,1724741808,sell,60011998,Halle VII - Moon 6 - Federal Intelligence Office Assembly Plant,467251699,heeda,1230,Veldspar,1998,15,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 07:07:00,1724741099,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1386552075,Skjeld Karlsson,1319,Expanded Cargohold II,1,390000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 05:48:00,1724696428,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1161557393,Palathius,223,Iron Charge M,7920,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 05:36:00,1724689770,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90309351,LikeSoManySheep en Gravonere,189,Depleted Uranium M,100,11.21,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 05:20:00,1724678453,buy,60011959,Ommare VI - Federal Intelligence Office Assembly Plant,90313887,Darek Rolsky,650,Iteron,1,135001.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 04:54:00,1724662414,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90199148,Bijorne,2032,Cap Recharger II,1,575200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 04:40:00,1724653699,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90413434,Marcus Fargus,650,Iteron,1,135001.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 04:40:00,1724653407,sell,60012652,Gicodel VII - Moon 14 - Sisters of EVE Bureau,378965583,Ravenaire,2032,Cap Recharger II,1,895000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 04:37:00,1724651715,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25598,Tripped Power Circuit,3,83002,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 04:35:00,1724650222,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90363366,Caz Nardieu,567,Dual 150mm Railgun I,1,20700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 04:32:00,1724648155,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1170821101,Naka San,12042,Ishkur,1,18000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 03:39:00,1724610769,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,1604851180,SkeetSurfr3,1319,Expanded Cargohold II,3,390000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 03:26:00,1724602254,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90131536,Maximus Chaos,16391,N-Type Adaptive Nano Membrane I,1,6500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 03:14:00,1724593952,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90035888,James Syagrius,1230,Veldspar,999,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 02:45:00,1724573305,buy,60014725,Leremblompes IV - Moon 11 - Center for Advanced Studies School,1287339805,Ruhdernest,483,Miner I,4,10000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 02:15:00,1724552666,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90429220,Dar'konan Nardieu,5489,Local Hull Conversion Expanded Cargo I,1,560000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 02:10:00,1724549235,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90404659,Azalian Nomiss,1230,Veldspar,676,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 01:53:00,1724536351,sell,60011734,Algogille XIII - Federation Navy Testing Facilities,937333501,Tapper Jackson,17471,Dense Veldspar,46820,8.42,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 01:52:00,1724536159,sell,60011734,Algogille XIII - Federation Navy Testing Facilities,937333501,Tapper Jackson,17470,Concentrated Veldspar,50487,8.08,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 01:52:00,1724535985,sell,60011734,Algogille XIII - Federation Navy Testing Facilities,937333501,Tapper Jackson,17463,Condensed Scordite,9204,12.5,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 01:51:00,1724535067,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1028451620,Biobrb,1319,Expanded Cargohold II,3,390000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:51:00,1724488499,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90420076,Faust Wittman,226,Lead Charge M,100,17.31,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:41:00,1724479791,sell,60014539,Charmerout IX - Moon 3 - X-Sense Chemical Refinery,90434151,Ronan de'Arnise,650,Iteron,1,210000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:40:00,1724479697,buy,60012010,Renyn IX - Federation Customs Assembly Plant,979392583,wiggum101,5489,Local Hull Conversion Expanded Cargo I,1,560000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:40:00,1724479577,buy,60012010,Renyn IX - Federation Customs Assembly Plant,979392583,wiggum101,5489,Local Hull Conversion Expanded Cargo I,1,560000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:40:00,1724479530,buy,60012010,Renyn IX - Federation Customs Assembly Plant,979392583,wiggum101,5489,Local Hull Conversion Expanded Cargo I,1,560000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:38:00,1724477136,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90271369,Jediguy,634,Exequror,1,3390000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:26:00,1724467013,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1201758848,JaanuRaja,1230,Veldspar,4800,7.13,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:15:00,1724457878,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,1230,Veldspar,5508,7.44,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:15:00,1724457706,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,17471,Dense Veldspar,25392,8.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:15:00,1724457508,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,965574173,IRENE 2011,17455,Azure Plagioclase,6276,29.9,personal
+TRADE,90192277,Gynax Gallenor,2011-02-18 00:13:00,1724455789,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90367160,Eve Etan,2032,Cap Recharger II,2,845000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 23:42:00,1724426692,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1548047042,AbarneyA,2032,Cap Recharger II,2,845000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 23:36:00,1724420963,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1997295219,Corsina,1319,Expanded Cargohold II,2,475000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 23:36:00,1724420746,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,570618715,Arnaud Requin,1319,Expanded Cargohold II,1,475000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 23:27:00,1724411939,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1204217354,Professor Wilbert,1230,Veldspar,2000,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 23:25:00,1724409898,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,965574173,IRENE 2011,17455,Azure Plagioclase,21729,29.9,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 22:55:00,1724380521,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,968423824,Kali Ignus,20412,Datacore - Plasma Physics,9,125000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 22:32:00,1724356107,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90413887,Jackson Moore,1230,Veldspar,999,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 22:18:00,1724340401,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90113030,Angeline Machine,226,Lead Charge M,3793,17.31,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 21:49:00,1724308301,sell,60001408,Caslemon VI - Moon 4 - Wiyrkomi Corporation Warehouse,413884163,Saggy Ballz,627,Thorax,1,5995000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 21:45:00,1724303628,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90366239,Jefferson H Clay,223,Iron Charge M,100,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 21:09:00,1724260238,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1787212005,Korio Matar,226,Lead Charge M,100,17.31,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 21:01:00,1724251951,buy,60011941,Haine III - Moon 2 - Federal Intelligence Office Logistic Support,107997687,Marcus Valerian,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 20:38:00,1724225617,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90392183,Hercemer Erquilenne,567,Dual 150mm Railgun I,5,20700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 20:25:00,1724211842,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90289652,Jellicos,223,Iron Charge M,100,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 20:19:00,1724205478,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90404090,Mad Marddigan,5489,Local Hull Conversion Expanded Cargo I,1,560000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 19:53:00,1724177453,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90409412,lorily Huunuras,567,Dual 150mm Railgun I,1,20700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 18:03:00,1724058512,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90386168,Alex Bobinsky,1230,Veldspar,999,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 17:51:00,1724046938,buy,60014539,Charmerout IX - Moon 3 - X-Sense Chemical Refinery,870616786,Coder Fasteele,657,Iteron Mark V,1,585000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 17:51:00,1724046727,buy,60014539,Charmerout IX - Moon 3 - X-Sense Chemical Refinery,870616786,Coder Fasteele,650,Iteron,1,135000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 17:32:00,1724028312,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,800779362,Y'Sul,634,Exequror,1,2951000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 17:22:00,1724018079,sell,60009358,Aclan V - Moon 1 - Federal Freight Storage,592555524,orca808,2032,Cap Recharger II,2,890000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 17:10:00,1724007109,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1514239446,Draedloth,17455,Azure Plagioclase,283,30.3,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 15:31:00,1723917286,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90411910,Christopher Brice,634,Exequror,1,2951000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 15:17:00,1723906434,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90423637,Shiftey Rhodes,223,Iron Charge M,919,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 15:15:00,1723905166,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90327734,Draesk McCovican,5245,Cu Vapor Particle Bore Stream I,1,690000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 15:11:00,1723902110,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90395557,Skulker Darkon,570,250mm Railgun I,3,125000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 13:44:00,1723839433,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,595378834,hache point,223,Iron Charge M,100,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 13:41:00,1723837432,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,364749196,Aliannah,567,Dual 150mm Railgun I,3,20700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 13:38:00,1723835115,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90390381,Shaelyia Caaitae,1230,Veldspar,999,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 13:33:00,1723831951,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90427309,Max Rolling,1230,Veldspar,999,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 13:10:00,1723817659,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90110482,Dalvishe,2032,Cap Recharger II,1,849987.93,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 12:07:00,1723782746,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90381220,Mika Mikaal,570,250mm Railgun I,1,125000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 07:03:00,1723636918,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1014722601,Rin Barial,8331,Local Power Plant Manager: Reaction Shield Power Relay I,1,194000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 06:16:00,1723609515,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1840652020,Sorsha Demitrus,223,Iron Charge M,440,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 06:06:00,1723603397,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1840652020,Sorsha Demitrus,223,Iron Charge M,6275,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 05:51:00,1723593798,sell,60010210,Noghere VII - Moon 15 - CreoDron Warehouse,648951664,Nessija,1944,Bestower,1,845000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 04:03:00,1723520973,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90361504,Aidon Itiutafal,5245,Cu Vapor Particle Bore Stream I,1,690000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 03:57:00,1723517128,sell,60015144,Villore VI - Federal Defence Union Logistic Support,90015329,JIXANDER,655,Iteron Mark III,1,595000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 03:49:00,1723511583,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90170234,Laphippo,7327,Dual 150mm Prototype I Gauss Gun,1,2095000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 03:26:00,1723495532,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90392708,Rothelm Rails,570,250mm Railgun I,2,125000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 03:24:00,1723494325,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90196169,Pectus Solentis,223,Iron Charge M,100,3.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 03:17:00,1723490247,sell,60012652,Gicodel VII - Moon 14 - Sisters of EVE Bureau,421151982,Lil'hh,2032,Cap Recharger II,1,900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 03:08:00,1723484475,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90329161,Askr Ormand,226,Lead Charge M,100,17.31,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 02:40:00,1723464083,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,591643852,Zimmychonga Apparatus,2476,Berserker I,1,20050.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 02:03:00,1723438661,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1340856880,Daedalis007,25598,Tripped Power Circuit,2,83001.01,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 02:01:00,1723437291,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,8,28501,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 01:55:00,1723432880,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,827085866,Clanach,2032,Cap Recharger II,1,845000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 01:55:00,1723432392,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,827085866,Clanach,2032,Cap Recharger II,2,845000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 01:36:00,1723417866,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,573621202,ShaleStone,2032,Cap Recharger II,1,849987.95,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 01:32:00,1723414534,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1158208203,Aralei,2032,Cap Recharger II,5,575000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 01:24:00,1723408502,buy,60011614,Algogille IX - Moon 3 - Federal Administration Information Center,1402590471,Kunch,5489,Local Hull Conversion Expanded Cargo I,1,560000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 01:14:00,1723400585,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,745480194,Loganaxe,16311,Refuge' Adaptive Nano Plating I,1,1225000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 00:25:00,1723359955,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90202520,Marineboy1969,482,Miner II,4,284900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-17 00:21:00,1723357176,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,148279280,zonicmaga,3530,Medium Armor Repairer II,1,1340000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 20:37:00,1723126149,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,846709377,garrrrrs,7327,Dual 150mm Prototype I Gauss Gun,1,1400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 20:05:00,1723089002,sell,60011749,Luminaire VII (Caldari Prime) - Moon 6 - Federation Navy Assembly Plant,90011501,Aalyx,655,Iteron Mark III,1,700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 19:53:00,1723076212,buy,60010210,Noghere VII - Moon 15 - CreoDron Warehouse,1728734965,DaBulletBill,1944,Bestower,1,450000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 16:18:00,1722855214,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90080685,spacehunter90,223,Iron Charge M,100,3.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 15:19:00,1722806113,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90431250,Rrvolushon Patrouette,5007,Small F-RX Prototype I Capacitor Boost,1,48000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 12:57:00,1722704211,buy,60012652,Gicodel VII - Moon 14 - Sisters of EVE Bureau,429705846,TerrorNudel,2032,Cap Recharger II,3,455000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 12:09:00,1722676364,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90414060,Alexandr en Divalone,5489,Local Hull Conversion Expanded Cargo I,1,910000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 10:56:00,1722661515,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,190305974,Eredras Haelin,223,Iron Charge M,100,3.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 08:11:00,1722561165,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,573789000,Zadaka,8331,Local Power Plant Manager: Reaction Shield Power Relay I,1,50000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 06:24:00,1722499864,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1786911800,Schneizeru,226,Lead Charge M,5000,27.97,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 06:07:00,1722490151,buy,60001408,Caslemon VI - Moon 4 - Wiyrkomi Corporation Warehouse,1548341601,Jacob Welter,627,Thorax,1,5450000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 05:19:00,1722458646,buy,60009649,Oursulaert VIII - Astral Mining Inc. Mining Outpost,1933045763,Beta Nemec,7367,250mm Prototype I Gauss Gun,1,800000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 03:29:00,1722382504,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,434132515,Hebikage,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 03:23:00,1722378171,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90396375,AS Amatin,7327,Dual 150mm Prototype I Gauss Gun,1,2095000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 01:37:00,1722301581,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,17471,Dense Veldspar,2302,8.04,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 01:37:00,1722301507,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,17470,Concentrated Veldspar,13738,7.53,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 01:37:00,1722301413,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,1841290997,Progenitor Daley,17464,Massive Scordite,1530,12.61,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 01:37:00,1722301344,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,17463,Condensed Scordite,4590,12,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 01:37:00,1722301266,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,17456,Rich Plagioclase,9855,31.18,personal
+TRADE,90192277,Gynax Gallenor,2011-02-16 01:36:00,1722301117,sell,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,976559435,Grish Law,17455,Azure Plagioclase,11003,29.81,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 21:17:00,1722052107,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1352680154,KuRSed Pestis,5489,Local Hull Conversion Expanded Cargo I,2,910000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 21:17:00,1722052096,buy,60010213,Noghere VIII - Moon 18 - CreoDron Warehouse,90210980,DSquare1980,226,Lead Charge M,400,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 19:44:00,1721945501,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90279444,Jarpin,223,Iron Charge M,4046,3.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 19:04:00,1721901880,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90365144,Mark SchultzIII,226,Lead Charge M,100,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 19:04:00,1721901804,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90365144,Mark SchultzIII,223,Iron Charge M,100,3.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 18:37:00,1721872768,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90413887,Jackson Moore,226,Lead Charge M,1872,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 18:19:00,1721854461,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,1300027338,Luna Twilight,223,Iron Charge M,2482,3.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:41:00,1721816184,buy,60011311,Algogille IX - Moon 3 - Bank of Luminaire Investment Bank,90399634,Kaedis De,38,Nocxium,124,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:39:00,1721814453,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90378061,Tco Thiesant,38,Nocxium,24,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:39:00,1721814085,buy,60011311,Algogille IX - Moon 3 - Bank of Luminaire Investment Bank,90399634,Kaedis De,38,Nocxium,67,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:38:00,1721813539,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90382989,voldemar fetisov,38,Nocxium,143,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:37:00,1721812352,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90378061,Tco Thiesant,38,Nocxium,60,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:31:00,1721806740,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90394923,Djess Beneloge,38,Nocxium,7,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:31:00,1721806659,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90394923,Djess Beneloge,38,Nocxium,19,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:25:00,1721800365,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,178513189,Gaaare Sceault,634,Exequror,1,2950000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:25:00,1721800130,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90367355,Loki Vash,38,Nocxium,8,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:23:00,1721797878,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90382989,voldemar fetisov,38,Nocxium,17,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:22:00,1721797312,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90382205,Kender Lovag,38,Nocxium,90,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:20:00,1721795169,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90399228,Tankred Otvil,38,Nocxium,17,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:15:00,1721789085,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90399228,Tankred Otvil,38,Nocxium,26,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:14:00,1721788949,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90412706,Darian Dusk,38,Nocxium,7,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:12:00,1721786228,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90401059,Trey Holden,38,Nocxium,7,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:12:00,1721786177,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90411697,Buddy Aideron,38,Nocxium,19,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:09:00,1721783852,buy,60009928,Villore VII - Moon 8 - Quafe Company Factory,90267309,BigBear HUN,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:09:00,1721783793,buy,60009928,Villore VII - Moon 8 - Quafe Company Factory,90267309,BigBear HUN,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:08:00,1721783132,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90365144,Mark SchultzIII,38,Nocxium,4,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:05:00,1721780408,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90429038,Neut Toxic,38,Nocxium,3,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:05:00,1721780185,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90285447,Levsxxx,38,Nocxium,3,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 17:01:00,1721776837,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1149388537,Azureglow,38,Nocxium,11,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:50:00,1721765694,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90309351,LikeSoManySheep en Gravonere,38,Nocxium,12,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:47:00,1721763576,buy,60011614,Algogille IX - Moon 3 - Federal Administration Information Center,90414560,Metabie Eraste,38,Nocxium,6,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:44:00,1721760725,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90430223,Abbi Matrice,38,Nocxium,3,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:43:00,1721759962,buy,60010906,Luminaire III (Astrin) - Moon 1 - Duvolle Laboratories Factory,90425504,Chieftess Paladian,38,Nocxium,35,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:24:00,1721742395,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,358783760,LiamLee Skye,38,Nocxium,24,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:17:00,1721735953,buy,60012010,Renyn IX - Federation Customs Assembly Plant,90121554,Dav Win,38,Nocxium,18,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:16:00,1721735035,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90414954,Andrey Tonen'kov,38,Nocxium,2,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:07:00,1721727646,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90428992,Itaku Stetille,38,Nocxium,7,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:05:00,1721725405,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1019147239,ARCHBISHOP5000,226,Lead Charge M,100,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 16:05:00,1721725364,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1019147239,ARCHBISHOP5000,223,Iron Charge M,100,3.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 15:45:00,1721708520,buy,60011914,Renyn IX - Moon 4 - Federal Intelligence Office Logistic Support,90382205,Kender Lovag,38,Nocxium,19,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 15:40:00,1721703851,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,90414511,Aeoryk Calderon,5489,Local Hull Conversion Expanded Cargo I,1,910000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 15:14:00,1721682547,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90192029,ChuvakZ,4575,Medium Automated I Carapace Restoration,1,650000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 15:12:00,1721680219,buy,60012007,Luminaire VII (Caldari Prime) - Moon 5 - Federation Customs Assembly Plant,2086530240,AbraAv,38,Nocxium,19,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 15:10:00,1721678538,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90341750,Vaikos de Gama,38,Nocxium,3,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 15:00:00,1721670908,buy,60012004,Luminaire VII (Caldari Prime) - Moon 1 - Federation Customs Testing Facilities,90373849,Miss Aru,38,Nocxium,5,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:53:00,1721665531,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90382205,Kender Lovag,38,Nocxium,2,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:48:00,1721661075,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90409596,Ashtikan Maricadie,38,Nocxium,1,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:46:00,1721659908,buy,60012004,Luminaire VII (Caldari Prime) - Moon 1 - Federation Customs Testing Facilities,90373849,Miss Aru,38,Nocxium,1,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:35:00,1721651260,buy,60011614,Algogille IX - Moon 3 - Federal Administration Information Center,90382205,Kender Lovag,38,Nocxium,2,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:32:00,1721649244,buy,60012007,Luminaire VII (Caldari Prime) - Moon 5 - Federation Customs Assembly Plant,2086530240,AbraAv,38,Nocxium,4,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:30:00,1721647870,buy,60012007,Luminaire VII (Caldari Prime) - Moon 5 - Federation Customs Assembly Plant,2086530240,AbraAv,38,Nocxium,21,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:27:00,1721645569,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,556106226,Leena Drastic,38,Nocxium,12,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:27:00,1721645373,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90403120,Alexander Joker,38,Nocxium,9,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:24:00,1721643419,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90248011,KomPosterov,218,Lead Charge S,1700,5.4,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:12:00,1721634909,buy,60011914,Renyn IX - Moon 4 - Federal Intelligence Office Logistic Support,90399186,Garry Oak,38,Nocxium,15,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 14:07:00,1721631182,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90369069,Sergio Lomendese,38,Nocxium,14,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:56:00,1721623835,sell,60011743,Oursulaert IV - Federation Navy Testing Facilities,90204356,Muradik,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:54:00,1721622317,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90414726,James Damien,38,Nocxium,7,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:50:00,1721620007,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90406853,Stan3ly Wierd,38,Nocxium,2,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:45:00,1721617191,sell,60012013,Oursulaert IX - Federation Customs Testing Facilities,1290929176,VIPER998,657,Iteron Mark V,1,999950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:44:00,1721616410,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90414726,James Damien,38,Nocxium,73,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:30:00,1721607891,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90424976,Garynd Gaterau,38,Nocxium,2,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 13:27:00,1721606025,buy,60011734,Algogille XIII - Federation Navy Testing Facilities,90369069,Sergio Lomendese,38,Nocxium,7,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 09:50:00,1721581938,buy,60012007,Luminaire VII (Caldari Prime) - Moon 5 - Federation Customs Assembly Plant,2086530240,AbraAv,38,Nocxium,19,547.82,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 07:34:00,1721504494,buy,60010933,Heydieles III - Moon 13 - Duvolle Laboratories Factory,1513476310,Paolri,226,Lead Charge M,18500,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 07:13:00,1721493546,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1733149050,BANESBOX,223,Iron Charge M,15000,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 06:49:00,1721480999,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1287582100,Count NULL,218,Lead Charge S,1000,5.4,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 06:47:00,1721479462,buy,60011968,Ignebaener VI - Moon 1 - Federal Intelligence Office Logistic Support,1995512195,Asclespios,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 06:45:00,1721478669,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1749059068,ghostwarp98,657,Iteron Mark V,1,650000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 03:40:00,1721366126,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,650169481,rackier,226,Lead Charge M,100,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 03:25:00,1721356836,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90203161,JayPrada,16391,N-Type Adaptive Nano Membrane I,1,4000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:57:00,1721296042,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90416031,Vic Jorrul,34,Tritanium,9390,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:49:00,1721290175,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90383944,Cordanis Johanson,34,Tritanium,8703,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:47:00,1721289011,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90079227,serenity49,34,Tritanium,700,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:47:00,1721288861,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90429224,KOT Aideron,34,Tritanium,256,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:47:00,1721288757,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90079227,serenity49,34,Tritanium,4392,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:46:00,1721288159,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90424976,Garynd Gaterau,34,Tritanium,1056,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:45:00,1721288135,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90348352,Chadry Estemaire,34,Tritanium,5279,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:44:00,1721287340,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90426145,Wajid Athonille,34,Tritanium,2915,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:39:00,1721283973,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90424460,steven venditti,34,Tritanium,12268,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:39:00,1721283634,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90348352,Chadry Estemaire,34,Tritanium,4695,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:38:00,1721283196,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90416031,Vic Jorrul,34,Tritanium,226,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:38:00,1721282829,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90425327,Mr Hutton,34,Tritanium,8040,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:36:00,1721281898,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90378453,alsim Thiesant,34,Tritanium,264870,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:35:00,1721280782,buy,60011746,Mies V - Moon 3 - Federation Navy Assembly Plant,90361719,Kibashi Kado,34,Tritanium,9161,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:34:00,1721279899,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90429224,KOT Aideron,34,Tritanium,53,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:33:00,1721279519,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90361143,Feferi Peixes,34,Tritanium,149251,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:32:00,1721278541,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90426145,Wajid Athonille,34,Tritanium,5497,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:31:00,1721277612,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,310091709,TieLight,34,Tritanium,250000,2.77,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:29:00,1721276532,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90348352,Chadry Estemaire,34,Tritanium,384,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:28:00,1721275970,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90427223,S trelok,34,Tritanium,12358,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 01:27:00,1721275445,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90429224,KOT Aideron,34,Tritanium,506,2.51,personal
+TRADE,90192277,Gynax Gallenor,2011-02-15 00:26:00,1721230798,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1162214687,Yuko Tatsuyama,218,Lead Charge S,6000,5.4,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 23:44:00,1721195680,buy,60011974,Ignebaener IV - Federal Intelligence Office Logistic Support,1435827327,FRMRUSMC,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 23:34:00,1721188169,buy,60011935,Villore VIII - Moon 7 - Federal Intelligence Office Logistic Support,1484388688,winberg v,226,Lead Charge M,41,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 23:05:00,1721162342,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90400842,Robert Nardieu,7327,Dual 150mm Prototype I Gauss Gun,2,2189900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 23:04:00,1721160777,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,2058851203,Errick Jijon,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 22:54:00,1721150919,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1945281536,Quaestionarius,226,Lead Charge M,1628,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 22:49:00,1721146476,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1945281536,Quaestionarius,226,Lead Charge M,160,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 22:44:00,1721140926,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1945281536,Quaestionarius,226,Lead Charge M,7540,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 21:45:00,1721074799,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1160501528,Aemea,482,Miner II,1,289000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 21:25:00,1721052512,buy,60009358,Aclan V - Moon 1 - Federal Freight Storage,90032617,Herpius Derpiar,2032,Cap Recharger II,2,455000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 21:18:00,1721044921,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,172564135,RendarBoss,226,Lead Charge M,500,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 21:18:00,1721044813,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,172564135,RendarBoss,223,Iron Charge M,200,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 19:10:00,1720897899,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90371897,Michael Chastot,5241,Dual Diode Mining Laser I,3,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 18:30:00,1720855746,buy,60011974,Ignebaener IV - Federal Intelligence Office Logistic Support,1435827327,FRMRUSMC,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 18:16:00,1720842188,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90369716,Bugman Orlenard,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 18:09:00,1720835457,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90397098,Vasko Vasconcelos,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 17:34:00,1720803131,buy,60010447,Attyn V - Moon 13 - Poteque Pharmaceuticals Biotech Production,90160657,Adso LeTemplier,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 17:04:00,1720774552,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90371897,Michael Chastot,5245,Cu Vapor Particle Bore Stream I,3,699000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 16:19:00,1720734542,buy,60011959,Ommare VI - Federal Intelligence Office Assembly Plant,90220814,Evill Era,226,Lead Charge M,300,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 16:11:00,1720727380,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90397098,Vasko Vasconcelos,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 16:05:00,1720721610,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90181922,CptWash,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:51:00,1720710701,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1727191643,Kargamus,38,Nocxium,1,549.37,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:49:00,1720709389,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1198237070,Raakuus,38,Nocxium,16,549.37,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:42:00,1720703730,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1198237070,Raakuus,38,Nocxium,40,549.37,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:42:00,1720703539,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1149388537,Azureglow,38,Nocxium,2,549.37,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:31:00,1720694955,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90317562,Eugene Bubolev,38,Nocxium,41,549.37,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:28:00,1720692516,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90392815,grinxu one,37,Isogen,1000,69.01,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:22:00,1720687948,buy,60005515,Aporulie VI - Moon 18 - Core Complexion Inc. Storage,90163725,Terion Fierceglade,34,Tritanium,13532,2.57,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:22:00,1720687205,buy,60015049,Synchelle I - Federal Navy Academy School,90239230,Doc Grumpy,35,Pyerite,10000,4.35,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:19:00,1720685436,buy,60015049,Synchelle I - Federal Navy Academy School,90239230,Doc Grumpy,36,Mexallon,1000,27.25,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:15:00,1720682559,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1000120,Federation Navy,1141,Lead Charge M Blueprint,1,157500,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 15:00:00,1720670457,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90378061,Tco Thiesant,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 12:45:00,1720576045,buy,60010720,Derririntel VII - Moon 4 - The Scope Development Studio,1155121218,Chouchan,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 08:50:00,1720468645,buy,60010762,Vale VI - Moon 2 - Chemal Tech Research Center,90217193,Evil Meyda,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 07:42:00,1720429663,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90373132,a felon,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 06:17:00,1720382280,buy,60010762,Vale VI - Moon 2 - Chemal Tech Research Center,1860702282,Eoras Northwind,226,Lead Charge M,300,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 04:56:00,1720330437,sell,60010939,Heydieles IV - Moon 19 - Duvolle Laboratories Warehouse,1687108629,Pulgy,626,Vexor,1,3700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 03:49:00,1720283633,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90273414,Quentin Durward,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 03:36:00,1720273960,sell,60012652,Gicodel VII - Moon 14 - Sisters of EVE Bureau,1742400395,Guede,13287,Limited Cybernetic Subprocessor,1,480000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 03:10:00,1720253797,buy,60015144,Villore VI - Federal Defence Union Logistic Support,90370937,Kadukosan Bhu,226,Lead Charge M,26190,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 02:10:00,1720205684,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,2033111775,molepet,223,Iron Charge M,30,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 01:30:00,1720171028,sell,60011749,Luminaire VII (Caldari Prime) - Moon 6 - Federation Navy Assembly Plant,90413074,Iridius Ardoulu,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 00:54:00,1720139985,buy,60015144,Villore VI - Federal Defence Union Logistic Support,1355180627,moosemann,655,Iteron Mark III,1,300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-14 00:50:00,1720135738,buy,60011314,Oursulaert VII - Moon 3 - Bank of Luminaire Vault,90420537,Skadu Long,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 23:57:00,1720087264,buy,60011590,Aporulie VI - Moon 9 - University of Caille School,1871318662,Morgaine Allende,226,Lead Charge M,1,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 23:27:00,1720056186,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1696102467,Dala Suul,226,Lead Charge M,6000,27.28,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 23:15:00,1720041967,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90104036,Dragunav,226,Lead Charge M,100,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 22:35:00,1719993464,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1021137171,Vestron1,25595,Alloyed Tritanium Bar,2,85500,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 22:33:00,1719991761,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90408804,Jordan Enakai,5489,Local Hull Conversion Expanded Cargo I,1,550000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 22:27:00,1719983603,sell,60005221,Wysalan VIII - Moon 1 - Republic Security Services Assembly Plant,1077460605,Stormforges,655,Iteron Mark III,1,475000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 22:25:00,1719981632,buy,60010375,Aporulie VI - Moon 7 - Roden Shipyards Factory,605567291,Kynth Fyra,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 22:20:00,1719975991,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90338283,Usul Fedaykin,218,Lead Charge S,800,5.4,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 22:14:00,1719969304,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1047392323,Gallun,223,Iron Charge M,5000,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 21:46:00,1719932664,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1369974285,Tilthan Seco,226,Lead Charge M,2000,27.28,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 21:07:00,1719883025,buy,60010204,Seyllin VIII - Moon 14 - CreoDron Warehouse,90292590,Ongeschore,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:46:00,1719854153,buy,60011968,Ignebaener VI - Moon 1 - Federal Intelligence Office Logistic Support,705534457,Bones Stoot,226,Lead Charge M,100,9.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:43:00,1719850363,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90303233,Kein Echerie,223,Iron Charge M,97,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:35:00,1719840871,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90420302,Janny Severasse,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:31:00,1719835055,buy,60011749,Luminaire VII (Caldari Prime) - Moon 6 - Federation Navy Assembly Plant,90011501,Aalyx,655,Iteron Mark III,1,300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:30:00,1719833411,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1624883313,Ainiris,226,Lead Charge M,100,17.29,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:29:00,1719832973,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1624883313,Ainiris,223,Iron Charge M,300,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:25:00,1719827042,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90419128,MoonTIS Severasse,218,Lead Charge S,500,5.4,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:21:00,1719821816,buy,60009640,Oursulaert VIII - Moon 2 - Astral Mining Inc. Mining Outpost,1000098,Astral Mining Inc.,1138,Iron Charge M Blueprint,1,72000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 20:20:00,1719820069,buy,60011746,Mies V - Moon 3 - Federation Navy Assembly Plant,1341703641,Bindonnisia,1145,Antimatter Charge M Blueprint,1,403550,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 19:51:00,1719780990,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90213714,Jenny Bliss,11267,Energized Adaptive Nano Membrane I,1,100000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 19:39:00,1719764924,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90351722,Finstand,11267,Energized Adaptive Nano Membrane I,1,100000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 19:05:00,1719719153,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1262016325,Zonaxion,7327,Dual 150mm Prototype I Gauss Gun,1,1190000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 19:05:00,1719718618,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1262016325,Zonaxion,7327,Dual 150mm Prototype I Gauss Gun,2,1190000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 18:38:00,1719683959,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90192343,Rombark,4575,Medium Automated I Carapace Restoration,1,1750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 17:56:00,1719626988,buy,60012649,Athinard IV - Sisters of EVE Bureau,90278788,AL4NPO7H34D,1230,Veldspar,999,7.5,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 17:09:00,1719561615,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90355590,Alexei Gregorvski,25861,Salvager I,1,30000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 16:44:00,1719527556,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90045173,Lunatic Howler,4575,Medium Automated I Carapace Restoration,1,650000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 16:03:00,1719474160,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,475208595,Jim72,523,Small Armor Repairer I,19,4900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 15:34:00,1719439115,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,90404528,Chris Redfild,627,Thorax,1,5800000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 15:26:00,1719429203,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90271793,SweetGABrown,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 15:00:00,1719397679,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,614727798,Gerd Green,11732,Sheen Compound,13,2056.35,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 15:00:00,1719397309,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,787284205,Stoutdrinker,11737,Precious Alloy,45,730.33,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 14:59:00,1719396736,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,614727798,Gerd Green,11740,Gleaming Alloy,13,1806.05,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 14:59:00,1719396543,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,614727798,Gerd Green,11741,Crystal Compound,20,837.74,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 14:57:00,1719394065,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25598,Tripped Power Circuit,6,82102,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 14:56:00,1719393437,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,1,28203,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 12:55:00,1719257084,buy,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,896857257,Minner Mike,11129,Gallente Shuttle,1,7000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 10:48:00,1719180596,buy,60011749,Luminaire VII (Caldari Prime) - Moon 6 - Federation Navy Assembly Plant,671207344,SilverEagleNL,655,Iteron Mark III,1,300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 09:29:00,1719106626,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1023551945,HandIron,223,Iron Charge M,2700,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 09:17:00,1719097368,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90351157,Paul Flux,14278,200mm Prototype I Gauss Gun,1,5800000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 07:58:00,1719036084,buy,60005221,Wysalan VIII - Moon 1 - Republic Security Services Assembly Plant,90329248,Jadelen Chieve,655,Iteron Mark III,1,300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 05:52:00,1718944945,sell,60001402,Charmerout IX - Wiyrkomi Corporation Factory,90354331,Rockling kling,657,Iteron Mark V,1,999900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 05:27:00,1718927272,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90209754,FireMandrill,523,Small Armor Repairer I,1,4900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 04:28:00,1718883753,buy,60010939,Heydieles IV - Moon 19 - Duvolle Laboratories Warehouse,1496124533,Slider46,626,Vexor,1,3250000.23,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 03:15:00,1718829231,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90031935,Szhlopp,627,Thorax,1,5305000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 01:58:00,1718766179,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,1738580842,Kordean,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 01:49:00,1718758338,sell,60010780,Mies V - Moon 3 - Chemal Tech Warehouse,1514239446,Draedloth,16391,N-Type Adaptive Nano Membrane I,1,5900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-13 01:09:00,1718721235,buy,60010129,Aydoteaux II - CreoDron Factory,1998643019,StealthRambo,1319,Expanded Cargohold II,1,430000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 23:49:00,1718637975,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90357920,Yina Serine,4575,Medium Automated I Carapace Restoration,1,1450000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 23:05:00,1718588528,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,118166615,Burseg Sardaukar,655,Iteron Mark III,1,400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 22:23:00,1718539295,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,144752421,Francois,655,Iteron Mark III,1,400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 22:18:00,1718533386,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,144752421,Francois,223,Iron Charge M,2080,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 21:31:00,1718476680,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1684517303,Didier Bertrand,4531,Small Inefficient Armor Repair Unit,1,25400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 20:18:00,1718385307,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90331315,Warbain Awesome,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 19:54:00,1718356162,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1981377788,Houdre,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 18:22:00,1718243705,buy,60010129,Aydoteaux II - CreoDron Factory,1130731937,Roach Roller,1319,Expanded Cargohold II,1,430000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 17:02:00,1718142013,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1768188120,Sellene Shaw,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 16:20:00,1718091493,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90315932,Chansi Kansene,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 16:13:00,1718082990,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,921436944,AmarrMonarcH,2032,Cap Recharger II,1,571500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 16:13:00,1718082938,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,921436944,AmarrMonarcH,2032,Cap Recharger II,1,571500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 15:26:00,1718028435,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90385757,Taishi Wei,5245,Cu Vapor Particle Bore Stream I,12,210000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 09:19:00,1717734921,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90196169,Pectus Solentis,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 07:33:00,1717660917,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90082156,Cysy,223,Iron Charge M,3500,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 07:30:00,1717658817,buy,60012652,Gicodel VII - Moon 14 - Sisters of EVE Bureau,1385058229,Orin Lee,2032,Cap Recharger II,2,455000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 07:02:00,1717639159,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90381949,Radikchelny,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 03:39:00,1717499584,buy,60001213,Nausschie IX - Kaalakiota Corporation Warehouse,1485920698,Joonas Skwigelf,655,Iteron Mark III,1,325000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 02:50:00,1717463329,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1695668944,Su'Fang,10246,Mining Drone I,5,7000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 02:22:00,1717440687,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,310091709,TieLight,4575,Medium Automated I Carapace Restoration,1,650000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 02:11:00,1717431733,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1741815026,Spiro Tass,9899,Ocular Filter - Basic,1,10200000.19,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 01:38:00,1717403344,buy,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,189400007,Mandrake lord999,9956,Social Adaptation Chip - Basic,1,10500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 01:07:00,1717377162,buy,60011566,Bourynes VII - Moon 2 - University of Caille School,1666034178,Melliferus,483,Miner I,2,7240,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 01:07:00,1717376809,buy,60001867,Dodixie VIII - Moon 3 - Nugoeihuvi Corporation Development Studio,1475659611,Hidai Okanava,483,Miner I,1,5902.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 01:06:00,1717376444,buy,60001867,Dodixie VIII - Moon 3 - Nugoeihuvi Corporation Development Studio,1475659611,Hidai Okanava,483,Miner I,1,5902.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-12 00:44:00,1717355687,sell,60012013,Oursulaert IX - Federation Customs Testing Facilities,90399143,Brugashi RockBreaker,8749,Photonic CPU Enhancer I,1,375000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 23:56:00,1717308260,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90253613,Kekropas,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 23:44:00,1717294748,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1340856880,Daedalis007,25598,Tripped Power Circuit,2,82001.01,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 23:43:00,1717294089,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,4,28301.02,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 23:43:00,1717293623,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25595,Alloyed Tritanium Bar,2,93707,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 20:38:00,1717077994,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90374369,TAMPLIER BOGA,8091,Upgraded 'Limos' Standard Missile Bay I,1,99900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 20:20:00,1717057533,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90282781,DIMON151077,5489,Local Hull Conversion Expanded Cargo I,1,550000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 20:14:00,1717049526,buy,60009646,Mies I - Astral Mining Inc. Mineral Reserve,90202752,Alaedia Sarik,34,Tritanium,2700,2.67,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 20:04:00,1717037385,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90070333,Draxoo,5241,Dual Diode Mining Laser I,1,65000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 19:52:00,1717023484,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1161012310,Jamiska,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 19:08:00,1716976000,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90157220,dunkerdink,5245,Cu Vapor Particle Bore Stream I,1,200000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 18:41:00,1716946146,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90215669,Kallar Duskwood,2032,Cap Recharger II,1,550000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 18:17:00,1716920733,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90379611,Vanilka Obecna,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 18:13:00,1716916616,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,684262549,Ghost KL,189,Depleted Uranium M,100,11.19,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 16:00:00,1716791928,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,484735276,Anna Nais,226,Lead Charge M,5000,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 14:54:00,1716762667,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1545466669,Septimus Sturn,655,Iteron Mark III,1,400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 14:53:00,1716761386,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90338283,Usul Fedaykin,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 13:17:00,1716688767,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1333207303,Anson Muellin,655,Iteron Mark III,1,400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 12:37:00,1716662880,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,90328004,Shawn James,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 12:23:00,1716654596,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,231098267,Tracy Panavia,8869,200mm Light Prototype I Automatic Cannon,1,615000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 10:49:00,1716623032,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90323837,Segan Rotineque,223,Iron Charge M,96,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 10:26:00,1716607786,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90196169,Pectus Solentis,2476,Berserker I,2,20000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 10:12:00,1716598351,buy,60011932,Arant IV - Moon 1 - Federal Intelligence Office Assembly Plant,90383761,j0shst3r,9942,Neural Boost - Basic,1,10000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 10:04:00,1716593076,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90197948,Pakto,7367,250mm Prototype I Gauss Gun,1,1098010,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 06:28:00,1716463956,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1650815013,MajorLeeExponential,655,Iteron Mark III,1,640000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 05:53:00,1716442211,buy,60012652,Gicodel VII - Moon 14 - Sisters of EVE Bureau,723632636,Vida Morte,2032,Cap Recharger II,1,455000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 04:55:00,1716405356,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90317317,Liz en Marland,16391,N-Type Adaptive Nano Membrane I,1,6500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 04:28:00,1716386883,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1821095725,Meras Gor,8749,Photonic CPU Enhancer I,1,220000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 04:27:00,1716386285,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,90328004,Shawn James,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 04:05:00,1716370974,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,790579499,Barbque,655,Iteron Mark III,1,400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 03:39:00,1716353188,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1141136192,Lord Swartz,11267,Energized Adaptive Nano Membrane I,1,105000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 03:24:00,1716342809,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90358034,von Welchmen,5975,Y-T8 Overcharged Hydrocarbon I Microwarpdrive,1,60000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 02:26:00,1716302573,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,710851485,Mokrim,11267,Energized Adaptive Nano Membrane I,1,105000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 01:54:00,1716280001,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,7,81103.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 01:24:00,1716258787,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,532631385,Black Murasame,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 01:24:00,1716258753,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,532631385,Black Murasame,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 01:12:00,1716248983,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1840652020,Sorsha Demitrus,655,Iteron Mark III,1,400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-11 00:13:00,1716202291,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,581575229,Verious Mech,11267,Energized Adaptive Nano Membrane I,2,67000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 22:07:00,1716074467,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90219738,Michael309,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 22:03:00,1716069383,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,266230262,Notorious BIG,2032,Cap Recharger II,1,520000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 21:58:00,1716064382,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1760955105,Bartix Styper,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 21:26:00,1716027193,sell,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,90338532,Whistler Ellecon,9943,Cybernetic Subprocessor - Basic,1,10990000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:51:00,1715988423,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90189240,Nikopol011,189,Depleted Uranium M,100,11.19,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:51:00,1715988096,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90189240,Nikopol011,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:37:00,1715972759,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,686285905,viloet,7493,Anode Light Electron Particle Cannon I,1,140000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:32:00,1715966392,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,984684578,Pyronessa,13286,Limited Social Adaptation Chip,1,74500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:25:00,1715958031,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90405782,Daegon Skizow,14298,Limited Cybernetic Subprocessor - Beta,1,3800000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:18:00,1715948798,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,453509869,Kotgabail,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 20:17:00,1715948087,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,453509869,Kotgabail,226,Lead Charge M,314,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 19:41:00,1715906706,buy,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,1694411134,Schpuk,9943,Cybernetic Subprocessor - Basic,1,10000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 18:33:00,1715830553,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1777346073,REXOS DUREE,20412,Datacore - Plasma Physics,1,110000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 18:02:00,1715799191,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1180856977,Starninja,11267,Energized Adaptive Nano Membrane I,2,93000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 17:30:00,1715765748,sell,60010378,Ane IV - Moon 3 - Roden Shipyards Warehouse,90281799,Moon Rabit,655,Iteron Mark III,1,588000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 17:27:00,1715762099,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1886845912,BlueVoid,11267,Energized Adaptive Nano Membrane I,1,93000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 16:48:00,1715726218,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90242417,taszuni,13286,Limited Social Adaptation Chip,1,74500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 15:47:00,1715674177,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90400524,Blua81 Paura,11267,Energized Adaptive Nano Membrane I,1,93000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 15:34:00,1715663423,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1881212581,Mineotor,11267,Energized Adaptive Nano Membrane I,1,93000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 14:47:00,1715627570,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1881212581,Mineotor,11267,Energized Adaptive Nano Membrane I,1,93000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 13:53:00,1715588406,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1939277649,Schubert MaRoac,3530,Medium Armor Repairer II,1,1380000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 13:44:00,1715582054,buy,60009640,Oursulaert VIII - Moon 2 - Astral Mining Inc. Mining Outpost,90356972,qweqwerqwer qwer,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 12:27:00,1715534163,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90319974,Chaosxar Arsonist,7367,250mm Prototype I Gauss Gun,1,643500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 09:54:00,1715471864,sell,60011743,Oursulaert IV - Federation Navy Testing Facilities,90400158,WSSM,8517,Medium F-S9 Regolith Shield Induction,1,5250000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 09:23:00,1715455419,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1760955105,Bartix Styper,189,Depleted Uranium M,100,11.19,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 09:23:00,1715455362,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1760955105,Bartix Styper,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 08:53:00,1715438367,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90336847,Adrian Gaterau,7327,Dual 150mm Prototype I Gauss Gun,1,2500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 06:01:00,1715339378,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90292520,Faeronis,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 05:23:00,1715316323,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1540907212,WarisWarhall,20412,Datacore - Plasma Physics,4,110000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 05:18:00,1715312650,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90194260,SavageBunny,189,Depleted Uranium M,100,11.19,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 05:12:00,1715309074,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,303807572,Dnarg,4435,Eutectic I Capacitor Charge Array,1,799000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 04:57:00,1715298595,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1791269069,Jin alPatar,11267,Energized Adaptive Nano Membrane I,6,67000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 04:15:00,1715270087,sell,60009922,Arant V - Moon 14 - Quafe Company Factory,90348026,Skar Adan,627,Thorax,1,5500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 04:11:00,1715266887,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90280124,Colin Landis,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 03:36:00,1715242150,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,499479836,Shadow Carlean,3530,Medium Armor Repairer II,1,1380000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 02:20:00,1715187344,buy,60010378,Ane IV - Moon 3 - Roden Shipyards Warehouse,602015568,Akhero,655,Iteron Mark III,1,300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 01:37:00,1715153849,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1878303405,Miles Highwind,16391,N-Type Adaptive Nano Membrane I,1,4200000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 01:29:00,1715147847,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,183127261,Andy Thorn,25598,Tripped Power Circuit,1,82104.12,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 01:29:00,1715147056,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25601,Fried Interface Circuit,8,2401.23,personal
+TRADE,90192277,Gynax Gallenor,2011-02-10 01:28:00,1715146603,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,228998766,KIT31,25590,Contaminated Nanite Compound,11,1910.01,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 23:51:00,1715065857,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90203931,Adocius,7367,250mm Prototype I Gauss Gun,1,1099999.99,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 23:32:00,1715049734,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90329310,Nadria Audanie,189,Depleted Uranium M,1000,11.19,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 23:31:00,1715048651,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90352100,Greg Dallocort,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 22:50:00,1715009730,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,603352548,Erishum,4573,Medium 'Accommodation' Vestment Reconstructer I,1,5997999.66,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 22:48:00,1715007232,sell,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,1262016325,Zonaxion,3082,250mm Railgun II,1,1500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 21:05:00,1714886970,buy,60009640,Oursulaert VIII - Moon 2 - Astral Mining Inc. Mining Outpost,90035525,GalakTius,226,Lead Charge M,300,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 21:05:00,1714886902,buy,60009640,Oursulaert VIII - Moon 2 - Astral Mining Inc. Mining Outpost,90035525,GalakTius,223,Iron Charge M,400,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 20:59:00,1714878960,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90328850,Draconis XIII,4573,Medium 'Accommodation' Vestment Reconstructer I,1,3300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 20:46:00,1714864300,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1314058079,Kouromi,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 18:05:00,1714680603,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,90145492,hippomies,7663,Modal Ion Particle Accelerator I,1,1014000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 16:05:00,1714565360,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1886845912,BlueVoid,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 15:20:00,1714527754,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90293631,Smills,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 13:40:00,1714455981,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1886845912,BlueVoid,8517,Medium F-S9 Regolith Shield Induction,1,3800000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 13:11:00,1714437274,buy,60010204,Seyllin VIII - Moon 14 - CreoDron Warehouse,540377496,Dark Drifter,9943,Cybernetic Subprocessor - Basic,1,9500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 12:51:00,1714424817,buy,60011080,Aporulie VII - Moon 16 - FedMart Retail Center,1099370265,Motters,9941,Memory Augmentation - Basic,1,9000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 11:49:00,1714393296,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1714725548,Migramar,24700,Myrmidon,1,34000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 10:23:00,1714367347,buy,60010780,Mies V - Moon 3 - Chemal Tech Warehouse,90317562,Eugene Bubolev,34,Tritanium,2700,3.14,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 08:59:00,1714321586,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1549618892,Ace Azameen,24700,Myrmidon,1,30100000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 08:11:00,1714295669,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90181833,manggis,14278,200mm Prototype I Gauss Gun,1,4300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 03:51:00,1714136338,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90348043,Pidgeon Saissore,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 02:52:00,1714091038,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,919026106,Mortalius Vael,3530,Medium Armor Repairer II,1,1900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 02:29:00,1714074928,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90272464,PicaAtom,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 00:49:00,1714001816,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1001133005,Jade munro,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 00:47:00,1713999849,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1873894386,Tristan Renois,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-09 00:28:00,1713983953,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1561177570,Throngal,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 23:48:00,1713946373,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,632694685,Khady,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 23:24:00,1713925190,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25603,Melted Capacitor Console,1,43501,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 23:23:00,1713924530,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,7,28202,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 23:22:00,1713924110,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25605,Armor Plates,2,199001.04,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 23:22:00,1713923746,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25595,Alloyed Tritanium Bar,3,93706.08,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 21:33:00,1713803640,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1769164761,Megadong,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 21:20:00,1713788190,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1581467223,PlatinumMercSEAL,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 20:35:00,1713735222,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,782929827,Grydon Horben,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 20:30:00,1713729950,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1769164761,Megadong,3530,Medium Armor Repairer II,1,700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 20:11:00,1713704901,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1886845912,BlueVoid,223,Iron Charge M,59,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 19:35:00,1713663010,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1769164761,Megadong,226,Lead Charge M,200,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 19:16:00,1713641046,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90307749,Joe Ace,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 18:04:00,1713562475,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,218534480,Denty1,226,Lead Charge M,200,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 17:48:00,1713546690,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1769164761,Megadong,5489,Local Hull Conversion Expanded Cargo I,1,453500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 17:46:00,1713543985,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1769164761,Megadong,11267,Energized Adaptive Nano Membrane I,1,60000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 17:29:00,1713527115,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90057980,Shugyoku,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 17:29:00,1713526456,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,582162702,Captain Bugsquash,4569,Medium I-a Polarized Armor Regenerator,1,140000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 15:57:00,1713442805,buy,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,1308425727,Gumpien,3082,250mm Railgun II,1,886711.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 15:48:00,1713434443,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90041947,Nate Kane,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 15:16:00,1713407533,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90304566,Flurk Hellborn,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 13:58:00,1713350084,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90366853,Gambbit Destiny,189,Depleted Uranium M,100,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 13:51:00,1713344921,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90211791,GarhX,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 12:58:00,1713310680,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1552800379,DaWizzBitch,11267,Energized Adaptive Nano Membrane I,1,50000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 12:41:00,1713300469,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,787284205,Stoutdrinker,533,Small Energy Neutralizer I,20,11655,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 12:40:00,1713299626,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25605,Armor Plates,2,196993.02,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 12:39:00,1713299372,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1434778495,J Texan,25600,Burned Logic Circuit,4,28005,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 12:39:00,1713299064,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,6,82103.14,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 12:29:00,1713293745,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90261034,Slevin Kel,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 09:44:00,1713226843,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90304566,Flurk Hellborn,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 09:44:00,1713226747,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90304566,Flurk Hellborn,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 08:29:00,1713184842,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90156639,MinerSpeed,223,Iron Charge M,390,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 07:32:00,1713152475,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1885266091,Jack Marcello,223,Iron Charge M,3880,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 07:10:00,1713139556,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90315078,Les Discretion,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 05:35:00,1713084572,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1977940776,wolf mcknight,3528,Medium Armor Repairer I,1,39400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 04:03:00,1713021652,buy,60010780,Mies V - Moon 3 - Chemal Tech Warehouse,1004748015,Devious Tasc,16391,N-Type Adaptive Nano Membrane I,1,3500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 03:43:00,1713007547,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1331736314,Andrew Maxwell,482,Miner II,5,180000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 03:38:00,1713003692,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90283273,ElectroJesus,7367,250mm Prototype I Gauss Gun,1,634000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 03:36:00,1713002438,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3447,Visibility,1,6750000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 03:23:00,1712992510,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,603352548,Erishum,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 03:15:00,1712986488,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90199035,MageKingsley,223,Iron Charge M,100,3.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 02:54:00,1712970294,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90050525,Lobo Civera,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 02:21:00,1712945894,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90212168,John Rando,11267,Energized Adaptive Nano Membrane I,1,100000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 02:13:00,1712939580,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90212168,John Rando,4569,Medium I-a Polarized Armor Regenerator,1,129998,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 01:57:00,1712927642,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90005098,Dedspace2,226,Lead Charge M,100,17.27,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 01:54:00,1712925189,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,608526967,Whitehound,223,Iron Charge M,2000,10,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:35:00,1712862126,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,899054980,Cypreion,25597,Damaged Artificial Neural Network,72,106,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:34:00,1712861521,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,26,82102.15,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:34:00,1712861268,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25601,Fried Interface Circuit,20,2401,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:33:00,1712860967,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,6,28201,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:33:00,1712860618,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25605,Armor Plates,2,196993,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:32:00,1712860002,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,614727798,Gerd Green,11741,Crystal Compound,48,837.72,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:32:00,1712859734,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,614727798,Gerd Green,11739,Condensed Alloy,47,601.36,personal
+TRADE,90192277,Gynax Gallenor,2011-02-08 00:06:00,1712837100,buy,60011749,Luminaire VII (Caldari Prime) - Moon 6 - Federation Navy Assembly Plant,347055945,KungPao killer,2454,Hobgoblin I,20,7995.95,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 23:32:00,1712803738,buy,60009922,Arant V - Moon 14 - Quafe Company Factory,90218607,xXDeatheaDXx,627,Thorax,1,5150000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 22:27:00,1712734381,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1534186211,Melon Baby,655,Iteron Mark III,1,498000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 21:51:00,1712692874,buy,60011608,Villore VIII - Moon 2 - Supreme Court Law School,761722836,john Palidan,5489,Local Hull Conversion Expanded Cargo I,1,452000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 21:28:00,1712664878,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1258583934,Gilish,655,Iteron Mark III,1,276000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 20:45:00,1712611238,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1258583934,Gilish,655,Iteron Mark III,1,495000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 20:29:00,1712590543,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90211412,Goldman Slacks,4435,Eutectic I Capacitor Charge Array,1,799769,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 19:52:00,1712546426,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90189240,Nikopol011,226,Lead Charge M,100,18.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 17:16:00,1712372553,sell,60015049,Synchelle I - Federal Navy Academy School,90283856,Thomas Zimmerman,32043,Medium Drone Mining Augmentor I,1,3098900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 13:29:00,1712191520,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90359745,Nobiki Monroe,5245,Cu Vapor Particle Bore Stream I,3,650000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 11:27:00,1712129169,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90348043,Pidgeon Saissore,4569,Medium I-a Polarized Armor Regenerator,1,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 10:13:00,1712096779,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1609546678,Zamole,2032,Cap Recharger II,2,785497.96,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 10:00:00,1712088747,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90333187,Valera Molchanov,570,250mm Railgun I,5,115000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 09:56:00,1712086980,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,662543691,Gem Sandara,25861,Salvager I,1,29995,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 09:56:00,1712086872,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90126585,Jerry Rhodan,4569,Medium I-a Polarized Armor Regenerator,1,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 08:49:00,1712049633,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90231262,Baron VonLootwagon,7331,Dual 150mm Carbide Railgun I,1,70000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 06:47:00,1711978806,sell,60009928,Villore VII - Moon 8 - Quafe Company Factory,749191192,njlux,17478,Retriever,1,4819500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 04:44:00,1711895948,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,957021840,lawngnomeslayer,655,Iteron Mark III,1,275000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 04:28:00,1711883907,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90217270,Pryder Taichou,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 01:54:00,1711774273,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1712290461,Azer Vorpatrill,491,425mm AutoCannon I,1,115000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 01:45:00,1711767609,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90393439,Reanoct Rogue,7291,150mm Carbide Railgun I,1,40000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 01:26:00,1711752956,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25595,Alloyed Tritanium Bar,2,93702,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 01:13:00,1711743402,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1527793235,emi nenCe,226,Lead Charge M,89,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 00:50:00,1711724493,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,15,80041.54,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 00:49:00,1711724243,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1095313749,Kldraina,25601,Fried Interface Circuit,9,2600,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 00:49:00,1711723551,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25605,Armor Plates,2,196001,personal
+TRADE,90192277,Gynax Gallenor,2011-02-07 00:47:00,1711722255,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,25,28002,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 23:22:00,1711646076,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1684517303,Didier Bertrand,4569,Medium I-a Polarized Armor Regenerator,6,110000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 23:09:00,1711630713,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90182005,warsocket,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 22:07:00,1711550584,buy,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,90113549,Razzimous,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 21:51:00,1711528983,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90217732,Obelisc,189,Depleted Uranium M,100,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 21:45:00,1711520592,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,2014100579,Groombridge 34,11267,Energized Adaptive Nano Membrane I,1,66500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 21:28:00,1711498449,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1778836737,Legeven,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 19:30:00,1711331596,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90321119,Emone Pocha,189,Depleted Uranium M,100,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 19:10:00,1711303978,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90167224,TyrantsMisery,5245,Cu Vapor Particle Bore Stream I,1,90000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 17:43:00,1711184704,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90052390,Samyon,655,Iteron Mark III,1,450000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 16:23:00,1711076214,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,828281929,Thornett,4575,Medium Automated I Carapace Restoration,1,1400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 15:38:00,1711018512,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1490221227,Orion Wolff,4569,Medium I-a Polarized Armor Regenerator,1,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 15:16:00,1710989788,buy,60009928,Villore VII - Moon 8 - Quafe Company Factory,1729422214,xTiossXx,17478,Retriever,1,4001000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 14:13:00,1710914521,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,2019060726,Luminisa,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 13:43:00,1710880571,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90274384,Percy Harris,17480,Procurer,1,1840000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 10:51:00,1710757149,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,591643852,Zimmychonga Apparatus,2444,Ogre I,6,20300.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 10:13:00,1710723126,buy,60010783,Oursulaert VI - Chemal Tech Research Center,591643852,Zimmychonga Apparatus,2444,Ogre I,1,20300.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 08:51:00,1710651900,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1048008307,SlayerFR,4569,Medium I-a Polarized Armor Regenerator,1,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 08:29:00,1710633919,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1691600781,Turrid,5245,Cu Vapor Particle Bore Stream I,1,90000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 08:27:00,1710632918,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90359764,Atto Tesla,226,Lead Charge M,1000,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 08:00:00,1710613190,sell,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90211585,N'Hoj Greb,17480,Procurer,1,1840000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 07:42:00,1710600772,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1102614080,Forgotten Deity,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 07:07:00,1710576492,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,512051360,bryanbc,24348,Small Tractor Beam I,2,510200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 07:06:00,1710575899,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,512051360,bryanbc,2032,Cap Recharger II,2,485500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 06:20:00,1710545641,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90248105,Vantaanya,189,Depleted Uranium M,198,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 06:18:00,1710544169,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1640757220,Star Maze,4569,Medium I-a Polarized Armor Regenerator,4,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 06:14:00,1710540813,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1640757220,Star Maze,189,Depleted Uranium M,100,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 06:13:00,1710540292,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1640757220,Star Maze,226,Lead Charge M,1200,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 06:06:00,1710535220,buy,60001402,Charmerout IX - Wiyrkomi Corporation Factory,1791747975,Horis Fritz,657,Iteron Mark V,1,580000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 05:58:00,1710529871,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90221338,Lloyd Derrick,189,Depleted Uranium M,100,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 05:42:00,1710518412,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,186354713,Talodar,655,Iteron Mark III,1,275000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 05:19:00,1710501659,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1103811350,Knowledgeminer,25594,Tangled Power Conduit,11,57,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 05:11:00,1710496200,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,90230223,Miles Motus,11267,Energized Adaptive Nano Membrane I,2,67000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 04:50:00,1710481737,sell,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,634932552,Ammaterasu,4573,Medium 'Accommodation' Vestment Reconstructer I,1,4999900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 04:22:00,1710461504,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1578736558,Dod Gethis,2454,Hobgoblin I,10,3000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 04:22:00,1710461265,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,712296187,Marn Vitar,2454,Hobgoblin I,8,3000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 04:19:00,1710459369,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,367819911,Talismyn,23527,Drone Link Augmentor I,1,258999.96,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 04:17:00,1710457802,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,116811978,Black StarHawk,2046,Damage Control I,1,6400,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 04:14:00,1710455615,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1461721303,Arwynthred,626,Vexor,1,3500000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 03:49:00,1710435853,sell,60011743,Oursulaert IV - Federation Navy Testing Facilities,90373493,Namidochka Alabel,627,Thorax,1,5510000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 03:35:00,1710426006,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1164647574,Citika,24348,Small Tractor Beam I,1,510000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 03:05:00,1710401989,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90092860,OnBoord,226,Lead Charge M,200,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 02:22:00,1710367250,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1813981252,Galstab McGee,627,Thorax,1,5125200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 01:13:00,1710304943,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90342503,buldog Boirelle,226,Lead Charge M,2000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 01:05:00,1710296241,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90348933,Nathan Cypher,226,Lead Charge M,2000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 00:36:00,1710266638,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,90347154,Hator Austrene,17480,Procurer,1,1350200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 00:30:00,1710259775,buy,60015049,Synchelle I - Federal Navy Academy School,1000168,Federal Navy Academy,3439,Repair Drone Operation,1,180000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-06 00:17:00,1710246439,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90369712,Twister Rage,4573,Medium 'Accommodation' Vestment Reconstructer I,1,2477000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 23:57:00,1710223937,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90262016,Khlarit,627,Thorax,1,5510000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 23:45:00,1710209258,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90167224,TyrantsMisery,5245,Cu Vapor Particle Bore Stream I,2,90000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:58:00,1710154235,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1434778495,J Texan,25590,Contaminated Nanite Compound,42,1900.02,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:58:00,1710153490,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,4,80005.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:58:00,1710153314,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,501232425,Silik FreeMan,4569,Medium I-a Polarized Armor Regenerator,1,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:57:00,1710153057,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1095313749,Kldraina,25601,Fried Interface Circuit,17,2600,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:56:00,1710151401,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25600,Burned Logic Circuit,6,28002,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:49:00,1710143158,sell,60011617,Luminaire VII (Caldari Prime) - Federal Administration Information Center,1461721303,Arwynthred,529,Small Energy Transfer Array I,2,16505.02,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:45:00,1710138265,sell,60011617,Luminaire VII (Caldari Prime) - Federal Administration Information Center,1739541401,Baba Akili,15331,Metal Scraps,10,858.99,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:40:00,1710131832,sell,60011617,Luminaire VII (Caldari Prime) - Federal Administration Information Center,210778851,Anora Ash,570,250mm Railgun I,3,95105.55,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:40:00,1710131379,sell,60011617,Luminaire VII (Caldari Prime) - Federal Administration Information Center,1739541401,Baba Akili,15331,Metal Scraps,3,858.99,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:09:00,1710092912,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,1487047676,Jintaisan,226,Lead Charge M,709,13.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 22:05:00,1710086812,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1489332508,Mitsukari,627,Thorax,1,5125100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 21:30:00,1710040177,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,497845681,Sheylane,223,Iron Charge M,3000,10,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 20:54:00,1709990976,buy,60015049,Synchelle I - Federal Navy Academy School,90256941,Aman Atari,32043,Medium Drone Mining Augmentor I,1,2300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 20:49:00,1709984949,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90352850,PwnAddict,5245,Cu Vapor Particle Bore Stream I,1,450000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 20:02:00,1709922739,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90321119,Emone Pocha,226,Lead Charge M,1874,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 19:49:00,1709905148,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90250279,Francis Dyeuh,226,Lead Charge M,1700,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 19:34:00,1709884124,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90250279,Francis Dyeuh,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 19:25:00,1709872210,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1048008307,SlayerFR,4569,Medium I-a Polarized Armor Regenerator,1,110000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 19:14:00,1709858952,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90328850,Draconis XIII,4573,Medium 'Accommodation' Vestment Reconstructer I,2,5200000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 18:59:00,1709839241,sell,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,228575245,beef pepsi,16391,N-Type Adaptive Nano Membrane I,1,6000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 18:17:00,1709784422,buy,60009655,Oursulaert II - Astral Mining Inc. Mining Outpost,90280192,katmandou,189,Depleted Uranium M,100,11.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 18:07:00,1709770956,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1291328338,Kaenip,226,Lead Charge M,300,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 18:00:00,1709762780,buy,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,942237675,NeeSan Holden,16391,N-Type Adaptive Nano Membrane I,1,2900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 16:02:00,1709619100,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90337439,Pikie Ambraelle,655,Iteron Mark III,1,425000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 15:58:00,1709614422,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,90049351,Pika83,226,Lead Charge M,100,13.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 15:58:00,1709613960,sell,60009922,Arant V - Moon 14 - Quafe Company Factory,90278508,Stroboscop,16391,N-Type Adaptive Nano Membrane I,1,5950000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 15:39:00,1709590109,sell,60009655,Oursulaert II - Astral Mining Inc. Mining Outpost,90345773,Degimas Solaris,5245,Cu Vapor Particle Bore Stream I,1,449900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 14:39:00,1709523423,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90270228,Refitt,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 14:14:00,1709495692,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1279310039,gna gotar,27371,Caldari Navy Flameburst Light Missile,100,225.02,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 12:49:00,1709411747,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,90192095,eMiz0r,226,Lead Charge M,500,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 11:49:00,1709367871,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90189675,Husamange,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 09:52:00,1709297906,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,630025339,Eldoron Valrery,7327,Dual 150mm Prototype I Gauss Gun,1,1700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 09:50:00,1709296260,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,630025339,Eldoron Valrery,4569,Medium I-a Polarized Armor Regenerator,1,30000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 09:50:00,1709296212,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,630025339,Eldoron Valrery,4575,Medium Automated I Carapace Restoration,1,700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 08:56:00,1709256092,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,477870027,Rachciach,14278,200mm Prototype I Gauss Gun,1,7499999.99,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 06:44:00,1709159957,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90186701,illusionalsgcty,4573,Medium 'Accommodation' Vestment Reconstructer I,2,2476500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 05:07:00,1709092224,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90289652,Jellicos,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 05:07:00,1709092090,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1115151813,Todd Ayumbhara,3530,Medium Armor Repairer II,1,675100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 05:06:00,1709091111,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1115151813,Todd Ayumbhara,3530,Medium Armor Repairer II,1,675100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 04:48:00,1709078734,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1516906923,Balen Peregrinus,16240,Catalyst,1,649900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 03:52:00,1709036283,sell,60015144,Villore VI - Federal Defence Union Logistic Support,732394627,billclifton,627,Thorax,1,5644900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 03:03:00,1709000610,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90373666,Jessie Lynch,16240,Catalyst,1,649900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 02:42:00,1708984827,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90357856,Hamalkar Baca,16240,Catalyst,1,649900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 02:19:00,1708965778,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1490221227,Orion Wolff,7327,Dual 150mm Prototype I Gauss Gun,1,2400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 02:01:00,1708951088,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90212594,Xoannon,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 01:57:00,1708947849,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,818946874,Amon Vazzer,655,Iteron Mark III,1,260000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 01:38:00,1708932173,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,818946874,Amon Vazzer,7327,Dual 150mm Prototype I Gauss Gun,1,1700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 00:52:00,1708888726,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90299885,Malcolm Reynoldsz,226,Lead Charge M,200,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 00:11:00,1708848505,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90357856,Hamalkar Baca,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-05 00:07:00,1708844481,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90226983,Kamilyan,189,Depleted Uranium M,100,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 23:56:00,1708832985,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90194071,Arlinor,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 21:09:00,1708642163,buy,60015144,Villore VI - Federal Defence Union Logistic Support,455364845,Aceswild17,627,Thorax,1,4300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 20:12:00,1708572813,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1187877209,Mis'tral,17480,Procurer,1,1350000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 20:01:00,1708560285,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1191203641,Gabriel Luminati,561,75mm Gatling Rail I,2,690.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 19:35:00,1708529547,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1185677689,Greytraveler,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 19:01:00,1708492433,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90186701,illusionalsgcty,14278,200mm Prototype I Gauss Gun,1,2710000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 17:16:00,1708379872,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,301741041,Ni Kye,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 17:10:00,1708373189,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1246969644,Likety Split,634,Exequror,1,3290000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 17:06:00,1708369436,buy,60010783,Oursulaert VI - Chemal Tech Research Center,90210954,ceR3heo,5245,Cu Vapor Particle Bore Stream I,1,80000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 15:33:00,1708281753,buy,60009655,Oursulaert II - Astral Mining Inc. Mining Outpost,1230712272,Octavious Veridian,5245,Cu Vapor Particle Bore Stream I,1,80000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 15:22:00,1708272762,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,354820661,Gar Nu,627,Thorax,1,6049400.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 15:19:00,1708270158,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,498402657,CTpeJIeu,634,Exequror,1,3290000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 13:03:00,1708168263,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,11441,Plasma Physics,1,10000000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 12:12:00,1708137592,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1887149075,Elim Terok,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 12:07:00,1708134908,sell,60015144,Villore VI - Federal Defence Union Logistic Support,90367242,Hitagi Senjyogahara,627,Thorax,1,5840000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 12:00:00,1708131647,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90378583,Thyrren Estemaire,16240,Catalyst,1,649950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 11:31:00,1708120690,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90165293,Cinaver,2444,Ogre I,1,20100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 10:20:00,1708092852,sell,60001987,Cat VII - Moon 3 - Nugoeihuvi Corporation Development Studio,90233219,Prestum,17478,Retriever,1,4950000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 10:16:00,1708089820,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,863688841,Alaura Lorraine,567,Dual 150mm Railgun I,1,7500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 10:06:00,1708083576,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,863688841,Alaura Lorraine,2444,Ogre I,12,20100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 09:54:00,1708075950,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,210778851,Anora Ash,3937,Medium Proton Smartbomb I,1,70000.06,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 09:54:00,1708075365,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,316529513,Myth'or Cordalan,25600,Burned Logic Circuit,16,27603.22,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 09:32:00,1708062358,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1147570965,Simone Lesstate,530,Small Nosferatu I,10,15500,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 09:05:00,1708047704,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1764463680,Dudish,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 08:18:00,1708021825,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1750854549,Oniuss,16240,Catalyst,1,503100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 07:42:00,1707999944,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1127449443,Merina Wynd,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 07:00:00,1707974842,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1490720068,Dirk Ryder,226,Lead Charge M,2790,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 06:32:00,1707958282,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90170666,fartsandpee,189,Depleted Uranium M,20,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 06:07:00,1707942433,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1452978653,Styxia Acheron,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 05:52:00,1707933207,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90292803,Prisim Darkstar,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 05:33:00,1707921222,buy,60009922,Arant V - Moon 14 - Quafe Company Factory,1898556484,Vash Washburn,16391,N-Type Adaptive Nano Membrane I,1,2900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 04:42:00,1707886760,sell,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90111519,isk4trade,14278,200mm Prototype I Gauss Gun,1,4995000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 04:33:00,1707880013,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90113549,Razzimous,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 03:25:00,1707829533,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,473357435,Blastzone,16240,Catalyst,1,503100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 03:04:00,1707813840,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1164647574,Citika,634,Exequror,1,2200000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 02:45:00,1707800239,buy,60001987,Cat VII - Moon 3 - Nugoeihuvi Corporation Development Studio,1948667364,Nevaeh Kshine,17478,Retriever,1,3800000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 01:45:00,1707753931,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1461721303,Arwynthred,16240,Catalyst,2,503100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 01:34:00,1707745303,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90280804,Alien Squirrel,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 01:30:00,1707742119,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90166015,Leollyn,226,Lead Charge M,5000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 01:24:00,1707737038,buy,60015144,Villore VI - Federal Defence Union Logistic Support,1047274658,Reapingtime,627,Thorax,1,4300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 01:19:00,1707732854,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90111519,isk4trade,14278,200mm Prototype I Gauss Gun,1,2696000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-04 00:26:00,1707690148,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,573621202,ShaleStone,561,75mm Gatling Rail I,1,3100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 23:45:00,1707653344,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90358714,Carmen Martino,3528,Medium Armor Repairer I,1,39500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 23:44:00,1707652097,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,256625122,TsukiWolf,657,Iteron Mark V,1,890000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 20:16:00,1707415986,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,781780451,Ther Sannesett,1944,Bestower,1,899900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 19:56:00,1707391598,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90225980,Nordwel,226,Lead Charge M,1,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 19:51:00,1707385559,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1124893627,Parrot47,7327,Dual 150mm Prototype I Gauss Gun,1,2597000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 19:30:00,1707361268,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,898273757,Silent Enigma,567,Dual 150mm Railgun I,1,7015.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 19:16:00,1707345496,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,898273757,Silent Enigma,226,Lead Charge M,200,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 19:11:00,1707339157,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,294362000,Commander Creno,226,Lead Charge M,4058,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 18:02:00,1707263858,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1195018171,KittyCatCanCan,567,Dual 150mm Railgun I,1,7015.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 16:54:00,1707195018,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90188299,CatiuaPowell,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 16:46:00,1707187021,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,383224206,Annet,657,Iteron Mark V,1,631000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 16:40:00,1707181311,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90145087,prioravod,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 16:25:00,1707167056,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90091685,Nussi1991,16240,Catalyst,1,649900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 14:36:00,1707080416,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90347571,Alucard Dark,226,Lead Charge M,5000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 13:33:00,1707036447,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90022366,Bensdorp,627,Thorax,1,6050000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 13:27:00,1707033042,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90022738,Dragamis,8517,Medium F-S9 Regolith Shield Induction,1,4999950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 13:23:00,1707030553,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,367906037,Velvet Thorn,4025,X5 Prototype I Engine Enervator,1,599750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 13:02:00,1707017361,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90347571,Alucard Dark,226,Lead Charge M,1000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 13:02:00,1707017241,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90347571,Alucard Dark,226,Lead Charge M,2000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 13:01:00,1707016983,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90347571,Alucard Dark,226,Lead Charge M,5000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 12:05:00,1706986166,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,316529513,Myth'or Cordalan,25598,Tripped Power Circuit,11,78115.34,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 10:45:00,1706964809,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90379616,Yagami Mett,564,Light Neutron Blaster I,1,8100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 09:26:00,1706915754,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90217270,Pryder Taichou,2183,Hammerhead I,1,12010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 05:53:00,1706790652,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90321119,Emone Pocha,189,Depleted Uranium M,100,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 05:26:00,1706772677,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90034133,dark adre,2183,Hammerhead I,1,12010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 05:20:00,1706769108,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1467667037,Jonatan Sindri,226,Lead Charge M,3432,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 05:11:00,1706762736,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1228365045,sully5,1944,Bestower,1,404000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 03:43:00,1706700517,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,846878159,Micka Draknan,16240,Catalyst,1,502750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 03:08:00,1706674336,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1407582530,illwilber,226,Lead Charge M,5000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 02:48:00,1706660195,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3406,Laboratory Operation,1,270000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 02:47:00,1706659515,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3409,Metallurgy,1,315000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 01:48:00,1706613595,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90349829,Johnny Aideron,5245,Cu Vapor Particle Bore Stream I,1,70000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 01:18:00,1706588697,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90361970,Federation 2014,226,Lead Charge M,100,17.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 01:17:00,1706587981,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90361970,Federation 2014,189,Depleted Uranium M,100,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 01:08:00,1706580395,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,3,78114.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-03 01:02:00,1706574351,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90166015,Leollyn,226,Lead Charge M,5000,29.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 23:08:00,1706466602,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1095313749,Kldraina,25601,Fried Interface Circuit,19,2800,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 23:08:00,1706466122,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1434778495,J Texan,25599,Charred Micro Circuit,213,70,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 23:05:00,1706462960,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1739541401,Baba Akili,15331,Metal Scraps,20,857.99,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 22:40:00,1706433887,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90251173,Oggula,567,Dual 150mm Railgun I,1,7012.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 21:33:00,1706354085,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,415104100,Doc Clause,16240,Catalyst,1,696500.01,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 21:16:00,1706332297,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90339924,Marcus Amherst,16240,Catalyst,1,549000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 21:14:00,1706330178,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90246104,Kirayn,8517,Medium F-S9 Regolith Shield Induction,1,3404090.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 21:00:00,1706313065,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,316529513,Myth'or Cordalan,25595,Alloyed Tritanium Bar,1,81103.11,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 20:09:00,1706249122,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90375458,Long Duk Dong,7537,Limited Light Ion Blaster I,1,19000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 19:33:00,1706204564,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90321119,Emone Pocha,5241,Dual Diode Mining Laser I,3,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 19:17:00,1706184649,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90327879,Rouge Bush,2454,Hobgoblin I,3,2200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 18:40:00,1706141021,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,940747892,Gregous,5241,Dual Diode Mining Laser I,1,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 18:35:00,1706135214,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1164647574,Citika,2454,Hobgoblin I,1,2200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 18:15:00,1706111357,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,440478262,Ladel Kinre,2454,Hobgoblin I,1,2200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 17:39:00,1706071740,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,172082639,shibywa,564,Light Neutron Blaster I,1,9999.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 17:38:00,1706070541,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90274904,Lord Hariel,189,Depleted Uranium M,100,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 17:29:00,1706060303,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1694037477,Suroht,16240,Catalyst,1,649900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 17:12:00,1706041540,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1135402746,Praetorium Auxilia,25600,Burned Logic Circuit,12,28800.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 16:43:00,1706012423,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,918375182,CClemon,189,Depleted Uranium M,100,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 16:40:00,1706009837,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90269526,Mike Matters,627,Thorax,1,5110201.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 16:37:00,1706006635,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90294816,Kintarkas,5241,Dual Diode Mining Laser I,4,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 15:27:00,1705941347,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1164647574,Citika,5241,Dual Diode Mining Laser I,1,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 14:54:00,1705913774,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90376321,OLEG GR,16240,Catalyst,1,650000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 14:09:00,1705879167,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90066700,Ravensten,634,Exequror,1,1935000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 13:53:00,1705867612,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1147043032,Brandy Freake,3528,Medium Armor Repairer I,1,50000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 13:41:00,1705858750,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,778197371,O'Kim Wooavim,12486,Gallente Drone Specialization,1,3500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 12:28:00,1705815177,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,405361722,littlesky,3528,Medium Armor Repairer I,2,25101.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 11:52:00,1705797953,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1001512591,Razen21,3528,Medium Armor Repairer I,1,25101.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 09:37:00,1705738208,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90285519,Evagelo Lao,627,Thorax,1,5110201.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 09:32:00,1705735591,sell,60010783,Oursulaert VI - Chemal Tech Research Center,1107542130,Andy Om,7663,Modal Ion Particle Accelerator I,1,2598900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 07:32:00,1705662940,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,405361722,littlesky,16240,Catalyst,1,502200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 06:37:00,1705631896,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,650169481,rackier,3528,Medium Armor Repairer I,1,25101.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 05:36:00,1705595510,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90339164,Kalseru Burbon,16240,Catalyst,1,502200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 04:37:00,1705551952,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90182483,Esoteric Travesty,189,Depleted Uranium M,100,10.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 03:20:00,1705494904,buy,60010783,Oursulaert VI - Chemal Tech Research Center,2066601839,J Mereel,3530,Medium Armor Repairer II,1,667100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 03:11:00,1705487691,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90035888,James Syagrius,3528,Medium Armor Repairer I,1,25101.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 02:38:00,1705460434,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90244552,GeneralPaul,5241,Dual Diode Mining Laser I,1,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 02:21:00,1705446710,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25600,Burned Logic Circuit,8,27502.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 02:15:00,1705441191,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90194071,Arlinor,3528,Medium Armor Repairer I,1,25101.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 01:58:00,1705427684,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,946289065,GIMMLIE,16240,Catalyst,1,649500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-02 01:11:00,1705387921,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,90368070,Apollo Tai,16240,Catalyst,1,696500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 22:50:00,1705318410,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90343523,Roland DeCroix,16240,Catalyst,1,502200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:48:00,1705183284,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,933599001,bluebellgirl,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:47:00,1705181471,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90320314,spitehand Vynneve,7489,Limited Light Electron Blaster I,1,34500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:22:00,1705151074,sell,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,1456935381,Roime,567,Dual 150mm Railgun I,1,19000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:14:00,1705141339,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,90350394,Frisco Kidd,16240,Catalyst,1,875000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:10:00,1705137306,buy,60010783,Oursulaert VI - Chemal Tech Research Center,90208383,Dburns,7663,Modal Ion Particle Accelerator I,1,1000010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:08:00,1705134382,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,381237787,Orrhane,2454,Hobgoblin I,2,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 20:06:00,1705132389,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90042412,chazz269,2454,Hobgoblin I,2,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 19:18:00,1705076706,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90343523,Roland DeCroix,567,Dual 150mm Railgun I,1,17000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 19:13:00,1705071365,sell,60015029,Couster II - Moon 1 - Federal Navy Academy School,90366742,Pewter Spoon,16240,Catalyst,1,875000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 19:09:00,1705066765,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90199035,MageKingsley,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 18:58:00,1705054658,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90352739,Masco Graznul,16240,Catalyst,1,502700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 18:42:00,1705037754,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1186451452,Silenzium Nerdbane,3530,Medium Armor Repairer II,1,999890.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 18:40:00,1705035566,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90344944,Seraph Archangel,2454,Hobgoblin I,2,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 18:35:00,1705029598,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,878609000,Oslovan,2454,Hobgoblin I,3,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 18:00:00,1704990731,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,1120040776,Shaitan Wyndmere,16240,Catalyst,1,502700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 17:50:00,1704980635,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90239504,N'Kal,565,150mm Railgun I,1,13999.99,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 17:35:00,1704964543,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90344944,Seraph Archangel,565,150mm Railgun I,1,13900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 17:23:00,1704953065,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90332532,nick Cancer,16240,Catalyst,1,502700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 16:54:00,1704926612,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90343825,Lucy Shaishi,2032,Cap Recharger II,1,698998.89,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 16:34:00,1704908037,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,1000168,Federal Navy Academy,3452,Acceleration Control,1,36000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 16:20:00,1704895027,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1329337961,d3an0,2032,Cap Recharger II,1,698900.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 16:12:00,1704888362,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1329337961,d3an0,3530,Medium Armor Repairer II,1,667010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 16:11:00,1704887208,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1329337961,d3an0,3530,Medium Armor Repairer II,1,999895.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:32:00,1704853775,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1761322210,Mattihius Di'otopies,3530,Medium Armor Repairer II,1,667010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:19:00,1704842756,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3406,Laboratory Operation,1,270000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:19:00,1704842477,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,22808,Kinetic Armor Compensation,1,108000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:18:00,1704842177,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,22806,EM Armor Compensation,1,108000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:18:00,1704841946,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,22807,Explosive Armor Compensation,1,108000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:18:00,1704841753,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,22809,Thermic Armor Compensation,1,108000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:18:00,1704841376,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,1396677697,Caahn,11207,Advanced Weapon Upgrades,1,415000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:17:00,1704840933,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3317,Trajectory Analysis,1,90000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:17:00,1704840617,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3315,Surgical Strike,1,900000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:16:00,1704840044,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3316,Controlled Bursts,1,63000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 15:16:00,1704839730,buy,60014689,Duripant VII - Moon 6 - Federal Navy Academy School,1000168,Federal Navy Academy,3310,Rapid Firing,1,36000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:46:00,1704815100,buy,60010783,Oursulaert VI - Chemal Tech Research Center,715318803,Mad Smile,2486,Warrior I,1,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:44:00,1704813300,buy,60010783,Oursulaert VI - Chemal Tech Research Center,715318803,Mad Smile,2454,Hobgoblin I,7,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:42:00,1704811462,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90330074,Beesace Liberator,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:41:00,1704810930,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90225427,Oseha,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:37:00,1704807430,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90266332,Edi15,2486,Warrior I,1,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:24:00,1704795996,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90232095,Train Pilgrim,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 14:09:00,1704784246,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90278678,Alosander,627,Thorax,1,6000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 13:52:00,1704771473,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,905826319,lewigi,2032,Cap Recharger II,2,482511.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 13:52:00,1704771397,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,905826319,lewigi,3528,Medium Armor Repairer I,1,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 13:05:00,1704737923,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90273414,Quentin Durward,627,Thorax,1,6000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 12:50:00,1704728093,buy,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,90315836,Drednaut Pavlovsky,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 12:33:00,1704717553,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,2067891312,eelp,2446,Ogre II,1,971000,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 12:32:00,1704716929,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90179111,Eufrata,2486,Warrior I,2,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 11:52:00,1704697086,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90268608,Chew SoonSian,7327,Dual 150mm Prototype I Gauss Gun,1,2690000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 11:51:00,1704696835,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90002977,Kupuw,2486,Warrior I,1,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 10:06:00,1704659263,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90297754,Lee SeeCyn,25605,Armor Plates,1,199000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 10:06:00,1704659209,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90297754,Lee SeeCyn,25605,Armor Plates,2,199000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 10:03:00,1704657377,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,660441893,Ecnaros,567,Dual 150mm Railgun I,5,7011.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 09:47:00,1704647670,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,660441893,Ecnaros,3528,Medium Armor Repairer I,5,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 09:16:00,1704629393,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1429348360,Watershadow,3528,Medium Armor Repairer I,1,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 09:15:00,1704628741,buy,60003262,Oursulaert VIII - Modern Finances Vault,182111209,hominignis,3528,Medium Armor Repairer I,2,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 08:23:00,1704600182,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,293647521,Sarista Celestial,567,Dual 150mm Railgun I,2,7011.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 08:13:00,1704594294,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,293647521,Sarista Celestial,3528,Medium Armor Repairer I,1,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:55:00,1704546915,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90151694,Hurrikane Moonrise,567,Dual 150mm Railgun I,1,7011.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:47:00,1704542069,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,591643852,Zimmychonga Apparatus,2486,Warrior I,3,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:42:00,1704538944,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90259013,Minarum,2486,Warrior I,1,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:42:00,1704538913,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,591643852,Zimmychonga Apparatus,2446,Ogre II,1,580100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:40:00,1704537800,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,591643852,Zimmychonga Apparatus,3528,Medium Armor Repairer I,3,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:23:00,1704526845,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1596264253,The Manbear,2486,Warrior I,1,2751.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 06:21:00,1704525795,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90179111,Eufrata,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 05:08:00,1704477201,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90339597,White Bear Maricadie,567,Dual 150mm Railgun I,1,7011.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 05:05:00,1704475312,buy,60009640,Oursulaert VIII - Moon 2 - Astral Mining Inc. Mining Outpost,90060171,Vantag,570,250mm Railgun I,3,95111.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 04:52:00,1704466276,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1580601708,Fentarian,627,Thorax,1,5110200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 04:48:00,1704462670,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,90192029,ChuvakZ,3528,Medium Armor Repairer I,1,25100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 04:23:00,1704444468,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,2017180024,Haveck Aiur,627,Thorax,1,5110200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 04:13:00,1704437866,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90247830,Kara Omaire,565,150mm Railgun I,7,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 03:54:00,1704423428,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1789654338,Tralathi,570,250mm Railgun I,3,95111.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 03:18:00,1704396293,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90179111,Eufrata,7327,Dual 150mm Prototype I Gauss Gun,1,2690000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 03:18:00,1704396289,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90179111,Eufrata,7327,Dual 150mm Prototype I Gauss Gun,1,2690000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 03:11:00,1704390983,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,603352548,Erishum,570,250mm Railgun I,2,95111.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 02:33:00,1704359984,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1778836737,Legeven,570,250mm Railgun I,1,95111.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 02:30:00,1704356970,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90194260,SavageBunny,567,Dual 150mm Railgun I,1,7011.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 02:23:00,1704351858,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,4,77004.1,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 01:55:00,1704329243,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90346378,David Echerie,565,150mm Railgun I,4,15000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-02-01 00:53:00,1704276243,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90371780,Leva Thanos,564,Light Neutron Blaster I,2,11000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 23:47:00,1704215363,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90178073,Mobius Pilon,226,Lead Charge M,2000,33.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 21:59:00,1704096495,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,1782412174,Lekyr Faren,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 21:39:00,1704070172,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90316285,Iperyt Jardir,627,Thorax,1,5700000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 20:47:00,1704003220,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90323439,sans dessin,567,Dual 150mm Railgun I,2,17000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 20:47:00,1704002543,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90371015,Barshet en Gravonere,561,75mm Gatling Rail I,2,4000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 20:23:00,1703971797,buy,60010783,Oursulaert VI - Chemal Tech Research Center,90251312,Commandobot,2183,Hammerhead I,11,10500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 19:16:00,1703886425,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90006093,Con Ton,8517,Medium F-S9 Regolith Shield Induction,1,7449999.66,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 19:02:00,1703869972,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90329552,don Oramara,561,75mm Gatling Rail I,2,4000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 18:48:00,1703853039,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,952329258,Camil Noir,16391,N-Type Adaptive Nano Membrane I,1,6995000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 18:39:00,1703843494,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1381395932,Pinchaloaf,627,Thorax,1,5110200.02,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 18:00:00,1703798099,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90236240,White Roger,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 17:12:00,1703746442,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1131366053,Lilly Chang,2486,Warrior I,2,2750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 17:10:00,1703745141,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1131366053,Lilly Chang,2454,Hobgoblin I,6,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 16:58:00,1703734250,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,809017338,Fearghas Bedwyr,8517,Medium F-S9 Regolith Shield Induction,1,3314000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 16:50:00,1703726609,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,809017338,Fearghas Bedwyr,565,150mm Railgun I,7,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 16:38:00,1703715815,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,510512091,Colonel Ducc,2183,Hammerhead I,1,10500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 16:38:00,1703715271,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,809017338,Fearghas Bedwyr,16391,N-Type Adaptive Nano Membrane I,1,2900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 16:06:00,1703684336,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,440743837,Kamikaze Jedi,565,150mm Railgun I,4,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 16:01:00,1703679543,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1328721868,Hetaso,565,150mm Railgun I,1,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 15:51:00,1703669849,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90356359,Hishan Saissore,10678,125mm Railgun I,7,9800.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 15:38:00,1703658160,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90226296,aka rufka,565,150mm Railgun I,2,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 15:37:00,1703657112,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90226296,aka rufka,2486,Warrior I,1,2750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 15:35:00,1703655568,buy,60009655,Oursulaert II - Astral Mining Inc. Mining Outpost,90304989,Elsbet Cavish,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 15:17:00,1703639847,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90214319,Alpine 007,565,150mm Railgun I,1,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 14:59:00,1703625793,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90335932,Ron hin,565,150mm Railgun I,1,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 14:39:00,1703610514,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90310466,Tyler Coble,634,Exequror,1,3300000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 14:11:00,1703589063,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90347366,Nayette Ellis Dalogne,2486,Warrior I,3,2750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 14:07:00,1703586215,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90347366,Nayette Ellis Dalogne,565,150mm Railgun I,2,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 14:04:00,1703583926,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90347366,Nayette Ellis Dalogne,2454,Hobgoblin I,5,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 13:55:00,1703576859,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90347366,Nayette Ellis Dalogne,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 13:55:00,1703576821,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90347366,Nayette Ellis Dalogne,2183,Hammerhead I,4,10500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 13:55:00,1703576789,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90347366,Nayette Ellis Dalogne,2203,Acolyte I,2,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 13:20:00,1703551713,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1328721868,Hetaso,565,150mm Railgun I,1,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 12:52:00,1703532892,buy,60011314,Oursulaert VII - Moon 3 - Bank of Luminaire Vault,90335932,Ron hin,565,150mm Railgun I,1,7550.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 12:47:00,1703529605,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90270040,ALFAWOLF VENOM,2203,Acolyte I,1,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 12:38:00,1703524072,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90189146,Chevalleis,565,150mm Railgun I,10,15500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 11:57:00,1703501380,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,829773658,eagleeye d4l,5302,Phased Muon Sensor Disruptor I,1,5200000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 08:31:00,1703403074,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,341257289,Sokata ben,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 08:30:00,1703402487,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90002977,Kupuw,2203,Acolyte I,1,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 08:30:00,1703402415,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90002977,Kupuw,2183,Hammerhead I,2,10500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 08:20:00,1703395521,sell,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90349603,Richard Leonaides,567,Dual 150mm Railgun I,1,19000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 08:17:00,1703393809,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90348218,Captain Starkiller Dimaloun,2203,Acolyte I,3,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 07:23:00,1703362303,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90335932,Ron hin,2203,Acolyte I,1,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 06:29:00,1703328815,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1394778965,Ilukas,19933,Hypnos' Multispectral ECM I,1,1490000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 06:23:00,1703324858,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90294278,Trissa Cairnell,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 06:09:00,1703314777,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1243645214,Reven Tenebrae,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 05:27:00,1703284793,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1781332354,John MaClarsky,2203,Acolyte I,1,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 03:13:00,1703181682,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,90258748,Justinian VII,2444,Ogre I,1,22000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 02:10:00,1703127625,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,865333913,Crimsonfury798,2454,Hobgoblin I,1,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 02:00:00,1703118787,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90226296,aka rufka,2486,Warrior I,1,2750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 01:46:00,1703106773,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1781332354,John MaClarsky,2454,Hobgoblin I,4,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 01:46:00,1703106232,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1948189762,Dethcraft,2454,Hobgoblin I,4,2150.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 01:16:00,1703080133,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90170666,fartsandpee,2486,Warrior I,1,2750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 00:57:00,1703060485,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1673784661,Dcozby,2203,Acolyte I,2,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 00:56:00,1703060243,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1673784661,Dcozby,2486,Warrior I,2,2750.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-31 00:37:00,1703040358,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90212594,Xoannon,2203,Acolyte I,2,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 23:47:00,1702985857,buy,60009643,Oursulaert IV - Astral Mining Inc. Mining Outpost,90312279,Ged Hawk,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:55:00,1702919894,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90212594,Xoannon,2203,Acolyte I,1,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:55:00,1702919721,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90212594,Xoannon,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:47:00,1702909079,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90292028,Baltazar Blake,2203,Acolyte I,1,950.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:47:00,1702908870,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90292028,Baltazar Blake,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:07:00,1702854639,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,675733675,Caleo Ban,657,Iteron Mark V,1,895000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:02:00,1702847467,sell,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1045884599,Saigol,567,Dual 150mm Railgun I,1,19000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 22:02:00,1702847250,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1045884599,Saigol,567,Dual 150mm Railgun I,2,19000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 20:22:00,1702712563,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,501232425,Silik FreeMan,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 19:29:00,1702639568,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,222614005,Jahn Jumai,657,Iteron Mark V,1,630000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 13:04:00,1702135599,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1371776768,Fish Hawk,567,Dual 150mm Railgun I,1,7010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 12:29:00,1702103739,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,1507313624,3R3M1T4,2444,Ogre I,2,22000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 12:04:00,1702084258,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,638897781,Sol Artois,567,Dual 150mm Railgun I,1,7010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 10:00:00,1702019237,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90193869,Burczyk1210,567,Dual 150mm Railgun I,1,7010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 09:05:00,1701971285,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90112399,SergFenko,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 07:42:00,1701906234,buy,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,90138098,Schveik,567,Dual 150mm Railgun I,1,7010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 03:45:00,1701726329,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90327334,Phoenix Bleu,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 03:09:00,1701693830,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1640950467,Dalihia,567,Dual 150mm Railgun I,1,7010.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-30 00:09:00,1701518994,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1562870648,Denalorn,657,Iteron Mark V,1,895000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 20:38:00,1701251770,sell,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90099748,remo5,2444,Ogre I,2,98849.98,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 20:30:00,1701240848,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90161630,Felgarm,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 19:44:00,1701179246,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,632617213,justanordinarydude,226,Lead Charge M,160,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 19:06:00,1701128436,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,895983236,Roland Schlosser,657,Iteron Mark V,1,635000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 18:58:00,1701117697,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,2001814149,DrefsabZN,27315,Caldari Navy Foxfire Rocket,100,700.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 18:37:00,1701090425,sell,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,1776388674,Metoikos,16240,Catalyst,1,668000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 18:04:00,1701048433,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1136899129,Jayda Bane,634,Exequror,1,2050000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 17:33:00,1701008137,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90326264,chocho Dorgiers,16240,Catalyst,1,668000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 16:47:00,1700952018,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90282296,MasterGrix,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 15:19:00,1700843599,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1271252155,Missy Firebringer,226,Lead Charge M,1074,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 15:13:00,1700836330,sell,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90272667,PLZ FukMe,2444,Ogre I,1,98849.98,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 14:12:00,1700766716,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90128689,Ulyssei,5403,Faint Warp Disruptor I,1,1100000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 13:16:00,1700709818,buy,60011968,Ignebaener VI - Moon 1 - Federal Intelligence Office Logistic Support,1916273645,Lucius Dominaeus,2444,Ogre I,1,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 13:14:00,1700707783,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1685816099,masterchif,570,250mm Railgun I,1,135000,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 10:14:00,1700615444,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,422400583,Johan Argort,2444,Ogre I,1,22000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 09:19:00,1700568800,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,1850983336,Savira Terrant,2444,Ogre I,2,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 09:11:00,1700561857,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1279310039,gna gotar,27327,Caldari Navy Phalanx Rocket,300,500.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-29 06:27:00,1700443507,sell,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,1176216682,Salovad,2444,Ogre I,1,90000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 23:47:00,1700109571,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,293647521,Sarista Celestial,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 22:40:00,1700034403,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1587928071,Isharin,657,Iteron Mark V,1,890000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 21:54:00,1699977635,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90267709,Johnny Kelso,16240,Catalyst,1,497000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 21:15:00,1699932810,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90182005,warsocket,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 20:55:00,1699909730,buy,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,1421272489,TrueTorak,16240,Catalyst,1,497000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 20:32:00,1699881036,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90157220,dunkerdink,226,Lead Charge M,100,16.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 19:34:00,1699813067,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1061732463,Bajanir,27441,Caldari Navy Scourge Heavy Missile,200,1050,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 18:17:00,1699726413,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,934010419,Amorisara,2444,Ogre I,5,22000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 17:52:00,1699699713,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90335776,Sameguy Solette,634,Exequror,1,2900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 17:16:00,1699663804,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,349099318,Uruha Gunjuro,657,Iteron Mark V,1,635000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 13:37:00,1699471917,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1568279074,Gul'gotha Derv'ash,567,Dual 150mm Railgun I,1,19000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 09:54:00,1699360108,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,349099318,Uruha Gunjuro,567,Dual 150mm Railgun I,1,7001.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 06:17:00,1699233997,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,927819917,muzzleloader,2444,Ogre I,1,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 04:49:00,1699176816,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1821146116,Time Mage,634,Exequror,1,2050000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 02:11:00,1699055535,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25601,Fried Interface Circuit,3,2600.09,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 02:11:00,1699055314,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25600,Burned Logic Circuit,4,25100.13,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 02:11:00,1699055058,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,4,75141.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 00:22:00,1698964648,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1739541401,Baba Akili,15331,Metal Scraps,14,857.99,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 00:17:00,1698959416,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,613432857,Norseman 1,570,250mm Railgun I,1,95200.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-28 00:15:00,1698957688,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,142169570,Abcdar,11740,Gleaming Alloy,11,2226.04,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 22:57:00,1698877449,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,370978401,BG DeathScream,3831,Medium Shield Extender II,1,865000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 22:08:00,1698820203,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,276549926,Onoratha,3831,Medium Shield Extender II,1,865000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 21:38:00,1698784389,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1246969644,Likety Split,3831,Medium Shield Extender II,2,610000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 17:49:00,1698520073,sell,60008401,Pashanai III - Moon 2 - Amarr Navy Assembly Plant,901894076,Paradox UnetGroup,2446,Ogre II,2,850000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 17:13:00,1698481784,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1233419845,Mishmikt,5320,Balmer Series Tracking Disruptor I,1,3400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 15:28:00,1698383660,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,1280810923,Kondelis,626,Vexor,1,3600000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 14:14:00,1698326149,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90051715,Leihanae,226,Lead Charge M,100,15.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 07:37:00,1698200595,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1115061286,Demei,226,Lead Charge M,4000,15.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 06:18:00,1698152132,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,981654314,Leutaubont,226,Lead Charge M,100,15.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 04:22:00,1698074948,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90270235,Eresca,626,Vexor,1,3210100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 04:07:00,1698063425,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,353535991,STACY DERRINGER,626,Vexor,1,3690000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-27 03:55:00,1698053664,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1767100178,Thraxite,3082,250mm Railgun II,3,1490000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 23:59:00,1697861972,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90268402,Ned Starchaser,3082,250mm Railgun II,3,850100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 22:16:00,1697748013,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90153355,OKaye,25598,Tripped Power Circuit,5,78350.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 21:11:00,1697666918,sell,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90265306,Azafer,627,Thorax,1,5800000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 21:00:00,1697654173,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1886405618,Duncan Sunreaver,627,Thorax,1,4750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 20:56:00,1697648575,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1356636306,Croaker TBC,627,Thorax,1,5750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 19:41:00,1697556949,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,587650362,Kheist Valt,25598,Tripped Power Circuit,13,78350.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 18:32:00,1697474989,buy,60014485,Halle X - Moon 4 - X-Sense Chemical Refinery,903991386,gauntlan,626,Vexor,1,2850000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 17:56:00,1697433404,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,771641286,Adinal,2444,Ogre I,1,22000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 16:59:00,1697373897,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,381349234,xKANOx,2444,Ogre I,1,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 13:53:00,1697216455,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,1934038982,Splid1,226,Lead Charge M,300,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 13:53:00,1697215905,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,1934038982,Splid1,226,Lead Charge M,13102,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 09:30:00,1697078153,buy,60005512,Noghere VIII - Moon 1 - Core Complexion Inc. Factory,176855038,dazwa306,627,Thorax,1,4750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 05:41:00,1696942059,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,183127261,Andy Thorn,25600,Burned Logic Circuit,5,25001.03,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 05:14:00,1696923593,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,846886329,Tabb Bard,226,Lead Charge M,100,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 05:08:00,1696919260,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,228998766,KIT31,25601,Fried Interface Circuit,19,2800.21,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 05:08:00,1696919002,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,183127261,Andy Thorn,25600,Burned Logic Circuit,3,25001.03,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 05:04:00,1696916223,buy,60015049,Synchelle I - Federal Navy Academy School,1000168,Federal Navy Academy,12305,Drone Navigation,1,90000,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 04:32:00,1696892301,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1610329111,ConanPrays2Krom,2446,Ogre II,2,845000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 03:33:00,1696846877,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,511971341,Slavemaster,1228,Scordite,882,9.34,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 03:30:00,1696843945,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,796131208,Julia Pandemonium,25606,Ward Console,2,50605.08,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 03:28:00,1696842563,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,183127261,Andy Thorn,25600,Burned Logic Circuit,2,25001.03,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 03:17:00,1696834278,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,1000168,Federal Navy Academy,16595,Daytrading,1,11250000,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 02:59:00,1696820216,sell,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,1187960773,Livingston II,627,Thorax,1,5750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 02:29:00,1696797659,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90251299,Tipsy MacDrunk,226,Lead Charge M,200,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 01:57:00,1696772190,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,183127261,Andy Thorn,25603,Melted Capacitor Console,3,38000.02,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 01:56:00,1696771047,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,13,74357.38,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 01:55:00,1696770349,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,183127261,Andy Thorn,25600,Burned Logic Circuit,4,25001.03,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 01:55:00,1696769996,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,228998766,KIT31,25605,Armor Plates,1,188400,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 01:54:00,1696769548,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1359061016,hyper rich,25595,Alloyed Tritanium Bar,3,89000,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 00:42:00,1696706124,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,228998766,KIT31,25605,Armor Plates,5,188400,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 00:42:00,1696705744,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,228998766,KIT31,25605,Armor Plates,1,188400,personal
+TRADE,90192277,Gynax Gallenor,2011-01-26 00:11:00,1696677153,buy,60003262,Oursulaert VIII - Modern Finances Vault,200546240,Boroda M,226,Lead Charge M,100,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 23:30:00,1696638436,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90225360,MonsterMashn,627,Thorax,1,4750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 22:31:00,1696572814,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1173856764,Farthest Mountain,226,Lead Charge M,1000,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 21:17:00,1696481414,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,708325795,Karnatil Steel,2446,Ogre II,1,849000.16,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 20:32:00,1696426453,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,591643852,Zimmychonga Apparatus,2446,Ogre II,1,585000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 18:33:00,1696283779,buy,60003262,Oursulaert VIII - Modern Finances Vault,200546240,Boroda M,226,Lead Charge M,100,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 16:09:00,1696127384,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90103622,Gallen Io'nas,626,Vexor,1,3900000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 15:25:00,1696083573,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90264521,ZLBrains,7327,Dual 150mm Prototype I Gauss Gun,2,1750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 12:50:00,1695957933,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,571484850,Evil VG,226,Lead Charge M,88,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 10:39:00,1695914812,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90138098,Schveik,226,Lead Charge M,100,14.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 08:22:00,1695828314,buy,60011974,Ignebaener IV - Federal Intelligence Office Logistic Support,1901138227,Gallr0n,2444,Ogre I,2,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 07:36:00,1695797979,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90093881,Jonletta,627,Thorax,1,5750000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 06:57:00,1695774267,buy,60010252,Harerget V - Moon 1 - CreoDron Factory,310772378,Captain Morganna,626,Vexor,1,3000000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 06:17:00,1695748577,buy,60011965,Cat VI - Moon 7 - Federal Intelligence Office Logistic Support,999198373,Dragons revenge,7327,Dual 150mm Prototype I Gauss Gun,1,1551000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 05:32:00,1695718036,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1864400110,Cabadath,2032,Cap Recharger II,1,592000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 04:15:00,1695661657,buy,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,90032092,Expreso,2046,Damage Control I,1,3750,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 04:12:00,1695659849,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25600,Burned Logic Circuit,10,25000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 03:09:00,1695609144,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90208664,Alexsei Volkov,7367,250mm Prototype I Gauss Gun,1,1150000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 02:46:00,1695590644,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,2,74357.12,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 02:45:00,1695590289,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25600,Burned Logic Circuit,14,25000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 02:42:00,1695588116,buy,60011995,Bereye VI - Federal Intelligence Office Assembly Plant,722741168,Eliasip O'Riley,627,Thorax,1,4400000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:57:00,1695551366,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25598,Tripped Power Circuit,3,74357.12,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:56:00,1695550590,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,238150533,deeShempa,25600,Burned Logic Circuit,8,25000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:46:00,1695541451,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,710851485,Mokrim,7367,250mm Prototype I Gauss Gun,1,500000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:45:00,1695539857,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1208538149,JRimes,27361,Caldari Navy Bloodclaw Light Missile,100,1100.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:18:00,1695515401,buy,60015049,Synchelle I - Federal Navy Academy School,1000168,Federal Navy Academy,16597,Margin Trading,1,18000000,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:05:00,1695504382,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,710851485,Mokrim,7327,Dual 150mm Prototype I Gauss Gun,1,2295000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:05:00,1695504170,sell,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,710851485,Mokrim,7327,Dual 150mm Prototype I Gauss Gun,1,2295000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-25 01:03:00,1695501730,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,710851485,Mokrim,7327,Dual 150mm Prototype I Gauss Gun,1,2290000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 20:37:00,1695196198,sell,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90299368,Surh Orlenard,627,Thorax,1,6100000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 20:16:00,1695168189,sell,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,90261995,Amitabha Vajrapani,627,Thorax,1,6050000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 20:08:00,1695158268,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1629627174,Rutkov,2446,Ogre II,2,945000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 19:21:00,1695098791,sell,60011740,Oursulaert III - Federation Navy Testing Facilities,90243093,spaghetti boy,7327,Dual 150mm Prototype I Gauss Gun,1,2295000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 19:05:00,1695079230,buy,60000124,Arnon XII - CBD Corporation Storage,247126771,jeweet,2444,Ogre I,1,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 13:59:00,1694773969,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90093953,Sonor A'dal,2444,Ogre I,1,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 08:27:00,1694593457,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90100383,Polaris Joe,2444,Ogre I,1,18510.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 06:27:00,1694519519,buy,60014482,Jurlesel VI - Moon 17 - X-Sense Chemical Refinery,1264720292,MF Machiavelli,2444,Ogre I,2,20000.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 05:02:00,1694461566,buy,60011746,Mies V - Moon 3 - Federation Navy Assembly Plant,694038557,Blargenstien,2183,Hammerhead I,1,13600.17,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 03:48:00,1694405344,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,228998766,KIT31,25601,Fried Interface Circuit,8,2800.19,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 03:48:00,1694405068,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1103811350,Knowledgeminer,25598,Tripped Power Circuit,13,72810,personal
+TRADE,90192277,Gynax Gallenor,2011-01-24 03:47:00,1694404365,sell,60010909,Oursulaert VII - Moon 3 - Duvolle Laboratories Research Center,1103811350,Knowledgeminer,25600,Burned Logic Circuit,4,24630,personal

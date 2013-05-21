@@ -1,0 +1,924 @@
+linetype,characterID,characterName,transactTime,transactionID,transactionType,stationID,stationName,clientID,clientName,typeID,typeName,quantity,price,transactionFor
+TRADE,90192277,Gynax Gallenor,2011-04-02 13:29:00,1772331006,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,906698750,Zhudeig,223,Iron Charge M,87,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 13:42:00,1772341779,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,1881607467,Robotica Drones,223,Iron Charge M,14,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 13:47:00,1772345689,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90383763,Jesse New,223,Iron Charge M,100,2.61,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 13:55:00,1772353189,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90491998,Lomberto Arnolles,223,Iron Charge M,1000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 14:00:00,1772357215,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90152675,kornach,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 14:01:00,1772358281,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90552411,Adrian Alleile,20,Kernite,50,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 14:05:00,1772361779,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1594791537,Dirk Hatchet,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 14:11:00,1772367528,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,684868774,Tera Phim,230,Antimatter Charge M,100,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 14:33:00,1772387675,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90512631,Einrasty,223,Iron Charge M,3800,15.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 14:40:00,1772392963,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90512631,Einrasty,223,Iron Charge M,3000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:14:00,1772423654,buy,60003550,Pozirblant IV - Caldari Business Tribunal,90410268,Drebbin Udiin,230,Antimatter Charge M,1979,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:24:00,1772434305,buy,60011788,Jel VI - Federation Navy Logistic Support,90383763,Jesse New,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:31:00,1772441027,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90596139,Am Sho,20,Kernite,159,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:34:00,1772443997,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1984913207,Demona Abagail,22542,Mining Laser Upgrade I,2,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:39:00,1772448699,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90596377,Mance Greyjoy,20,Kernite,281,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:46:00,1772455651,buy,60011842,Caretyn VII - Moon 13 - Federation Navy Assembly Plant,90225077,Rosenblad,230,Antimatter Charge M,100,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:52:00,1772462132,buy,60011842,Caretyn VII - Moon 13 - Federation Navy Assembly Plant,90225077,Rosenblad,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 15:58:00,1772467499,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,1901142023,Steffi Kaametz,230,Antimatter Charge M,200,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:01:00,1772470932,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90583249,Darian Jon,3332,Gallente Cruiser,1,201001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:10:00,1772479656,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,535181301,EricBOT,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:21:00,1772489412,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,892658955,ArchangelJ,230,Antimatter Charge M,100,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:22:00,1772490896,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90457413,Helbran Whitewolf,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:23:00,1772491532,buy,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,90536850,Page Amatin,230,Antimatter Charge M,64,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:33:00,1772501930,buy,60001213,Nausschie IX - Kaalakiota Corporation Warehouse,90566097,Taida Harribel,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:35:00,1772503773,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1887528247,MCKD007,223,Iron Charge M,1600,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:40:00,1772509351,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,197900225,dibben25,230,Antimatter Charge M,20,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 16:50:00,1772518682,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,535513420,Hellicaon,223,Iron Charge M,1,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:04:00,1772534362,buy,60011578,Egghelende V - Moon 13 - University of Caille School,1350332682,Helicity Boson,2048,Damage Control II,1,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:07:00,1772536872,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90216556,KerS BruT,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:23:00,1772553285,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,90262442,Freedom1987,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:25:00,1772555752,buy,60011863,Eglennaert I - Moon 1 - Federation Navy Assembly Plant,90425700,Causon Prestiona,230,Antimatter Charge M,100,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:29:00,1772560010,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90491998,Lomberto Arnolles,223,Iron Charge M,2000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:51:00,1772581188,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90100154,Tzarr Konnor,230,Antimatter Charge M,300,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:58:00,1772587808,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1653431840,Daswulf Blitzangriff,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 17:59:00,1772588712,buy,60009517,Jurlesel II - Material Acquisition Refinery,90498187,Isp Namura,17471,Dense Veldspar,211,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:16:00,1772607585,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90369422,Tony Lautrec,230,Antimatter Charge M,100,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:23:00,1772614454,buy,60005191,Adrallezoen V - Republic Security Services Logistic Support,90252370,Buank,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:29:00,1772621372,buy,60009034,Doussivitte VIII - Moon 20 - TransStellar Shipping Storage,90325108,Olek Baltais,230,Antimatter Charge M,4,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:30:00,1772622558,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90100154,Tzarr Konnor,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:36:00,1772628118,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90595771,Herman Othelius,3332,Gallente Cruiser,1,201001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:37:00,1772628682,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90593821,Bai Ying'ai,20,Kernite,50,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:43:00,1772635364,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1335501781,Aki Minamoto,20,Kernite,72,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 18:51:00,1772644487,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,784820835,Jarax Quelran,223,Iron Charge M,5000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:05:00,1772658377,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90598259,shaun Breau,20,Kernite,97,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:08:00,1772662342,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1865388632,Erisiel01 YumeRyuu,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:10:00,1772664423,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1865388632,Erisiel01 YumeRyuu,230,Antimatter Charge M,100,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:13:00,1772668419,buy,60015016,Trossere VII - Moon 3 - University of Caille School,1176980300,Soltain,20,Kernite,50,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:16:00,1772671063,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90494334,Agryppa Riraille,223,Iron Charge M,1000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:19:00,1772675181,buy,60011875,Vylade VII - Moon 6 - Federation Navy Logistic Support,90585588,Robin Ejlerot,20,Kernite,164,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:21:00,1772677256,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90174601,Necro9,230,Antimatter Charge M,5,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:24:00,1772680045,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90198416,The Bro90,20,Kernite,393,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:30:00,1772686777,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,592623360,Twinspark,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:31:00,1772688343,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,546348068,Vrajik Malit,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:51:00,1772711367,buy,60003550,Pozirblant IV - Caldari Business Tribunal,1987504141,Rachida,2048,Damage Control II,1,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:54:00,1772715194,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90190978,Ayatollah Ali,223,Iron Charge M,1000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 19:55:00,1772715938,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90190978,Ayatollah Ali,223,Iron Charge M,2000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 20:02:00,1772723527,buy,60011578,Egghelende V - Moon 13 - University of Caille School,1210311998,Prothax,2048,Damage Control II,1,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 20:08:00,1772729762,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,550049460,Jaservin,2048,Damage Control II,1,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 20:21:00,1772744648,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90555140,Dvestan,20,Kernite,260,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 20:56:00,1772782697,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90440007,Vectra25,20,Kernite,144,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:13:00,1772801583,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,90553892,Cem Cengiz,20,Kernite,331,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:20:00,1772807820,buy,60011980,Eglennaert I - Moon 4 - Federal Intelligence Office Logistic Support,90525482,Red Kyte,230,Antimatter Charge M,100,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:22:00,1772810610,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,746197099,Freak13h,230,Antimatter Charge M,85,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:23:00,1772811534,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90561295,Sephorus Faststride,230,Antimatter Charge M,100,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:24:00,1772811823,buy,60011977,Eglennaert I - Moon 14 - Federal Intelligence Office Assembly Plant,90174763,Harrygol,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:25:00,1772813060,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1141966424,InDiViDoom,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:29:00,1772817325,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,610576895,Cigar No1,230,Antimatter Charge M,65994,28.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:44:00,1772832748,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90165741,Volinia,20,Kernite,117,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 21:46:00,1772835506,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90165741,Volinia,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 22:50:00,1772900593,buy,60015016,Trossere VII - Moon 3 - University of Caille School,350092848,Gilbani,20,Kernite,95,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 22:54:00,1772904106,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,285773956,Lanzier,652,Mammoth,1,789002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 23:06:00,1772915820,buy,60015029,Couster II - Moon 1 - Federal Navy Academy School,90590436,Tibbs Bunuel,3332,Gallente Cruiser,1,201001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 23:30:00,1772937558,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90317317,Liz en Marland,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-02 23:40:00,1772946436,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90494926,Orlon Takera,20,Kernite,145,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:10:00,1772970789,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1653431840,Daswulf Blitzangriff,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:11:00,1772971285,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90596084,Narein Shogun,20,Kernite,113,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:22:00,1772980158,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90510416,Troy Williamson,230,Antimatter Charge M,137,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:32:00,1772987048,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,2006617528,onyaface,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:33:00,1772987780,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,925815108,10secondrule,31360,Medium Ancillary Current Router I,1,4000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:35:00,1772989646,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90283168,Zevin Rialto,223,Iron Charge M,5000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:38:00,1772991818,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90429523,Khaos Katelo,14278,200mm Prototype I Gauss Gun,1,2908124.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:46:00,1772997840,buy,60011578,Egghelende V - Moon 13 - University of Caille School,1210311998,Prothax,2048,Damage Control II,3,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 00:54:00,1773003731,buy,60011137,Aurcel IV - Moon 17 - Aliastra Warehouse,1210311998,Prothax,2048,Damage Control II,1,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 01:09:00,1773014588,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1613606852,Lumen Gentium,2032,Cap Recharger II,1,576001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 01:13:00,1773017246,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90078638,Chray00,20,Kernite,171,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 01:23:00,1773024880,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,689705459,Tiberious Cratus,3888,Co-Processor II,1,600000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 01:58:00,1773048669,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90082269,Deadmang,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 02:22:00,1773064217,buy,60002473,Pucherie V - Moon 2 - Expert Distribution Warehouse,90473514,Marc McIntyre Crendraven,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 02:46:00,1773079214,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1826171326,Binah Sephirot,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 02:55:00,1773084997,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,819306408,Mason dunne,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 02:56:00,1773085645,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,924658137,Sylvie Falconer,223,Iron Charge M,2200,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 03:23:00,1773103202,buy,60005194,Bawilan V - Republic Security Services Assembly Plant,90479982,Chad Bro'ington,223,Iron Charge M,16,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 03:45:00,1773117534,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90560571,Vanessa Cromwell,223,Iron Charge M,10000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 04:04:00,1773128918,buy,60010348,Jel VIII - Moon 12 - Roden Shipyards Factory,90126591,Norendith Bosch,11105,Magnetic Vortex Stabilizer I,1,280000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 04:10:00,1773132611,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1608031646,Subsider,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 04:21:00,1773139604,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,360871069,Bath Sheeba,1319,Expanded Cargohold II,17,556112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 04:27:00,1773143439,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90427475,Zieg Feild,230,Antimatter Charge M,100,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 05:13:00,1773173093,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90395032,Breena Costigan,20,Kernite,305,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 05:59:00,1773201248,buy,60002473,Pucherie V - Moon 2 - Expert Distribution Warehouse,395499196,Xenocide654,20,Kernite,286,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 06:01:00,1773202826,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,1898496685,Chuyck,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 06:29:00,1773220072,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90550495,Quentin Audene,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 06:44:00,1773230147,buy,60000025,Ardene VIII - Moon 5 - CBD Corporation Storage,638964512,Reginald VonFeet,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 06:45:00,1773230308,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90598614,EllPolioLoco,20,Kernite,234,126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 06:50:00,1773233520,sell,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,1232434516,Deng Frostmane,656,Iteron Mark IV,1,800000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 07:14:00,1773249543,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90308241,Evgeny Zverev,223,Iron Charge M,2000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 07:47:00,1773271739,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,684868774,Tera Phim,230,Antimatter Charge M,100,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 08:09:00,1773287304,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90512631,Einrasty,223,Iron Charge M,4000,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 08:54:00,1773321067,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1631437543,KATCHAOS,31372,Medium Capacitor Control Circuit I,2,1749799.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 09:03:00,1773327430,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90384743,Steph Auscent,230,Antimatter Charge M,1,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 09:18:00,1773339587,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90152675,kornach,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 09:48:00,1773363138,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90569145,rocky solo,20,Kernite,50,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 09:55:00,1773369440,buy,60003556,Pozirblant VIII - Moon 2 - Caldari Business Tribunal Information Center,800699561,Nephite Darkside,20,Kernite,111,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 09:56:00,1773369671,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90135890,hirnisoft,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:18:00,1773389075,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90135890,hirnisoft,230,Antimatter Charge M,3000,32.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:21:00,1773391996,buy,60014743,Ardene VIII - Moon 11 - Center for Advanced Studies School,90299253,Apteryx Bedala,2048,Damage Control II,1,506102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:23:00,1773393067,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1958542274,zunewantan,230,Antimatter Charge M,20000,31.21,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:24:00,1773394195,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90492148,Justinian XXVI,17940,Mining Barge,1,589999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:31:00,1773399918,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90547142,Jacqueline Shepard,17940,Mining Barge,1,589999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:34:00,1773403096,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90600781,Natsya Medovic,20,Kernite,73,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:35:00,1773403156,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,537975316,Cipher 0,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 10:46:00,1773413257,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1688732760,denirone,230,Antimatter Charge M,5000,31.21,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 11:30:00,1773427629,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90425723,Izo Chastot,230,Antimatter Charge M,5000,31.21,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:07:00,1773448724,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,652959804,Nublark Wemblo,17482,Strip Miner I,8,1728772.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:22:00,1773460284,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1557327954,SuperNomad,652,Mammoth,1,1219995.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:23:00,1773460685,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1557327954,SuperNomad,1319,Expanded Cargohold II,4,623999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:24:00,1773461601,buy,60010489,Bille IX - Moon 3 - Impetus Development Studio,1175370907,Superkaj,17471,Dense Veldspar,13806,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:31:00,1773467566,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90565620,Martin Dune,31372,Medium Capacitor Control Circuit I,1,1699999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:32:00,1773468139,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1243956837,stefani Countless,1319,Expanded Cargohold II,11,623999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:33:00,1773468866,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1243956837,stefani Countless,230,Antimatter Charge M,37469,31.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:35:00,1773470811,buy,60010489,Bille IX - Moon 3 - Impetus Development Studio,1175370907,Superkaj,17471,Dense Veldspar,13806,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:41:00,1773475604,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,864020425,Zaul Nex,31372,Medium Capacitor Control Circuit I,2,1699999.99,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:48:00,1773481603,buy,60011569,Bille X - Moon 1 - University of Caille School,1175370907,Superkaj,17471,Dense Veldspar,13806,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:50:00,1773483320,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90577737,Quantum Tech Maniac,14278,200mm Prototype I Gauss Gun,5,3114803.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 12:58:00,1773491088,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90402808,Tom Hutchison,230,Antimatter Charge M,100,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:00:00,1773492779,buy,60010489,Bille IX - Moon 3 - Impetus Development Studio,1175370907,Superkaj,17471,Dense Veldspar,13806,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:08:00,1773500309,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,649699321,Matashichi,17476,Covetor,1,17799992.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:24:00,1773515246,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90349770,Alexander Bondar,11105,Magnetic Vortex Stabilizer I,1,998998.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:25:00,1773516309,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1189591358,Darsoom,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:29:00,1773520022,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1601948744,Dorian T'ka,22542,Mining Laser Upgrade I,2,40113.09,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:30:00,1773520765,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1601948744,Dorian T'ka,17482,Strip Miner I,1,1849997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:35:00,1773525600,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,2013269523,Mehdeb Kaftan,14278,200mm Prototype I Gauss Gun,4,5099999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:54:00,1773545064,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,389169842,Jinn Daa,17482,Strip Miner I,1,1849997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 13:57:00,1773549042,buy,60002467,Caretyn VI - Moon 3 - Expert Distribution Warehouse,1530412822,Saltory Ursalmen,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:29:00,1773578775,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,2034186137,Paihn,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:33:00,1773583476,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90411140,Karillo Aideron,20,Kernite,80,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:38:00,1773588685,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1758419253,Khorts,17482,Strip Miner I,8,1849997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:41:00,1773591829,buy,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,90329649,Hank Nightwatch,3332,Gallente Cruiser,1,301520.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:44:00,1773594964,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1670002361,RackotPrime,20,Kernite,1600,156.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:51:00,1773601754,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,2013269523,Mehdeb Kaftan,12099,Battlecruisers,1,1038748.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:55:00,1773606845,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,408731524,Miss Dimple,6173,Optical Tracking Computer I,2,499885.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 14:56:00,1773607826,buy,60011794,Egghelende VII - Moon 20 - Federation Navy Assembly Plant,90575703,Wendo Agnon,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:09:00,1773621741,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90587937,Ramp Midumulf,12099,Battlecruisers,1,1038748.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:12:00,1773624023,buy,60010450,Augnais VI - Moon 1 - Poteque Pharmaceuticals Biotech Production,749293408,captain krustypants,223,Iron Charge M,78,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:17:00,1773630394,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90090775,Timerss,223,Iron Charge M,19900,13.29,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:32:00,1773645550,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,465293634,jixen,223,Iron Charge M,232,13.49,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:38:00,1773651968,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,618282748,Alishe,3454,High Speed Maneuvering,1,399626.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:40:00,1773654017,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90546109,Vitaliy Akimov,230,Antimatter Charge M,13,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:46:00,1773660660,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,411754423,Sklarman6000,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:47:00,1773661065,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,238130024,Dremear King,20,Kernite,269,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:58:00,1773674248,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,236121731,NogZilla,16229,Brutix,1,20100000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 15:59:00,1773675222,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1077415909,Royal NASA,20,Kernite,189,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:01:00,1773676999,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90525482,Red Kyte,223,Iron Charge M,6000,13.49,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:15:00,1773693544,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90037540,Crusher DeRoid,22542,Mining Laser Upgrade I,2,40113.09,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:16:00,1773695278,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90402965,Stephan Dallocort,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:19:00,1773698075,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90243043,Sparta93xb,20,Kernite,172,156.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:29:00,1773710060,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1102571222,Jailbug,11207,Advanced Weapon Upgrades,1,568393.99,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:34:00,1773716138,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,882210607,Big Hand1,223,Iron Charge M,2000,13.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:37:00,1773719209,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,440069351,Callindrea,652,Mammoth,1,789002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:46:00,1773730000,buy,60003295,Bawilan VIII - Moon 17 - Modern Finances Investment Bank,90551731,Swiip Eleandor,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:52:00,1773736505,buy,60009691,Eglennaert I - Moon 12 - Astral Mining Inc. Mineral Reserve,1175257583,Lodania,1944,Bestower,1,420000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 16:59:00,1773744648,buy,60011788,Jel VI - Federation Navy Logistic Support,318430498,Matidaus,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:02:00,1773747936,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90598613,Nobu Kanaga,20,Kernite,105,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:09:00,1773756350,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90572805,Deitus Malukker,20,Kernite,255,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:13:00,1773760959,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90098289,Kserkses IV,223,Iron Charge M,800,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:18:00,1773766645,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,531855199,Staycis,1944,Bestower,1,440000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:27:00,1773777064,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,592623360,Twinspark,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:44:00,1773798054,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,1770303796,Valkiriiaa,14278,200mm Prototype I Gauss Gun,1,3000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:49:00,1773805182,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1514671973,EvilFable,14278,200mm Prototype I Gauss Gun,1,5490000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 17:54:00,1773811770,buy,60009592,Aufay III - Moon 3 - Astral Mining Inc. Mining Outpost,331790017,Fairmind,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:05:00,1773825403,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,251297718,Ancolie,20,Kernite,1600,156.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:11:00,1773833041,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1213380375,Djingiis,223,Iron Charge M,3494,13.49,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:15:00,1773838274,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90595682,Serg Gudz,20,Kernite,97,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:20:00,1773844670,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1213380375,Djingiis,223,Iron Charge M,2000,13.49,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:26:00,1773852804,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,987892670,DeDocta,223,Iron Charge M,97,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:41:00,1773872193,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90591235,Fulbert Yang,20,Kernite,256,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:52:00,1773886122,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,1733016464,Axhub,230,Antimatter Charge M,240,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 18:53:00,1773887381,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1606516251,Kilo Eclipse,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:00:00,1773896280,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,228754795,Fried1Chicken,3307,Large Hybrid Turret,1,2239958.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:03:00,1773900756,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,1492895880,Snipy74,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:13:00,1773913284,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90509971,zeebo Ahashion,20,Kernite,59,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:18:00,1773918909,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1565392210,Lyannala,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:22:00,1773924420,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90306407,Raider Iwaira,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:41:00,1773948357,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1626478359,hankdog,20,Kernite,2000,156.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:43:00,1773950159,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90532598,LucasSnow,20,Kernite,106,126.10,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:45:00,1773953123,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90411440,ritch Ovaert,223,Iron Charge M,3000,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:53:00,1773962881,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90262181,Kamina To,34,Tritanium,1000000,3.20,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 19:54:00,1773964277,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1971206996,henk1106,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 20:02:00,1773973571,sell,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90294433,NihonoDzoy,655,Iteron Mark III,1,650000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 20:07:00,1773979709,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,547802883,Chaosz Tery,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 20:26:00,1774003657,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,90432259,Pauly Che,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 20:54:00,1774037218,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1285777060,Nerathiel,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 20:59:00,1774044022,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,264077794,Jouni Ruohonin,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 21:06:00,1774051256,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,549866560,NineofThree,34,Tritanium,1000000,3.13,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 21:33:00,1774080202,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90432854,tuga100 Nahrnid,31360,Medium Ancillary Current Router I,1,4800009.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 21:46:00,1774094407,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,130451722,Andromedalis,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 21:50:00,1774098414,buy,60011569,Bille X - Moon 1 - University of Caille School,641049734,kingston,17471,Dense Veldspar,80,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 22:14:00,1774123375,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,290454658,Lineon Vee,20,Kernite,3628,156.20,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 23:02:00,1774167576,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1181813311,Judicator Saturnius,20,Kernite,1600,156.26,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 23:09:00,1774173571,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1516919771,Mofett Arcanus,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 23:52:00,1774210516,buy,60015016,Trossere VII - Moon 3 - University of Caille School,1580825222,Maynn,20,Kernite,321,126.12,personal
+TRADE,90192277,Gynax Gallenor,2011-04-03 23:57:00,1774214367,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,552878691,Zaha Leonardi,16229,Brutix,1,21775996.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 00:01:00,1774217642,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90588425,Grin Ultrigas,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 00:09:00,1774223133,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90082156,Cysy,4573,Medium 'Accommodation' Vestment Reconstructer I,1,3575071.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 00:28:00,1774236330,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1333451197,BonesDragon,4573,Medium 'Accommodation' Vestment Reconstructer I,1,3575071.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 00:57:00,1774257388,buy,60011875,Vylade VII - Moon 6 - Federation Navy Logistic Support,90510652,Mad Severasse,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 01:19:00,1774272502,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,592623360,Twinspark,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 02:00:00,1774299598,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,1074814236,Buddy roe,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 02:04:00,1774302548,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,349099318,Uruha Gunjuro,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 02:21:00,1774313846,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,1711008634,Potassium Nitrate,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 02:32:00,1774321120,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90247731,Fadena,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 02:45:00,1774329790,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90435231,m'IU,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 02:50:00,1774333483,buy,60009598,Metserel V - Moon 8 - Astral Mining Inc. Mineral Reserve,1342824175,Wikket Mangled,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 03:03:00,1774341791,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90343158,Merle Arnoux,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 03:15:00,1774349520,buy,60011842,Caretyn VII - Moon 13 - Federation Navy Assembly Plant,90082269,Deadmang,223,Iron Charge M,50,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 03:20:00,1774352746,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,1711008634,Potassium Nitrate,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 04:40:00,1774399377,buy,60001867,Dodixie VIII - Moon 3 - Nugoeihuvi Corporation Development Studio,293143046,Knight Dorin,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 05:18:00,1774422405,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90250647,Nyrmar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 07:13:00,1774480486,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,90409290,thatspaceboy man,12099,Battlecruisers,1,710020.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 07:40:00,1774495412,buy,60010351,Jel I - Roden Shipyards Warehouse,90592896,DObo Froust,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 07:43:00,1774497227,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90034308,Danzrickar,11105,Magnetic Vortex Stabilizer I,1,998898.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 08:00:00,1774506283,buy,60009592,Aufay III - Moon 3 - Astral Mining Inc. Mining Outpost,90490168,Micha Bundakov,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 08:05:00,1774508621,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90250647,Nyrmar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 08:24:00,1774517457,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90493108,Beckakei Prahl,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 08:30:00,1774520450,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90306407,Raider Iwaira,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 08:44:00,1774528511,buy,60010948,Jel V - Duvolle Laboratories Factory,90516653,Salisar Salubrious,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 09:15:00,1774546225,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90250647,Nyrmar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 09:28:00,1774553069,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,1808147885,Crapa Pelata,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 09:36:00,1774557773,buy,60011137,Aurcel IV - Moon 17 - Aliastra Warehouse,90277809,clarkonias,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 10:48:00,1774598034,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1834525654,Tashi Voormir,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 12:37:00,1774637565,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,100741165,Steak Sauce,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 13:10:00,1774658669,buy,60003574,Stetille VI - Moon 1 - Caldari Business Tribunal Bureau Offices,90472226,Naemnik13 ru,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 13:35:00,1774675326,buy,60010489,Bille IX - Moon 3 - Impetus Development Studio,849600800,Lara Angel,17471,Dense Veldspar,330,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 13:36:00,1774676248,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1461780627,Sophia Korolenkovitch,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 14:06:00,1774696008,buy,60009592,Aufay III - Moon 3 - Astral Mining Inc. Mining Outpost,1142251805,gkhaar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 15:13:00,1774743992,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90152675,kornach,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 15:28:00,1774756542,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,431251977,Isild,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 15:49:00,1774773506,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1903657068,Jarekcz,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 16:46:00,1774826035,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90034308,Danzrickar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 17:04:00,1774842310,buy,60011566,Bourynes VII - Moon 2 - University of Caille School,375933323,Pulstar One,31119,Medium Cargohold Optimization I,3,2750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 18:01:00,1774897316,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90548262,Nysas Valk,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 18:18:00,1774914565,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90434584,Thor Imperiosu's,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 18:59:00,1774957992,buy,60014743,Ardene VIII - Moon 11 - Center for Advanced Studies School,1950371438,Isteria Skytalon,223,Iron Charge M,6791,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 20:37:00,1775062862,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90548262,Nysas Valk,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 20:45:00,1775071650,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90359957,Lith7,223,Iron Charge M,2000,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 20:58:00,1775085279,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,892658955,ArchangelJ,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 20:59:00,1775086600,buy,60014743,Ardene VIII - Moon 11 - Center for Advanced Studies School,90213612,XNibblesX,223,Iron Charge M,2065,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:03:00,1775090515,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1971206996,henk1106,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:25:00,1775112900,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,576460825,Brodron Collider,24700,Myrmidon,1,30501005.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:32:00,1775120428,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,471254220,chamomilla,11105,Magnetic Vortex Stabilizer I,1,998897.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:44:00,1775131386,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1976861679,SecureContainer,31119,Medium Cargohold Optimization I,1,2750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:46:00,1775133576,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90266124,BobBudowniczy85,1319,Expanded Cargohold II,2,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:47:00,1775134482,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1684847993,Mike Ant,1319,Expanded Cargohold II,3,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:48:00,1775135010,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1336880318,Bell garath,1319,Expanded Cargohold II,3,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:50:00,1775137859,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90478237,BigGiantBrain,5839,Internal Force Field Array I,1,15392000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 21:52:00,1775139127,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1315093948,Thoirdhealbhach,1319,Expanded Cargohold II,1,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 22:02:00,1775148987,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,349099318,Uruha Gunjuro,1319,Expanded Cargohold II,2,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 22:04:00,1775150441,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1145778757,Dingodrole,24700,Myrmidon,1,31979694.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 22:15:00,1775161205,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,451884943,BearUkraine,1319,Expanded Cargohold II,3,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 22:18:00,1775163739,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1262589043,Cupide,1319,Expanded Cargohold II,1,623948.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 22:32:00,1775175111,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90084298,P Marshall,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:00:00,1775199210,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,349519111,Jon Phillips,2032,Cap Recharger II,2,606995.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:01:00,1775199925,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1778835280,nohoth,2032,Cap Recharger II,1,606995.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:02:00,1775200927,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1716098828,BinaryData,2032,Cap Recharger II,5,606995.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:05:00,1775203186,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1904624861,zealot0,223,Iron Charge M,1700,13.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:08:00,1775206129,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90587888,Lythiane,11105,Magnetic Vortex Stabilizer I,1,998897.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:09:00,1775206415,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,858340560,Kai Lahari,230,Antimatter Charge M,2000,31.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:15:00,1775211360,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90524452,Reaper Chambers,12099,Battlecruisers,1,1038747.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:17:00,1775212914,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1370190752,Wyke Mossari,627,Thorax,1,5799579.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:38:00,1775229491,buy,60003658,Amattens VII - Moon 1 - Caldari Business Tribunal Law School,1391515844,Kai Feniks,17471,Dense Veldspar,96,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:39:00,1775230781,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1300357912,Arkmine,230,Antimatter Charge M,50000,31.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:45:00,1775235587,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90482428,Kei Korono,230,Antimatter Charge M,48000,31.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:54:00,1775241857,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,144515841,Helenna,14278,200mm Prototype I Gauss Gun,1,3100102.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-04 23:56:00,1775243892,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90524452,Reaper Chambers,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:04:00,1775249542,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90190978,Ayatollah Ali,223,Iron Charge M,2500,13.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:15:00,1775257314,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,261460117,TOM1977,2333,Survey Scanner II,1,998542.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:16:00,1775258115,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90533044,Gudrian Genesis,5627,Local Hull Conversion Overdrive Injector I,1,199998.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:17:00,1775258857,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,162294607,salids,14278,200mm Prototype I Gauss Gun,1,2908124.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:19:00,1775260465,buy,60011980,Eglennaert I - Moon 4 - Federal Intelligence Office Logistic Support,742581298,Cyris Maleus,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:43:00,1775277001,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,924015409,Brax Kilton,6173,Optical Tracking Computer I,1,120027.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:53:00,1775284097,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1422551559,Tomdewer,656,Iteron Mark IV,1,699999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:55:00,1775285533,buy,60011566,Bourynes VII - Moon 2 - University of Caille School,1455286084,DouDirty,12206,Medium Railgun Specialization,1,2000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 00:59:00,1775288032,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,398460177,Radar59,12206,Medium Railgun Specialization,1,2000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 01:06:00,1775292766,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,936717605,Calligular,31360,Medium Ancillary Current Router I,1,4000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 01:17:00,1775300875,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1194769195,Chiyoe Sai,31117,Small Cargohold Optimization I,3,669990.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 01:24:00,1775305524,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,912655677,Tamidin,6173,Optical Tracking Computer I,1,120027.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 01:44:00,1775318871,buy,60011863,Eglennaert I - Moon 1 - Federation Navy Assembly Plant,710250726,Spivakk,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 02:08:00,1775335094,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90226466,Reaviin,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 02:11:00,1775336564,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1403150680,zoxan85,31117,Small Cargohold Optimization I,2,669990.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 02:26:00,1775347137,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,337311556,White outt,12206,Medium Railgun Specialization,1,2000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 02:43:00,1775357314,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,859927024,shikyotokei,17478,Retriever,1,4799596.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 02:52:00,1775362700,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90567500,Phi Long Tran,2333,Survey Scanner II,1,998542.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 03:28:00,1775385839,buy,60011926,Decon VI - Moon 10 - Federal Intelligence Office Assembly Plant,90603465,Nacien Gallente,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 03:54:00,1775401622,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90472629,Marcus deXeres,6173,Optical Tracking Computer I,1,120027.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 03:58:00,1775404107,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90554925,Dakota Lanning,223,Iron Charge M,15,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 04:03:00,1775406496,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1931395277,sererita,652,Mammoth,1,789002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 04:06:00,1775408577,buy,60011926,Decon VI - Moon 10 - Federal Intelligence Office Assembly Plant,90603465,Nacien Gallente,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 04:25:00,1775419017,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90250647,Nyrmar,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 04:31:00,1775422283,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90250647,Nyrmar,6173,Optical Tracking Computer I,1,100000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 06:03:00,1775474004,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,1409616344,Trentster,14278,200mm Prototype I Gauss Gun,1,2908124.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 06:23:00,1775484399,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90317317,Liz en Marland,6173,Optical Tracking Computer I,2,100000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 06:24:00,1775484927,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,886687417,BlackThug,31117,Small Cargohold Optimization I,1,669990.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 07:00:00,1775503519,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,824627936,Marcus Nettron,223,Iron Charge M,160,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 07:11:00,1775509173,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90490168,Micha Bundakov,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 07:16:00,1775511488,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90503943,Graf Aideron,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 07:53:00,1775529127,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90454769,XLeprechaun Ellecon,4575,Medium Automated I Carapace Restoration,1,1245999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 08:04:00,1775534687,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,271160368,Jinx Ritt,34,Tritanium,565519,3.21,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 08:43:00,1775554154,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,607250134,Crate88,223,Iron Charge M,8740,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 08:56:00,1775562238,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1742945769,XYZabcABCxyz,34,Tritanium,434482,3.20,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 09:27:00,1775578186,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90147614,Ty Varrock,17366,Station Container,2,15000.04,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 10:05:00,1775597489,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,782976236,Markim28,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 10:15:00,1775602709,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,389966855,xxswordshotxx,12206,Medium Railgun Specialization,1,2000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 11:57:00,1775636430,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90579231,Morrigan Chieve,17940,Mining Barge,1,155010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 12:06:00,1775639910,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,589197477,Shinsuke Kitsuda,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 12:45:00,1775658861,buy,60002476,Vittenyn IV - Moon 6 - Expert Distribution Warehouse,90441467,Klein Venijn,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 12:55:00,1775665310,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1743724056,Pesh AK,223,Iron Charge M,1,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 13:12:00,1775675006,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,898158870,Olivier Lenheim,10225,Social Adaptation Chip - Standard,1,18000000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 15:23:00,1775766844,sell,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,112240306,Wieczny robol,656,Iteron Mark IV,1,700000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 15:24:00,1775767872,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90073073,Lookintothedarkness,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 15:57:00,1775793844,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90368703,Boonga boonga Sexton,12206,Medium Railgun Specialization,1,2000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 16:07:00,1775801602,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90578167,Teezea Evotori,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 16:27:00,1775818841,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90401162,Phillip Phyx,223,Iron Charge M,10000,13.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 16:54:00,1775842300,buy,60011788,Jel VI - Federation Navy Logistic Support,799689185,Xcercs Kitriana,223,Iron Charge M,4760,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 16:57:00,1775844467,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,90262442,Freedom1987,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 16:58:00,1775846054,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90253613,Kekropas,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 17:43:00,1775887931,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,549637886,Abishtar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 17:44:00,1775888638,sell,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1768762944,Matvey KOB,656,Iteron Mark IV,1,700000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 17:52:00,1775896366,sell,60010924,Fricoure VIII - Moon 3 - Duvolle Laboratories Factory,686050413,LMCO,656,Iteron Mark IV,1,700000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 18:29:00,1775934730,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,478435230,Danielle Devereaux,223,Iron Charge M,1000,13.19,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 19:40:00,1776005682,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90084298,P Marshall,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 19:45:00,1776010724,sell,60011578,Egghelende V - Moon 13 - University of Caille School,90539427,Spader Dam,657,Iteron Mark V,1,1000000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 20:02:00,1776028664,buy,60011788,Jel VI - Federation Navy Logistic Support,431251977,Isild,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 20:06:00,1776033637,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,519641741,Wolfe Guildenstern,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 20:30:00,1776059097,buy,60009595,Aufay I - Astral Mining Inc. Mining Outpost,332294650,Riccardo Paletti,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 20:52:00,1776082427,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,494114309,Miss Deathwhisper,230,Antimatter Charge M,710,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 20:53:00,1776083032,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,1110042740,Ravenssong,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:02:00,1776092219,buy,60003577,Claysson IV - Moon 1 - Caldari Business Tribunal Information Center,90491749,Peter Kion,223,Iron Charge M,68,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:05:00,1776094945,buy,60010312,Junsoraert XI - Moon 9 - Roden Shipyards Factory,90521928,Souichiro Suigetsu,17471,Dense Veldspar,129,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:15:00,1776104167,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,1150486006,wora85,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:17:00,1776106239,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1768341470,Beerbrawler,655,Iteron Mark III,1,549999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:20:00,1776109583,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90186801,Shizuichi Yamamoto,17940,Mining Barge,1,155010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:23:00,1776112402,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,1719740372,Caiphas Kaitru,14278,200mm Prototype I Gauss Gun,1,2908124.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:27:00,1776116270,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90409783,Keegan Kardacian,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:28:00,1776117085,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1533719793,Gunner Freels,12099,Battlecruisers,1,1038747.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:30:00,1776119324,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90422761,Gesar Soulcaptor,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:37:00,1776125263,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90084298,P Marshall,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:41:00,1776129744,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,958466897,milom,14278,200mm Prototype I Gauss Gun,1,3100104.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 21:58:00,1776144689,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,570389787,necro guy,657,Iteron Mark V,1,1146999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 22:01:00,1776147532,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90593667,Kirby Kantara,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 22:33:00,1776175688,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1490854699,Zosius,3307,Large Hybrid Turret,1,2239957.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 22:35:00,1776177779,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,809351457,moco23,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-05 23:33:00,1776223113,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1682691285,theUbermann,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:27:00,1776262414,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,174302498,Fieldmarshal,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:29:00,1776264251,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,685630574,phalanx warriorll,11174,Keres,1,11207002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:39:00,1776271484,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,584366018,LocarockChicka,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:45:00,1776274997,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1431911917,Anencephale,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:47:00,1776276058,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1926129149,Pleniers,3540,Large Armor Repairer II,2,1291112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:48:00,1776276574,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,769109599,Jordan Frost,2032,Cap Recharger II,4,605999.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 00:51:00,1776278547,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1156200329,Oro Saintsburg,24700,Myrmidon,1,30501007.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:03:00,1776286559,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90339001,Thrans Hariere,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:04:00,1776286774,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90396232,Beodude Theman,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:13:00,1776291994,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1354004554,Capt Blackjack,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:18:00,1776294815,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,847378941,Tanya Tucker,10225,Social Adaptation Chip - Standard,1,19884499.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:34:00,1776304984,buy,60009364,Gallareue I - Federal Freight Storage,90589248,Ghost Rider Deninard,223,Iron Charge M,2782,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:35:00,1776305881,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1829907626,Ceglin Varl,2032,Cap Recharger II,4,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:38:00,1776307697,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90570683,Enoch Root Cryptos,2032,Cap Recharger II,1,604999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:43:00,1776310659,buy,60011584,Ney IV - University of Caille School,90536731,MissRaven Ohaya,17940,Mining Barge,1,155010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:44:00,1776311267,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,927418072,Grumbo,17482,Strip Miner I,1,1440011.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:46:00,1776312493,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1236602145,LonePaws,31360,Medium Ancillary Current Router I,2,5699991.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:52:00,1776316143,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1236602145,LonePaws,31360,Medium Ancillary Current Router I,1,5699991.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 01:58:00,1776320170,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,260844892,MAPUHO4KA,31360,Medium Ancillary Current Router I,1,5699992.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:08:00,1776326499,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,573789000,Zadaka,230,Antimatter Charge M,8733,27.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:13:00,1776330137,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1197180118,Krohnan,1978,Tracking Computer II,2,952001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:23:00,1776337052,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1509733736,AllenthatGuy1,3540,Large Armor Repairer II,1,1291112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:27:00,1776339663,buy,60009682,Vylade IV - Moon 16 - Astral Mining Inc. Mineral Reserve,2013925786,Joel Stroetzel,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:43:00,1776349628,buy,60015013,Odotte III - University of Caille School,90541691,Sean Lukas,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:50:00,1776354388,buy,60003568,Stetille IX - Moon 7 - Caldari Business Tribunal,1793334122,Britzban,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 02:55:00,1776357018,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90583845,Cirkee Savari,3332,Gallente Cruiser,1,464999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 03:03:00,1776361884,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,316997152,Scyntex,2333,Survey Scanner II,1,650927.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 03:09:00,1776366479,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90595245,Major Rachel Maddow,627,Thorax,1,5820058.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 03:11:00,1776367387,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,263756999,Admiral Kandros,12099,Battlecruisers,1,710020.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 03:22:00,1776374773,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,1047348077,Kazzic Dalyinn,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 03:26:00,1776377664,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,2038971854,Thonawit,3540,Large Armor Repairer II,1,1291112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 03:54:00,1776394796,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90380657,zlayer moh,31360,Medium Ancillary Current Router I,1,4800010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 04:15:00,1776407537,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90572624,Asrien Smarte,31117,Small Cargohold Optimization I,2,669989.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 04:48:00,1776426165,buy,60011680,Brapelille IX - Moon 18 - Federal Administration Information Center,90250647,Nyrmar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 05:32:00,1776449096,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90494756,Maxwell Mayhem,24700,Myrmidon,1,31979589.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 05:47:00,1776456422,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,682181680,Hambron,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 05:58:00,1776462383,buy,60009421,Brapelille IV - Moon 2 - Federal Freight Storage,90496403,Brock Kingslayer,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 07:35:00,1776513133,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90570683,Enoch Root Cryptos,3454,High Speed Maneuvering,3,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 08:09:00,1776529019,sell,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,791504044,D'Lorn Kajarn,656,Iteron Mark IV,1,700000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 08:16:00,1776532569,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1919946830,Khando Khan,627,Thorax,1,5820058.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 08:22:00,1776535685,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1795016047,Jonmelis,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 08:42:00,1776545457,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,958466897,milom,11200,Taranis,1,12560012.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 19:00:00,1776558166,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,191226107,snope,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 19:08:00,1776561524,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90548262,Nysas Valk,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 19:38:00,1776580683,buy,60010351,Jel I - Roden Shipyards Warehouse,720657635,Captain Zao,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 19:39:00,1776581501,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90494239,Victrix Solette,627,Thorax,1,5820058.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 19:52:00,1776590706,buy,60012040,Misneden IV - Moon 2 - Federation Customs Testing Facilities,90571079,Corpus Callosum Amatin,17940,Mining Barge,1,155010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 20:06:00,1776601169,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90422761,Gesar Soulcaptor,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 20:49:00,1776638409,buy,60003556,Pozirblant VIII - Moon 2 - Caldari Business Tribunal Information Center,90491749,Peter Kion,223,Iron Charge M,55,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 20:59:00,1776647399,buy,60011566,Bourynes VII - Moon 2 - University of Caille School,90572912,james kilcoyne,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:09:00,1776655570,buy,60010582,Pulin V - Moon 8 - Egonics Inc. Development Studio,90198435,Bummper,652,Mammoth,1,789002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:25:00,1776670154,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90390894,Traya Anylis,20,Kernite,6819,158.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:28:00,1776673452,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1289646216,DreadNaught 723,2048,Damage Control II,1,610081.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:30:00,1776674780,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,302084400,QuiLeto Kyja,5683,Medium Inefficient Hull Repair Unit,1,150000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:36:00,1776680708,buy,60011566,Bourynes VII - Moon 2 - University of Caille School,635720028,Kouval,2032,Cap Recharger II,3,527111.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:37:00,1776681472,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,108115856,virxens,2048,Damage Control II,1,610081.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:43:00,1776686858,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,108115856,virxens,626,Vexor,1,3202008.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:52:00,1776694988,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,477754937,Aaliane,3540,Large Armor Repairer II,1,1291113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 21:57:00,1776699056,buy,60015013,Odotte III - University of Caille School,932541023,Mace Walerian,3307,Large Hybrid Turret,1,1050052.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 22:07:00,1776707832,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90571128,Castor Wonderush,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 22:09:00,1776709531,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90247385,GregAlex,11105,Magnetic Vortex Stabilizer I,1,430003.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 22:58:00,1776728297,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,936717605,Calligular,2048,Damage Control II,3,522103.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:23:00,1776738855,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,309549708,Tough Won,37,Isogen,6,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:25:00,1776739742,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1978284406,Sera Therdon,37,Isogen,3620,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:32:00,1776743417,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1141011919,Knnes,16229,Brutix,1,20100006.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:35:00,1776744955,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,684939362,Ashley05,3540,Large Armor Repairer II,2,1291113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:37:00,1776746242,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1462492085,Ashley01,3540,Large Armor Repairer II,2,1291113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:38:00,1776746803,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1462492085,Ashley01,2048,Damage Control II,3,610081.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:49:00,1776753319,buy,60011842,Caretyn VII - Moon 13 - Federation Navy Assembly Plant,1309241320,Biohazard 469,626,Vexor,1,3016140.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:50:00,1776753961,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1941350280,Ace Noble,627,Thorax,1,5300051.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-06 23:56:00,1776757477,buy,60015016,Trossere VII - Moon 3 - University of Caille School,1431555589,Fat Won,626,Vexor,1,3016140.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:01:00,1776760554,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,873910394,Makin' Iskies,657,Iteron Mark V,3,1147777.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:05:00,1776762975,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,528712683,Mutenok,10208,Memory Augmentation - Standard,1,18388600.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:10:00,1776766601,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1848348581,Murlag,15508,Vespa I,4,12735.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:14:00,1776768294,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,1319725141,INKA SOMO,37,Isogen,301,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:15:00,1776769005,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,1319725141,INKA SOMO,223,Iron Charge M,60,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:20:00,1776771874,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90589979,Vilo Thellere,37,Isogen,111,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:26:00,1776775685,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,1319725141,INKA SOMO,37,Isogen,621,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:31:00,1776778629,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1836416012,Little Gear,37,Isogen,3685,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:35:00,1776780373,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,832603989,Lord Bantal,652,Mammoth,1,1219995.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:38:00,1776781800,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1319725141,INKA SOMO,11200,Taranis,1,13796443.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:41:00,1776783635,buy,60010927,Ainaille VII - Moon 5 - Duvolle Laboratories Factory,90539907,Marcella Moreau,37,Isogen,300,75.45,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:43:00,1776785213,buy,60009586,Aufay IV - Moon 2 - Astral Mining Inc. Mining Outpost,90190978,Ayatollah Ali,37,Isogen,39,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 00:47:00,1776787324,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90564700,Hynee Whole,3332,Gallente Cruiser,1,301522.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:00:00,1776794693,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90114670,bub15,37,Isogen,2,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:02:00,1776795961,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,824627936,Marcus Nettron,627,Thorax,1,4808112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:03:00,1776796451,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,417085993,Shaklton,626,Vexor,1,3016140.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:06:00,1776798137,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,455933263,Vyl Belthran,37,Isogen,8,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:07:00,1776798718,buy,60011926,Decon VI - Moon 10 - Federal Intelligence Office Assembly Plant,1945371223,Cofresi78,37,Isogen,427,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:09:00,1776800028,buy,60009586,Aufay IV - Moon 2 - Astral Mining Inc. Mining Outpost,90190978,Ayatollah Ali,37,Isogen,1,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:18:00,1776805442,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1829907626,Ceglin Varl,11105,Magnetic Vortex Stabilizer I,3,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:22:00,1776807762,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90250647,Nyrmar,6173,Optical Tracking Computer I,1,100000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:29:00,1776811287,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90426251,Auhsoj Halldoro,37,Isogen,829,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:30:00,1776812105,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90553399,Drium Mirudraas,626,Vexor,1,3016140.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:36:00,1776815894,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90583845,Cirkee Savari,11105,Magnetic Vortex Stabilizer I,1,430003.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:42:00,1776819284,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90036108,Dingus Slackbladder,37,Isogen,1829,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:43:00,1776820239,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90554483,Danny Tekasui,37,Isogen,10,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:46:00,1776821935,buy,60003550,Pozirblant IV - Caldari Business Tribunal,90605042,Ayaiko Suzihara,37,Isogen,1,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:48:00,1776823664,buy,60003550,Pozirblant IV - Caldari Business Tribunal,90605042,Ayaiko Suzihara,37,Isogen,6,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:53:00,1776826459,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90566743,Intanar Benuse,37,Isogen,560,73.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:54:00,1776827186,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1182093845,Qrask,14278,200mm Prototype I Gauss Gun,1,2908125.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:57:00,1776829555,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,824627936,Marcus Nettron,626,Vexor,1,3016140.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 01:58:00,1776829669,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,2041485021,roxas121,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 02:02:00,1776832138,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,1164647574,Citika,17482,Strip Miner I,3,1280311.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 02:03:00,1776833151,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1514047646,Dinin Vorta,627,Thorax,1,4808112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 02:10:00,1776837800,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,908265269,Maximus Theodosius,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 02:26:00,1776847744,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1941200042,Suffo,31117,Small Cargohold Optimization I,1,669989.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 02:39:00,1776855987,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1783915939,Muad Fadan,2032,Cap Recharger II,3,530001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 02:53:00,1776863951,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1783915939,Muad Fadan,2032,Cap Recharger II,1,530001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:02:00,1776869757,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90554483,Danny Tekasui,11105,Magnetic Vortex Stabilizer I,3,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:09:00,1776874010,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,574310944,Velhenn Valron,2048,Damage Control II,1,610081.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:10:00,1776874165,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,574310944,Velhenn Valron,22542,Mining Laser Upgrade I,6,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:17:00,1776878257,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,559726903,Tyler42,2048,Damage Control II,1,672999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:19:00,1776879313,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90554483,Danny Tekasui,3888,Co-Processor II,1,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:23:00,1776881389,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1629694922,Sennka,2048,Damage Control II,1,672999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:24:00,1776882159,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1583535481,JASZ1965,2048,Damage Control II,1,672999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:30:00,1776885866,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90146131,Angkey,223,Iron Charge M,209,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:33:00,1776887390,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90582769,Uggie Ugines,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 03:51:00,1776898984,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1095643932,DethDodge,11174,Keres,1,17206998.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 04:06:00,1776907940,buy,60014713,Allebin VI - Federal Navy Academy School,90017037,MAKAPOIIIKA,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 04:07:00,1776908319,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,374021641,Slaith Firath,1944,Bestower,1,420000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 04:08:00,1776909171,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,580373233,MADMoot,2048,Damage Control II,7,610081.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 04:38:00,1776925991,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1363163728,Metsfanmax,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 04:46:00,1776929767,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,1719740372,Caiphas Kaitru,3888,Co-Processor II,1,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 05:07:00,1776940463,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1012118781,Odaa Nobunaga,12042,Ishkur,1,20700029.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 05:46:00,1776960061,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90434901,Shiara DeWilde,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 05:54:00,1776963940,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90384494,Ronin Lonewolf,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 06:44:00,1776986987,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1824300550,Phoenix Deux,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 06:46:00,1776988179,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90146131,Angkey,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 06:49:00,1776989721,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90606024,Lethal Raven,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 06:50:00,1776990546,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,190008118,Psykotic Menace,11105,Magnetic Vortex Stabilizer I,1,430003.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 07:01:00,1776995483,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90610391,Mad Ormand,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 07:14:00,1777001794,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90606024,Lethal Raven,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 07:30:00,1777009249,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,90277809,clarkonias,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 07:32:00,1777010054,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,90277809,clarkonias,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 08:10:00,1777027652,buy,60010948,Jel V - Duvolle Laboratories Factory,753039563,esaye,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 08:14:00,1777029896,sell,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90587933,KARINNA LINGERIE,655,Iteron Mark III,1,600000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 08:33:00,1777038885,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,90277809,clarkonias,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 08:38:00,1777041482,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,824627936,Marcus Nettron,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 08:41:00,1777043450,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90551363,fire bug Edier,37,Isogen,3807,75.45,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 08:59:00,1777051984,buy,60010930,Mirilene VIII - Moon 9 - Duvolle Laboratories Factory,286812672,MR PVC,627,Thorax,1,4808112.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 09:06:00,1777055516,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90550027,Draco X360 DRaconis,37,Isogen,141,75.45,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 09:18:00,1777061587,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,775350074,Tribun21,20,Kernite,231,126.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 09:31:00,1777068142,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90497076,Jim Pfaffenbach,2032,Cap Recharger II,3,602999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 09:37:00,1777071145,buy,60001867,Dodixie VIII - Moon 3 - Nugoeihuvi Corporation Development Studio,1833168244,SerDavosSeaworth,223,Iron Charge M,32,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 09:47:00,1777076672,buy,60015013,Odotte III - University of Caille School,116638894,Perkel,223,Iron Charge M,400,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 10:07:00,1777088166,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1320746641,Tweeny,3540,Large Armor Repairer II,2,1388890.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 10:20:00,1777094799,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,108242242,weebba,3540,Large Armor Repairer II,2,1388890.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 10:25:00,1777097563,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90539132,Merceger Brever,37,Isogen,11994,75.45,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 10:43:00,1777107110,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,587235963,Vaako Borealis,223,Iron Charge M,39,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 10:47:00,1777109201,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90422761,Gesar Soulcaptor,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 13:47:00,1777119818,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1804080941,Huk0JIaC,3540,Large Armor Repairer II,2,1388890.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 13:57:00,1777124908,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1296841689,Astereia Antiope,3540,Large Armor Repairer II,1,1388897.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 14:08:00,1777130539,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1043458906,Nadrl,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 14:19:00,1777137072,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,143764594,Cheest,16549,Military Connections,1,20999985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 14:28:00,1777142758,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90159516,Tookling,15508,Vespa I,1,12735.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 14:38:00,1777149456,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,1576169741,San Dok,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 14:46:00,1777155005,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,445032106,Ecliptic Misfit,3540,Large Armor Repairer II,2,1388890.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 14:49:00,1777157702,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1758843428,Shadowson1,20,Kernite,1581,158.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:04:00,1777168181,buy,60009523,Mormoen VI - Moon 20 - Material Acquisition Mining Outpost,1878133067,slotbanger666,17471,Dense Veldspar,63,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:21:00,1777181749,buy,60009682,Vylade IV - Moon 16 - Astral Mining Inc. Mineral Reserve,1140469058,Deyren,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:27:00,1777187033,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90598430,Marcus Eskew,37,Isogen,77,75.45,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:40:00,1777196775,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,178463281,Stiolypticus,3540,Large Armor Repairer II,1,1388890.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:42:00,1777198376,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1795016047,Jonmelis,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:51:00,1777204992,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90546333,Kazan GODLIKE,223,Iron Charge M,4259,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:52:00,1777205857,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,376576646,Jimmycs83,3540,Large Armor Repairer II,1,1388890.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 15:53:00,1777206262,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,376576646,Jimmycs83,5839,Internal Force Field Array I,1,20934998.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:03:00,1777214322,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90587888,Lythiane,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:09:00,1777218996,buy,60014716,Rancer VI - Moon 6 - Federal Navy Academy School,90599150,Ephedrine MDMA,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:17:00,1777226319,buy,60011845,Caretyn VII - Moon 18 - Federation Navy Assembly Plant,90583834,R4WT413NT,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:34:00,1777241082,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90182179,JackLawson,14278,200mm Prototype I Gauss Gun,1,5350254.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:42:00,1777248017,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,187117682,Tituss,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:46:00,1777251771,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90294433,NihonoDzoy,223,Iron Charge M,100,15.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 16:56:00,1777261324,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1359757521,Le'Nara,15508,Vespa I,1,12735.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:11:00,1777274129,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90611157,Romeo Kashada,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:22:00,1777284554,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1981201618,The Shift,37,Isogen,36292,76.38,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:26:00,1777289102,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,686517564,Chalenna,37,Isogen,13708,76.38,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:27:00,1777289502,buy,60009592,Aufay III - Moon 3 - Astral Mining Inc. Mining Outpost,571021435,Sudib,37,Isogen,97,69.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:28:00,1777291250,buy,60009598,Metserel V - Moon 8 - Astral Mining Inc. Mineral Reserve,90542486,Wolftinnis Tivianne,37,Isogen,1107,69.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:29:00,1777291786,buy,60009598,Metserel V - Moon 8 - Astral Mining Inc. Mineral Reserve,90542486,Wolftinnis Tivianne,37,Isogen,277,69.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:30:00,1777292450,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90399909,Hardsebby II,223,Iron Charge M,4736,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:47:00,1777308351,buy,60011023,Ation II - Moon 1 - FedMart Warehouse,509116661,Doug Stevens,37,Isogen,12577,69.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:52:00,1777313163,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,474443447,Dustin19kilo,223,Iron Charge M,20000,13.17,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 17:58:00,1777319914,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1903657068,Jarekcz,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:01:00,1777322702,buy,60001261,Fluekele IV - Moon 10 - Wiyrkomi Corporation Factory,844046246,Insanely genius,37,Isogen,35942,69.05,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:06:00,1777327793,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90032617,Herpius Derpiar,223,Iron Charge M,83815,13.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:13:00,1777334553,buy,60001867,Dodixie VIII - Moon 3 - Nugoeihuvi Corporation Development Studio,443775117,Leetha Layne,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:17:00,1777339196,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90599135,teale teale,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:18:00,1777339257,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90546109,Vitaliy Akimov,223,Iron Charge M,1500,13.17,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:22:00,1777343621,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,910739732,tropic64,223,Iron Charge M,5000,13.17,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:23:00,1777344149,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,113567571,Eshat,37,Isogen,46,75.46,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:43:00,1777364988,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1342824175,Wikket Mangled,14278,200mm Prototype I Gauss Gun,3,3128250.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 18:46:00,1777369008,sell,60010450,Augnais VI - Moon 1 - Poteque Pharmaceuticals Biotech Production,1257355006,cloud55111,656,Iteron Mark IV,1,700000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 19:17:00,1777400929,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90034308,Danzrickar,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 19:39:00,1777424232,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,90214471,Vargus Monty,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 19:48:00,1777433557,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1595968764,Saphronaa,223,Iron Charge M,10000,13.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 19:53:00,1777438515,buy,60011566,Bourynes VII - Moon 2 - University of Caille School,90534830,allenthatguy2 Khema,12099,Battlecruisers,1,710020.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 19:57:00,1777442223,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1664086725,Diurnambule,223,Iron Charge M,20000,13.50,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 20:19:00,1777465520,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1417000073,Iceprincess Fusion,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 20:25:00,1777471683,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,1707166400,unlimmitedz,20,Kernite,1,126.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 20:33:00,1777479632,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,214395384,Zymel,626,Vexor,2,3799899.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 20:50:00,1777497305,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90578701,Kuroken Armer,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 21:10:00,1777517568,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,1767067207,Aferon Crestinglight,37,Isogen,13,75.46,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 21:13:00,1777520842,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,545512152,Draconia Belladonna,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 21:14:00,1777521821,buy,60001861,Eglennaert I - Moon 17 - Nugoeihuvi Corporation Development Studio,1775542466,RequimusX,223,Iron Charge M,15,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 21:22:00,1777529017,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,995344552,Endrain,22542,Mining Laser Upgrade I,2,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 21:42:00,1777547095,buy,60010582,Pulin V - Moon 8 - Egonics Inc. Development Studio,1855936571,Black Belitt,20,Kernite,188,126.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 21:49:00,1777553303,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90612442,Kavren Indari,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 22:18:00,1777579402,buy,60010927,Ainaille VII - Moon 5 - Duvolle Laboratories Factory,90402808,Tom Hutchison,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 22:27:00,1777587404,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90398356,Kragrulla Cheub,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 23:10:00,1777621511,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90542217,Starcatcher Ivanov,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-07 23:11:00,1777622481,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,90495465,Martin Tochkov,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 00:42:00,1777687614,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1138934070,Caleren,40,Megacyte,1000,2751.12,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 00:50:00,1777693302,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90607850,Jakk Lemmont,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 00:54:00,1777695228,buy,60015031,Henebene V - Federal Navy Academy School,90316767,Galael N'Shaye,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 00:56:00,1777696780,buy,60009682,Vylade IV - Moon 16 - Astral Mining Inc. Mineral Reserve,1166234681,SeRvOfGoD,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 01:30:00,1777718151,sell,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1477969961,Kilrayn,655,Iteron Mark III,1,580000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 01:33:00,1777719906,buy,60011431,Fluekele IV - Moon 1 - Pend Insurance Investment Bank,1592938667,groundpilot1,1319,Expanded Cargohold II,3,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 01:46:00,1777727575,buy,60014740,Balle VII - Moon 17 - Center for Advanced Studies School,90551363,fire bug Edier,37,Isogen,3622,75.46,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 02:13:00,1777745612,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,954113812,ghostwarrr,15508,Vespa I,2,12735.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 02:44:00,1777764866,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1090996753,Hitoke,14278,200mm Prototype I Gauss Gun,1,3128124.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 02:54:00,1777771299,buy,60011977,Eglennaert I - Moon 14 - Federal Intelligence Office Assembly Plant,90584903,Somtad Menyo,633,Celestis,1,2500007.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 03:10:00,1777781900,buy,60012043,Foves VII - Moon 10 - Federation Customs Assembly Plant,1066182374,Redwedge,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 03:12:00,1777783455,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1284943641,Brian Pokladek,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 03:19:00,1777788090,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90367033,Kyle Swann Swann,31119,Medium Cargohold Optimization I,1,2760006.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 03:39:00,1777800308,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,90107076,Requiem Namaste,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 03:43:00,1777802934,buy,60005620,Parchanier VI - Core Complexion Inc. Warehouse,90396978,Exterminator ICE,1319,Expanded Cargohold II,2,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 03:48:00,1777805801,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90473633,Steeg Hakaari,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 04:12:00,1777819374,sell,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90363128,Cerronus Darklighter,655,Iteron Mark III,1,575000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 04:43:00,1777837072,buy,60011980,Eglennaert I - Moon 4 - Federal Intelligence Office Logistic Support,90506828,Harrysachs,223,Iron Charge M,1000,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 04:45:00,1777838270,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90595606,Morgana Mikakka,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 04:48:00,1777839751,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1148958619,Anuvial Mastrid,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 05:03:00,1777848358,buy,60009937,Old Man Star VIII - Moon 1 - Quafe Company Warehouse,90082156,Cysy,226,Lead Charge M,100,21.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 05:15:00,1777854650,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90383817,Steener Nosha,226,Lead Charge M,100,21.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 05:36:00,1777867647,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1403563887,Sennzon,2185,Hammerhead II,8,581001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 05:57:00,1777878890,buy,60010582,Pulin V - Moon 8 - Egonics Inc. Development Studio,90153960,Relden Vek,2185,Hammerhead II,20,460001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 06:00:00,1777880736,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,217053382,Grimmnon,3888,Co-Processor II,1,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 06:08:00,1777885415,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1974048569,Hellsbain,223,Iron Charge M,84,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 06:24:00,1777893439,buy,60010348,Jel VIII - Moon 12 - Roden Shipyards Factory,90105966,Braillan,223,Iron Charge M,4348,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 06:27:00,1777894956,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,90463533,Thomas Grap,1319,Expanded Cargohold II,1,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 06:43:00,1777903309,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,422555517,Kayrne,2185,Hammerhead II,5,581001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 06:51:00,1777907161,buy,60011683,Brapelille IV - Moon 2 - Federal Administration Bureau Offices,90250647,Nyrmar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 07:20:00,1777923092,sell,60009682,Vylade IV - Moon 16 - Astral Mining Inc. Mineral Reserve,90531651,Death WarrantZ,655,Iteron Mark III,1,575000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 07:30:00,1777928025,buy,60011788,Jel VI - Federation Navy Logistic Support,90299762,Senzuala30,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 07:47:00,1777937643,buy,60011749,Luminaire VII (Caldari Prime) - Moon 6 - Federation Navy Assembly Plant,1887149075,Elim Terok,226,Lead Charge M,100,21.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 08:03:00,1777946492,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1715176309,55kakamakaka55,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 08:10:00,1777950103,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,130451722,Andromedalis,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 08:50:00,1777970420,buy,60011428,Augnais VIII - Moon 14 - Pend Insurance Investment Bank,145067534,Itburnz,1319,Expanded Cargohold II,4,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 09:01:00,1777976500,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90392183,Hercemer Erquilenne,223,Iron Charge M,3543,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 09:45:00,1778000945,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,469988153,Souleater001,2032,Cap Recharger II,1,602997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 09:50:00,1778003286,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90424613,Johen Croes,2032,Cap Recharger II,2,602997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 09:51:00,1778004107,buy,60015013,Odotte III - University of Caille School,90378522,Traidenis Rotineque,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 09:55:00,1778006164,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,736558197,Takezo shinmen,2032,Cap Recharger II,4,602997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 09:59:00,1778008057,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,736558197,Takezo shinmen,2032,Cap Recharger II,1,602997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 10:09:00,1778012999,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1347159318,Apollo 0zope,2032,Cap Recharger II,1,610000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 10:14:00,1778015496,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90152675,kornach,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 10:25:00,1778021526,buy,60011845,Caretyn VII - Moon 18 - Federation Navy Assembly Plant,90131536,Maximus Chaos,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 10:54:00,1778037252,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90586889,bobby bobson bobbingtons,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 11:46:00,1778045008,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90097213,Ursidal,2185,Hammerhead II,1,637999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 12:22:00,1778060689,buy,60011584,Ney IV - University of Caille School,90557213,marplot a,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 12:26:00,1778062856,buy,60011800,Jel V - Federation Navy Logistic Support,90387878,Auxence,223,Iron Charge M,1089,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 13:30:00,1778104786,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1515560975,Jack Salvedor,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 13:39:00,1778110685,buy,60011746,Mies V - Moon 3 - Federation Navy Assembly Plant,90348078,SiDneY Lafisques,226,Lead Charge M,100,21.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 14:08:00,1778131147,buy,60015049,Synchelle I - Federal Navy Academy School,90500165,Jags Vaye,226,Lead Charge M,601,21.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 14:26:00,1778144194,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,1340222745,Nebulas Licht,223,Iron Charge M,400,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 14:36:00,1778151084,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,957114114,Riuknarutschi,226,Lead Charge M,1001,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 14:59:00,1778168725,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1002863089,Luke Di'immunda,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 15:27:00,1778191840,buy,60011935,Villore VIII - Moon 7 - Federal Intelligence Office Logistic Support,515556568,Nakal OXIS,226,Lead Charge M,842,21.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 15:57:00,1778217164,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1440336507,Gracewei,2185,Hammerhead II,12,637999.71,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 16:24:00,1778239520,buy,60010582,Pulin V - Moon 8 - Egonics Inc. Development Studio,981051417,Jigfrog,20,Kernite,100,126.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 16:53:00,1778263983,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,2056506789,Iridescent klr,22542,Mining Laser Upgrade I,2,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 16:57:00,1778268154,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,414978439,Verum Custodis,12042,Ishkur,1,21994999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 17:16:00,1778283651,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,965230679,Raylet de'Kroschel,31372,Medium Capacitor Control Circuit I,5,1749989.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 18:37:00,1778360581,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90568832,henniball,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 18:39:00,1778362736,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90057520,AdrenolinRAA,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 18:45:00,1778368973,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,90463365,Era Inko,223,Iron Charge M,24500,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 18:56:00,1778380805,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,952980183,fakadakalaka,3454,High Speed Maneuvering,1,160010.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 19:03:00,1778387250,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,932739825,tiju,633,Celestis,1,2500007.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 19:19:00,1778403159,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90012873,1iMeshick,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 19:26:00,1778410595,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90374191,Ultrawiesel Hansgar,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 20:07:00,1778455231,buy,60009592,Aufay III - Moon 3 - Astral Mining Inc. Mining Outpost,571021435,Sudib,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 20:29:00,1778478452,buy,60009679,Eglennaert I - Moon 6 - Astral Mining Inc. Mineral Reserve,90438099,Faelina Monorailcat,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 20:36:00,1778485844,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90011277,XDarkSphereX,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 21:05:00,1778516514,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,1561177570,Throngal,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 21:12:00,1778522960,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90531433,DRAY osins,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 21:33:00,1778543813,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,2018892066,Cebe Ijay,3332,Gallente Cruiser,1,457999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 21:38:00,1778549323,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,251625387,Maya Sirius,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 21:49:00,1778559892,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1644600787,razor13,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 21:56:00,1778566688,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90121140,Iizuka Tatsuki,20,Kernite,20,126.14,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 22:19:00,1778588814,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,90262442,Freedom1987,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 22:23:00,1778593128,buy,60011788,Jel VI - Federation Navy Logistic Support,90491569,Shivanna Drachenblut,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 23:09:00,1778631820,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,178593498,Furious Maximilian,12042,Ishkur,1,19128124.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-08 23:45:00,1778660281,buy,60005791,Adrallezoen VI - Moon 1 - Freedom Extension Storage,863061367,trotsve,6173,Optical Tracking Computer I,1,100000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 00:14:00,1778683222,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90552225,barry 68,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 00:27:00,1778693080,sell,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,594001979,Gregnak,655,Iteron Mark III,1,595000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 00:29:00,1778694466,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1760430039,Jaramiah,223,Iron Charge M,9508,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 00:44:00,1778705148,buy,60001864,Dodixie IX - Moon 9 - Nugoeihuvi Corporation Development Studio,90321946,Joe Andedare,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 00:56:00,1778713103,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,658583780,Gosdins,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 00:59:00,1778715570,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,490493581,Matt Woodard,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 01:02:00,1778717556,buy,60011788,Jel VI - Federation Navy Logistic Support,686039555,Joe Bullet,652,Mammoth,1,789023.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 01:08:00,1778721769,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,800709001,Bhoriss ViAhn,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 01:33:00,1778738881,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90534968,Larry serad,22542,Mining Laser Upgrade I,7,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 01:39:00,1778742452,buy,60011431,Fluekele IV - Moon 1 - Pend Insurance Investment Bank,1237782593,Gallius Vale,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 02:11:00,1778763282,buy,60011929,Aufay V - Moon 1 - Federal Intelligence Office Testing Facilities,1385237995,Takind,1319,Expanded Cargohold II,1,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 03:20:00,1778807032,sell,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1598150323,Sociogogue,1944,Bestower,1,825000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 03:28:00,1778811987,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90317317,Liz en Marland,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 03:32:00,1778814710,buy,60012040,Misneden IV - Moon 2 - Federation Customs Testing Facilities,90022119,Lord J'Lynn,652,Mammoth,1,700000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 03:54:00,1778829368,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,90481769,Jantiff Ravensroke,223,Iron Charge M,400,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 04:29:00,1778849940,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1148958619,Anuvial Mastrid,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 05:12:00,1778876263,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,90600181,Navir Nazra,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 05:40:00,1778893498,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1868806573,Chuckmandoo,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 07:29:00,1778968086,sell,60009691,Eglennaert I - Moon 12 - Astral Mining Inc. Mineral Reserve,90619992,Syril Marken,1944,Bestower,1,825000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 08:49:00,1779023073,buy,60011131,Alillere IV - Aliastra Retail Center,90277809,clarkonias,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 08:56:00,1779028220,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90485271,Drake Tomra,6173,Optical Tracking Computer I,1,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 09:42:00,1779061910,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1081694890,Saulstarinsh,633,Celestis,1,3080000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 10:01:00,1779076581,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1097776595,Tyhr Ursus,6173,Optical Tracking Computer I,2,121024.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 10:26:00,1779097059,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90229581,Battleheyz,10225,Social Adaptation Chip - Standard,1,18006001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 10:39:00,1779107027,buy,60010927,Ainaille VII - Moon 5 - Duvolle Laboratories Factory,892658955,ArchangelJ,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 10:48:00,1779115229,buy,60011800,Jel V - Federation Navy Logistic Support,1820993793,yoombi,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 12:40:00,1779171066,buy,60010450,Augnais VI - Moon 1 - Poteque Pharmaceuticals Biotech Production,90018105,Cloefoxy,1319,Expanded Cargohold II,5,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 13:11:00,1779195658,buy,60001261,Fluekele IV - Moon 10 - Wiyrkomi Corporation Factory,198237361,Asch'u Vildar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 14:17:00,1779254644,buy,60011800,Jel V - Federation Navy Logistic Support,90493615,Mira Hakuli,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 14:44:00,1779279857,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,964187452,Brother Ka,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 15:18:00,1779312639,buy,60011788,Jel VI - Federation Navy Logistic Support,1505296075,Tioden Amatre,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 15:45:00,1779340782,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,536426545,stevblot,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 16:09:00,1779366430,buy,60010726,Doussivitte VIII - Moon 20 - Chemal Tech Factory,1173162911,Charlie Crye,223,Iron Charge M,400,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 16:41:00,1779400357,buy,60009595,Aufay I - Astral Mining Inc. Mining Outpost,251625387,Maya Sirius,1319,Expanded Cargohold II,2,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 16:42:00,1779400818,buy,60011863,Eglennaert I - Moon 1 - Federation Navy Assembly Plant,2046973233,Josnas,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 16:47:00,1779406151,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90288688,Marcellini,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 16:55:00,1779414934,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1656483548,InSaNe ViRuS,633,Celestis,1,2500007.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 17:10:00,1779432508,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1920960026,Africannus,226,Lead Charge M,120,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 17:18:00,1779441718,buy,60011863,Eglennaert I - Moon 1 - Federation Navy Assembly Plant,130451722,Andromedalis,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 17:58:00,1779486587,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,193731438,Nathanael Ashcroft,1319,Expanded Cargohold II,2,515262.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 18:32:00,1779522431,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90613845,Caitlyn Thellere,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 18:42:00,1779534055,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90598865,Menso Caecitas,14278,200mm Prototype I Gauss Gun,4,3128126.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 20:01:00,1779620847,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90426010,Salvia Griffin Nutmeg,223,Iron Charge M,2,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 20:13:00,1779633375,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1189591358,Darsoom,223,Iron Charge M,400,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 20:28:00,1779651128,buy,60011860,Eglennaert I - Moon 16 - Federation Navy Logistic Support,2063980287,Thug Luv,14278,200mm Prototype I Gauss Gun,1,2908125.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 20:33:00,1779656722,buy,60011578,Egghelende V - Moon 13 - University of Caille School,90500682,Kurt Dietrich,633,Celestis,1,2500007.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 20:54:00,1779679901,buy,60010930,Mirilene VIII - Moon 9 - Duvolle Laboratories Factory,668350440,vavooom,3888,Co-Processor II,1,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 21:34:00,1779724098,buy,60005794,Brapelille XI - Moon 1 - Freedom Extension Storage,877077146,Kon'loch Locaud,223,Iron Charge M,300,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 21:50:00,1779741747,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,455444854,crazy0146,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 21:59:00,1779750687,buy,60012607,Arnon IX - Moon 3 - Sisters of EVE Bureau,1677027338,Adder Draug,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 22:11:00,1779762591,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90500682,Kurt Dietrich,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 22:33:00,1779785586,buy,60009601,Adreland VI - Moon 8 - Astral Mining Inc. Refinery,893507735,Ahasal,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 22:48:00,1779800719,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,832603989,Lord Bantal,31360,Medium Ancillary Current Router I,2,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 22:56:00,1779808571,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1990043779,blake austin,31360,Medium Ancillary Current Router I,1,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:01:00,1779813409,buy,60010930,Mirilene VIII - Moon 9 - Duvolle Laboratories Factory,1526561985,yourmomsbox,3888,Co-Processor II,1,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:03:00,1779815024,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1990043779,blake austin,31360,Medium Ancillary Current Router I,2,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:07:00,1779818859,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1819203878,Shadow Sleuth,31360,Medium Ancillary Current Router I,1,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:14:00,1779825103,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,1298333967,Mautafa,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:16:00,1779827121,buy,60011140,Aymaerne VI - Moon 10 - Aliastra Warehouse,1563444495,zoldani,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:54:00,1779860103,buy,60011788,Jel VI - Federation Navy Logistic Support,1875686911,Al Zeeb,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:57:00,1779863060,sell,60010453,Audaerne X - Moon 3 - Poteque Pharmaceuticals Biotech Production,581980699,Citizen v03,657,Iteron Mark V,1,1200000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-09 23:58:00,1779863763,sell,60011137,Aurcel IV - Moon 17 - Aliastra Warehouse,90602500,William Dodd,1944,Bestower,1,825000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 00:07:00,1779870445,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,541666883,MBrandt,3454,High Speed Maneuvering,1,113000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 00:13:00,1779875896,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,667001058,sigma tomars,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 01:04:00,1779912943,buy,60010894,Trosquesere V - Moon 10 - Duvolle Laboratories Factory,90409412,lorily Huunuras,223,Iron Charge M,2882,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 01:05:00,1779914178,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,180614500,roboto212,31360,Medium Ancillary Current Router I,1,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 01:41:00,1779941022,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,757267297,Epoch X,31360,Medium Ancillary Current Router I,1,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 01:47:00,1779945242,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1900820728,Iceschade,14278,200mm Prototype I Gauss Gun,2,5350252.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 01:54:00,1779949430,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,855026656,DarkForsaken,31360,Medium Ancillary Current Router I,1,5699985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 02:13:00,1779962856,buy,60011737,Oursulaert VII - Moon 1 - Federation Navy Testing Facilities,867702389,Rasorow,226,Lead Charge M,40,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 02:20:00,1779967847,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,90517445,Affluenza,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 02:40:00,1779981357,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1472512249,venomtk,226,Lead Charge M,60,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 02:44:00,1779984718,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1472512249,venomtk,226,Lead Charge M,40,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 03:18:00,1780007887,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1233679195,chris 3051,3888,Co-Processor II,1,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 03:22:00,1780009763,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1900820728,Iceschade,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 03:24:00,1780011648,buy,60010351,Jel I - Roden Shipyards Warehouse,90592896,DObo Froust,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 03:58:00,1780032350,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90563976,Syllar Stobar,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 04:51:00,1780066659,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,550049460,Jaservin,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 05:23:00,1780085956,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,873515486,Jo Ginn,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 06:16:00,1780120157,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,1109861931,executedpizza,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 06:23:00,1780125073,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,90384494,Ronin Lonewolf,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 06:46:00,1780140651,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90323221,Ty Delaney,14278,200mm Prototype I Gauss Gun,1,5350252.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 07:08:00,1780156020,sell,60011980,Eglennaert I - Moon 4 - Federal Intelligence Office Logistic Support,2063980287,Thug Luv,655,Iteron Mark III,1,575000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 07:42:00,1780179902,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1836033138,Digital Flame,223,Iron Charge M,23,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 08:39:00,1780223368,buy,60009412,Brybier I - Moon 1 - Federal Freight Storage,90295442,Riuld1,223,Iron Charge M,1,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 08:56:00,1780237164,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,632828030,Alex Colton,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 09:07:00,1780245312,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1756725686,ix ir,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 09:42:00,1780273718,buy,60011875,Vylade VII - Moon 6 - Federation Navy Logistic Support,90294433,NihonoDzoy,223,Iron Charge M,73,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 10:49:00,1780332322,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90156870,XAOS1,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 11:17:00,1780343465,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,90497076,Jim Pfaffenbach,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 11:34:00,1780348051,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,739831727,Zivojin Misic,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 11:57:00,1780361832,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1846554714,Sallveis Alches,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 11:58:00,1780362454,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,383083949,mrs monster,22542,Mining Laser Upgrade I,3,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 12:00:00,1780363730,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,383083949,mrs monster,14278,200mm Prototype I Gauss Gun,3,2550001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 12:22:00,1780380132,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1865688120,AliasJayR,11105,Magnetic Vortex Stabilizer I,2,998893.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 12:30:00,1780386465,buy,60011131,Alillere IV - Aliastra Retail Center,1606341647,Slingbox,3888,Co-Processor II,2,600001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 12:40:00,1780395523,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90495177,Appice Moon,11105,Magnetic Vortex Stabilizer I,1,998893.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 12:48:00,1780402161,buy,60010351,Jel I - Roden Shipyards Warehouse,1034810392,Katzchenxx,2185,Hammerhead II,5,460001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 13:01:00,1780413387,buy,60009760,Adiere VI - Moon 4 - Combined Harvest Warehouse,90349829,Johnny Aideron,223,Iron Charge M,1836,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 13:13:00,1780424632,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,187117682,Tituss,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 13:19:00,1780430404,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1766116127,Red DragonZA,14278,200mm Prototype I Gauss Gun,5,5350249.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 13:40:00,1780449806,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90543171,Lobo Thibron,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 13:50:00,1780460759,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,547614558,Thunderer Saven,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 14:02:00,1780471256,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90564521,cpt Alexbogs,226,Lead Charge M,129,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 14:32:00,1780501296,buy,60011983,Auvergne V - Moon 5 - Federal Intelligence Office Assembly Plant,778577459,1strike,223,Iron Charge M,80,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 15:04:00,1780536193,buy,60011431,Fluekele IV - Moon 1 - Pend Insurance Investment Bank,210111610,tsukasa6,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 15:07:00,1780539181,buy,60010927,Ainaille VII - Moon 5 - Duvolle Laboratories Factory,90510037,Zeefa Fox,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 15:15:00,1780548082,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90578571,The Best Around,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 15:21:00,1780555044,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90483582,Walter Wixo,22542,Mining Laser Upgrade I,3,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 15:44:00,1780582029,buy,60009421,Brapelille IV - Moon 2 - Federal Freight Storage,1374588867,Ineedafacelift,2185,Hammerhead II,4,460001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 16:08:00,1780610347,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1479744843,DarkLord420,12042,Ishkur,1,20700032.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 16:32:00,1780639876,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90454756,smitkick Chastot,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 16:37:00,1780645230,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90376682,Tavarus Pendragon,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 16:53:00,1780664726,buy,60011038,Jel VIII - Moon 22 - FedMart Storage,604742996,Avidomaru,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 16:57:00,1780669340,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90142941,XxAyakashixX,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 16:59:00,1780672076,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,90402808,Tom Hutchison,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 17:02:00,1780675115,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,1461780627,Sophia Korolenkovitch,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 17:06:00,1780681020,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90525518,Mia Anstian,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 17:18:00,1780695043,buy,60011875,Vylade VII - Moon 6 - Federation Navy Logistic Support,506864610,SeoNiK,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 17:49:00,1780730947,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,90567595,Galrik Atruin,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 17:55:00,1780737690,buy,60011980,Eglennaert I - Moon 4 - Federal Intelligence Office Logistic Support,90492489,Shiina Akali,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 17:58:00,1780741699,buy,60002464,Pucherie IV - Moon 1 - Expert Distribution Warehouse,993151316,robert904,223,Iron Charge M,58,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 18:18:00,1780766901,buy,60011584,Ney IV - University of Caille School,1550197330,Sotorious II,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 18:25:00,1780775683,buy,60009652,Oursulaert VII - Moon 3 - Astral Mining Inc. Mining Outpost,90514572,Zeta Termium,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 18:32:00,1780785408,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90343158,Merle Arnoux,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 18:44:00,1780799769,buy,60010345,Egghelende VII - Moon 22 - Roden Shipyards Factory,1829512178,Jonny SixGun,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 19:08:00,1780829465,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1628288671,Dessimbela,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 19:26:00,1780853979,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,267657667,Xes3ethh,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 19:30:00,1780858564,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90447705,Mike Smertin,223,Iron Charge M,2161,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 19:40:00,1780872391,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1836416012,Little Gear,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 19:50:00,1780885004,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,611769037,Kusiychka,11105,Magnetic Vortex Stabilizer I,1,998895.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 19:53:00,1780888893,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90429845,Khraynik Amatin,11105,Magnetic Vortex Stabilizer I,1,998895.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 20:13:00,1780913685,buy,60011854,Mirilene IV - Moon 1 - Federation Navy Logistic Support,490493581,Matt Woodard,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 20:22:00,1780925629,buy,60002638,Sileperer IV - Moon 9 - Expert Distribution Warehouse,1456612885,xvjpf,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 20:25:00,1780929649,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,915326316,Calduil Martins,226,Lead Charge M,2000,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 20:39:00,1780946453,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90628498,Zootress,12099,Battlecruisers,1,710020.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 20:51:00,1780961792,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,563546599,LangolierSoldier,25544,Gas Cloud Harvesting,1,27555551.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:02:00,1780974684,buy,60014743,Ardene VIII - Moon 11 - Center for Advanced Studies School,90512562,Kej Lacitis,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:07:00,1780980895,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,284856791,spongyguy24,2032,Cap Recharger II,6,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:23:00,1781000280,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,1308911493,Quacker11,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:28:00,1781006833,buy,60011635,Aice II - Moon 1 - Federal Administration Information Center,2049534687,tony98,17471,Dense Veldspar,331,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:29:00,1781007562,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1496600355,Philmehupp,2032,Cap Recharger II,1,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:38:00,1781017396,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,146761741,Tos' Lavoch,1319,Expanded Cargohold II,2,595985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:41:00,1781020821,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,146761741,Tos' Lavoch,1319,Expanded Cargohold II,2,608955.73,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:42:00,1781022144,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,716966955,Nice Buttocks,2048,Damage Control II,1,744847.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:47:00,1781026806,buy,60011635,Aice II - Moon 1 - Federal Administration Information Center,2049534687,tony98,17471,Dense Veldspar,82,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:49:00,1781028510,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1629684660,Bluestone,2048,Damage Control II,1,744847.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:50:00,1781029265,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90084298,P Marshall,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:52:00,1781031797,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1848774308,Finchester,1319,Expanded Cargohold II,1,595999.98,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 21:53:00,1781032282,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90518365,Osmedenia Galla,1319,Expanded Cargohold II,3,595985.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 22:00:00,1781040275,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,1822445882,Seething Starlight,226,Lead Charge M,80,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 22:07:00,1781046970,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,528712683,Mutenok,1319,Expanded Cargohold II,1,595985.99,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 22:40:00,1781079847,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1802743788,Urdaset,2032,Cap Recharger II,10,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 22:42:00,1781081701,buy,60014698,Harerget II - Moon 1 - Federal Navy Academy School,90578044,Goru Draka,12099,Battlecruisers,1,600000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 22:43:00,1781083491,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,320970800,Midnight Halo,627,Thorax,1,5798665.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 22:57:00,1781096973,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,229237410,Blattpack,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 23:02:00,1781101061,buy,60011857,Pucherie VI - Moon 11 - Federation Navy Testing Facilities,2029626760,pr3dator727,223,Iron Charge M,23,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 23:04:00,1781103250,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,257618222,Kueyen,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 23:34:00,1781127877,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,908265269,Maximus Theodosius,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-10 23:49:00,1781141065,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90343158,Merle Arnoux,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 00:07:00,1781153979,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,753140836,Puhys,2333,Survey Scanner II,5,650929.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 00:09:00,1781155365,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90015344,Smackarooney,11105,Magnetic Vortex Stabilizer I,1,998894.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 00:13:00,1781157935,buy,60009682,Vylade IV - Moon 16 - Astral Mining Inc. Mineral Reserve,1431554991,Kirewark,223,Iron Charge M,4000,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 00:47:00,1781181973,buy,60010345,Egghelende VII - Moon 22 - Roden Shipyards Factory,1596064719,Red Dancer,223,Iron Charge M,24,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 00:48:00,1781182557,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,845663739,Pheonix Jr,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 00:52:00,1781185459,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90384239,Forgrum,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 01:01:00,1781191532,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1405817291,MrDifer,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 01:32:00,1781211808,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1002863089,Luke Di'immunda,14278,200mm Prototype I Gauss Gun,4,5349886.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 02:30:00,1781252560,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,924658137,Sylvie Falconer,2032,Cap Recharger II,1,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 02:32:00,1781253932,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,924658137,Sylvie Falconer,2032,Cap Recharger II,3,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 02:41:00,1781260028,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90506827,Maverick Andedare,11105,Magnetic Vortex Stabilizer I,1,998894.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 02:46:00,1781263362,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1254481368,Groo Wayward,22542,Mining Laser Upgrade I,1,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 03:00:00,1781272755,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90563923,Vin Aideron,17940,Mining Barge,2,599987.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 03:09:00,1781279392,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1181732686,magget,2032,Cap Recharger II,1,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 03:17:00,1781284559,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90419564,Blaze Aldatyme,226,Lead Charge M,200,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 04:03:00,1781314043,buy,60011869,Eglennaert I - Moon 4 - Federation Navy Assembly Plant,1148958619,Anuvial Mastrid,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 04:21:00,1781325785,buy,60009676,Agrallarier VIII - Moon 3 - Astral Mining Inc. Refinery,1106254758,Zh'Khraag,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 04:59:00,1781349653,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90485934,Maximus Meredius,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 05:02:00,1781351221,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90559826,Andre Corleone,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 05:16:00,1781358563,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1578723787,Sovic,14278,200mm Prototype I Gauss Gun,2,5349886.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 05:18:00,1781360112,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1719853699,Mayasign,2032,Cap Recharger II,1,443000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 05:47:00,1781375557,buy,60011920,Oursulaert VII - Moon 4 - Federal Intelligence Office Testing Facilities,908124143,Cythina Rybeck,226,Lead Charge M,500,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 06:45:00,1781405381,buy,60009415,Brapelille X - Moon 6 - Federal Freight Storage,90284505,Skarlet Winterwolf,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 07:24:00,1781425745,buy,60002464,Pucherie IV - Moon 1 - Expert Distribution Warehouse,90075684,Lelia Bringbitt,223,Iron Charge M,100,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 08:16:00,1781453194,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,663623830,DJMAZGAS,22542,Mining Laser Upgrade I,2,25113.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 08:36:00,1781464690,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,112357456,Talione,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 09:06:00,1781481069,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1766205216,Zeelich,626,Vexor,1,3210001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 09:10:00,1781483074,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,824627936,Marcus Nettron,223,Iron Charge M,200,9.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 09:26:00,1781491901,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1116455062,Fashugan,626,Vexor,1,3748968.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 09:38:00,1781498440,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,783506142,ibest1,14278,200mm Prototype I Gauss Gun,1,2552004.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 11:59:00,1781559010,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,843893885,Viper1366,626,Vexor,1,3748968.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 12:16:00,1781566555,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,843893885,Viper1366,3528,Medium Armor Repairer I,2,38925.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 13:12:00,1781598739,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90600100,Aust Padecain,633,Celestis,1,3149998.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 13:27:00,1781609122,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,867724338,VOC Silver,25266,Gas Cloud Harvester I,10,1670003.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 15:23:00,1781696109,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,1903314239,ZaidaXXX,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 15:49:00,1781718297,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,760942865,Kethas Protagonist,31360,Medium Ancillary Current Router I,1,4800000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 16:04:00,1781731301,buy,60011635,Aice II - Moon 1 - Federal Administration Information Center,2049534687,tony98,17471,Dense Veldspar,173,8.01,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 16:45:00,1781767934,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90425634,Arbitus Vexen,11105,Magnetic Vortex Stabilizer I,1,998894.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 16:55:00,1781777211,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90534448,Kitara Moonsoo,633,Celestis,1,2500007.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 17:08:00,1781790338,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,90226271,Calmcloud,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 17:54:00,1781836236,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1868806573,Chuckmandoo,25266,Gas Cloud Harvester I,4,1670003.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 18:47:00,1781892387,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90562707,Mofkees Aubaris,11105,Magnetic Vortex Stabilizer I,1,998895.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:04:00,1781909518,buy,60001225,Nausschie VI - Kaalakiota Corporation Factory,90408217,Den Psurcev,37,Isogen,2,77.52,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:06:00,1781911894,buy,60011875,Vylade VII - Moon 6 - Federation Navy Logistic Support,1241130419,Qraze,627,Thorax,1,4803123.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:11:00,1781917825,buy,60010351,Jel I - Roden Shipyards Warehouse,177573461,XeBRoDss,37,Isogen,1448,77.52,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:12:00,1781919008,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1492445061,AirAdriano88,37,Isogen,8550,77.52,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:17:00,1781924613,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90615017,Evelyne Solette,3332,Gallente Cruiser,1,589993.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:19:00,1781926415,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90531411,Lunar Strife,17478,Retriever,1,4749997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:25:00,1781932722,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,1431912968,Machagon,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:42:00,1781950771,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,267657667,Xes3ethh,3332,Gallente Cruiser,1,589993.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:47:00,1781955367,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90615246,Saint Drekkar Theron,12099,Battlecruisers,1,750000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 19:55:00,1781964301,sell,60010927,Ainaille VII - Moon 5 - Duvolle Laboratories Factory,1612291425,Thorado,655,Iteron Mark III,1,600000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 20:10:00,1781980239,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,701040681,Kapiza,5683,Medium Inefficient Hull Repair Unit,1,110002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 20:23:00,1781994423,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,90588712,staykata,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 20:31:00,1782002346,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,90587944,Maul Cesaille,627,Thorax,1,4803123.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 20:41:00,1782013297,buy,60011923,Grinacanne I - Federal Intelligence Office Assembly Plant,392491625,Serdarxxx,2185,Hammerhead II,5,460001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 20:50:00,1782022952,buy,60005620,Parchanier VI - Core Complexion Inc. Warehouse,994302169,korondipeter,11105,Magnetic Vortex Stabilizer I,1,300000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 20:52:00,1782025296,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1534669505,isamkarim,25266,Gas Cloud Harvester I,2,1670003.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 21:19:00,1782053788,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90241015,Chandoraa,31360,Medium Ancillary Current Router I,1,5299997.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:02:00,1782095430,buy,60005191,Adrallezoen V - Republic Security Services Logistic Support,1203848815,Fleximus Arctodus,627,Thorax,1,4803123.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:38:00,1782129636,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1441996346,Oldenfarten,2456,Hobgoblin II,20,365583.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:40:00,1782131015,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1959321449,Keyboardz,2048,Damage Control II,1,724777.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:44:00,1782133791,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1053351532,Guido13,1319,Expanded Cargohold II,6,530017.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:45:00,1782135105,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1053351532,Guido13,2048,Damage Control II,1,724777.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:47:00,1782136150,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90443871,Cassiel Angelica,2048,Damage Control II,1,724777.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:49:00,1782137777,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,695739491,Alisanos,2048,Damage Control II,1,724777.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 22:59:00,1782145249,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90594180,Skibac,22542,Mining Laser Upgrade I,1,40490.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:02:00,1782148018,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90375824,Icarus Valhalen,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:05:00,1782150684,buy,60011917,Oursulaert VII - Moon 2 - Federal Intelligence Office Testing Facilities,90576938,Iris Codie,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:07:00,1782152694,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90547146,Alonadaus zod,6173,Optical Tracking Computer I,3,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:08:00,1782152871,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90278590,likmenat,4573,Medium 'Accommodation' Vestment Reconstructer I,1,3577046.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:10:00,1782155196,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90600100,Aust Padecain,633,Celestis,1,3136973.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:19:00,1782162217,buy,60011791,Ation IX - Moon 4 - Federation Navy Logistic Support,693025130,Nikali,627,Thorax,1,4803123.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:24:00,1782166137,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90390894,Traya Anylis,2032,Cap Recharger II,2,451000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:32:00,1782172688,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90609583,Zethron Zalthazar,6173,Optical Tracking Computer I,1,635000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:36:00,1782175702,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1633798075,Elem Ental,6173,Optical Tracking Computer I,1,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:44:00,1782181991,buy,60011848,Vittenyn VI - Moon 13 - Federation Navy Assembly Plant,90278590,likmenat,2032,Cap Recharger II,1,443002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:49:00,1782185278,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1192652467,Ewo,6173,Optical Tracking Computer I,1,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:50:00,1782186127,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,693025130,Nikali,2185,Hammerhead II,7,587785.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-11 23:55:00,1782189770,buy,60011872,Aunia I - Moon 11 - Federation Navy Assembly Plant,90567464,tr33hugger,626,Vexor,1,3015150.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:02:00,1782195152,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1976861679,SecureContainer,3888,Co-Processor II,2,615122.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:05:00,1782197411,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90208538,El Diabs,22542,Mining Laser Upgrade I,1,40487.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:18:00,1782206085,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,579449908,Shortb Us,22542,Mining Laser Upgrade I,1,40487.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:19:00,1782206642,buy,60011797,Jel VIII - Moon 20 - Federation Navy Assembly Plant,693025130,Nikali,2032,Cap Recharger II,1,443002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:20:00,1782207714,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,996060525,fratx,2032,Cap Recharger II,11,451000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:21:00,1782208106,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90009425,Deimos Starshadow,2032,Cap Recharger II,2,451000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:22:00,1782208737,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90499362,AKITA MOIRAI,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:37:00,1782219146,buy,60011743,Oursulaert IV - Federation Navy Testing Facilities,90499362,AKITA MOIRAI,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:50:00,1782228448,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1668807581,Acoldwinter,31360,Medium Ancillary Current Router I,2,4500004.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:52:00,1782229663,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1153324911,GFY Rockhound,2032,Cap Recharger II,2,589408.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:53:00,1782230604,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90240126,Dementianos,2032,Cap Recharger II,2,589408.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:56:00,1782232670,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90284230,Darinath,2032,Cap Recharger II,1,610000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:57:00,1782233391,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,869525926,gxam,2032,Cap Recharger II,3,590000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:58:00,1782234299,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90240126,Dementianos,2185,Hammerhead II,2,612000.99,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 00:59:00,1782234919,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,268112483,Damorris Laht,31360,Medium Ancillary Current Router I,1,5299996.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 01:04:00,1782238392,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,781305359,Risika Mango,2032,Cap Recharger II,1,589408.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 01:13:00,1782245098,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90351942,Hanson Boirelle,31360,Medium Ancillary Current Router I,1,4500004.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 01:17:00,1782247601,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90219415,Scrivner,6173,Optical Tracking Computer I,2,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 01:19:00,1782249124,buy,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1647328173,DU LEY,2032,Cap Recharger II,1,451000.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 01:52:00,1782271073,buy,60012013,Oursulaert IX - Federation Customs Testing Facilities,1369129769,Leandssh Sidhe,226,Lead Charge M,100,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 01:57:00,1782274694,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1474065142,Nehebkau Fetkoz,6173,Optical Tracking Computer I,1,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 03:58:00,1782353721,buy,60011851,Fricoure VIII - Moon 2 - Federation Navy Assembly Plant,90500137,Blood Valentino,11105,Magnetic Vortex Stabilizer I,1,300001.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 04:58:00,1782388008,buy,60005617,Deltole III - Moon 1 - Core Complexion Inc. Warehouse,687753641,Iliad D'jax,2032,Cap Recharger II,1,443002.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 05:42:00,1782411643,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,1518010503,Arcadian1911,25266,Gas Cloud Harvester I,5,2300000.00,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 05:57:00,1782419639,buy,60010669,Artisine IV - Moon 2 - The Scope Development Studio,90542200,Dr Vulture,655,Iteron Mark III,1,367065.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 08:31:00,1782497372,buy,60011740,Oursulaert III - Federation Navy Testing Facilities,122473311,Calenthia,226,Lead Charge M,289,21.06,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 10:28:00,1782563946,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,90424613,Johen Croes,6173,Optical Tracking Computer I,2,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 10:41:00,1782570993,sell,60011866,Dodixie IX - Moon 20 - Federation Navy Assembly Plant,522530699,Sarodh,6173,Optical Tracking Computer I,1,633999.08,personal
+TRADE,90192277,Gynax Gallenor,2011-04-12 14:27:00,1782597758,buy,60015016,Trossere VII - Moon 3 - University of Caille School,90620646,AleGav I,3332,Gallente Cruiser,1,301523.08,personal
