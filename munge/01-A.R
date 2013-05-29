@@ -20,5 +20,5 @@ idlist.t2mods   <- construction.t2mods$typeID;
 
 idlist.marketdata <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.ship, idlist.gas, idlist.t2mods);
 
-idlist.buyitems   <- c(idlist.asteroid, idlist.pi, idlist.gas);
+idlist.buyitems   <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.gas);
 idlist.sellitems  <- c(idlist.posfuel);
