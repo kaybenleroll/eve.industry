@@ -7,6 +7,10 @@ name.dt <- get.name.data();
 
 market.item.dt <- item.dt[!is.na(marketGroupID)];
 
+extra.items <- c('Spatial Attunement Unit');
+
+idlist.extras     <- item.dt[typeName %in% extra.items]$typeID;
+
 idlist.asteroid   <- market.item.dt[categoryName == 'Asteroid']$typeID;
 idlist.material   <- market.item.dt[categoryName == 'Material']$typeID;
 idlist.pi         <- market.item.dt[categoryName == 'Planetary Commodities']$typeID;
@@ -22,9 +26,9 @@ idlist.decryptor  <- market.item.dt[grep('Decryptor', groupName)]$typeID;
 
 idlist.t2mods   <- construction.t2mods$typeID;
 
-idlist.marketdata <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.ship, idlist.gas, idlist.t2mods, idlist.datacore, idlist.decryptor, idlist.commodity);
+idlist.marketdata <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.ship, idlist.gas, idlist.t2mods, idlist.datacore, idlist.decryptor, idlist.commodity, idlist.extras);
 
-idlist.buyitems   <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.gas, idlist.datacore, idlist.decryptor, idlist.commodity);
+idlist.buyitems   <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.gas, idlist.datacore, idlist.decryptor, idlist.commodity, idlist.extras);
 idlist.sellitems  <- c(idlist.posfuel);
 
 
