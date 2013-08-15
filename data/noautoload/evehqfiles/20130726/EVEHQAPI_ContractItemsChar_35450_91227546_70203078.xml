@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 21:48:14</currentTime>
+  <result>
+    <rowset name="itemList" key="recordID" columns="recordID,typeID,quantity,rawQuantity,singleton,included">
+      <row recordID="1039578362" typeID="3297" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578363" typeID="895" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578364" typeID="899" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578365" typeID="896" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578366" typeID="900" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578367" typeID="898" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578368" typeID="902" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578369" typeID="897" quantity="1" singleton="0" included="1" />
+      <row recordID="1039578370" typeID="901" quantity="1" singleton="0" included="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2023-07-07 17:52:07</cachedUntil>
+</eveapi>

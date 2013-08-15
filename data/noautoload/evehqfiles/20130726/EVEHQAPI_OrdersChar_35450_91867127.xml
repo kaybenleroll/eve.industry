@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-26 13:38:17</currentTime>
+  <result>
+    <rowset name="orders" key="orderID" columns="orderID,charID,stationID,volEntered,volRemaining,minVolume,orderState,typeID,range,accountKey,duration,escrow,price,bid,issued">
+      <row orderID="3082994015" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="589" range="-1" accountKey="1000" duration="0" escrow="0.00" price="389998.99" bid="1" issued="2013-07-21 02:37:25" />
+      <row orderID="3082995549" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="5179" range="-1" accountKey="1000" duration="0" escrow="0.00" price="149999.12" bid="1" issued="2013-07-21 02:38:50" />
+      <row orderID="3082995654" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="5179" range="-1" accountKey="1000" duration="0" escrow="0.00" price="150000.00" bid="1" issued="2013-07-21 02:38:55" />
+      <row orderID="3082995794" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="5179" range="-1" accountKey="1000" duration="0" escrow="0.00" price="160000.00" bid="1" issued="2013-07-21 02:39:02" />
+      <row orderID="3082996293" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="6003" range="-1" accountKey="1000" duration="0" escrow="0.00" price="11488.99" bid="1" issued="2013-07-21 02:39:27" />
+      <row orderID="3082996736" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="2046" range="-1" accountKey="1000" duration="0" escrow="0.00" price="8999.99" bid="1" issued="2013-07-21 02:39:49" />
+      <row orderID="3082997441" charID="91867127" stationID="60011866" volEntered="3" volRemaining="0" minVolume="1" orderState="2" typeID="246" range="-1" accountKey="1000" duration="0" escrow="0.00" price="5000.00" bid="1" issued="2013-07-21 02:40:20" />
+      <row orderID="3082998100" charID="91867127" stationID="60011866" volEntered="2" volRemaining="0" minVolume="1" orderState="2" typeID="1195" range="-1" accountKey="1000" duration="0" escrow="0.00" price="44897.65" bid="1" issued="2013-07-21 02:40:52" />
+      <row orderID="3082999225" charID="91867127" stationID="60011866" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="4533" range="-1" accountKey="1000" duration="0" escrow="0.00" price="144995.97" bid="1" issued="2013-07-21 02:41:48" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-26 14:15:45</cachedUntil>
+</eveapi>

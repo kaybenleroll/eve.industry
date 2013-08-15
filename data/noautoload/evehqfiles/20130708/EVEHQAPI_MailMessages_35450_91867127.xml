@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:30:00</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="312587183" senderID="91867127" sentDate="2012-04-28 16:19:00" title="Mining" toCorpOrAllianceID="" toCharacterIDs="91448860" toListID="" />
+      <row messageID="312773172" senderID="91867127" sentDate="2012-05-06 09:32:00" title="Ore" toCorpOrAllianceID="" toCharacterIDs="91448860" toListID="" />
+      <row messageID="312521232" senderID="91867127" sentDate="2012-04-25 19:43:00" title="Mining" toCorpOrAllianceID="" toCharacterIDs="91448860" toListID="" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-06-18 01:45:01</cachedUntil>
+</eveapi>

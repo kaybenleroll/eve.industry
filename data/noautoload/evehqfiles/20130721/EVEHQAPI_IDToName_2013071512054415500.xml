@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 11:06:54</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Canyon Vjourytant" characterID="91340469" />
+      <row name="sparta93" characterID="91586565" />
+      <row name="Lord Douche baggington" characterID="93509035" />
+      <row name="Ginji" characterID="1116139599" />
+      <row name="gitrdone" characterID="608681423" />
+      <row name="hi hu" characterID="91654478" />
+      <row name="Giles Despar" characterID="93509044" />
+      <row name="Go0fBall" characterID="1712190931" />
+      <row name="Hexmir" characterID="90067073" />
+      <row name="Hennekes" characterID="194703646" />
+      <row name="Hommis" characterID="830042820" />
+      <row name="Helegen Dasjorgen" characterID="93573514" />
+      <row name="Hianhif" characterID="198884582" />
+      <row name="Hokipoki Ornulf" characterID="93576844" />
+      <row name="Gengis Hyperion" characterID="93576263" />
+      <row name="Home Less" characterID="120781908" />
+      <row name="Geomon Pedel" characterID="93429586" />
+      <row name="Gun Junky" characterID="91131104" />
+      <row name="HTC Nex" characterID="92285857" />
+      <row name="Hayabushidushi Utama" characterID="90730216" />
+      <row name="Gab Gateway" characterID="92478879" />
+      <row name="Holmium67 Sar" characterID="93193110" />
+      <row name="Grinchh" characterID="157540728" />
+      <row name="Glent Aonar" characterID="93013782" />
+      <row name="Geo Corra" characterID="130930515" />
+      <row name="Gellna" characterID="206618937" />
+      <row name="Hikaru Kamishiro" characterID="91825495" />
+      <row name="Hyperion SonOfUranus" characterID="93329692" />
+      <row name="HTC NecoSino" characterID="596626790" />
+      <row name="Hanver" characterID="267272188" />
+      <row name="Guy Onacouch" characterID="93044483" />
+      <row name="Grace Night" characterID="720266263" />
+      <row name="Gotti Turanga" characterID="92363125" />
+      <row name="Hati0021" characterID="332588087" />
+      <row name="gerbilbunny" characterID="1109799666" />
+      <row name="gunner 50" characterID="93540313" />
+      <row name="Mat Enaka" characterID="90723629" />
+      <row name="VisualNarcotics" characterID="874419311" />
+      <row name="mechtech" characterID="912649697" />
+      <row name="Nerosh Saiiko" characterID="92728485" />
+      <row name="Servjen" characterID="100624253" />
+      <row name="Kaniha TaHana" characterID="90504060" />
+      <row name="Kyrah Irr" characterID="93288709" />
+      <row name="Minimax Madullier" characterID="92671449" />
+      <row name="Stehlarc" characterID="90468473" />
+      <row name="Descons Kitty" characterID="915274322" />
+      <row name="aya wulf" characterID="91212197" />
+      <row name="Tosnobard Hindoran" characterID="93512802" />
+      <row name="Bryce Deacon" characterID="91109446" />
+      <row name="Ian Lowaar" characterID="92543011" />
+      <row name="waffleuk" characterID="587976281" />
+      <row name="Py Te" characterID="92999028" />
+      <row name="Leader VGV" characterID="92887281" />
+      <row name="Talon' Karrde" characterID="93504848" />
+      <row name="Garandhero" characterID="755862504" />
+      <row name="Jayne Fillon" characterID="91688663" />
+      <row name="Ashley Sunji" characterID="93036907" />
+      <row name="WaitingInTheDark" characterID="980681814" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-15 11:06:54</cachedUntil>
+</eveapi>

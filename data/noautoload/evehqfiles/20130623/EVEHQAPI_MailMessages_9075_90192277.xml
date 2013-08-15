@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:29:57</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="326444993" senderID="90192277" sentDate="2013-06-17 23:37:00" title="T1 Cruiser Fight" toCorpOrAllianceID="" toCharacterIDs="90919678" toListID="" />
+      <row messageID="326441851" senderID="90192277" sentDate="2013-06-17 22:28:00" title="POCO Gantrys" toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849" toListID="" />
+      <row messageID="326441774" senderID="90192277" sentDate="2013-06-17 22:26:00" title="Re: POS Fuel Supplies" toCorpOrAllianceID="" toCharacterIDs="1716010712" toListID="" />
+      <row messageID="326440836" senderID="90192277" sentDate="2013-06-17 22:06:00" title="1v1 T1 Frigate Competition" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326449042" senderID="718527983" sentDate="2013-06-18 01:10:00" title="Re: FW: o/" toCorpOrAllianceID="98190867" toCharacterIDs="90436860" toListID="" />
+      <row messageID="326440273" senderID="1941427321" sentDate="2013-06-17 21:54:00" title="1v1 frig tournament" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326444715" senderID="90192277" sentDate="2013-06-17 23:31:00" title="Re: Re: 1v1 T1 Frigate Competition" toCorpOrAllianceID="98190867" toCharacterIDs="718527983" toListID="" />
+      <row messageID="326439521" senderID="92701102" sentDate="2013-06-17 21:40:00" title="Re: 1v1 T1 Frigate Competition - June 29/30" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326440030" senderID="91560447" sentDate="2013-06-17 21:49:00" title="Tournament" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326438468" senderID="90192277" sentDate="2013-06-17 21:20:00" title="Re: sale" toCorpOrAllianceID="" toCharacterIDs="92318114" toListID="" />
+      <row messageID="326434074" senderID="940908367" sentDate="2013-06-17 19:58:00" title="Re: Re: Tax Rate and Incursions" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326448453" senderID="90436860" sentDate="2013-06-18 00:57:00" title="Re: 1v1 T1 Frigate Competition" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326437572" senderID="90192277" sentDate="2013-06-17 21:03:00" title="1v1 T1 Frigate Competition - June 29/30" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326425897" senderID="92638609" sentDate="2013-06-17 17:08:00" title="Fleet Fight VOD" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326448139" senderID="90436860" sentDate="2013-06-18 00:50:00" title="FW: o/" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326434671" senderID="1716010712" sentDate="2013-06-17 20:09:00" title="POS Fuel Supplies" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326423104" senderID="91744644" sentDate="2013-06-17 16:03:00" title="Re: The Great Fly Reckless Throwdown - Connall Tara Victus" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326442661" senderID="718527983" sentDate="2013-06-17 22:46:00" title="Re: 1v1 T1 Frigate Competition" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326398941" senderID="90192277" sentDate="2013-06-17 01:34:00" title="Re: sale" toCorpOrAllianceID="" toCharacterIDs="92318114" toListID="" />
+      <row messageID="326403527" senderID="1792168730" sentDate="2013-06-17 03:38:00" title="Re: Chimera Operation" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326441986" senderID="90003608" sentDate="2013-06-17 22:31:00" title="Re: POCO Gantrys" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326393809" senderID="90192277" sentDate="2013-06-16 23:21:00" title="Tumbles vs Connall - Odds updated" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326398003" senderID="90003608" sentDate="2013-06-17 01:08:00" title="PI" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326439526" senderID="1523688185" sentDate="2013-06-17 21:40:00" title="Let me Into The Torny Plz" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326371874" senderID="90192277" sentDate="2013-06-16 16:17:00" title="Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="1910793840" toListID="" />
+      <row messageID="326396558" senderID="90192277" sentDate="2013-06-17 00:30:00" title="Chimera Operation" toCorpOrAllianceID="" toCharacterIDs="90598012,1792168730" toListID="" />
+      <row messageID="326439517" senderID="91744644" sentDate="2013-06-17 21:40:00" title="Re: 1v1 T1 Frigate Competition - June 29/30" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326361474" senderID="940908367" sentDate="2013-06-16 11:38:00" title="Re: Tax Rate and Incursions" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326390565" senderID="1184452384" sentDate="2013-06-16 22:14:00" title="Faction Ship Firesale" toCorpOrAllianceID="" toCharacterIDs="447546712,92983953,90192277,93104481,91742371,90415031" toListID="" />
+      <row messageID="326439291" senderID="90192277" sentDate="2013-06-17 21:35:00" title="Re: PI" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" />
+      <row messageID="326338937" senderID="90192277" sentDate="2013-06-15 21:42:00" title="Fleet Fight" toCorpOrAllianceID="" toCharacterIDs="90919678" toListID="" />
+      <row messageID="326377726" senderID="1523688185" sentDate="2013-06-16 18:09:00" title="Bet" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326437801" senderID="90192277" sentDate="2013-06-17 21:07:00" title="Re: Re: Re: Tax Rate and Incursions" toCorpOrAllianceID="" toCharacterIDs="940908367" toListID="" />
+      <row messageID="326336729" senderID="90919678" sentDate="2013-06-15 20:55:00" title="TFORS C1 WH corp " toCorpOrAllianceID="" toCharacterIDs="90192277,90003608" toListID="" />
+      <row messageID="326372097" senderID="91560447" sentDate="2013-06-16 16:20:00" title="TUMBLES FOR PRESIDENT" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326416337" senderID="1910793840" sentDate="2013-06-17 12:41:00" title="Re: Overview" toCorpOrAllianceID="" toCharacterIDs="90209655,90192277" toListID="" />
+      <row messageID="326338337" senderID="90192277" sentDate="2013-06-15 21:29:00" title="Tax Rate and Incursions" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326415563" senderID="90192277" sentDate="2013-06-17 12:11:00" title="The Great Fly Reckless Throwdown - Connall Tara Victus" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326414746" senderID="90192277" sentDate="2013-06-17 11:34:00" title="Re: Re: Chimera Operation" toCorpOrAllianceID="" toCharacterIDs="1792168730" toListID="" />
+      <row messageID="326372490" senderID="90192277" sentDate="2013-06-16 16:28:00" title="Re: Connall vs Tumbles - The Great Fly Reckless Throwdown" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326372169" senderID="1941427321" sentDate="2013-06-16 16:22:00" title="betting on connall" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+      <row messageID="326372014" senderID="90192277" sentDate="2013-06-16 16:19:00" title="Connall vs Tumbles - The Great Fly Reckless Throwdown" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" />
+      <row messageID="326365691" senderID="90192277" sentDate="2013-06-16 13:56:00" title="Re: Re: Tax Rate and Incursions" toCorpOrAllianceID="" toCharacterIDs="940908367" toListID="" />
+      <row messageID="326339656" senderID="90192277" sentDate="2013-06-15 21:57:00" title="Re: TFORS C1 WH corp " toCorpOrAllianceID="" toCharacterIDs="90919678" toListID="" />
+      <row messageID="326449608" senderID="718527983" sentDate="2013-06-18 01:23:00" title="Re: Re: 1v1 T1 Frigate Competition" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-06-18 01:44:57</cachedUntil>
+</eveapi>

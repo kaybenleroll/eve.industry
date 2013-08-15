@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-03 02:21:55</currentTime>
+  <result>
+    <rowset name="contractList" key="contractID" columns="contractID,issuerID,issuerCorpID,assigneeID,acceptorID,startStationID,endStationID,type,status,title,forCorp,availability,dateIssued,dateExpired,dateAccepted,numDays,dateCompleted,price,reward,collateral,buyout,volume">
+      <row contractID="70433904" issuerID="90192277" issuerCorpID="98190867" assigneeID="91744644" acceptorID="91744644" startStationID="60008494" endStationID="60008494" type="ItemExchange" status="Completed" title="Well done. :)" forCorp="1" availability="Private" dateIssued="2013-07-15 22:20:53" dateExpired="2013-07-29 22:20:53" dateAccepted="2013-07-16 00:59:17" numDays="0" dateCompleted="2013-07-16 00:59:17" price="0.00" reward="0.00" collateral="0.00" buyout="0.00" volume="2" />
+      <row contractID="70625672" issuerID="91560447" issuerCorpID="98190867" assigneeID="98190867" acceptorID="98190867" startStationID="60005686" endStationID="60005686" type="ItemExchange" status="Completed" title="" forCorp="0" availability="Private" dateIssued="2013-07-21 13:57:36" dateExpired="2013-08-04 13:57:36" dateAccepted="2013-07-26 00:45:02" numDays="0" dateCompleted="2013-07-26 00:45:02" price="0.00" reward="0.00" collateral="0.00" buyout="0.00" volume="116000" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-03 02:35:55</cachedUntil>
+</eveapi>

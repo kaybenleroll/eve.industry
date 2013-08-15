@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-14 11:04:06</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Equli" characterID="90096607" />
+      <row name="Thael Gaterau" characterID="92423689" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-14 11:04:06</cachedUntil>
+</eveapi>

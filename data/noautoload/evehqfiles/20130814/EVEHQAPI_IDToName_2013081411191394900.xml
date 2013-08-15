@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-14 22:19:24</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Garstiger Unhold" characterID="751851059" />
+      <row name="13rita" characterID="337234420" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-14 22:19:24</cachedUntil>
+</eveapi>

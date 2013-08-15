@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 21:48:14</currentTime>
+  <result>
+    <rowset name="transactions" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,taxReceiverID,taxAmount,owner1TypeID,owner2TypeID">
+      <row date="2013-07-11 12:50:21" refID="7842238589" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Umbar Terona" argID1="91867127" amount="1000000.00" balance="1227869.41" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-15 22:04:52</cachedUntil>
+</eveapi>

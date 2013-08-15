@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-07 01:23:14</currentTime>
+  <result>
+    <rowset name="transactions" key="transactionID" columns="transactionDateTime,transactionID,quantity,typeName,typeID,price,clientID,clientName,characterID,characterName,stationID,stationName,transactionType,transactionFor,journalTransactionID,clientTypeID">
+      <row transactionDateTime="2013-07-01 20:30:34" transactionID="2957802946" quantity="4" typeName="Hammerhead I" typeID="2183" price="29431.00" clientID="416752659" clientName="Kara Trask" characterID="90723629" characterName="Mat Enaka" stationID="60004588" stationName="Rens VI - Moon 8 - Brutor Tribe Treasury" transactionType="buy" transactionFor="corporation" journalTransactionID="7787556231" clientTypeID="1379" />
+      <row transactionDateTime="2013-06-14 13:23:33" transactionID="2928256017" quantity="5900" typeName="Strontium Clathrates" typeID="16275" price="469.97" clientID="121578969" clientName="Rinzewind" characterID="92701102" characterName="Blindwillow" stationID="60008494" stationName="Amarr VIII (Oris) - Emperor Family Academy" transactionType="buy" transactionFor="corporation" journalTransactionID="7682873186" clientTypeID="1386" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-07 01:50:14</cachedUntil>
+</eveapi>

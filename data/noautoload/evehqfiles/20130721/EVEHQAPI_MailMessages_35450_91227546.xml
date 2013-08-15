@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 19:07:19</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="327742488" senderID="90420475" sentDate="2013-07-15 17:54:00" title="Sold: WTS PPD Fullerene Fibers" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="327742269" senderID="93504848" sentDate="2013-07-15 17:49:00" title="[WTB] 300 Merlins, T1 Modules, and T1 rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="327741676" senderID="1017870905" sentDate="2013-07-15 17:35:00" title="*sold*WTS 220mm Vulcan AutoCannon II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="327740769" senderID="92543011" sentDate="2013-07-15 17:14:00" title="WTS Drone Link Augmentor II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="327736587" senderID="93288709" sentDate="2013-07-15 15:20:00" title="[UPDATE] WTS Adaptive Nano Plating Tec II+Meta4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327735256" senderID="90199911" sentDate="2013-07-15 14:35:00" title="WTS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="327741695" senderID="1017870905" sentDate="2013-07-15 17:36:00" title="*sold*WTS Heavy Pulse Laser II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="327730879" senderID="93288709" sentDate="2013-07-15 11:28:00" title="[UPDATE] WTS Adaptive Nano Plating Tec II+Meta4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327741358" senderID="1017870905" sentDate="2013-07-15 17:27:00" title="WTS 220mm Vulcan AutoCannon II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="327730005" senderID="980681814" sentDate="2013-07-15 10:21:00" title="WTS Fuel Blocks" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="327741171" senderID="1017870905" sentDate="2013-07-15 17:24:00" title="WTS Heavy Pulse Laser II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="327727957" senderID="91212197" sentDate="2013-07-15 08:28:00" title="WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="327739362" senderID="90199911" sentDate="2013-07-15 16:39:00" title="[update] WTS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="327726970" senderID="93036907" sentDate="2013-07-15 07:34:00" title="WTS Buzzard" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="327713275" senderID="92887281" sentDate="2013-07-15 00:03:00" title="WTS Shield RAM" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327738139" senderID="1542247955" sentDate="2013-07-15 16:06:00" title="Re: WTS T2 LAR's" toCorpOrAllianceID="" toCharacterIDs="1542247955" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327712417" senderID="92999028" sentDate="2013-07-14 23:40:00" title="WTS Damage Control II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327737704" senderID="93288709" sentDate="2013-07-15 15:53:00" title="[SOLD] WTS Adaptive Nano Plating Tec II+Meta4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327737123" senderID="93288709" sentDate="2013-07-15 15:37:00" title="[UPDATE] WTS Adaptive Nano Plating Tec II+Meta4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327670840" senderID="91109446" sentDate="2013-07-14 01:56:00" title="WTS Fed Navy 10mn afterburners" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327737075" senderID="92736059" sentDate="2013-07-15 15:36:00" title="WTS Fed. Navy Stasis Webifier" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327737568" senderID="1542247955" sentDate="2013-07-15 15:49:00" title="WTS T2 LAR's" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327661334" senderID="90199911" sentDate="2013-07-13 21:40:00" title="[Update 2] WTS Various Items" toCorpOrAllianceID="" toCharacterIDs="90199911" toListID="145096714" senderTypeID="1375" />
+      <row messageID="327733391" senderID="92460400" sentDate="2013-07-15 13:28:00" title="WTS Viators" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="327737230" senderID="90504060" sentDate="2013-07-15 15:39:00" title="[SOLD] WTS T II Stuff at Jita 4-4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="327661280" senderID="1127406878" sentDate="2013-07-13 21:38:00" title="WTS 500x Curator I (AMARR)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327730237" senderID="91212197" sentDate="2013-07-15 10:32:00" title="[SOLD] WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="327656767" senderID="952406451" sentDate="2013-07-13 19:49:00" title="WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327737042" senderID="90504060" sentDate="2013-07-15 15:35:00" title="WTS T II Stuff at Jita 4-4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="327651308" senderID="90504060" sentDate="2013-07-13 17:29:00" title="[NEW STUFF] WTS T II Stuff at Jita 4-4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="327727334" senderID="93036907" sentDate="2013-07-15 07:52:00" title="[SOLD] WTS Buzzard" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="327651096" senderID="90023950" sentDate="2013-07-13 17:23:00" title="WTS T1/T3 BC BPC / T1 Cruiser BPC / Indy BPC" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="327733445" senderID="90420475" sentDate="2013-07-15 13:30:00" title="Update: WTS PPD Fullerene Fibers" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="327650115" senderID="90504060" sentDate="2013-07-13 16:56:00" title="[NEW STUFF] WTS T II Stuff at Jita 4-4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="327733422" senderID="1241101180" sentDate="2013-07-15 13:29:00" title="WTB C320/C32" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="327727135" senderID="275801484" sentDate="2013-07-15 07:44:00" title="Bulk Componants Specials" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="327733326" senderID="90420475" sentDate="2013-07-15 13:26:00" title="Update: WTS RF 10MN AB" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="327720194" senderID="755862504" sentDate="2013-07-15 03:21:00" title="Archons" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="327730299" senderID="93288709" sentDate="2013-07-15 10:35:00" title="WTS Adaptive Nano Plating Tec II+Meta4, Kestrel" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327727558" senderID="275801484" sentDate="2013-07-15 08:06:00" title="FW: Bulk Componants Specials" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="327713346" senderID="92999028" sentDate="2013-07-15 00:05:00" title="[SOLD] WTS Damage Control II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327716842" senderID="93504848" sentDate="2013-07-15 01:44:00" title="[WTS] Navy Ospreys" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="327700600" senderID="92671449" sentDate="2013-07-14 19:08:00" title="*price drop* WTS T2 omni tracking links" toCorpOrAllianceID="" toCharacterIDs="92671449" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327710370" senderID="91728198" sentDate="2013-07-14 22:48:00" title="WTS Capital Drone Control Range Augmentor II *N*" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="327685758" senderID="1127406878" sentDate="2013-07-14 11:59:00" title="WTS 500x Small Low Friction NJs + Ships (AMARR)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="327692672" senderID="93288709" sentDate="2013-07-14 15:50:00" title="[Update] WTS Kestrel, Adaptive Nano Plating Meta4+II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327682358" senderID="92543011" sentDate="2013-07-14 08:54:00" title="WTS SeBO II &amp; DLA II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="327656099" senderID="93512802" sentDate="2013-07-13 19:32:00" title="WTB Bulk MWDs *N*" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327689943" senderID="93288709" sentDate="2013-07-14 14:34:00" title="WTS Kestrel, Adaptive Nano Plating Meta4+II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="327651135" senderID="92671449" sentDate="2013-07-13 17:24:00" title="*price drop* WTS T2 omni tracking links" toCorpOrAllianceID="" toCharacterIDs="92671449" toListID="145096714" senderTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-15 19:22:19</cachedUntil>
+</eveapi>

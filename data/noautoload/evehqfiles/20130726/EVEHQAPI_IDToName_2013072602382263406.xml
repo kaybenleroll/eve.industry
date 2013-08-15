@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-26 13:38:25</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Xcercs Kitriana" characterID="799689185" />
+      <row name="Imposi Bru" characterID="92892713" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-26 13:38:25</cachedUntil>
+</eveapi>

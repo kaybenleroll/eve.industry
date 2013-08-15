@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-14 22:19:17</currentTime>
+  <result>
+    <rowset name="transactions" key="transactionID" columns="transactionDateTime,transactionID,quantity,typeName,typeID,price,clientID,clientName,stationID,stationName,transactionType,transactionFor,journalTransactionID,clientTypeID">
+      <row transactionDateTime="2013-07-17 10:30:42" transactionID="2982944199" quantity="360" typeName="Industrial Fibers" typeID="2397" price="550.00" clientID="584093117" clientName="Malukin" stationID="60005794" stationName="Brapelille XI - Moon 1 - Freedom Extension Storage" transactionType="buy" transactionFor="corporation" journalTransactionID="7874811980" clientTypeID="1377" />
+      <row transactionDateTime="2013-07-17 10:26:50" transactionID="2982941063" quantity="7000" typeName="Industrial Fibers" typeID="2397" price="550.00" clientID="584093117" clientName="Malukin" stationID="60005794" stationName="Brapelille XI - Moon 1 - Freedom Extension Storage" transactionType="buy" transactionFor="corporation" journalTransactionID="7874800978" clientTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-14 22:42:04</cachedUntil>
+</eveapi>

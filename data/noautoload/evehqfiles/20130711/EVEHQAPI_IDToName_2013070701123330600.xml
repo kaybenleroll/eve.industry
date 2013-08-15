@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-07 00:13:10</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Papox Ta'Mopo" characterID="92099725" />
+      <row name="Akane Kurushio" characterID="92140930" />
+      <row name="Kittycando Isu" characterID="92380769" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-07 00:13:10</cachedUntil>
+</eveapi>

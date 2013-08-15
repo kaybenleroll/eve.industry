@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-14 22:19:32</currentTime>
+  <result>
+    <rowset name="contractList" key="contractID" columns="contractID,issuerID,issuerCorpID,assigneeID,acceptorID,startStationID,endStationID,type,status,title,forCorp,availability,dateIssued,dateExpired,dateAccepted,numDays,dateCompleted,price,reward,collateral,buyout,volume">
+      <row contractID="70851332" issuerID="91227546" issuerCorpID="98012536" assigneeID="0" acceptorID="1685500404" startStationID="60003760" endStationID="60011866" type="Courier" status="Completed" title="" forCorp="1" availability="Public" dateIssued="2013-07-27 19:05:38" dateExpired="2013-08-10 19:05:38" dateAccepted="2013-07-28 01:32:43" numDays="1" dateCompleted="2013-07-28 02:01:28" price="0.00" reward="2000000.00" collateral="800000000.00" buyout="0.00" volume="13500" />
+      <row contractID="70853435" issuerID="91541933" issuerCorpID="98012536" assigneeID="98012536" acceptorID="91227546" startStationID="60003295" endStationID="60011566" type="Courier" status="Completed" title="" forCorp="1" availability="Private" dateIssued="2013-07-27 20:11:24" dateExpired="2013-08-10 20:11:24" dateAccepted="2013-07-27 20:19:35" numDays="1" dateCompleted="2013-07-27 20:34:30" price="0.00" reward="0.00" collateral="0.00" buyout="0.00" volume="400" />
+      <row contractID="70854397" issuerID="92736777" issuerCorpID="98012536" assigneeID="98012536" acceptorID="91227546" startStationID="60011566" endStationID="60011866" type="Courier" status="Completed" title="" forCorp="1" availability="Private" dateIssued="2013-07-27 20:43:20" dateExpired="2013-08-10 20:43:20" dateAccepted="2013-07-27 20:47:12" numDays="1" dateCompleted="2013-07-27 20:58:19" price="0.00" reward="0.00" collateral="0.00" buyout="0.00" volume="1600" />
+      <row contractID="71086072" issuerID="90192277" issuerCorpID="98190867" assigneeID="91227546" acceptorID="98012536" startStationID="60008494" endStationID="60008494" type="ItemExchange" status="Completed" title="" forCorp="0" availability="Private" dateIssued="2013-08-02 23:31:58" dateExpired="2013-08-16 23:31:58" dateAccepted="2013-08-04 10:14:31" numDays="0" dateCompleted="2013-08-04 10:14:31" price="250000000.00" reward="0.00" collateral="0.00" buyout="0.00" volume="91909.14" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-14 22:22:45</cachedUntil>
+</eveapi>

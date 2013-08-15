@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:30:00</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="323691428" senderID="641318632" sentDate="2013-04-24 20:09:00" title="hi" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" />
+      <row messageID="326165741" senderID="91336756" sentDate="2013-06-12 17:14:00" title="Automated Message: Welcome to Estel Arador Corp Services" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" />
+      <row messageID="323043956" senderID="2057584604" sentDate="2013-04-07 17:18:00" title="Been Fun" toCorpOrAllianceID="661581003" toCharacterIDs="" toListID="" />
+      <row messageID="326069203" senderID="90192277" sentDate="2013-06-10 20:57:00" title="Jumpclone Corp" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" />
+      <row messageID="326008575" senderID="92736777" sentDate="2013-06-09 19:43:00" title="Implant Portfolio" toCorpOrAllianceID="" toCharacterIDs="91227546,90192277" toListID="" />
+      <row messageID="322878202" senderID="940908367" sentDate="2013-04-03 20:25:00" title="Re: Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="718527983,641318632" toListID="" />
+      <row messageID="323718641" senderID="92736777" sentDate="2013-04-25 14:40:00" title="Re: hi" toCorpOrAllianceID="" toCharacterIDs="641318632" toListID="" />
+      <row messageID="322877488" senderID="641318632" sentDate="2013-04-03 20:08:00" title="Re: Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="323019438" senderID="940908367" sentDate="2013-04-07 02:15:00" title="Laters" toCorpOrAllianceID="661581003" toCharacterIDs="" toListID="" />
+      <row messageID="326327896" senderID="92736777" sentDate="2013-06-15 17:55:00" title="Angelhunter Number" toCorpOrAllianceID="" toCharacterIDs="1075598849" toListID="" />
+      <row messageID="322876799" senderID="718527983" sentDate="2013-04-03 19:52:00" title="Re: Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="940908367,641318632" toListID="" />
+      <row messageID="322960435" senderID="803366269" sentDate="2013-04-05 20:11:00" title="This weekends PVP Roam" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322959526" senderID="2057584604" sentDate="2013-04-05 19:46:00" title="FW: inspirational death threats" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322878036" senderID="718527983" sentDate="2013-04-03 20:21:00" title="Re: Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="641318632" toListID="" />
+      <row messageID="322876677" senderID="940908367" sentDate="2013-04-03 19:50:00" title="Re: Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="641318632" toListID="" />
+      <row messageID="322861065" senderID="641318632" sentDate="2013-04-03 10:34:00" title="Re: PVP ROAM" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322922246" senderID="641318632" sentDate="2013-04-04 21:08:00" title="?" toCorpOrAllianceID="661581003" toCharacterIDs="" toListID="" />
+      <row messageID="322871149" senderID="940908367" sentDate="2013-04-03 17:28:00" title="Re: Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="641318632,133117038" toListID="" />
+      <row messageID="322851820" senderID="940908367" sentDate="2013-04-03 03:02:00" title="Re: Re: Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="641318632,133117038,718527983" toListID="" />
+      <row messageID="322886706" senderID="91744644" sentDate="2013-04-03 23:51:00" title="Re: Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="641318632" toListID="" />
+      <row messageID="322860223" senderID="641318632" sentDate="2013-04-03 09:44:00" title="PVP ROAM" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322825709" senderID="940908367" sentDate="2013-04-02 15:28:00" title="Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322872479" senderID="641318632" sentDate="2013-04-03 18:06:00" title="Fw: Revenge" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322753148" senderID="91744644" sentDate="2013-03-31 19:19:00" title="Re: Re: Re: Back and forth." toCorpOrAllianceID="99000331" toCharacterIDs="940908367" toListID="" />
+      <row messageID="322856788" senderID="641318632" sentDate="2013-04-03 06:28:00" title="Re: Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="133117038" toListID="" />
+      <row messageID="322872299" senderID="641318632" sentDate="2013-04-03 18:01:00" title="Re: Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="940908367" toListID="" />
+      <row messageID="322749530" senderID="92736777" sentDate="2013-03-31 17:49:00" title="Amarr Fits" toCorpOrAllianceID="" toCharacterIDs="90436860" toListID="" />
+      <row messageID="322851529" senderID="133117038" sentDate="2013-04-03 02:52:00" title="Re: Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="641318632,940908367,718527983" toListID="" />
+      <row messageID="322830646" senderID="940908367" sentDate="2013-04-02 17:43:00" title="Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="718527983,641318632" toListID="" />
+      <row messageID="322850069" senderID="718527983" sentDate="2013-04-03 02:05:00" title="Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="641318632,940908367" toListID="" />
+      <row messageID="322833258" senderID="641318632" sentDate="2013-04-02 18:42:00" title="Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="940908367,718527983" toListID="" />
+      <row messageID="322828248" senderID="718527983" sentDate="2013-04-02 16:40:00" title="Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="940908367" toListID="" />
+      <row messageID="322829048" senderID="718527983" sentDate="2013-04-02 17:01:00" title="Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="641318632,940908367" toListID="" />
+      <row messageID="322743348" senderID="940908367" sentDate="2013-03-31 15:07:00" title="Re: Re: Re: Re: Back and forth." toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322828966" senderID="641318632" sentDate="2013-04-02 16:59:00" title="Re: Exciting changes in Odyssey" toCorpOrAllianceID="99000331" toCharacterIDs="718527983,940908367" toListID="" />
+      <row messageID="322814590" senderID="940908367" sentDate="2013-04-02 05:00:00" title="Corpse" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322741380" senderID="91744644" sentDate="2013-03-31 14:05:00" title="Re: Back and forth." toCorpOrAllianceID="99000331" toCharacterIDs="940908367" toListID="" />
+      <row messageID="322749417" senderID="90192277" sentDate="2013-03-31 17:46:00" title="fleet-up.com Fits" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322742448" senderID="940908367" sentDate="2013-03-31 14:38:00" title="Re: Re: Back and forth." toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322728544" senderID="940908367" sentDate="2013-03-31 04:07:00" title="Back and forth." toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+      <row messageID="322627782" senderID="91744644" sentDate="2013-03-28 21:14:00" title="Re: HS War" toCorpOrAllianceID="99000331" toCharacterIDs="133117038" toListID="" />
+      <row messageID="322603486" senderID="133117038" sentDate="2013-03-28 05:19:00" title="HS War" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-06-18 01:45:00</cachedUntil>
+</eveapi>

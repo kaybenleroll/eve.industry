@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-04 11:52:25</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Seren Onaqi" characterID="93219802" />
+      <row name="ZAD0K" characterID="1253235482" />
+      <row name="CL Corp" characterID="98126826" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-04 11:52:25</cachedUntil>
+</eveapi>

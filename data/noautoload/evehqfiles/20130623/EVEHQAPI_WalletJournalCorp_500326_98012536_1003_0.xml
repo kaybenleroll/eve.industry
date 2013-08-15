@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-23 15:27:45</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason">
+      <row date="2013-05-25 01:48:59" refID="7553051985" refTypeID="13" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="University of Caille" ownerID2="1000115" argName1="EVE System" argID1="1" amount="-10193445.00" balance="7364968.01" reason="" />
+      <row date="2013-05-25 01:48:56" refID="7553051806" refTypeID="13" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Modern Finances" ownerID2="1000030" argName1="EVE System" argID1="1" amount="-609322.00" balance="17558413.01" reason="" />
+      <row date="2013-06-23 12:37:27" refID="7737715940" refTypeID="58" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039861" argID1="0" amount="-5687.50" balance="5556809.01" reason="" />
+      <row date="2013-06-23 12:37:11" refID="7737714845" refTypeID="58" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039835" argID1="0" amount="-5687.50" balance="5562496.51" reason="" />
+      <row date="2013-06-23 12:33:43" refID="7737697348" refTypeID="57" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039517" argID1="0" amount="-2875.00" balance="5568184.01" reason="" />
+      <row date="2013-06-23 12:33:12" refID="7737695117" refTypeID="57" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039464" argID1="0" amount="-2875.00" balance="5571059.01" reason="" />
+      <row date="2013-06-23 12:33:00" refID="7737694318" refTypeID="57" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039436" argID1="0" amount="-2875.00" balance="5573934.01" reason="" />
+      <row date="2013-06-23 12:32:47" refID="7737693519" refTypeID="57" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039411" argID1="0" amount="-2875.00" balance="5576809.01" reason="" />
+      <row date="2013-06-23 12:32:36" refID="7737692734" refTypeID="57" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="183039394" argID1="0" amount="-2875.00" balance="5579684.01" reason="" />
+      <row date="2013-06-23 12:31:10" refID="7737686574" refTypeID="13" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Modern Finances" ownerID2="1000030" argName1="EVE System" argID1="1" amount="-1782409.00" balance="5582559.01" reason="" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-06-23 15:54:45</cachedUntil>
+</eveapi>

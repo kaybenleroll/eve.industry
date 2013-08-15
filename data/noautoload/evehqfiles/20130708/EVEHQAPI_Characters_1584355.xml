@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-08 11:54:38</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID">
+      <row name="Reikan Koraka" characterID="92736777" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-08 12:48:25</cachedUntil>
+</eveapi>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:30:16</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="EACS Manager" characterID="91336756" />
+      <row name="Yanagi Nagi" characterID="92837655" />
+      <row name="Max Tairach" characterID="90919678" />
+      <row name="Hermitiano Haginen" characterID="93203353" />
+      <row name="Bastion Trey'arch" characterID="275801484" />
+      <row name="Patrick Badasaz" characterID="93394976" />
+      <row name="Duck Head" characterID="93373323" />
+      <row name="Saucy Ward" characterID="93059708" />
+      <row name="Aiko Kurushio" characterID="91560447" />
+      <row name="Malromen" characterID="1941427321" />
+      <row name="Lady Agatha Heterodyne" characterID="92188914" />
+      <row name="Andromia sinova Leusten" characterID="91242008" />
+      <row name="Attantio" characterID="221934348" />
+      <row name="Adamski nosthescore" characterID="92958640" />
+      <row name="Chian XinLian" characterID="661729967" />
+      <row name="Captain Greyhawk" characterID="1184452384" />
+      <row name="Haecksler" characterID="447546712" />
+      <row name="Hank Alabel" characterID="92983953" />
+      <row name="Hades Brimstone" characterID="93104481" />
+      <row name="Hailious Elleni" characterID="91742371" />
+      <row name="Harlon Ormand" characterID="90415031" />
+      <row name="Camel Catcher" characterID="229730508" />
+      <row name="Orange Aideron" characterID="90598012" />
+      <row name="Smokey McWeedy" characterID="1792168730" />
+      <row name="darzzzzzz smith" characterID="92318114" />
+      <row name="Threeheaded Monkey" characterID="93101897" />
+      <row name="Rum Soaked" characterID="93256760" />
+      <row name="Vartan Sarkisian" characterID="90199911" />
+      <row name="Orka Hudziy" characterID="93092637" />
+      <row name="Blindwillow" characterID="92701102" />
+      <row name="Tad Didlio" characterID="93299887" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-18 01:30:16</cachedUntil>
+</eveapi>

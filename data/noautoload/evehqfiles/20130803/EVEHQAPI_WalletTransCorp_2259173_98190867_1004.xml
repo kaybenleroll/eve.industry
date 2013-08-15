@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-03 02:22:06</currentTime>
+  <result>
+    <rowset name="transactions" key="transactionID" columns="transactionDateTime,transactionID,quantity,typeName,typeID,price,clientID,clientName,characterID,characterName,stationID,stationName,transactionType,transactionFor,journalTransactionID,clientTypeID">
+      <row transactionDateTime="2013-07-23 20:05:31" transactionID="2992937601" quantity="11" typeName="Compressed Arkonor" typeID="28367" price="3251007.06" clientID="91119922" clientName="Eternity Imortal" characterID="92360614" characterName="Butthurt Buttcry" stationID="60008494" stationName="Amarr VIII (Oris) - Emperor Family Academy" transactionType="sell" transactionFor="corporation" journalTransactionID="7910303581" clientTypeID="1384" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-03 02:49:06</cachedUntil>
+</eveapi>

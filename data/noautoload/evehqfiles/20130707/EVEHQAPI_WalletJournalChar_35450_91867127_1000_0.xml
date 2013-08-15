@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-07 01:23:17</currentTime>
+  <result>
+    <rowset name="transactions" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,taxReceiverID,taxAmount,owner1TypeID,owner2TypeID">
+      <row date="2013-06-04 22:45:05" refID="7621030011" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-50999.97" balance="227869.41" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:43:30" refID="7621021309" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-45000.00" balance="278869.38" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:42:26" refID="7621015879" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-126897.99" balance="323869.38" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:41:17" refID="7621009688" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-190000.00" balance="450767.37" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:39:52" refID="7621002225" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-135544.94" balance="640767.37" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:38:57" refID="7620996899" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-219999.98" balance="776312.31" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:38:49" refID="7620996258" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-109999.98" balance="996312.29" reason="" taxReceiverID="" taxAmount="" owner1TypeID="1385" owner2TypeID="2" />
+      <row date="2013-06-04 22:38:49" refID="7620996257" refTypeID="46" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="Emperor Family" ownerID2="1000086" argName1="EVE System" argID1="1" amount="-968.85" balance="1106312.27" reason="" taxReceiverID="" taxAmount="" owner1TypeID="1385" owner2TypeID="2" />
+      <row date="2013-06-04 22:38:18" refID="7620993575" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-279998.99" balance="1107281.12" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 22:38:08" refID="7620992718" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Umbar Terona" argID1="91867127" amount="1000000.00" balance="1387280.11" reason="DESC: Money for the Executioner&#xA;" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 20:49:32" refID="7620380060" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-167999.99" balance="363848.91" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 20:48:01" refID="7620370211" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-519000.00" balance="531848.90" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-06-04 20:31:38" refID="7620272350" refTypeID="10" ownerName1="Gynax Gallenor" ownerID1="90192277" ownerName2="Umbar Terona" ownerID2="91867127" argName1="" argID1="0" amount="1000000.00" balance="1050848.90" reason="DESC: Money for Frigate Roam&#xA;" taxReceiverID="" taxAmount="" owner1TypeID="1377" owner2TypeID="1385" />
+      <row date="2013-06-04 20:09:39" refID="7620140399" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-10000.00" balance="50848.90" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-07 01:42:59</cachedUntil>
+</eveapi>

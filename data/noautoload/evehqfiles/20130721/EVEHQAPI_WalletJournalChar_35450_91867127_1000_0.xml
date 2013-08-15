@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-21 11:11:20</currentTime>
+  <result>
+    <rowset name="transactions" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,taxReceiverID,taxAmount,owner1TypeID,owner2TypeID">
+      <row date="2013-07-21 03:01:38" refID="7894788846" refTypeID="85" ownerName1="CONCORD" ownerID1="1000125" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Vylade" argID1="30002655" amount="126422.25" balance="4779013.30" reason="3744:1,3746:2,18082:1,18085:1,18087:1,18564:1,23475:1,23476:1," taxReceiverID="98012536" taxAmount="42140.75" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:41:48" refID="7894719048" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-144995.97" balance="4652591.05" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:40:52" refID="7894715229" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-89795.30" balance="4797587.02" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:40:21" refID="7894712970" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-15000.00" balance="4887382.32" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:39:49" refID="7894711127" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-8999.99" balance="4902382.32" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:39:27" refID="7894709863" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-11488.99" balance="4911382.31" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:39:02" refID="7894708563" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-160000.00" balance="4922871.30" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:38:55" refID="7894708213" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-150000.00" balance="5082871.30" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:38:50" refID="7894707907" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-149999.12" balance="5232871.30" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:37:26" refID="7894703042" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-389998.99" balance="5382870.42" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-21 02:37:17" refID="7894702619" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Umbar Terona" argID1="91867127" amount="5000000.00" balance="5772869.41" reason="DESC: ISK for Executioner&#xA;" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-07-11 12:50:21" refID="7842238589" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Umbar Terona" argID1="91867127" amount="1000000.00" balance="1227869.41" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-21 11:16:12</cachedUntil>
+</eveapi>

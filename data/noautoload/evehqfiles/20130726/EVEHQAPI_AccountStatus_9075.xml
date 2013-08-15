@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-24 13:03:54</currentTime>
+  <result>
+    <paidUntil>2013-09-01 14:45:38</paidUntil>
+    <createDate>2010-12-24 00:30:00</createDate>
+    <logonCount>3990</logonCount>
+    <logonMinutes>286869</logonMinutes>
+  </result>
+  <cachedUntil>2013-07-24 13:41:29</cachedUntil>
+</eveapi>

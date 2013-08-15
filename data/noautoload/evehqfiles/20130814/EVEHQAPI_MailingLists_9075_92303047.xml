@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 19:07:19</currentTime>
+  <result>
+    <rowset name="mailingLists" key="listID" columns="listID,displayName" />
+  </result>
+  <cachedUntil>2013-07-16 00:04:34</cachedUntil>
+</eveapi>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 21:48:12</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Rack pinion" characterID="726983684" />
+      <row name="Mysttina" characterID="1048321806" />
+      <row name="mining mudha" characterID="91242530" />
+      <row name="Equli" characterID="90096607" />
+      <row name="Thael Gaterau" characterID="92423689" />
+      <row name="Darked Cross" characterID="92014369" />
+      <row name="Clarisse Cadelanne" characterID="91043794" />
+      <row name="Peadlen" characterID="159650951" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-15 21:48:12</cachedUntil>
+</eveapi>

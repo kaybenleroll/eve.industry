@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-04 23:57:51</currentTime>
+  <result>
+    <paidUntil>2013-07-30 03:23:56</paidUntil>
+    <createDate>2011-09-17 12:01:28</createDate>
+    <logonCount>4202</logonCount>
+    <logonMinutes>191860</logonMinutes>
+    <rowset name="Offers" key="offerID" columns="offerID,offeredDate,from,to,ISK" />
+  </result>
+  <cachedUntil>2013-07-05 00:02:51</cachedUntil>
+</eveapi>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-04 11:52:16</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-06-21 01:24:41" refID="7722939198" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Gynax Gallenor" argID1="90192277" amount="-404486880.00" balance="328053697.10" reason="DESC: ISK for POS fuel&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-06-21 01:22:29" refID="7722931594" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Gynax Gallenor" argID1="90192277" amount="500000000.00" balance="732540577.10" reason="DESC: Transfer for POS fuel payment&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-06-19 21:08:23" refID="7716253677" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Gynax Gallenor" argID1="90192277" amount="-404486880.00" balance="232540577.10" reason="DESC: ISK for POS fuel&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-06-19 21:07:59" refID="7716251820" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Gynax Gallenor" argID1="90192277" amount="500000000.00" balance="637027457.10" reason="DESC: Transfer for POS fuel payment&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-06-09 14:26:32" refID="7651748551" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Varos Kang" argID1="90003608" amount="-905695280.00" balance="137027457.10" reason="DESC: POS Fuel&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-06-09 14:22:21" refID="7651721790" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Varos Kang" argID1="90003608" amount="300000000.00" balance="1042722737.10" reason="DESC: POS Fuel&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-06-09 14:21:48" refID="7651718623" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Varos Kang" argID1="90003608" amount="0.10" balance="742722737.10" reason="DESC: '300000000'&#xA;" owner1TypeID="2" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-04 12:19:16</cachedUntil>
+</eveapi>

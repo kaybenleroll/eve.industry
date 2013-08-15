@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 19:07:17</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="327684652" senderID="90192277" sentDate="2013-07-14 10:39:00" title="Site Payouts" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="327734279" senderID="1075598849" sentDate="2013-07-15 14:01:00" title="Re: EUTZ Activity" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="327668828" senderID="90192277" sentDate="2013-07-14 01:00:00" title="Re: Re: Re: PI Web code" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="327731972" senderID="90192277" sentDate="2013-07-15 12:28:00" title="EUTZ Activity" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327668792" senderID="92638609" sentDate="2013-07-14 00:59:00" title="Re: Re: PI Web code" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="327725018" senderID="91688663" sentDate="2013-07-15 06:06:00" title="Bombers Bar Update!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="327706080" senderID="90436860" sentDate="2013-07-14 21:09:00" title="ships" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1374" />
+      <row messageID="327658064" senderID="92638609" sentDate="2013-07-13 20:19:00" title="PI Web code" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="327680568" senderID="92638609" sentDate="2013-07-14 07:31:00" title="Site Payouts" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="327519224" senderID="90003608" sentDate="2013-07-10 18:11:00" title="Re: Gas Huffing" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="327419933" senderID="91586565" sentDate="2013-07-08 14:48:00" title="News" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1375" />
+      <row messageID="327667230" senderID="90192277" sentDate="2013-07-14 00:15:00" title="Re: PI Web code" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="327406833" senderID="718527983" sentDate="2013-07-08 04:27:00" title="holy shit!" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327665041" senderID="90192277" sentDate="2013-07-13 23:13:00" title="Re: more stuff for sale" toCorpOrAllianceID="" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="327352255" senderID="410858838" sentDate="2013-07-07 00:47:00" title="dickrazors 7-6" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="327661288" senderID="1941427321" sentDate="2013-07-13 21:38:00" title="more stuff for sale" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="327309716" senderID="1437693930" sentDate="2013-07-06 01:48:00" title="BB SKEWL TAKE TWO" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1380" />
+      <row messageID="327619913" senderID="90192277" sentDate="2013-07-12 23:08:00" title="Implant Guide" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327265267" senderID="90192277" sentDate="2013-07-05 00:48:00" title="Scrimmage with Germans" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327606170" senderID="874419311" sentDate="2013-07-12 17:24:00" title="HUNTER KILLERS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="327581706" senderID="90192277" sentDate="2013-07-12 01:34:00" title="Re: Gas mining op" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="327684703" senderID="90192277" sentDate="2013-07-14 10:42:00" title="My bad" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="327572790" senderID="90192277" sentDate="2013-07-11 21:39:00" title="POS Fuel" toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849,2057584604" toListID="" senderTypeID="1377" />
+      <row messageID="327682411" senderID="587976281" sentDate="2013-07-14 08:56:00" title="FW: Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="" toListID="145149181" senderTypeID="1377" />
+      <row messageID="327558563" senderID="90003608" sentDate="2013-07-11 15:50:00" title="Gas mining op" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="327518917" senderID="90192277" sentDate="2013-07-10 18:04:00" title="Gas Huffing" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327682363" senderID="587976281" sentDate="2013-07-14 08:54:00" title="Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="" toListID="145149181" senderTypeID="1377" />
+      <row messageID="327507460" senderID="90192277" sentDate="2013-07-10 11:59:00" title="Re: dickrazors 7-6" toCorpOrAllianceID="" toCharacterIDs="410858838" toListID="" senderTypeID="1377" />
+      <row messageID="327619954" senderID="90192277" sentDate="2013-07-12 23:09:00" title="Re: Implant Guide" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="327429099" senderID="90192277" sentDate="2013-07-08 18:55:00" title="War Face" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327599193" senderID="90192277" sentDate="2013-07-12 13:49:00" title="Sites Last Night" toCorpOrAllianceID="" toCharacterIDs="1328149095" toListID="" senderTypeID="1377" />
+      <row messageID="327428072" senderID="1941427321" sentDate="2013-07-08 18:32:00" title="gas and PI" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="327597075" senderID="90192277" sentDate="2013-07-12 12:26:00" title="Mining in Caprica" toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849" toListID="" senderTypeID="1377" />
+      <row messageID="327425054" senderID="93509035" sentDate="2013-07-08 17:18:00" title="Moving to Nullsec" toCorpOrAllianceID="" toCharacterIDs="1116139599,608681423,91654478,93509044,1712190931,90067073,194703646,830042820,93573514,198884582,93576844,93576263,120781908,93429586,91131104,92285857,90730216,92478879,93193110,157540728,93013782,130930515,206618937,91825495,93329692,596626790,267272188,93044483,90192277,720266263,92363125,332588087,91837608,1109799666,93540313" toListID="" senderTypeID="1373" />
+      <row messageID="327587894" senderID="90003608" sentDate="2013-07-12 04:37:00" title="Full night's loot" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="327584737" senderID="90003608" sentDate="2013-07-12 03:00:00" title="Site Loot" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="327579449" senderID="1523688185" sentDate="2013-07-12 00:29:00" title="Tower" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="327519973" senderID="90192277" sentDate="2013-07-10 18:29:00" title="Re: Re: Gas Huffing" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="327507489" senderID="90192277" sentDate="2013-07-10 12:01:00" title="Stuff" toCorpOrAllianceID="" toCharacterIDs="90723629" toListID="" senderTypeID="1377" />
+      <row messageID="327464525" senderID="90192277" sentDate="2013-07-09 13:56:00" title="Re: gas and PI" toCorpOrAllianceID="" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="327379443" senderID="1437693930" sentDate="2013-07-07 17:14:00" title="BB SKEWL Update" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1380" />
+      <row messageID="327309554" senderID="1437693930" sentDate="2013-07-06 01:45:00" title="BB SKEWL" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1380" />
+      <row messageID="327289084" senderID="90919678" sentDate="2013-07-05 17:02:00" title="Re: Re: PVP T1 Cruiser Event" toCorpOrAllianceID="" toCharacterIDs="1941427321,90192277" toListID="" senderTypeID="1379" />
+      <row messageID="327267766" senderID="90192277" sentDate="2013-07-05 02:17:00" title="Fuel Blocks " toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849,2057584604" toListID="" senderTypeID="1377" />
+      <row messageID="327260892" senderID="91560447" sentDate="2013-07-04 22:34:00" title="Reddit and Us" toCorpOrAllianceID="" toCharacterIDs="90192277,90003608,1075598849" toListID="" senderTypeID="1383" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-15 19:22:17</cachedUntil>
+</eveapi>

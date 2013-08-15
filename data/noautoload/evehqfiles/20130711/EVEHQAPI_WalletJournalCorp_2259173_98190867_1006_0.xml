@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-11 22:31:52</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-06-14 03:54:59" refID="7681166909" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Varos Kang" argID1="90003608" amount="-350354197.46" balance="0.01" reason="DESC: Taxes&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-06-13 05:18:27" refID="7675438608" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Pflepsen" argID1="1075598849" amount="-2569264108.00" balance="350354197.47" reason="DESC: wrong spot&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-06-13 05:11:43" refID="7675414938" refTypeID="10" ownerName1="Kai-Lo Darklighter" ownerID1="92202062" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="" argID1="0" amount="2569264108.09" balance="2919618305.47" reason="DESC: C5 Capital Esc. (4) 12JUN13 post-tax&#xA;" owner1TypeID="1376" owner2TypeID="2" />
+      <row date="2013-06-13 05:07:48" refID="7675400732" refTypeID="10" ownerName1="Kai-Lo Darklighter" ownerID1="92202062" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="" argID1="0" amount="350354196.56" balance="350354197.38" reason="DESC: C5 Capital Escalations (4) 12JUN13&#xA;" owner1TypeID="1376" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-11 22:58:52</cachedUntil>
+</eveapi>

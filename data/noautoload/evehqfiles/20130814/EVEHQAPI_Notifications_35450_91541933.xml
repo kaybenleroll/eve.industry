@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 19:07:29</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID,typeID,senderID,sentDate,read">
+      <row notificationID="425880995" typeID="130" senderID="93598714" sentDate="2013-07-15 05:06:00" read="1" />
+      <row notificationID="425712495" typeID="16" senderID="93598714" sentDate="2013-07-13 23:57:00" read="1" />
+      <row notificationID="425561198" typeID="76" senderID="1000137" sentDate="2013-07-12 21:39:00" read="1" />
+      <row notificationID="425554250" typeID="76" senderID="1000137" sentDate="2013-07-12 20:39:00" read="1" />
+      <row notificationID="425547257" typeID="76" senderID="1000137" sentDate="2013-07-12 19:39:00" read="1" />
+      <row notificationID="425539461" typeID="76" senderID="1000137" sentDate="2013-07-12 18:39:00" read="1" />
+      <row notificationID="425533525" typeID="76" senderID="1000137" sentDate="2013-07-12 17:39:00" read="1" />
+      <row notificationID="425527727" typeID="76" senderID="1000137" sentDate="2013-07-12 16:39:00" read="1" />
+      <row notificationID="425522290" typeID="76" senderID="1000137" sentDate="2013-07-12 15:39:00" read="1" />
+      <row notificationID="425515954" typeID="76" senderID="1000137" sentDate="2013-07-12 14:39:00" read="1" />
+      <row notificationID="425511098" typeID="76" senderID="1000137" sentDate="2013-07-12 13:39:00" read="1" />
+      <row notificationID="425506620" typeID="76" senderID="1000137" sentDate="2013-07-12 12:39:00" read="1" />
+      <row notificationID="425502684" typeID="76" senderID="1000137" sentDate="2013-07-12 11:39:00" read="1" />
+      <row notificationID="425499564" typeID="76" senderID="1000137" sentDate="2013-07-12 10:39:00" read="1" />
+      <row notificationID="425496044" typeID="76" senderID="1000137" sentDate="2013-07-12 09:39:00" read="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-15 19:14:40</cachedUntil>
+</eveapi>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:30:01</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID">
+      <row messageID="312587183"><![CDATA[How is the mining going?]]></row>
+      <row messageID="312773172"><![CDATA[Hi Markus,<br><br>You built up any kind of stockpile of ore, or are you pretty much lying low while Hulkageddon runs its course?]]></row>
+      <row messageID="312521232"><![CDATA[Hi Markus,<br><br>This is Mursha Sabezan's alt toon. Just thought I'd send a message from this guy too as he is the one who whill be flying freighters initially. :)<br><br>How is the mining going?]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-06-16 01:30:01</cachedUntil>
+</eveapi>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 19:07:26</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Sheala de'Tancarville" characterID="1241101180" />
+      <row name="Marie Claire Orlenard" characterID="92736059" />
+      <row name="Calteis Industrica" characterID="1017870905" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-15 19:07:26</cachedUntil>
+</eveapi>

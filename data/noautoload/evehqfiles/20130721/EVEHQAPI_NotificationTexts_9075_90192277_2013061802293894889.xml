@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:30:23</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="422033505"><![CDATA[applicationText: 'Mals friend, sent API in eve mail. '
+charID: 213622156
+corpID: 98190867
+]]></row>
+      <row notificationID="421892831"><![CDATA[applicationText: Hey, this is Sarmhan, Aitena and Blindwillow have mentioned me to
+  you, and I'm interested in joining the corp. My api is <br><br>268382671<br>Jd5sanhcQ4XjiNe7FyKhzpuhIaVhQzUP0P8v9Or0jx7R8aC7QJNRrhxjCFWMQjPK<br>Let
+  me know if you need anything else.
+charID: 92724762
+corpID: 98190867
+]]></row>
+      <row notificationID="421863568"><![CDATA[corpID: 98190867
+newTaxRate: 10.0
+oldTaxRate: 0.0
+]]></row>
+      <row notificationID="421849399"><![CDATA[amount: 3333.3333333333335
+charID: 1050457473
+]]></row>
+      <row notificationID="421848834"><![CDATA[amount: 3448.2758620689656
+charID: 92363465
+]]></row>
+      <row notificationID="421732980"><![CDATA[amount: 2007392
+billTypeID: 2
+creditorID: 1000002
+currentDate: 130157301375854515
+debtorID: 98190867
+dueDate: 130183221375692786
+externalID: 27
+externalID2: 60000196
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-06-16 01:30:23</cachedUntil>
+</eveapi>

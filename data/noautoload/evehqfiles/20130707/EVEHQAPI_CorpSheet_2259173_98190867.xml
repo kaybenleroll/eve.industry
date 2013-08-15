@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-07 01:23:13</currentTime>
+  <result>
+    <corporationID>98190867</corporationID>
+    <corporationName>Conquering Darkness</corporationName>
+    <ticker>Y790</ticker>
+    <ceoID>90003608</ceoID>
+    <ceoName>Varos Kang</ceoName>
+    <stationID>60014743</stationID>
+    <stationName>Ardene VIII - Moon 11 - Center for Advanced Studies School</stationName>
+    <description>People that play EvE together</description>
+    <url>http://</url>
+    <allianceID>0</allianceID>
+    <factionID>0</factionID>
+    <taxRate>10</taxRate>
+    <memberCount>66</memberCount>
+    <memberLimit>100</memberLimit>
+    <shares>500</shares>
+    <rowset name="divisions" key="accountKey" columns="accountKey,description">
+      <row accountKey="1000" description="Fittings" />
+      <row accountKey="1001" description="Ammo" />
+      <row accountKey="1002" description="Ore Minerals" />
+      <row accountKey="1003" description="Planetary Interaction" />
+      <row accountKey="1004" description="Bastards" />
+      <row accountKey="1005" description="Salvage" />
+      <row accountKey="1006" description="Other" />
+    </rowset>
+    <rowset name="walletDivisions" key="accountKey" columns="accountKey,description">
+      <row accountKey="1000" description="Wallet Division 1" />
+      <row accountKey="1001" description="POS FUEL" />
+      <row accountKey="1002" description="Ship Purchases" />
+      <row accountKey="1003" description="Savings" />
+      <row accountKey="1004" description="Petty Cash" />
+      <row accountKey="1005" description="6th Wallet Division" />
+      <row accountKey="1006" description="Sites Account" />
+    </rowset>
+    <logo>
+      <graphicID>0</graphicID>
+      <shape1>419</shape1>
+      <shape2>419</shape2>
+      <shape3>512</shape3>
+      <color1>677</color1>
+      <color2>674</color2>
+      <color3>674</color3>
+    </logo>
+  </result>
+  <cachedUntil>2013-07-07 03:30:17</cachedUntil>
+</eveapi>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-14 22:19:39</currentTime>
+  <result>
+    <rowset name="contractList" key="contractID" columns="contractID,issuerID,issuerCorpID,assigneeID,acceptorID,startStationID,endStationID,type,status,title,forCorp,availability,dateIssued,dateExpired,dateAccepted,numDays,dateCompleted,price,reward,collateral,buyout,volume">
+      <row contractID="70483355" issuerID="92736777" issuerCorpID="98012536" assigneeID="0" acceptorID="92344857" startStationID="60004462" endStationID="60008494" type="Courier" status="Completed" title="" forCorp="0" availability="Public" dateIssued="2013-07-17 12:52:07" dateExpired="2013-07-31 12:52:07" dateAccepted="2013-07-17 13:12:52" numDays="1" dateCompleted="2013-07-17 18:38:23" price="0.00" reward="2000000.00" collateral="200000000.00" buyout="0.00" volume="0.01" />
+      <row contractID="70496600" issuerID="92736777" issuerCorpID="98012536" assigneeID="90192277" acceptorID="90192277" startStationID="60008494" endStationID="60008494" type="ItemExchange" status="Completed" title="" forCorp="0" availability="Private" dateIssued="2013-07-17 20:40:31" dateExpired="2013-07-31 20:40:31" dateAccepted="2013-07-17 23:57:12" numDays="0" dateCompleted="2013-07-17 23:57:12" price="0.00" reward="0.00" collateral="0.00" buyout="0.00" volume="0.01" />
+      <row contractID="70854397" issuerID="92736777" issuerCorpID="98012536" assigneeID="98012536" acceptorID="91227546" startStationID="60011566" endStationID="60011866" type="Courier" status="Completed" title="" forCorp="1" availability="Private" dateIssued="2013-07-27 20:43:20" dateExpired="2013-08-10 20:43:20" dateAccepted="2013-07-27 20:47:12" numDays="1" dateCompleted="2013-07-27 20:58:19" price="0.00" reward="0.00" collateral="0.00" buyout="0.00" volume="1600" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-14 22:25:37</cachedUntil>
+</eveapi>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:29:58</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="326449375" senderID="93059708" sentDate="2013-06-18 01:17:00" title="WTS Thorax/Vexor" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326429410" senderID="90378456" sentDate="2013-06-17 18:23:00" title="[UPDATE] WTS Small NOS II" toCorpOrAllianceID="" toCharacterIDs="90378456" toListID="145096714" />
+      <row messageID="326422358" senderID="93373323" sentDate="2013-06-17 15:45:00" title="[SOLD][WTS] BULK T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326418881" senderID="93256760" sentDate="2013-06-17 14:05:00" title="WTS Caracals" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326418683" senderID="93373323" sentDate="2013-06-17 13:58:00" title="[UPDATE][WTS] BULK T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326436356" senderID="1542247955" sentDate="2013-06-17 20:40:00" title="[update] WTS LAR II + Neutron Blasters II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326413676" senderID="93373323" sentDate="2013-06-17 10:24:00" title="[WTS] BULK T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326449837" senderID="93059708" sentDate="2013-06-18 01:29:00" title="Re: WTS Thorax/Vexor" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326389517" senderID="661729967" sentDate="2013-06-16 21:52:00" title="WTS: Caldari ship BPC's." toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326427395" senderID="92460400" sentDate="2013-06-17 17:40:00" title="WTS Medium Trimark II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326445768" senderID="93299887" sentDate="2013-06-17 23:54:00" title="WTS Electron Bombs (5% Off Jita)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326376315" senderID="90717401" sentDate="2013-06-16 17:42:00" title="SOLD WTS  Cruise Missile Launcher II " toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326432123" senderID="93092637" sentDate="2013-06-17 19:18:00" title="WTS Minerals at Everyshore" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326426335" senderID="91675809" sentDate="2013-06-17 17:18:00" title="[UPDATE] WTS small T1 armor rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326375202" senderID="90926985" sentDate="2013-06-16 17:20:00" title="WTS: T2 Stuff" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326428217" senderID="90199911" sentDate="2013-06-17 17:57:00" title="[update] WTS Ships" toCorpOrAllianceID="" toCharacterIDs="90199911" toListID="145096714" />
+      <row messageID="326424352" senderID="90378456" sentDate="2013-06-17 16:33:00" title="WTS Small NOS II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326373579" senderID="92188914" sentDate="2013-06-16 16:48:00" title="WTB: Hammerhead II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326428096" senderID="90199911" sentDate="2013-06-17 17:55:00" title="WTS Ships" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326418758" senderID="93373323" sentDate="2013-06-17 14:01:00" title="[WTS] T2 RIGS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326369718" senderID="92837655" sentDate="2013-06-16 15:31:00" title="[SOLD] WTS Light Neutron Blaster II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326422810" senderID="92571484" sentDate="2013-06-17 15:56:00" title="WTS T2 Items" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326362196" senderID="93373323" sentDate="2013-06-16 12:08:00" title="[UPDATE][WTS] BULK T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326413748" senderID="91675809" sentDate="2013-06-17 10:29:00" title="WTS small T1 armor rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326421344" senderID="93256760" sentDate="2013-06-17 15:20:00" title="SOLD WTS Caracals" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326357254" senderID="93373323" sentDate="2013-06-16 08:37:00" title="[WTS] BULK T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326411499" senderID="275801484" sentDate="2013-06-17 08:33:00" title="SOLD! - New Void/Null S Build kits!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326417486" senderID="1542247955" sentDate="2013-06-17 13:18:00" title="WTS LAR II + Neutron Blasters II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326346183" senderID="93203353" sentDate="2013-06-16 02:54:00" title="WTS Medium Cargohold Optimiziation II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326410956" senderID="90023950" sentDate="2013-06-17 08:08:00" title="WTS T1/T3 BC BPC / T1 Cruiser" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326415049" senderID="92007991" sentDate="2013-06-17 11:50:00" title="WTS Tracking Enhancer II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326324799" senderID="92837655" sentDate="2013-06-15 16:51:00" title="WTS Light Neutron Blaster II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326384904" senderID="90023950" sentDate="2013-06-16 20:24:00" title="WTS T1/T3 BC BPC / T1 Cruiser" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326413099" senderID="661729967" sentDate="2013-06-17 09:55:00" title="FW: WTS: Caldari ship BPC's." toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326384831" senderID="93373323" sentDate="2013-06-16 20:23:00" title="[SOLD][WTS] BULK T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326411082" senderID="93101897" sentDate="2013-06-17 08:14:00" title="WTS T2 Warp Scrambler/Disruptor BPCs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326410300" senderID="275801484" sentDate="2013-06-17 07:38:00" title="New Void/Null S Build kits!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326383785" senderID="92958640" sentDate="2013-06-16 20:05:00" title="WTB Researched BPOs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326392992" senderID="229730508" sentDate="2013-06-16 23:04:00" title="64 x stabber fleet issue bpc" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326376287" senderID="91242008" sentDate="2013-06-16 17:41:00" title="WTB 1600mm Reinforced Steel Plates II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326377307" senderID="221934348" sentDate="2013-06-16 18:01:00" title="WTS Mjolnir Rage Heavy Missiles" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326375389" senderID="90926985" sentDate="2013-06-16 17:24:00" title="[SOLD] WTS: T2 Stuff" toCorpOrAllianceID="" toCharacterIDs="90926985" toListID="145096714" />
+      <row messageID="326375452" senderID="90717401" sentDate="2013-06-16 17:25:00" title="WTS  Cruise Missile Launcher II " toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326366987" senderID="93059708" sentDate="2013-06-16 14:29:00" title="WTS Thorax/Vexor" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326370504" senderID="90378456" sentDate="2013-06-16 15:47:00" title="WTS Small NOS II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326361529" senderID="90023950" sentDate="2013-06-16 11:40:00" title="UPDATE* WTS T1/T3 BC BPC / T1 Cruiser" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326367231" senderID="93059708" sentDate="2013-06-16 14:35:00" title="[UPDATE] WTS Thorax/Vexor" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326358356" senderID="93394976" sentDate="2013-06-16 09:19:00" title="[SOLD] WTS Memory Augmentation - Standard" toCorpOrAllianceID="" toCharacterIDs="93394976" toListID="145096714" />
+      <row messageID="326355530" senderID="93394976" sentDate="2013-06-16 07:30:00" title="WTS Memory Augmentation - Standard" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+      <row messageID="326350673" senderID="275801484" sentDate="2013-06-16 05:00:00" title="Void/Null S Build kits!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-06-18 01:44:58</cachedUntil>
+</eveapi>

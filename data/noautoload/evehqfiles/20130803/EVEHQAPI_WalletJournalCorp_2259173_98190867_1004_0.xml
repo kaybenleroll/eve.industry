@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-03 02:22:04</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-08-02 03:17:14" refID="7962749523" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Kai-Lo Darklighter" ownerID2="92202062" argName1="Kai-Lo Darklighter" argID1="92202062" amount="-4655272210.00" balance="5573037.62" reason="DESC: 7/31 and 8/1/13 Sites Payout&#xA;" owner1TypeID="2" owner2TypeID="1376" />
+      <row date="2013-08-02 03:13:48" refID="7962736744" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Pflepsen" argID1="1075598849" amount="4655272210.00" balance="4660845247.62" reason="DESC: site pay out&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-07-23 20:06:57" refID="7910311513" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Butthurt Buttcry" ownerID2="92360614" argName1="Butthurt Buttcry" argID1="92360614" amount="-35761077.66" balance="5573037.62" reason="" owner1TypeID="2" owner2TypeID="1376" />
+      <row date="2013-07-23 20:05:31" refID="7910303580" refTypeID="54" ownerName1="Butthurt Buttcry" ownerID1="92360614" ownerName2="Secure Commerce Commission" ownerID2="1000132" argName1="" argID1="0" amount="-536416.16" balance="41334115.28" reason="" owner1TypeID="1376" owner2TypeID="2" />
+      <row date="2013-07-23 20:05:31" refID="7910303579" refTypeID="2" ownerName1="Eternity Imortal" ownerID1="91119922" ownerName2="Butthurt Buttcry" ownerID2="92360614" argName1="2992937601" argID1="0" amount="35761077.66" balance="41870531.44" reason="" owner1TypeID="1384" owner2TypeID="1376" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-03 02:49:04</cachedUntil>
+</eveapi>

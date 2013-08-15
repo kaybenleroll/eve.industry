@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-03 02:22:02</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-07-31 17:22:28" refID="7954539950" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Gynax Gallenor" argID1="90192277" amount="-70000000.00" balance="324085.99" reason="DESC: ISK from C1 sites&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-07-31 16:45:40" refID="7954349338" refTypeID="46" ownerName1="Gynax Gallenor" ownerID1="90192277" ownerName2="Secure Commerce Commission" ownerID2="1000132" argName1="EVE System" argID1="1" amount="-100.00" balance="70324085.99" reason="" owner1TypeID="1377" owner2TypeID="2" />
+      <row date="2013-07-12 01:54:50" refID="7845641641" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="ZePenguin" ownerID2="1523688185" argName1="Varos Kang" argID1="90003608" amount="-42643525.00" balance="70324185.99" reason="DESC: Mining Op&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-07-12 01:54:09" refID="7845639272" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Blindwillow" ownerID2="92701102" argName1="Varos Kang" argID1="90003608" amount="-42643525.00" balance="112967710.99" reason="DESC: Mining Op&#xA;" owner1TypeID="2" owner2TypeID="1379" />
+      <row date="2013-07-12 01:53:26" refID="7845636437" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Aiko Kurushio" ownerID2="91560447" argName1="Varos Kang" argID1="90003608" amount="-28429017.00" balance="155611235.99" reason="DESC: Mining Op&#xA;" owner1TypeID="2" owner2TypeID="1383" />
+      <row date="2013-07-12 01:52:44" refID="7845633835" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Pflepsen" ownerID2="1075598849" argName1="Varos Kang" argID1="90003608" amount="-28429017.00" balance="184040252.99" reason="DESC: Mining Op&#xA;" owner1TypeID="2" owner2TypeID="1376" />
+      <row date="2013-07-12 01:51:52" refID="7845631082" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Varos Kang" ownerID2="90003608" argName1="Varos Kang" argID1="90003608" amount="-28429017.00" balance="212469269.99" reason="DESC: Mining Op&#xA;" owner1TypeID="2" owner2TypeID="1383" />
+      <row date="2013-07-12 01:50:19" refID="7845625898" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Oma Cron" ownerID2="90436860" argName1="Varos Kang" argID1="90003608" amount="-28429017.00" balance="240898286.99" reason="DESC: Mining Op&#xA;" owner1TypeID="2" owner2TypeID="1374" />
+      <row date="2013-07-11 21:56:13" refID="7844709326" refTypeID="10" ownerName1="Gynax Gallenor" ownerID1="90192277" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="" argID1="0" amount="119000000.00" balance="269327303.99" reason="DESC: ISK for Gas site salvage&#xA;" owner1TypeID="1377" owner2TypeID="2" />
+      <row date="2013-07-11 13:14:38" refID="7842319147" refTypeID="10" ownerName1="Gynax Gallenor" ownerID1="90192277" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="" argID1="0" amount="94217625.00" balance="150327303.99" reason="DESC: ISK for gas from C5&#xA;" owner1TypeID="1377" owner2TypeID="2" />
+      <row date="2013-07-08 20:27:06" refID="7827969737" refTypeID="54" ownerName1="Gynax Gallenor" ownerID1="90192277" ownerName2="Secure Commerce Commission" ownerID2="1000132" argName1="" argID1="0" amount="-143250.00" balance="56109678.99" reason="" owner1TypeID="1377" owner2TypeID="2" />
+      <row date="2013-07-08 20:27:06" refID="7827969736" refTypeID="2" ownerName1="Fly Dimaloun" ownerID1="92959467" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="2969500027" argID1="0" amount="19100000.00" balance="56252928.99" reason="" owner1TypeID="1373" owner2TypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-03 02:49:02</cachedUntil>
+</eveapi>

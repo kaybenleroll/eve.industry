@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-04 11:52:29</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Kocur4d Zeus" characterID="93386857" />
+      <row name="TS Oskold" characterID="90689475" />
+      <row name="Xae Kae" characterID="93358107" />
+      <row name="A-Fission Industries" characterID="552088578" />
+      <row name="Shallez" characterID="1387050188" />
+      <row name="JAGUARP4W" characterID="1172345842" />
+      <row name="Michael Eberstark" characterID="93352348" />
+      <row name="Joe McLovin" characterID="1497532851" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-04 11:52:29</cachedUntil>
+</eveapi>
