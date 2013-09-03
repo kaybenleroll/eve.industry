@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:05:07</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID,typeID,senderID,sentDate,read">
+      <row notificationID="431927598" typeID="34" senderID="1000132" sentDate="2013-08-30 10:38:00" read="1" />
+      <row notificationID="431926454" typeID="34" senderID="1000132" sentDate="2013-08-30 10:17:00" read="1" />
+      <row notificationID="431868116" typeID="76" senderID="1000137" sentDate="2013-08-29 21:05:00" read="1" />
+      <row notificationID="431861767" typeID="76" senderID="1000137" sentDate="2013-08-29 20:05:00" read="1" />
+      <row notificationID="431853935" typeID="76" senderID="1000137" sentDate="2013-08-29 19:05:00" read="1" />
+      <row notificationID="431847547" typeID="76" senderID="1000137" sentDate="2013-08-29 18:05:00" read="1" />
+      <row notificationID="431841425" typeID="76" senderID="1000137" sentDate="2013-08-29 17:05:00" read="1" />
+      <row notificationID="431835756" typeID="76" senderID="1000137" sentDate="2013-08-29 16:05:00" read="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 14:19:01</cachedUntil>
+</eveapi>

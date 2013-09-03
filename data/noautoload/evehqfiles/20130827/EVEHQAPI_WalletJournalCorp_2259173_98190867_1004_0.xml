@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-27 11:34:01</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-08-19 03:52:55" refID="8060013935" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="dilrazek" ownerID2="410858838" argName1="dilrazek" argID1="410858838" amount="-191000000.00" balance="5573037.52" reason="DESC: vigilant replacement&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-08-19 03:48:03" refID="8059998481" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Pflepsen" argID1="1075598849" amount="191000000.00" balance="196573037.52" reason="DESC: vig replacement&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-13 13:42:22" refID="8028398571" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="hug'o" ownerID2="311726299" argName1="Martin Sonderberg" argID1="93080349" amount="-300000000.00" balance="5573037.52" reason="DESC: More money&#xA;" owner1TypeID="2" owner2TypeID="1384" />
+      <row date="2013-08-13 13:34:53" refID="8028370828" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="hug'o" ownerID2="311726299" argName1="Martin Sonderberg" argID1="93080349" amount="-200000000.00" balance="305573037.52" reason="DESC: Moneys&#xA;" owner1TypeID="2" owner2TypeID="1384" />
+      <row date="2013-08-13 13:21:02" refID="8028323050" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Gynax Gallenor" argID1="90192277" amount="500000000.00" balance="505573037.52" reason="DESC: ISK for Dread rescue&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-13 13:20:25" refID="8028321038" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Martin Sonderberg" ownerID2="93080349" argName1="Martin Sonderberg" argID1="93080349" amount="-0.10" balance="5573037.52" reason="" owner1TypeID="2" owner2TypeID="1373" />
+      <row date="2013-08-02 03:17:14" refID="7962749523" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Kai-Lo Darklighter" ownerID2="92202062" argName1="Kai-Lo Darklighter" argID1="92202062" amount="-4655272210.00" balance="5573037.62" reason="DESC: 7/31 and 8/1/13 Sites Payout&#xA;" owner1TypeID="2" owner2TypeID="1376" />
+      <row date="2013-08-02 03:13:48" refID="7962736744" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Pflepsen" argID1="1075598849" amount="4655272210.00" balance="4660845247.62" reason="DESC: site pay out&#xA;" owner1TypeID="2" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-27 12:01:01</cachedUntil>
+</eveapi>

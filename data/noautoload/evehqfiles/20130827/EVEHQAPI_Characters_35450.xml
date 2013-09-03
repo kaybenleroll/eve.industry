@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-27 11:32:05</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID">
+      <row name="Mursha Sabezan" characterID="91227546" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+      <row name="Dacian Stellean" characterID="91541933" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+      <row name="Umbar Terona" characterID="91867127" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-27 11:56:32</cachedUntil>
+</eveapi>

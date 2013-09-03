@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-24 17:31:53</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Descons Kitty" characterID="915274322" />
+      <row name="Caljiav Ocanon" characterID="92964486" />
+      <row name="Gomhoth Arsten" characterID="92235508" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-24 17:31:53</cachedUntil>
+</eveapi>

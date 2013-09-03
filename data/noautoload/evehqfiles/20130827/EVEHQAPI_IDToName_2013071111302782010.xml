@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-11 22:31:47</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Rack pinion" characterID="726983684" />
+      <row name="Mysttina" characterID="1048321806" />
+      <row name="mining mudha" characterID="91242530" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-11 22:31:47</cachedUntil>
+</eveapi>

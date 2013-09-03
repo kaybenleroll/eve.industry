@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-26 15:57:33</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="431380805"><![CDATA[body: 135248
+header:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailHeader
+- {}
+missionKeywords:
+  dungeonLocationID: 30002655
+  dungeonSolarSystemID: 30002655
+  objectiveLocationID: 60009682
+  objectiveLocationSystemID: 30002655
+  objectiveQuantity: 20
+  objectiveTypeID: 28627
+  rewardQuantity: 581000
+  rewardTypeID: 29
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-24 15:57:33</cachedUntil>
+</eveapi>

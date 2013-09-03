@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 13:38:00</currentTime>
+  <result>
+    <rowset name="skillqueue" key="queuePosition" columns="queuePosition,typeID,level,startSP,endSP,startTime,endTime">
+      <row queuePosition="0" typeID="3392" level="4" startSP="8000" endSP="45255" startTime="" endTime="" />
+      <row queuePosition="1" typeID="3417" level="4" startSP="8000" endSP="45255" startTime="" endTime="" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 14:35:00</cachedUntil>
+</eveapi>

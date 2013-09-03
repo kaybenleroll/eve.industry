@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-20 14:55:17</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="329504618" senderID="92683570" sentDate="2013-08-20 06:22:00" title="WTS Medium Trimark Armor Pump" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329433506" senderID="92689743" sentDate="2013-08-18 19:39:00" title="GNOSIS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329469247" senderID="1614003633" sentDate="2013-08-19 15:21:00" title="SOLD WTS T1 Mods" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="329431791" senderID="91989594" sentDate="2013-08-18 19:04:00" title="WTS Cynosural Field Generator I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="329459978" senderID="90628142" sentDate="2013-08-19 08:30:00" title="FW: WTS EAM II  SOLD!!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="329515865" senderID="146144313" sentDate="2013-08-20 14:45:00" title="WTS Large Anti-Thermal Screen Reinforcer II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="329431521" senderID="91537055" sentDate="2013-08-18 18:59:00" title="WTB MInerals" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329443865" senderID="92999028" sentDate="2013-08-18 23:24:00" title="WTS Damage Control II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329494070" senderID="1384499014" sentDate="2013-08-20 00:51:00" title="WTB Oxygen Isotopes" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329417929" senderID="93634178" sentDate="2013-08-18 13:31:00" title="[WTS] T2 DRONES / T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329488992" senderID="91175266" sentDate="2013-08-19 22:56:00" title="UPDATE; WTS BPC'S, Vigilant's, Tech II Rails/Blasters + Others" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329439605" senderID="93589334" sentDate="2013-08-18 21:47:00" title="Sold FW: FW: FW: WTS 5x Med remote repair aug" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329481201" senderID="92689743" sentDate="2013-08-19 20:09:00" title="WTS STRIP MINERS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329411445" senderID="90199911" sentDate="2013-08-18 08:50:00" title="[Update 2]: WTS Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329439358" senderID="93589334" sentDate="2013-08-18 21:42:00" title="FW: FW: WTS 5x Med remote repair aug" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329468641" senderID="93634178" sentDate="2013-08-19 15:04:00" title="[WTS] T2 DRONES / T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329467474" senderID="1614003633" sentDate="2013-08-19 14:30:00" title="WTS T1 Mods" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="329432231" senderID="91989594" sentDate="2013-08-18 19:13:00" title="*SOLD* WTS Cynosural Field Generator I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="329387224" senderID="1443689986" sentDate="2013-08-17 21:04:00" title="SOLD [WTS] Sabre" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329459189" senderID="90628142" sentDate="2013-08-19 07:54:00" title="WTS EAM II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="329421624" senderID="90199911" sentDate="2013-08-18 15:16:00" title="Re: [Update 3]: WTS Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329377639" senderID="92702628" sentDate="2013-08-17 17:30:00" title="WTS: PI goods (P2)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="329455157" senderID="92683570" sentDate="2013-08-19 05:00:00" title="WTS Medium Trimark Armor Pump" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329372646" senderID="92702628" sentDate="2013-08-17 15:27:00" title="Common Ores (about 16.5 Mio m³) [Updated x2]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="329415172" senderID="93589334" sentDate="2013-08-18 11:49:00" title="FW: WTS 5x Med remote repair aug" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329444228" senderID="92999028" sentDate="2013-08-18 23:33:00" title="[SOLD] WTS Damage Control II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329411111" senderID="91917826" sentDate="2013-08-18 08:37:00" title="1400mm II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329370070" senderID="92702628" sentDate="2013-08-17 14:17:00" title="WTS: Common Ores (about 16.5 Mio m³)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="329420350" senderID="92329340" sentDate="2013-08-18 14:42:00" title="Re: wts t2 ammo and t2 components" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329383536" senderID="90199911" sentDate="2013-08-17 19:44:00" title="[Update 1]: WTS Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329365714" senderID="1515309276" sentDate="2013-08-17 11:42:00" title="WTB: Cap Rech T2 &amp; Exp Cargo T2" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="329382146" senderID="91253647" sentDate="2013-08-17 19:14:00" title="WTS BCS I, Mag Stab I, Bomb Launcher I, 10mn Micro I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1373" />
+      <row messageID="329414760" senderID="93589334" sentDate="2013-08-18 11:31:00" title="WTS 5x Med remote repair aug" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329362867" senderID="93634178" sentDate="2013-08-17 09:18:00" title="[WTS] T2 DRONES / T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="329379384" senderID="92329340" sentDate="2013-08-17 18:13:00" title="wts t2 ammo and t2 components" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329373069" senderID="90199911" sentDate="2013-08-17 15:38:00" title="WTS PI" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329385296" senderID="90926985" sentDate="2013-08-17 20:21:00" title="[SOLD] wts T2 Stuff" toCorpOrAllianceID="" toCharacterIDs="90926985" toListID="145096714" senderTypeID="1379" />
+      <row messageID="329356423" senderID="92683570" sentDate="2013-08-17 05:09:00" title="WTS Medium Trimark Armor Pump" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329370823" senderID="1443689986" sentDate="2013-08-17 14:39:00" title="[WTS] Sabre" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329385232" senderID="90926985" sentDate="2013-08-17 20:20:00" title="wts T2 Stuff" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="329345960" senderID="91426384" sentDate="2013-08-17 00:11:00" title="WTS Tritanium" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="329359711" senderID="91426384" sentDate="2013-08-17 07:03:00" title="[SOLD] WTS Tritanium" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="329384025" senderID="93129511" sentDate="2013-08-17 19:55:00" title="WTS Improved Cloaking Device II + T2 Rigs [update]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="329381954" senderID="90199911" sentDate="2013-08-17 19:10:00" title="WTS Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="329375488" senderID="92702628" sentDate="2013-08-17 16:39:00" title="Common Ores (about 16.5 Mio m³) [Updated x3]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="329371107" senderID="93129511" sentDate="2013-08-17 14:47:00" title="Re: WTS Improved Cloaking Device II + T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="329370725" senderID="92702628" sentDate="2013-08-17 14:35:00" title="Aw: WTS: Common Ores (about 16.5 Mio m³) [Updated]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="329337528" senderID="1673345902" sentDate="2013-08-16 20:45:00" title="WTS Hammerhead II, jita" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="329336682" senderID="93129511" sentDate="2013-08-16 20:27:00" title="WTS Improved Cloaking Device II + T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="329330758" senderID="91917826" sentDate="2013-08-16 18:06:00" title="FW: Update: Heat Sink II, Power Diagnosics II, 1400mm Howitzer Artillery II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-20 15:10:17</cachedUntil>
+</eveapi>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-08 22:08:10</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="428677365"><![CDATA[isHouseWarmingGift: 1
+shipTypeID: 606
+]]></row>
+      <row notificationID="428676834"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451114
+solarSystemID: 31001938
+typeID: 20059
+wants:
+- quantity: 420
+  typeID: 4247
+]]></row>
+      <row notificationID="428673038"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451114
+solarSystemID: 31001938
+typeID: 20059
+wants:
+- quantity: 440
+  typeID: 4247
+]]></row>
+      <row notificationID="428668943"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451114
+solarSystemID: 31001938
+typeID: 20059
+wants:
+- quantity: 460
+  typeID: 4247
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-06 22:08:10</cachedUntil>
+</eveapi>

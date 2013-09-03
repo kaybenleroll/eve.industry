@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-06-18 01:30:26</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="CBD Corporation" characterID="1000002" />
+      <row name="Sarmhan Auffrie" characterID="92724762" />
+      <row name="Einarjar" characterID="213622156" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-07-18 01:30:26</cachedUntil>
+</eveapi>

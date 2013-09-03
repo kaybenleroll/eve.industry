@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:05:00</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="328364378" senderID="91336756" sentDate="2013-07-28 17:48:00" title="Automated Message: Welcome to Estel Arador Corp Services" toCorpOrAllianceID="" toCharacterIDs="91867127" toListID="" senderTypeID="1383" />
+      <row messageID="312587183" senderID="91867127" sentDate="2012-04-28 16:19:00" title="Mining" toCorpOrAllianceID="" toCharacterIDs="91448860" toListID="" senderTypeID="1385" />
+      <row messageID="312773172" senderID="91867127" sentDate="2012-05-06 09:32:00" title="Ore" toCorpOrAllianceID="" toCharacterIDs="91448860" toListID="" senderTypeID="1385" />
+      <row messageID="312521232" senderID="91867127" sentDate="2012-04-25 19:43:00" title="Mining" toCorpOrAllianceID="" toCharacterIDs="91448860" toListID="" senderTypeID="1385" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 14:20:00</cachedUntil>
+</eveapi>

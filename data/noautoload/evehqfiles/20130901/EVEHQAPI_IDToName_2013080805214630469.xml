@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-08 16:22:06</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="EACS Manager" characterID="91336756" />
+      <row name="Canyon Vjourytant" characterID="91340469" />
+      <row name="sparta93" characterID="91586565" />
+      <row name="waffleuk" characterID="587976281" />
+      <row name="VisualNarcotics" characterID="874419311" />
+      <row name="Blindwillow" characterID="92701102" />
+      <row name="DaiseyCutter" characterID="497164756" />
+      <row name="Sven Gren" characterID="391635509" />
+      <row name="green0055" characterID="92656178" />
+      <row name="Gunvila Hastmena" characterID="91410333" />
+      <row name="Grayza Staleek" characterID="92337953" />
+      <row name="Goldenage Amarr" characterID="93172913" />
+      <row name="Hank Da-Tank" characterID="92792136" />
+      <row name="Rivil Charante" characterID="92289975" />
+      <row name="Gad Murker" characterID="92460134" />
+      <row name="Grymtrade Wulf" characterID="92725725" />
+      <row name="Mo Fizzle" characterID="91252905" />
+      <row name="jaksparra" characterID="1384499014" />
+      <row name="aya wulf" characterID="91212197" />
+      <row name="Ricky Pickering" characterID="392099638" />
+      <row name="Robin Soikutsu" characterID="91293443" />
+      <row name="Ace Rums" characterID="1965930196" />
+      <row name="Neko Oumis" characterID="91196620" />
+      <row name="Tony Seller" characterID="93634178" />
+      <row name="Yanagi Nagi" characterID="92837655" />
+      <row name="Offspring Agittain" characterID="93669243" />
+      <row name="Dinaos" characterID="1711524597" />
+      <row name="Grand Nagus Gint" characterID="93566162" />
+      <row name="Vitae Yassavi" characterID="90589577" />
+      <row name="TimmyHorton" characterID="90009152" />
+      <row name="Alex Rainer" characterID="92683570" />
+      <row name="Intox Tavin" characterID="387514521" />
+      <row name="Yuan Al'Khalid" characterID="90628142" />
+      <row name="Py Te" characterID="92999028" />
+      <row name="Servjen" characterID="100624253" />
+      <row name="Sarah Flynt" characterID="92099160" />
+      <row name="Sir Howard Wilmarch" characterID="93129511" />
+      <row name="sad0clown" characterID="669782012" />
+      <row name="Armerlite" characterID="616305311" />
+      <row name="Danbar Roth" characterID="173895950" />
+      <row name="Evey Itari" characterID="91371916" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-08 16:22:06</cachedUntil>
+</eveapi>

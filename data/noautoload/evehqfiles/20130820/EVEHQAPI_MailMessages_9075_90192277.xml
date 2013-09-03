@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-20 14:55:16</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="328947058" senderID="90192277" sentDate="2013-08-08 22:22:00" title="Re: What is wormhole space like?" toCorpOrAllianceID="" toCharacterIDs="1264309014" toListID="" senderTypeID="1377" />
+      <row messageID="328955520" senderID="90003608" sentDate="2013-08-09 01:57:00" title="Dust toons" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1383" />
+      <row messageID="328955825" senderID="90009152" sentDate="2013-08-09 02:05:00" title="Re: Re: Re: Re: can needs a crushin." toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="328956385" senderID="90009152" sentDate="2013-08-09 02:20:00" title="Re: Re: Re: Re: Re: Re: can needs a crushin." toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="328984743" senderID="898413254" sentDate="2013-08-09 18:23:00" title="On this momentus occasion..." toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="328956301" senderID="90192277" sentDate="2013-08-09 02:18:00" title="Re: Re: Re: Re: Re: can needs a crushin." toCorpOrAllianceID="" toCharacterIDs="90009152" toListID="" senderTypeID="1377" />
+      <row messageID="329004994" senderID="90192277" sentDate="2013-08-10 02:30:00" title="Re: more PI" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="328956609" senderID="90192277" sentDate="2013-08-09 02:26:00" title="Re: Re: Re: Re: Re: Re: Re: can needs a crushin." toCorpOrAllianceID="" toCharacterIDs="90009152" toListID="" senderTypeID="1377" />
+      <row messageID="329035250" senderID="898413254" sentDate="2013-08-10 18:23:00" title="Recent WarpToMe Fitting / Ship Changes" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="328995188" senderID="90192277" sentDate="2013-08-09 22:17:00" title="The Y790 Drinking Game" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329057434" senderID="718527983" sentDate="2013-08-11 03:05:00" title="Re: The Y790 Drinking Game" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329000508" senderID="1075598849" sentDate="2013-08-10 00:25:00" title="FW: The Y790 Drinking Game" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329171555" senderID="1716010712" sentDate="2013-08-13 10:00:00" title="Re: Re: The Y790 Drinking Game" toCorpOrAllianceID="98190867" toCharacterIDs="90192277,718527983" toListID="" senderTypeID="1377" />
+      <row messageID="329004877" senderID="90003608" sentDate="2013-08-10 02:27:00" title="more PI" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="329241874" senderID="90192277" sentDate="2013-08-14 20:24:00" title="Y790 Account - July 2013" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329007530" senderID="1534227869" sentDate="2013-08-10 03:43:00" title="Ore can" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1379" />
+      <row messageID="329075767" senderID="90192277" sentDate="2013-08-11 14:02:00" title="Re: Ore!" toCorpOrAllianceID="" toCharacterIDs="90009152" toListID="" senderTypeID="1377" />
+      <row messageID="329272846" senderID="93080349" sentDate="2013-08-15 13:10:00" title="Re: Re: Re: Evemails with Gynax - PvP Doctrine" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1373" />
+      <row messageID="329082555" senderID="90192277" sentDate="2013-08-11 16:45:00" title="Your App" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="329278110" senderID="90192277" sentDate="2013-08-15 15:49:00" title="Re: Re: Re: Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329086049" senderID="90192277" sentDate="2013-08-11 18:00:00" title="Combat Boosters" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329086162" senderID="92638609" sentDate="2013-08-11 18:02:00" title="Re: Your App" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329291915" senderID="874419311" sentDate="2013-08-15 21:13:00" title="SUNDAY SPECIAL" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="328947648" senderID="92289975" sentDate="2013-08-08 22:34:00" title="Freight Container" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329088326" senderID="90192277" sentDate="2013-08-11 18:44:00" title="Boosters and T3 subsystems" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329137695" senderID="898413254" sentDate="2013-08-12 18:31:00" title="WTM's 6 month Anniversary" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329312658" senderID="1941427321" sentDate="2013-08-16 07:09:00" title="Easy Mode Wormhole PvE" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="328951022" senderID="90192277" sentDate="2013-08-08 23:57:00" title="CVA and all that" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="329171581" senderID="1716010712" sentDate="2013-08-13 10:01:00" title="Re: New Member" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329187681" senderID="90209655" sentDate="2013-08-13 18:29:00" title="Fits" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329344097" senderID="90192277" sentDate="2013-08-16 23:19:00" title="Incursions on Saturday" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="328958720" senderID="90192277" sentDate="2013-08-09 03:29:00" title="Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329266895" senderID="1777882394" sentDate="2013-08-15 08:28:00" title="Cinderella's Revenge - Free Public Roam August 24 @ 19:00 - Out of Agil!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145112249" senderTypeID="1377" />
+      <row messageID="329271471" senderID="90192277" sentDate="2013-08-15 12:15:00" title="Re: Re: Evemails with Gynax - PvP Doctrine" toCorpOrAllianceID="98190867" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="328976111" senderID="90192277" sentDate="2013-08-09 14:44:00" title="Evemails with Gynax - Y790 and Our General Direction" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329385277" senderID="90192277" sentDate="2013-08-17 20:21:00" title="POS Fuel" toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849" toListID="" senderTypeID="1377" />
+      <row messageID="329277781" senderID="1552496779" sentDate="2013-08-15 15:40:00" title="Re: Re: Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329317472" senderID="90192277" sentDate="2013-08-16 11:16:00" title="Re: Hey" toCorpOrAllianceID="" toCharacterIDs="1328149095" toListID="" senderTypeID="1377" />
+      <row messageID="328976225" senderID="90192277" sentDate="2013-08-09 14:47:00" title="Evemails with Gynax - Y790 and Our General Direction REDUX" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329322340" senderID="91560447" sentDate="2013-08-16 14:19:00" title="Bombs and Stuff" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1383" />
+      <row messageID="329003780" senderID="92202062" sentDate="2013-08-10 01:53:00" title="First Draft   " toCorpOrAllianceID="" toCharacterIDs="92701102,1523688185,90192277,92638609" toListID="" senderTypeID="1376" />
+      <row messageID="329469006" senderID="90723629" sentDate="2013-08-19 15:15:00" title="My Activity" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329490163" senderID="90192277" sentDate="2013-08-19 23:22:00" title="Re: My Activity" toCorpOrAllianceID="" toCharacterIDs="90723629" toListID="" senderTypeID="1377" />
+      <row messageID="329046793" senderID="90009152" sentDate="2013-08-10 22:26:00" title="Ore!" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329054452" senderID="90192277" sentDate="2013-08-11 01:41:00" title="POS Fuel" toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849,2057584604" toListID="" senderTypeID="1377" />
+      <row messageID="329074596" senderID="90192277" sentDate="2013-08-11 13:28:00" title="Re: Re: The Y790 Drinking Game" toCorpOrAllianceID="" toCharacterIDs="718527983" toListID="" senderTypeID="1377" />
+      <row messageID="329088243" senderID="90192277" sentDate="2013-08-11 18:43:00" title="Re: Your App" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="329089860" senderID="1552496779" sentDate="2013-08-11 19:15:00" title="Re: Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329091130" senderID="91560447" sentDate="2013-08-11 19:40:00" title="Re: Combat Boosters" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="329101328" senderID="90009152" sentDate="2013-08-11 23:13:00" title="Re: Re: Ore!" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329136005" senderID="898413254" sentDate="2013-08-12 17:56:00" title="Cannonball 500" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329157434" senderID="898413254" sentDate="2013-08-13 01:46:00" title="Re: Cannonball 500" toCorpOrAllianceID="" toCharacterIDs="898413254" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329172938" senderID="90192277" sentDate="2013-08-13 11:35:00" title="conte" toCorpOrAllianceID="" toCharacterIDs="1716010712" toListID="" senderTypeID="1377" />
+      <row messageID="329244744" senderID="90192277" sentDate="2013-08-14 21:23:00" title="Evemails with Gynax - PvP Doctrine" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329256707" senderID="380606673" sentDate="2013-08-15 02:18:00" title="Re: Y790 Account - July 2013" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329257480" senderID="380606673" sentDate="2013-08-15 02:41:00" title="Re: Evemails with Gynax - PvP Doctrine" toCorpOrAllianceID="98190867" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329267209" senderID="1777882394" sentDate="2013-08-15 08:43:00" title="Cinderella's Revenge - correct link :)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145112249" senderTypeID="1377" />
+      <row messageID="329275018" senderID="90192277" sentDate="2013-08-15 14:21:00" title="Fleet-up.com" toCorpOrAllianceID="" toCharacterIDs="92701102" toListID="" senderTypeID="1377" />
+      <row messageID="329276841" senderID="1552496779" sentDate="2013-08-15 15:15:00" title="Re: Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329276971" senderID="90192277" sentDate="2013-08-15 15:18:00" title="Re: Re: Ship Symbol" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329317321" senderID="1328149095" sentDate="2013-08-16 10:55:00" title="Hey" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329352162" senderID="380606673" sentDate="2013-08-17 02:59:00" title="FW: FW: Customer Survey" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-20 15:00:25</cachedUntil>
+</eveapi>

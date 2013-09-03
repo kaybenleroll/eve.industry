@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:04:51</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="329490163" senderID="90192277" sentDate="2013-08-19 23:22:00" title="Re: My Activity" toCorpOrAllianceID="" toCharacterIDs="90723629" toListID="" senderTypeID="1377" />
+      <row messageID="329584041" senderID="90192277" sentDate="2013-08-21 23:35:00" title="Naglfar" toCorpOrAllianceID="" toCharacterIDs="515597775" toListID="" senderTypeID="1377" />
+      <row messageID="329586624" senderID="90192277" sentDate="2013-08-22 00:41:00" title="Re: pi 8-22" toCorpOrAllianceID="" toCharacterIDs="415409266" toListID="" senderTypeID="1377" />
+      <row messageID="329627525" senderID="133117038" sentDate="2013-08-22 23:08:00" title="Example OPORD..." toCorpOrAllianceID="" toCharacterIDs="1941427321,90192277,90003608,1075598849,340180383" toListID="" senderTypeID="1377" />
+      <row messageID="329687590" senderID="133117038" sentDate="2013-08-24 06:19:00" title="POS bash Logi" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329725093" senderID="90192277" sentDate="2013-08-25 01:07:00" title="Re: Re: Re: M4$ List" toCorpOrAllianceID="" toCharacterIDs="92202062" toListID="" senderTypeID="1377" />
+      <row messageID="329725121" senderID="92202062" sentDate="2013-08-25 01:08:00" title="Re: Re: Re: Re: M4$ List" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329886960" senderID="90192277" sentDate="2013-08-28 17:03:00" title="Webapp and Blackops" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="329894717" senderID="91744644" sentDate="2013-08-28 20:19:00" title="HS WH" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329922623" senderID="92202062" sentDate="2013-08-29 12:34:00" title="ugh....FW: Correction:  3 Leadership positions not 4; 1 CEO and 2 Directors" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329929217" senderID="90003608" sentDate="2013-08-29 16:15:00" title="Re: Hey" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="329942119" senderID="90192277" sentDate="2013-08-29 21:45:00" title="Stuff for Boosters" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1377" />
+      <row messageID="329537395" senderID="90192277" sentDate="2013-08-20 23:16:00" title="Minerals for Moros" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329556475" senderID="1941427321" sentDate="2013-08-21 10:08:00" title="weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329560476" senderID="90192277" sentDate="2013-08-21 13:40:00" title="Re: weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="329566080" senderID="93733054" sentDate="2013-08-21 16:34:00" title="Thanks!" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329587423" senderID="90192277" sentDate="2013-08-22 01:02:00" title="Gas" toCorpOrAllianceID="" toCharacterIDs="1075598849" toListID="" senderTypeID="1377" />
+      <row messageID="329631349" senderID="90192277" sentDate="2013-08-23 00:52:00" title="Re: Example OPORD..." toCorpOrAllianceID="" toCharacterIDs="133117038" toListID="" senderTypeID="1377" />
+      <row messageID="329653011" senderID="874419311" sentDate="2013-08-23 14:45:00" title="FW: Hunter killer school" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="329713045" senderID="90192277" sentDate="2013-08-24 20:05:00" title="Re: M4$ List" toCorpOrAllianceID="" toCharacterIDs="92202062" toListID="" senderTypeID="1377" />
+      <row messageID="329727605" senderID="90192277" sentDate="2013-08-25 02:19:00" title="Midgard" toCorpOrAllianceID="" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="329744043" senderID="1941427321" sentDate="2013-08-25 12:50:00" title="Re: Midgard" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329539512" senderID="90192277" sentDate="2013-08-21 00:05:00" title="Vigilant" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="329744083" senderID="1941427321" sentDate="2013-08-25 12:51:00" title="Re: Midgard" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329554064" senderID="1328149095" sentDate="2013-08-21 08:07:00" title="Dread" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329757950" senderID="92168587" sentDate="2013-08-25 18:42:00" title="Ore in Sharhelund" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329560778" senderID="90192277" sentDate="2013-08-21 13:51:00" title="Oneiros" toCorpOrAllianceID="" toCharacterIDs="90209655" toListID="" senderTypeID="1377" />
+      <row messageID="329791439" senderID="1941427321" sentDate="2013-08-26 13:10:00" title="Re: Scrimmage with Germans" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329580953" senderID="90192277" sentDate="2013-08-21 22:24:00" title="Re: Thanks!" toCorpOrAllianceID="" toCharacterIDs="93733054" toListID="" senderTypeID="1377" />
+      <row messageID="329791479" senderID="1941427321" sentDate="2013-08-26 13:11:00" title="FW: Set to blue" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329585291" senderID="415409266" sentDate="2013-08-22 00:06:00" title="pi 8-22" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329846568" senderID="92638609" sentDate="2013-08-27 18:15:00" title="PI App" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329595973" senderID="415409266" sentDate="2013-08-22 05:14:00" title="Re: Re: pi 8-22" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329847368" senderID="90192277" sentDate="2013-08-27 18:36:00" title="Re: PI App" toCorpOrAllianceID="" toCharacterIDs="92638609" toListID="" senderTypeID="1377" />
+      <row messageID="329609777" senderID="1941427321" sentDate="2013-08-22 15:34:00" title="Re: Re: weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329853285" senderID="90192277" sentDate="2013-08-27 20:59:00" title="Re: Re: Minerals for Moros" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329632743" senderID="133117038" sentDate="2013-08-23 01:27:00" title="Re: Re: Re: weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="329858510" senderID="90192277" sentDate="2013-08-27 23:09:00" title="Re: Re: Re: Minerals for Moros" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329638004" senderID="92202062" sentDate="2013-08-23 03:55:00" title="M4$ List" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329881482" senderID="93080349" sentDate="2013-08-28 14:20:00" title="Stuff to sell within a fashionable timeframe" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1373" />
+      <row messageID="329640138" senderID="90003608" sentDate="2013-08-23 05:02:00" title="Elections" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1383" />
+      <row messageID="329884646" senderID="92638609" sentDate="2013-08-28 16:02:00" title="Re: Re: PI App" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329645285" senderID="91396252" sentDate="2013-08-23 08:51:00" title="Nightmare fit" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153085" senderTypeID="1380" />
+      <row messageID="329906765" senderID="90003608" sentDate="2013-08-29 01:27:00" title="FW: Speakings of good fortune for make benefit Glorious Nation of Conquoring Darkness" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1383" />
+      <row messageID="329652157" senderID="874419311" sentDate="2013-08-23 14:17:00" title="SUNDAY SPECIAL mk.3" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="329906959" senderID="90192277" sentDate="2013-08-29 01:32:00" title="Re: Stuff to sell within a fashionable timeframe" toCorpOrAllianceID="" toCharacterIDs="93080349" toListID="" senderTypeID="1377" />
+      <row messageID="329666372" senderID="874419311" sentDate="2013-08-23 20:43:00" title="FW: Hunter killer school, now with more info" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="329909293" senderID="92202062" sentDate="2013-08-29 02:39:00" title="Elections Time:  Part I Nominations for CEO" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329708815" senderID="90192277" sentDate="2013-08-24 18:29:00" title="POS Fuel" toCorpOrAllianceID="" toCharacterIDs="90003608,1075598849" toListID="" senderTypeID="1377" />
+      <row messageID="329920848" senderID="90192277" sentDate="2013-08-29 10:37:00" title="Elections" toCorpOrAllianceID="" toCharacterIDs="90003608,92202062" toListID="" senderTypeID="1377" />
+      <row messageID="329724968" senderID="92202062" sentDate="2013-08-25 01:03:00" title="Re: Re: M4$ List" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329920904" senderID="90192277" sentDate="2013-08-29 10:40:00" title="Hey" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="329728282" senderID="415409266" sentDate="2013-08-25 02:43:00" title="pi 8-25" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="329972433" senderID="874419311" sentDate="2013-08-30 16:29:00" title="SUNDAY SPECIAL mk.4" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="329728494" senderID="90192277" sentDate="2013-08-25 02:51:00" title="Re: pi 8-25" toCorpOrAllianceID="" toCharacterIDs="415409266" toListID="" senderTypeID="1377" />
+      <row messageID="329977049" senderID="91688663" sentDate="2013-08-30 18:38:00" title="Bombers Bar Update – We’re Moving!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="329757985" senderID="90192277" sentDate="2013-08-25 18:42:00" title="Re: Ore in Sharhelund" toCorpOrAllianceID="" toCharacterIDs="92168587" toListID="" senderTypeID="1377" />
+      <row messageID="329987417" senderID="1872878685" sentDate="2013-08-30 22:56:00" title="BOMBERS BAR" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1376" />
+      <row messageID="329773915" senderID="90192277" sentDate="2013-08-26 00:44:00" title="Scrimmage with Germans" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329988417" senderID="940908367" sentDate="2013-08-30 23:20:00" title="Hello Girls" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329853040" senderID="1552496779" sentDate="2013-08-27 20:54:00" title="Re: Minerals for Moros" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329998089" senderID="90009152" sentDate="2013-08-31 03:54:00" title="Re: ISK" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="329853728" senderID="1552496779" sentDate="2013-08-27 21:10:00" title="Re: Re: Minerals for Moros" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="329857290" senderID="90192277" sentDate="2013-08-27 22:37:00" title="Re: Re: Re: Minerals for Moros" toCorpOrAllianceID="" toCharacterIDs="1552496779" toListID="" senderTypeID="1377" />
+      <row messageID="329881806" senderID="92638609" sentDate="2013-08-28 14:31:00" title="Hot Drop Fleet" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329886766" senderID="90192277" sentDate="2013-08-28 16:58:00" title="Re: Stuff to sell within a fashionable timeframe" toCorpOrAllianceID="" toCharacterIDs="93080349" toListID="" senderTypeID="1377" />
+      <row messageID="329901790" senderID="90192277" sentDate="2013-08-28 23:11:00" title="Re: HS WH" toCorpOrAllianceID="" toCharacterIDs="91744644" toListID="" senderTypeID="1377" />
+      <row messageID="329918049" senderID="93080349" sentDate="2013-08-29 08:18:00" title="Re: Re: Stuff to sell within a fashionable timeframe" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1373" />
+      <row messageID="329922594" senderID="92202062" sentDate="2013-08-29 12:33:00" title="Correction:  3 Leadership positions not 4; 1 CEO and 1 Directors" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329929227" senderID="90003608" sentDate="2013-08-29 16:15:00" title="Re: Elections" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="329964745" senderID="90192277" sentDate="2013-08-30 12:12:00" title="Last Night" toCorpOrAllianceID="" toCharacterIDs="133117038" toListID="" senderTypeID="1377" />
+      <row messageID="329966014" senderID="92638609" sentDate="2013-08-30 13:03:00" title="Last Night's Escapades" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329994175" senderID="90192277" sentDate="2013-08-31 01:57:00" title="ISK" toCorpOrAllianceID="" toCharacterIDs="90009152" toListID="" senderTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 14:19:30</cachedUntil>
+</eveapi>

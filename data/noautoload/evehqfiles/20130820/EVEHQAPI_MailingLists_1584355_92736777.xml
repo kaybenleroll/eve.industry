@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-20 14:55:18</currentTime>
+  <result>
+    <rowset name="mailingLists" key="listID" columns="listID,displayName">
+      <row listID="145145416" displayName="TDF" />
+      <row listID="145148679" displayName="TDF-Amarr-Fitz" />
+      <row listID="145148749" displayName="TDF-Minmatar-Fitz" />
+      <row listID="145148751" displayName="TDF-Gallente-Fitz" />
+      <row listID="145149181" displayName="TDF-Logi-Fitz" />
+      <row listID="145153084" displayName="WarpToMe News" />
+      <row listID="145153085" displayName="WarpToMe Fits" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-20 18:21:22</cachedUntil>
+</eveapi>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-29 17:14:08</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="431841425"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40371867
+solarSystemID: 31000407
+typeID: 20059
+wants:
+- quantity: 440
+  typeID: 4247
+]]></row>
+      <row notificationID="431835756"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40371867
+solarSystemID: 31000407
+typeID: 20059
+wants:
+- quantity: 460
+  typeID: 4247
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-27 17:14:08</cachedUntil>
+</eveapi>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-18 21:02:56</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Martin Sonderberg" characterID="93080349" />
+      <row name="Fearon Baou" characterID="92726940" />
+      <row name="Leahim Gaterau" characterID="91411645" />
+      <row name="Tarquin Johnston" characterID="1673345902" />
+      <row name="MinnieGirl" characterID="1515309276" />
+      <row name="Brid Mindelan" characterID="1443689986" />
+      <row name="Pvt Cracker" characterID="91253647" />
+      <row name="Aebe Amraen" characterID="91537055" />
+      <row name="Pedro Minatore" characterID="91989594" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-18 21:02:56</cachedUntil>
+</eveapi>

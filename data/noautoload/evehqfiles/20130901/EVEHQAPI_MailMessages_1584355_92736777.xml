@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:04:57</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="329942119" senderID="90192277" sentDate="2013-08-29 21:45:00" title="Stuff for Boosters" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1377" />
+      <row messageID="329922623" senderID="92202062" sentDate="2013-08-29 12:34:00" title="ugh....FW: Correction:  3 Leadership positions not 4; 1 CEO and 2 Directors" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329687590" senderID="133117038" sentDate="2013-08-24 06:19:00" title="POS bash Logi" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329137695" senderID="898413254" sentDate="2013-08-12 18:31:00" title="WTM's 6 month Anniversary" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329966014" senderID="92638609" sentDate="2013-08-30 13:03:00" title="Last Night's Escapades" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329922594" senderID="92202062" sentDate="2013-08-29 12:33:00" title="Correction:  3 Leadership positions not 4; 1 CEO and 1 Directors" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329988417" senderID="940908367" sentDate="2013-08-30 23:20:00" title="Hello Girls" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329881806" senderID="92638609" sentDate="2013-08-28 14:31:00" title="Hot Drop Fleet" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329773915" senderID="90192277" sentDate="2013-08-26 00:44:00" title="Scrimmage with Germans" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="329909293" senderID="92202062" sentDate="2013-08-29 02:39:00" title="Elections Time:  Part I Nominations for CEO" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329645285" senderID="91396252" sentDate="2013-08-23 08:51:00" title="Nightmare fit" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153085" senderTypeID="1380" />
+      <row messageID="329906765" senderID="90003608" sentDate="2013-08-29 01:27:00" title="FW: Speakings of good fortune for make benefit Glorious Nation of Conquoring Darkness" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1383" />
+      <row messageID="329640138" senderID="90003608" sentDate="2013-08-23 05:02:00" title="Elections" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1383" />
+      <row messageID="329632743" senderID="133117038" sentDate="2013-08-23 01:27:00" title="Re: Re: Re: weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="329791479" senderID="1941427321" sentDate="2013-08-26 13:11:00" title="FW: Set to blue" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329609777" senderID="1941427321" sentDate="2013-08-22 15:34:00" title="Re: Re: weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="329560476" senderID="90192277" sentDate="2013-08-21 13:40:00" title="Re: weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="1941427321" toListID="" senderTypeID="1377" />
+      <row messageID="329554064" senderID="1328149095" sentDate="2013-08-21 08:07:00" title="Dread" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1376" />
+      <row messageID="329556475" senderID="1941427321" sentDate="2013-08-21 10:08:00" title="weekend operation" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="328984743" senderID="898413254" sentDate="2013-08-09 18:23:00" title="On this momentus occasion..." toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="327419933" senderID="91586565" sentDate="2013-07-08 14:48:00" title="News" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1375" />
+      <row messageID="329428122" senderID="1432202580" sentDate="2013-08-18 17:46:00" title="Automated Message: Welcome to Conquering Darkness" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1377" />
+      <row messageID="329157434" senderID="898413254" sentDate="2013-08-13 01:46:00" title="Re: Cannonball 500" toCorpOrAllianceID="" toCharacterIDs="898413254" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329136005" senderID="898413254" sentDate="2013-08-12 17:56:00" title="Cannonball 500" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329035250" senderID="898413254" sentDate="2013-08-10 18:23:00" title="Recent WarpToMe Fitting / Ship Changes" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="328549810" senderID="91340469" sentDate="2013-08-01 03:46:00" title="WarptoMe Policy Update" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1377" />
+      <row messageID="328030493" senderID="91586565" sentDate="2013-07-21 22:41:00" title="New player Tips" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1375" />
+      <row messageID="327682411" senderID="587976281" sentDate="2013-07-14 08:56:00" title="FW: Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="" toListID="145149181" senderTypeID="1377" />
+      <row messageID="327682363" senderID="587976281" sentDate="2013-07-14 08:54:00" title="Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="" toListID="145149181" senderTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 14:19:57</cachedUntil>
+</eveapi>

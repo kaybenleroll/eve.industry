@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:12:46</currentTime>
+  <result>
+    <rowset name="accounts" key="accountID" columns="accountID,accountKey,balance">
+      <row accountID="49573166" accountKey="1000" balance="5249249.48" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 14:19:40</cachedUntil>
+</eveapi>

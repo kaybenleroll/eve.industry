@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:12:50</currentTime>
+  <result>
+    <rowset name="assets" key="itemID" columns="itemID,locationID,typeID,quantity,flag,singleton">
+      <row itemID="1001792000494" locationID="60003760" typeID="601" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1001792000499" typeID="3638" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1001792000500" typeID="3651" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1008912106259" locationID="60003760" typeID="32995" quantity="300" flag="4" singleton="0" />
+      <row itemID="1008912106275" locationID="60003760" typeID="32993" quantity="300" flag="4" singleton="0" />
+      <row itemID="1008912106279" locationID="60003760" typeID="32994" quantity="300" flag="4" singleton="0" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-01 18:52:58</cachedUntil>
+</eveapi>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-08 16:22:15</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="DED" characterID="1000137" />
+      <row name="Secure Commerce Commission" characterID="1000132" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-08 16:22:15</cachedUntil>
+</eveapi>

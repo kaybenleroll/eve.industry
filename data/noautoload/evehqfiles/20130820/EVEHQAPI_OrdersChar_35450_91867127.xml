@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-20 14:58:28</currentTime>
+  <result>
+    <rowset name="orders" key="orderID" columns="orderID,charID,stationID,volEntered,volRemaining,minVolume,orderState,typeID,range,accountKey,duration,escrow,price,bid,issued">
+      <row orderID="3096368210" charID="91867127" stationID="60004588" volEntered="1" volRemaining="1" minVolume="1" orderState="0" typeID="3895" range="32767" accountKey="1000" duration="90" escrow="0.00" price="24998000.00" bid="0" issued="2013-07-28 19:04:15" />
+      <row orderID="3133244661" charID="91867127" stationID="60015016" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="24270" range="-1" accountKey="1000" duration="0" escrow="0.00" price="7500000.00" bid="1" issued="2013-08-18 11:40:08" />
+      <row orderID="3133244795" charID="91867127" stationID="60015016" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="24624" range="-1" accountKey="1000" duration="0" escrow="0.00" price="20000000.00" bid="1" issued="2013-08-18 11:40:19" />
+      <row orderID="3133255065" charID="91867127" stationID="60011584" volEntered="1" volRemaining="0" minVolume="1" orderState="2" typeID="3409" range="-1" accountKey="1000" duration="0" escrow="0.00" price="350000.00" bid="1" issued="2013-08-18 11:52:08" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-20 15:16:32</cachedUntil>
+</eveapi>

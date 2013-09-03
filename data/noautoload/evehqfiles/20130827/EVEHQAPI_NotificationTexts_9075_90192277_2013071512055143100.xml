@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-15 11:07:01</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="425861174"><![CDATA[amount: 1599427
+billTypeID: 2
+creditorID: 1000002
+currentDate: 130183233659671058
+debtorID: 98190867
+dueDate: 130209141380000000
+externalID: 27
+externalID2: 60000196
+]]></row>
+      <row notificationID="425736251"><![CDATA[applicationText: its einarjar
+charID: 2103306374
+corpID: 98190867
+]]></row>
+      <row notificationID="425707475"><![CDATA[{}
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-07-13 11:07:01</cachedUntil>
+</eveapi>

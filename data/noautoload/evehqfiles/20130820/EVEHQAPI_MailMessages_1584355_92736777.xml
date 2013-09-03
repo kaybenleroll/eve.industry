@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-20 14:55:19</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="323043956" senderID="2057584604" sentDate="2013-04-07 17:18:00" title="Been Fun" toCorpOrAllianceID="661581003" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="322960435" senderID="803366269" sentDate="2013-04-05 20:11:00" title="This weekends PVP Roam" toCorpOrAllianceID="99000331" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="323691428" senderID="641318632" sentDate="2013-04-24 20:09:00" title="hi" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1385" />
+      <row messageID="323019438" senderID="940908367" sentDate="2013-04-07 02:15:00" title="Laters" toCorpOrAllianceID="661581003" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="323718641" senderID="92736777" sentDate="2013-04-25 14:40:00" title="Re: hi" toCorpOrAllianceID="" toCharacterIDs="641318632" toListID="" senderTypeID="1375" />
+      <row messageID="326327896" senderID="92736777" sentDate="2013-06-15 17:55:00" title="Angelhunter Number" toCorpOrAllianceID="" toCharacterIDs="1075598849" toListID="" senderTypeID="1375" />
+      <row messageID="326800415" senderID="91340469" sentDate="2013-06-25 01:05:00" title="Vindicator Fitting" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153085" senderTypeID="1377" />
+      <row messageID="326008575" senderID="92736777" sentDate="2013-06-09 19:43:00" title="Implant Portfolio" toCorpOrAllianceID="" toCharacterIDs="91227546,90192277" toListID="" senderTypeID="1375" />
+      <row messageID="327682363" senderID="587976281" sentDate="2013-07-14 08:54:00" title="Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="" toListID="145149181" senderTypeID="1377" />
+      <row messageID="326069203" senderID="90192277" sentDate="2013-06-10 20:57:00" title="Jumpclone Corp" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1377" />
+      <row messageID="326949072" senderID="92736777" sentDate="2013-06-28 03:05:00" title="FW: Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="327682411" senderID="587976281" sentDate="2013-07-14 08:56:00" title="FW: Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="" toListID="145149181" senderTypeID="1377" />
+      <row messageID="326165741" senderID="91336756" sentDate="2013-06-12 17:14:00" title="Automated Message: Welcome to Estel Arador Corp Services" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1383" />
+      <row messageID="327117160" senderID="92736777" sentDate="2013-07-01 18:00:00" title="FW: Logistic's and tanking" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="328549810" senderID="91340469" sentDate="2013-08-01 03:46:00" title="WarptoMe Policy Update" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1377" />
+      <row messageID="327419933" senderID="91586565" sentDate="2013-07-08 14:48:00" title="News" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1375" />
+      <row messageID="329136005" senderID="898413254" sentDate="2013-08-12 17:56:00" title="Cannonball 500" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="328030493" senderID="91586565" sentDate="2013-07-21 22:41:00" title="New player Tips" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1375" />
+      <row messageID="329137695" senderID="898413254" sentDate="2013-08-12 18:31:00" title="WTM's 6 month Anniversary" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329157434" senderID="898413254" sentDate="2013-08-13 01:46:00" title="Re: Cannonball 500" toCorpOrAllianceID="" toCharacterIDs="898413254" toListID="145153084" senderTypeID="1376" />
+      <row messageID="328984743" senderID="898413254" sentDate="2013-08-09 18:23:00" title="On this momentus occasion..." toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+      <row messageID="329428122" senderID="1432202580" sentDate="2013-08-18 17:46:00" title="Automated Message: Welcome to Conquering Darkness" toCorpOrAllianceID="" toCharacterIDs="92736777" toListID="" senderTypeID="1377" />
+      <row messageID="329035250" senderID="898413254" sentDate="2013-08-10 18:23:00" title="Recent WarpToMe Fitting / Ship Changes" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1376" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-20 15:09:28</cachedUntil>
+</eveapi>

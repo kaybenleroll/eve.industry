@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-07-08 12:09:30</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Jade Antilles" characterID="92357812" />
+      <row name="Juggerrnaut" characterID="1201011832" />
+      <row name="J J Yossarian" characterID="92647737" />
+      <row name="Germes Light" characterID="1543745037" />
+      <row name="Liisi Rukila" characterID="909994856" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-08-08 12:09:30</cachedUntil>
+</eveapi>

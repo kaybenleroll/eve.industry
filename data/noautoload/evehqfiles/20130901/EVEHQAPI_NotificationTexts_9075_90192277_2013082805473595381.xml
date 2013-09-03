@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-28 16:47:46</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="431520326"><![CDATA[applicationText: Yarrr!
+charID: 93733054
+corpID: 98190867
+]]></row>
+      <row notificationID="431359075"><![CDATA[applicationText: Yarrr!
+charID: 93733054
+corpID: 98190867
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-26 16:47:46</cachedUntil>
+</eveapi>
