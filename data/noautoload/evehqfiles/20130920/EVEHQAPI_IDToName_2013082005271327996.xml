@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-20 16:28:09</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Axton Kashuken" characterID="93571947" />
+      <row name="Leam Lakaud" characterID="302882090" />
+      <row name="Morgan Ducard" characterID="91830264" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-20 16:28:09</cachedUntil>
+</eveapi>

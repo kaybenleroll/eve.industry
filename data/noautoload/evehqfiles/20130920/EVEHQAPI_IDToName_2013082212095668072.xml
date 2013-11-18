@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-21 23:10:20</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Fish TulakHorde" characterID="93758802" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-21 23:10:20</cachedUntil>
+</eveapi>

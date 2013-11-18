@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 12:18:39</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Proctor Davaham" characterID="92931738" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-16 12:18:39</cachedUntil>
+</eveapi>

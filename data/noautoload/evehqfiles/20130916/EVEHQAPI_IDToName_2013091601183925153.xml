@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 12:18:43</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="marllboro man" characterID="726920776" />
+      <row name="Kilgharrah Camelot" characterID="92345986" />
+      <row name="Jonas Staal" characterID="91757024" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-16 12:18:43</cachedUntil>
+</eveapi>

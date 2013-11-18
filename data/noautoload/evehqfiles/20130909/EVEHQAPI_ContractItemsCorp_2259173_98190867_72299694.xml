@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-09 12:02:45</currentTime>
+  <result>
+    <rowset name="itemList" key="recordID" columns="recordID,typeID,quantity,rawQuantity,singleton,included">
+      <row recordID="1092923831" typeID="12023" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923832" typeID="2048" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923833" typeID="10190" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923834" typeID="4025" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923835" typeID="11642" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923836" typeID="3138" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923837" typeID="11646" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923838" typeID="3138" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923839" typeID="11325" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923840" typeID="3138" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923841" typeID="31011" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923842" typeID="3138" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923843" typeID="31035" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923844" typeID="3138" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923845" typeID="5975" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923846" typeID="21640" quantity="5" singleton="0" included="1" />
+      <row recordID="1092923847" typeID="5439" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923848" typeID="5320" quantity="1" singleton="0" included="1" />
+      <row recordID="1092923849" typeID="10190" quantity="1" singleton="0" included="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2023-09-03 23:32:35</cachedUntil>
+</eveapi>

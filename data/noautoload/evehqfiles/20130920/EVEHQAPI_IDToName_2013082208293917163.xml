@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-22 19:30:04</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Tosnobard Hindoran" characterID="93512802" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-22 19:30:04</cachedUntil>
+</eveapi>

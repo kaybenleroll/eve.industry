@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:46:53</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-10-02 12:54:09" refID="8276665927" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="Mursha Sabezan" argID1="91227546" amount="50000000.00" balance="50000000.00" reason="DESC: Savings for PLEX&#xA;" owner1TypeID="2" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-08 17:13:53</cachedUntil>
+</eveapi>

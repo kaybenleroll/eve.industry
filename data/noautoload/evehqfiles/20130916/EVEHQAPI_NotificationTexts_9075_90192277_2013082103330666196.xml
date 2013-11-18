@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-21 14:34:04</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="430813268"><![CDATA[body:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailBody
+- {}
+header:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailHeader
+- {}
+missionKeywords:
+  dungeonLocationID: 30003489
+  dungeonSolarSystemID: 30003489
+  objectiveLocationID: 60008173
+  objectiveLocationSystemID: 30003488
+  objectiveQuantity: 10
+  objectiveTypeID: 25373
+  rewardQuantity: 99000
+  rewardTypeID: 29
+]]></row>
+      <row notificationID="430751289"><![CDATA[applicationText: Hi I'm Hokosaki a real life friend of Gynax Gallenor and I'd like
+  to join Conquering Darkness.<br><br>I've been playing EVE on and off since 2007
+  with sometime spent in 0.0 with Dark Matter Coalition and Atlas (where I got blown
+  up a lot by RED and then Goonswarm). Most recently I've been soloing playing in
+  High sec with mining and production. While I don't necessarily mind the mining etc
+  I'd rather be part of a group rather than playing solo. <br><br>Skills can be found
+  at http://eveboard.com/pilot/Hokosaki I also have an alt Kainko who will probably
+  end up staying in high sec to buy and move more pvp ships for Hokosaki when I inevitably
+  get my ass blown up.<br><br>Happy to add more if required, will feel pretty stupid
+  if only Gynax reads this.<br><br>Thanks,<br>Hokosaki
+charID: 1264309014
+corpID: 98190867
+]]></row>
+      <row notificationID="430751132"><![CDATA[applicationText: Hi I'm Hokosaki a real life friend of Gynax Gallenor and I'd like
+  to join Conquering Darkness.<br><br>I've been playing EVE on and off since 2007
+  with sometime spent in 0.0 with Dark Matter Coalition and Atlas (where I got blown
+  up a lot by RED and then Goonswarm). Most recently I've been soloing playing in
+  High sec with mining and production. While I don't necessarily mind the mining etc
+  I'd rather be part of a group rather than playing solo. <br><br>Skills can be found
+  at http://eveboard.com/pilot/Hokosaki I also have an alt Kainko who will probably
+  end up staying in high sec to buy and move more pvp ships for Hokosaki when I inevitably
+  get my ass blown up.<br><br>Happy to add more if required, will feel pretty stupid
+  if only Gynax reads this.<br><br>Thanks,<br>Hokosaki
+charID: 1264309014
+corpID: 98190867
+]]></row>
+      <row notificationID="430454352"><![CDATA[applicationText: Gynax alt
+charID: 92736777
+corpID: 98190867
+]]></row>
+      <row notificationID="430454129"><![CDATA[applicationText: Gynax alt
+charID: 92736777
+corpID: 98190867
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-19 14:34:04</cachedUntil>
+</eveapi>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-09 11:58:11</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID">
+      <row name="Gynax Gallenor" characterID="90192277" corporationName="Conquering Darkness" corporationID="98190867" />
+      <row name="Yunella Dukos" characterID="90577903" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+      <row name="Reejius Sabezan" characterID="92303047" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-09 12:53:54</cachedUntil>
+</eveapi>

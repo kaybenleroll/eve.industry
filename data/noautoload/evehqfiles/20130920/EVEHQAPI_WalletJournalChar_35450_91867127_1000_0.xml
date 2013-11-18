@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-20 20:09:27</currentTime>
+  <result>
+    <rowset name="transactions" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,taxReceiverID,taxAmount,owner1TypeID,owner2TypeID">
+      <row date="2013-09-09 10:00:22" refID="8168320249" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-210000.00" balance="3106649.51" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-09-09 10:00:01" refID="8168319371" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-1319999.99" balance="3316649.51" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-09-09 09:59:13" refID="8168317426" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-612599.98" balance="4636649.50" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-08-28 14:01:14" refID="8108347836" refTypeID="85" ownerName1="CONCORD" ownerID1="1000125" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Agrallarier" argID1="30002658" amount="36000.00" balance="5249249.48" reason="17121:12," taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-08-28 13:54:04" refID="8108322876" refTypeID="34" ownerName1="Sokkalen Oraliola" ownerID1="3016489" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Sokkalen Oraliola" argID1="3016489" amount="35000.00" balance="5213249.48" reason="" taxReceiverID="" taxAmount="" owner1TypeID="1376" owner2TypeID="1385" />
+      <row date="2013-08-28 13:54:04" refID="8108322875" refTypeID="33" ownerName1="Sokkalen Oraliola" ownerID1="3016489" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Sokkalen Oraliola" argID1="3016489" amount="48000.00" balance="5178249.48" reason="" taxReceiverID="" taxAmount="" owner1TypeID="1376" owner2TypeID="1385" />
+      <row date="2013-08-28 13:06:44" refID="8108163970" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-6789.98" balance="5130249.48" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-08-26 17:49:14" refID="8099503985" refTypeID="52" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="Modern Finances" ownerID2="1000030" argName1="Bawilan VIII - Moon 17 - Modern Finances Depository" argID1="60003295" amount="-5600.00" balance="5137039.46" reason="" taxReceiverID="" taxAmount="" owner1TypeID="1385" owner2TypeID="2" />
+      <row date="2013-08-18 11:52:08" refID="8055447667" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-350000.00" balance="5793639.46" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-08-18 11:40:19" refID="8055412127" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-20000000.00" balance="6143639.46" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-08-18 11:40:08" refID="8055411632" refTypeID="42" ownerName1="Umbar Terona" ownerID1="91867127" ownerName2="" ownerID2="0" argName1="" argID1="0" amount="-7500000.00" balance="26143639.46" reason="" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+      <row date="2013-08-18 11:39:29" refID="8055409889" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Umbar Terona" ownerID2="91867127" argName1="Umbar Terona" argID1="91867127" amount="30000000.00" balance="33643639.46" reason="DESC: ISK for Science skills&#xA;" taxReceiverID="" taxAmount="" owner1TypeID="2" owner2TypeID="1385" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-20 20:36:27</cachedUntil>
+</eveapi>

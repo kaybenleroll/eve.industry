@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-01 14:12:59</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Daniel Wiese" characterID="91648552" />
+      <row name="Brick S'House" characterID="91745377" />
+      <row name="Sputnik Sweetheart Soikutsu" characterID="92789343" />
+      <row name="Asanarn Thornfist" characterID="728000213" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-01 14:12:59</cachedUntil>
+</eveapi>

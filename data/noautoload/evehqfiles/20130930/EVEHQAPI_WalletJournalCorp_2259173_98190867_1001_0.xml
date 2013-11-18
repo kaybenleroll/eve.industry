@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-30 14:56:21</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-09-17 21:12:26" refID="8208839749" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Gynax Gallenor" argID1="90192277" amount="-480836070.00" balance="54694907.10" reason="DESC: ISK for POS fuel&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-09-17 21:10:26" refID="8208830314" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Gynax Gallenor" argID1="90192277" amount="500000000.00" balance="535530977.10" reason="DESC: ISK for POS fuel&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-09-08 13:45:01" refID="8163555790" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Gynax Gallenor" argID1="90192277" amount="-412477520.00" balance="35530977.10" reason="DESC: ISK for POS Fuel&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-09-08 13:43:30" refID="8163548507" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Gynax Gallenor" argID1="90192277" amount="350000000.00" balance="448008497.10" reason="DESC: ISK for POS Fuel&#xA;" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-09-01 21:34:24" refID="8131523425" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Gynax Gallenor" ownerID2="90192277" argName1="Gynax Gallenor" argID1="90192277" amount="-412477520.00" balance="98008497.10" reason="DESC: ISK for POS fuel&#xA;" owner1TypeID="2" owner2TypeID="1377" />
+      <row date="2013-09-01 21:34:07" refID="8131522122" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Gynax Gallenor" argID1="90192277" amount="300000000.00" balance="510486017.10" reason="DESC: ISK for POS fuel&#xA;" owner1TypeID="2" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-30 15:23:21</cachedUntil>
+</eveapi>

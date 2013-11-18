@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 12:13:28</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Aishy Kangy" characterID="91743513" />
+      <row name="RylenRayne" characterID="1925601335" />
+      <row name="Minimax Madullier" characterID="92671449" />
+      <row name="Nicole Tsurpalen" characterID="91742289" />
+      <row name="Ikiki Satou" characterID="90160524" />
+      <row name="The God Emperor" characterID="92005667" />
+      <row name="Sir RockaFella Teng" characterID="91105034" />
+      <row name="Wafou Ka'Djo" characterID="92096162" />
+      <row name="Crysta Avii" characterID="1244593334" />
+      <row name="Vasili Revenent" characterID="90193282" />
+      <row name="Howto Cesaille" characterID="92444022" />
+      <row name="Zaltura Trigamil" characterID="1066498867" />
+      <row name="PewGangBeng" characterID="93798076" />
+      <row name="Ronague Manannin" characterID="93204719" />
+      <row name="Sarah Stallman" characterID="92248605" />
+      <row name="Bush Drum" characterID="93650246" />
+      <row name="Coriolani" characterID="90115305" />
+      <row name="Nemhezis" characterID="1074672673" />
+      <row name="Jericho StormCloud" characterID="1152240191" />
+      <row name="Krarriak" characterID="1892748485" />
+      <row name="KuFu Cowboy" characterID="573573394" />
+      <row name="Marek Pain" characterID="91048888" />
+      <row name="Lewis Kansene" characterID="93188176" />
+      <row name="Sianera" characterID="1831371989" />
+      <row name="valthyr" characterID="1039343382" />
+      <row name="sup holmes" characterID="91711271" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-16 12:13:28</cachedUntil>
+</eveapi>

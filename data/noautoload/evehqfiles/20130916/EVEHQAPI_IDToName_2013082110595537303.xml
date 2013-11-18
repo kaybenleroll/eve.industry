@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-21 10:00:52</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Baby Blue Thunder" characterID="93721315" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-21 10:00:52</cachedUntil>
+</eveapi>

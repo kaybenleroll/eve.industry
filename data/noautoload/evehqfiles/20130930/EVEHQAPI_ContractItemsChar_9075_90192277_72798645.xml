@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-30 14:56:25</currentTime>
+  <result>
+    <rowset name="itemList" key="recordID" columns="recordID,typeID,quantity,rawQuantity,singleton,included">
+      <row recordID="1105177953" typeID="12019" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177954" typeID="19814" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177955" typeID="11269" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177956" typeID="2048" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177957" typeID="22291" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177958" typeID="4025" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177959" typeID="21640" quantity="5" singleton="0" included="1" />
+      <row recordID="1105177960" typeID="16471" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177961" typeID="11325" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177962" typeID="22291" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177963" typeID="25715" quantity="5" singleton="0" included="1" />
+      <row recordID="1105177964" typeID="5975" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177965" typeID="31035" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177966" typeID="3244" quantity="1" singleton="0" included="1" />
+      <row recordID="1105177967" typeID="31055" quantity="1" singleton="0" included="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2023-09-24 14:28:01</cachedUntil>
+</eveapi>

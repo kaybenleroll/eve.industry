@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:05:43</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Elder Rakou" characterID="90793052" />
+      <row name="Lyeol Noban" characterID="93179190" />
+      <row name="Doktor Pimp" characterID="621215380" />
+      <row name="Don Shihari" characterID="91564941" />
+      <row name="Herr Mine" characterID="92476675" />
+      <row name="Attantio" characterID="221934348" />
+      <row name="Cpt JeanLucPicard" characterID="91794133" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-11-02 11:05:43</cachedUntil>
+</eveapi>

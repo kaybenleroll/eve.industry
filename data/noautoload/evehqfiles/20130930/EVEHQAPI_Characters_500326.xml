@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-30 14:58:19</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID">
+      <row name="Dacian Stellean" characterID="91541933" corporationName="Gallente Libertarian Front of Gallente" corporationID="98012536" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-30 15:14:03</cachedUntil>
+</eveapi>

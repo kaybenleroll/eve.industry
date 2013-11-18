@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:44:35</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Eureka221" characterID="793230082" />
+      <row name="drol tack" characterID="91469611" />
+      <row name="Giltorias ve'Elteroth" characterID="785775783" />
+      <row name="SAMUNZ" characterID="167630623" />
+      <row name="Mad Lunatics" characterID="90707186" />
+      <row name="Asilian" characterID="972153728" />
+      <row name="Fourbie" characterID="778184468" />
+      <row name="jay thenoob" characterID="1316823320" />
+      <row name="Raven Qui" characterID="521738076" />
+      <row name="Manatee Joe Nash" characterID="92271110" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-11-08 16:44:35</cachedUntil>
+</eveapi>

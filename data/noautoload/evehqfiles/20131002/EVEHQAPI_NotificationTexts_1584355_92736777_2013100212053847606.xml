@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:05:48</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="435571056"><![CDATA[corpID: 98190867
+newTaxRate: 8.0
+oldTaxRate: 10.0
+]]></row>
+      <row notificationID="435435864"><![CDATA[isHouseWarmingGift: 1
+shipTypeID: 601
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-09-30 11:05:48</cachedUntil>
+</eveapi>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-20 20:10:12</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-08-22 17:49:35" refID="8077707978" refTypeID="60" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="190263122" argID1="0" amount="-51000.00" balance="9300925.18" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:30:30" refID="8077619227" refTypeID="56" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="University of Caille" ownerID2="1000115" argName1="190261415" argID1="0" amount="-6041.96" balance="9351925.18" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:28:47" refID="8077611891" refTypeID="56" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="University of Caille" ownerID2="1000115" argName1="190261195" argID1="0" amount="-6041.96" balance="9357967.14" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:28:25" refID="8077610168" refTypeID="56" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="University of Caille" ownerID2="1000115" argName1="190261142" argID1="0" amount="-6041.96" balance="9364009.10" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:28:01" refID="8077608470" refTypeID="56" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="University of Caille" ownerID2="1000115" argName1="190261085" argID1="0" amount="-6041.96" balance="9370051.06" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:17:32" refID="8077562847" refTypeID="13" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="University of Caille" ownerID2="1000115" argName1="EVE System" argID1="1" amount="-22085133.00" balance="9376093.01" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:17:30" refID="8077562686" refTypeID="13" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Modern Finances" ownerID2="1000030" argName1="EVE System" argID1="1" amount="-3576669.00" balance="31461226.01" reason="" owner1TypeID="2" owner2TypeID="2" />
+      <row date="2013-08-22 17:17:21" refID="8077562037" refTypeID="37" ownerName1="Gallente Libertarian Front of Gallente" ownerID1="98012536" ownerName2="Gallente Libertarian Front of Gallente" ownerID2="98012536" argName1="Mursha Sabezan" argID1="91227546" amount="30000000.00" balance="35037895.01" reason="DESC: ISK for office rental&#xA;" owner1TypeID="2" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-20 20:28:14</cachedUntil>
+</eveapi>

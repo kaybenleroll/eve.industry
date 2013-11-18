@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:05:25</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="331248396" senderID="93312692" sentDate="2013-10-02 10:37:00" title="Re: WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="93312692" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331247092" senderID="91794133" sentDate="2013-10-02 09:11:00" title="(SOLD) WTS Republic Fleet Firetail BPC's" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="331248232" senderID="93312692" sentDate="2013-10-02 10:28:00" title="WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331233221" senderID="93179190" sentDate="2013-10-01 23:19:00" title="WTS T2 small guns" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="331224838" senderID="91794133" sentDate="2013-10-01 19:24:00" title="WTS Republic Fleet Firetail BPC's" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="331207838" senderID="92476675" sentDate="2013-10-01 06:36:00" title="[WTS] Antimatter Charge XL" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="331190935" senderID="93312692" sentDate="2013-09-30 20:54:00" title="WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331228724" senderID="91917826" sentDate="2013-10-01 21:09:00" title="Re: T2 Wepons and Mods" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="331183483" senderID="93288709" sentDate="2013-09-30 17:47:00" title="[WTS|UPDATE] 150mm Railgun II (-10% Jita)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331226468" senderID="93018142" sentDate="2013-10-01 20:09:00" title="WTS: 5x Ishtar" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="331223811" senderID="93312692" sentDate="2013-10-01 18:53:00" title="WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331171123" senderID="91371916" sentDate="2013-09-30 08:27:00" title="*PRICE DROP* WTS Tengu Propulsion - Fuel Catalyst" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="331223019" senderID="221934348" sentDate="2013-10-01 18:30:00" title="WTS Mjolnir Rage Heavy Assault Missile" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="331199781" senderID="91564941" sentDate="2013-10-01 01:11:00" title="WTS Medium Ancillary Current Router I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331168033" senderID="92683570" sentDate="2013-09-30 05:27:00" title="WTS Medium Trimark Armor Pump II BPC's" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331233668" senderID="93179190" sentDate="2013-10-01 23:34:00" title="FW: WTS T2 small guns [Update]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="331188582" senderID="1711524597" sentDate="2013-09-30 19:55:00" title="WTS Vargurs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="331162600" senderID="93179190" sentDate="2013-09-30 01:42:00" title="WTS T2 small guns" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="331188310" senderID="1604989325" sentDate="2013-09-30 19:48:00" title="Flat rate POCO BPCS 15m per copy unlimited" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="331227246" senderID="92394683" sentDate="2013-10-01 20:30:00" title="WTS HACs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1373" />
+      <row messageID="331183795" senderID="93288709" sentDate="2013-09-30 17:55:00" title="[SOLD] [WTS|UPDATE] 150mm Railgun II (-10% Jita)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331143688" senderID="651680894" sentDate="2013-09-29 17:15:00" title="WTS custom office POCO BPCs -flat rate" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331182324" senderID="621215380" sentDate="2013-09-30 17:13:00" title="WTS T2 modules" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="331225266" senderID="91212197" sentDate="2013-10-01 19:38:00" title="WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="331174629" senderID="93312692" sentDate="2013-09-30 12:38:00" title="Re: WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="93312692" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331140863" senderID="91371916" sentDate="2013-09-29 16:05:00" title="WTS Tengu Propulsion - Fuel Catalyst" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="331164893" senderID="93179190" sentDate="2013-09-30 03:07:00" title="FW: WTS T2 small guns [SOLD]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="331218301" senderID="91917826" sentDate="2013-10-01 16:09:00" title="T2 Wepons and Mods" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="331146581" senderID="92330118" sentDate="2013-09-29 18:20:00" title="WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331128996" senderID="1787786280" sentDate="2013-09-29 08:51:00" title="WTS T2 ammo and weapons" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331135534" senderID="1787786280" sentDate="2013-09-29 13:37:00" title="WTS T2 drones and modules" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331202625" senderID="91564941" sentDate="2013-10-01 02:46:00" title="[UPDATE] WTS Medium Ancillary Current Router I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331121483" senderID="90530015" sentDate="2013-09-29 03:18:00" title="Re: wts Maelstrom´s bulk all Sould!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331132742" senderID="91175266" sentDate="2013-09-29 11:59:00" title="(UPDATE)WTS bpc's,Faction Ships,Tech II Weapons and some Ice" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="331193605" senderID="636768308" sentDate="2013-09-30 22:03:00" title="WTS Light Neutron Blaster II *N*" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331128065" senderID="100624253" sentDate="2013-09-29 08:09:00" title="WTS Myrmidon BPC" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331113707" senderID="93571947" sentDate="2013-09-28 23:08:00" title="Re: SOLD [WTS] Rocket Launcher II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="331115618" senderID="93288709" sentDate="2013-09-29 00:07:00" title="[WTS|UPDATE] 150mm Railgun II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331189681" senderID="91371916" sentDate="2013-09-30 20:25:00" title="FW: *PRICE DROP* WTS Tengu Propulsion - Fuel Catalyst" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1378" />
+      <row messageID="331113456" senderID="93571947" sentDate="2013-09-28 23:02:00" title="[WTS] Rocket Launcher II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="331180181" senderID="91266284" sentDate="2013-09-30 16:11:00" title="Oxygen Isotopes" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="331109615" senderID="1066498867" sentDate="2013-09-28 21:11:00" title="[ALL SOLD] Small and Medium T2 Guns" toCorpOrAllianceID="" toCharacterIDs="1066498867" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331177897" senderID="651680894" sentDate="2013-09-30 14:58:00" title="WTS custom office POCO BPCs -flat rate -well under market" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331176591" senderID="92157230" sentDate="2013-09-30 14:09:00" title="WTS Zainou 'Gnome' Shield Operation SP-903 implants" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="331171829" senderID="93312692" sentDate="2013-09-30 09:12:00" title="WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331156906" senderID="636768308" sentDate="2013-09-29 22:35:00" title="WTS Light Neutron" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331151007" senderID="92689743" sentDate="2013-09-29 20:02:00" title="STRIP MINERS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="331146467" senderID="90793052" sentDate="2013-09-29 18:18:00" title="Items for sale" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331146456" senderID="93312692" sentDate="2013-09-29 18:18:00" title="WTS T2 Rigs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="331131470" senderID="1443689986" sentDate="2013-09-29 10:35:00" title="WTS Ishtar" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-02 11:20:25</cachedUntil>
+</eveapi>

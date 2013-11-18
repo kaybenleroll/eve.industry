@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 14:05:59</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="330650153" senderID="92837655" sentDate="2013-09-16 07:51:00" title="WTS Small Focused Pulse Laser II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="330648840" senderID="92330118" sentDate="2013-09-16 06:50:00" title="WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330639271" senderID="91711271" sentDate="2013-09-16 00:50:00" title="*Update* WTS T1/T2 Mods &amp; T2 Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="330649739" senderID="91196620" sentDate="2013-09-16 07:33:00" title="WTS Purifiers" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1374" />
+      <row messageID="330629036" senderID="93174812" sentDate="2013-09-15 20:21:00" title="WTS Crane(s)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1373" />
+      <row messageID="330649590" senderID="93174812" sentDate="2013-09-16 07:26:00" title="[Sold] Crane(s)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1373" />
+      <row messageID="330627584" senderID="91711271" sentDate="2013-09-15 19:48:00" title="*Update* WTS T1/T2 Mods &amp; T2 Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="330628618" senderID="92728485" sentDate="2013-09-15 20:12:00" title="Re: Re: WTS Nemesis - ALL SOLD" toCorpOrAllianceID="" toCharacterIDs="92728485" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330639420" senderID="1039343382" sentDate="2013-09-16 00:54:00" title="*Update* WTS Tornados &amp; Osprey" toCorpOrAllianceID="" toCharacterIDs="1039343382" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330625985" senderID="91711271" sentDate="2013-09-15 19:13:00" title="WTS T1/T2 Mods &amp; T2 Ammo" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="330629297" senderID="93650246" sentDate="2013-09-15 20:27:00" title="WTS Core scanner Probe I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330625241" senderID="92329340" sentDate="2013-09-15 18:57:00" title="Re: Re: wts t2 components and misc" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330619074" senderID="1787786280" sentDate="2013-09-15 16:30:00" title="Re: WTS T2 mods, ammo and drones *N*[UPDATE]" toCorpOrAllianceID="" toCharacterIDs="1787786280" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330624679" senderID="1039343382" sentDate="2013-09-15 18:44:00" title="WTS Tornados &amp; Osprey" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330618313" senderID="1787786280" sentDate="2013-09-15 16:13:00" title="WTS T2 mods, ammo and drones *N*[UPDATE]" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330617253" senderID="92728485" sentDate="2013-09-15 15:46:00" title="Re: WTS Nemesis - Price Update" toCorpOrAllianceID="" toCharacterIDs="92728485" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330616214" senderID="636768308" sentDate="2013-09-15 15:17:00" title="WTS Light Neutron and Ion Blaster II" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330614160" senderID="92329340" sentDate="2013-09-15 14:21:00" title="Re: wts t2 components and misc" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330616765" senderID="636768308" sentDate="2013-09-15 15:33:00" title="Re: WTS Light Neutron and Ion Blaster II - SOLD" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330563924" senderID="90199911" sentDate="2013-09-14 10:42:00" title="WTS Weapons" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330613674" senderID="92728485" sentDate="2013-09-15 14:07:00" title="WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330539741" senderID="92671449" sentDate="2013-09-13 20:44:00" title="*update* WTS T2 280mm Arty, T2 720mm Arty, T2 Drone Link Aug " toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330618373" senderID="92728485" sentDate="2013-09-15 16:14:00" title="Re: WTS Nemesis - Amount Update" toCorpOrAllianceID="" toCharacterIDs="92728485" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330526179" senderID="91743513" sentDate="2013-09-13 13:19:00" title="WTS Curator I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1385" />
+      <row messageID="330593852" senderID="92330118" sentDate="2013-09-15 01:26:00" title="WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330524705" senderID="92248605" sentDate="2013-09-13 12:15:00" title="SOLD: WTS Scourge Fury Light Missiles" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330583888" senderID="90926985" sentDate="2013-09-14 20:47:00" title="wts T2 Stuff" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="330520399" senderID="1152240191" sentDate="2013-09-13 07:36:00" title="WTS 50x Standard Blue Pill Booster " toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1380" />
+      <row messageID="330557246" senderID="93188176" sentDate="2013-09-14 05:35:00" title="Scythe Fleet Iddue " toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330556471" senderID="91048888" sentDate="2013-09-14 05:07:00" title="WTS Republic Fleet Mindlinks" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1380" />
+      <row messageID="330606744" senderID="92330118" sentDate="2013-09-15 09:23:00" title="Update: WTS Nemesis" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330484968" senderID="93312692" sentDate="2013-09-12 09:06:00" title="Re: WTS Medium Ancillary Current Routers" toCorpOrAllianceID="" toCharacterIDs="93312692" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330539825" senderID="1892748485" sentDate="2013-09-13 20:46:00" title="*update*WTS Photon Microprocessor" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="330577051" senderID="1831371989" sentDate="2013-09-14 17:50:00" title="{UPDATE}: WTS T2 Med/Large Projectile Guns" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="330536745" senderID="90378456" sentDate="2013-09-13 19:19:00" title="WTS Light Ion Blaster IIs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="330484803" senderID="93312692" sentDate="2013-09-12 08:56:00" title="WTS Medium Ancillary Current Routers" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330536061" senderID="573573394" sentDate="2013-09-13 18:59:00" title="WTS R.A.M's" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330570657" senderID="92725725" sentDate="2013-09-14 15:02:00" title="WTS T1 Rigs (Large)" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="330564064" senderID="92329340" sentDate="2013-09-14 10:49:00" title="wts t2 components and misc" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1375" />
+      <row messageID="330535608" senderID="90309914" sentDate="2013-09-13 18:46:00" title="WTS Falcons" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1379" />
+      <row messageID="330527482" senderID="93650246" sentDate="2013-09-13 14:12:00" title="SOLD: WTS Light Ion Blaster I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330558935" senderID="1831371989" sentDate="2013-09-14 06:48:00" title="WTS T2 Med/Large Projectile Guns" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1383" />
+      <row messageID="330520444" senderID="1152240191" sentDate="2013-09-13 07:39:00" title="*Update* WTS 50x Standard Blue Pill Booster " toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1380" />
+      <row messageID="330531440" senderID="1892748485" sentDate="2013-09-13 16:37:00" title="WTS Photon Microprocessor" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1376" />
+      <row messageID="330518542" senderID="1074672673" sentDate="2013-09-13 05:52:00" title="WTS T2 DRONES &amp; T2 MODS" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1373" />
+      <row messageID="330504318" senderID="93650246" sentDate="2013-09-12 21:44:00" title="WTS Light Ion Blaster I" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330497819" senderID="90378456" sentDate="2013-09-12 18:37:00" title="WTS Vagabonds, Light Ion Blaster IIs" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1386" />
+      <row messageID="330501684" senderID="302882090" sentDate="2013-09-12 20:30:00" title="WTS Cheetah" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1384" />
+      <row messageID="330485304" senderID="651680894" sentDate="2013-09-12 09:29:00" title="WTS IMPLANTS in bulk" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+      <row messageID="330484545" senderID="651680894" sentDate="2013-09-12 08:39:00" title="WTS custom office POCO BPCs -flat rate 13m" toCorpOrAllianceID="" toCharacterIDs="" toListID="145096714" senderTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-16 14:20:59</cachedUntil>
+</eveapi>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-19 10:04:57</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="430454299"><![CDATA[applicationText: Gynax alt
+charID: 92736777
+corpID: 98190867
+]]></row>
+      <row notificationID="430329097"><![CDATA[solarSystemID: 30002207
+taleID: 1113
+topTen:
+- - 90775038
+  - 646860
+- - 93162925
+  - 597870
+- - 1978867700
+  - 597870
+- - 93484975
+  - 574560
+- - 1319520795
+  - 556640
+- - 91105780
+  - 539000
+- - 91060576
+  - 504560
+- - 92848028
+  - 504560
+- - 91709285
+  - 504560
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-17 10:04:57</cachedUntil>
+</eveapi>

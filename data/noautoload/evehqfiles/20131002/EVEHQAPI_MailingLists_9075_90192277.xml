@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:05:23</currentTime>
+  <result>
+    <rowset name="mailingLists" key="listID" columns="listID,displayName">
+      <row listID="145112249" displayName="AGONY PVP UNI" />
+      <row listID="145134576" displayName="TVP News" />
+      <row listID="145134841" displayName="Bombers Bar" />
+      <row listID="145145416" displayName="TDF" />
+      <row listID="145148679" displayName="TDF-Amarr-Fitz" />
+      <row listID="145148749" displayName="TDF-Minmatar-Fitz" />
+      <row listID="145148751" displayName="TDF-Gallente-Fitz" />
+      <row listID="145149181" displayName="TDF-Logi-Fitz" />
+      <row listID="145150083" displayName="TDF-Caldari-Fitz" />
+      <row listID="145153084" displayName="WarpToMe News" />
+      <row listID="145153085" displayName="WarpToMe Fits" />
+      <row listID="145153403" displayName="QH Directors" />
+      <row listID="145160157" displayName="Toronto Eve Online" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-02 12:39:16</cachedUntil>
+</eveapi>

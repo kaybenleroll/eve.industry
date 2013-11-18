@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 12:18:37</currentTime>
+  <result>
+    <rowset name="assets" key="itemID" columns="itemID,locationID,typeID,quantity,flag,singleton">
+      <row itemID="1008779509577" locationID="60000541" typeID="582" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1010651438493" locationID="60003760" typeID="11269" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1010993700040" locationID="60003760" typeID="11259" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011141688259" locationID="60003760" typeID="2082" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011199770791" locationID="60003760" typeID="13261" quantity="2" flag="4" singleton="0" />
+      <row itemID="1011747287542" locationID="60003760" typeID="7220" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1011852373811" locationID="60003760" typeID="3638" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1011852373814" locationID="60003760" typeID="3651" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1011852373832" locationID="60003760" typeID="34" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011896215628" locationID="60003760" typeID="25251" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011907447297" locationID="60003760" typeID="601" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1011907447300" typeID="3638" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1011907447301" typeID="3651" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1011907447302" typeID="34" quantity="1" flag="5" singleton="0" />
+        </rowset>
+      </row>
+      <row itemID="1011929346377" locationID="60003760" typeID="25296" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011957843372" locationID="60003760" typeID="25287" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011960037047" locationID="60003760" typeID="16868" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011961919776" locationID="60003760" typeID="25288" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011963553825" locationID="60003760" typeID="25284" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011975993683" locationID="60003760" typeID="25285" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011985123291" locationID="60003760" typeID="25290" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011987031026" locationID="60003760" typeID="25291" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008753077490" locationID="60004228" typeID="439" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008905424860" locationID="60004228" typeID="649" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1008793763014" typeID="6005" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1008923029654" typeID="1319" quantity="1" flag="13" singleton="1" rawQuantity="-1" />
+          <row itemID="1008929895954" typeID="1319" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1008929896513" typeID="1319" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1010860047315" typeID="31119" quantity="1" flag="92" singleton="1" rawQuantity="-1" />
+          <row itemID="1010860048080" typeID="31119" quantity="1" flag="93" singleton="1" rawQuantity="-1" />
+          <row itemID="1010860040197" typeID="31119" quantity="1" flag="94" singleton="1" rawQuantity="-1" />
+          <row itemID="1008896628906" typeID="9632" quantity="1" flag="21" singleton="1" rawQuantity="-1" />
+          <row itemID="1008896348803" typeID="9632" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1009074669689" locationID="60004228" typeID="648" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1009726860982" typeID="1319" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1009726861721" typeID="1319" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1009534303546" locationID="60004228" typeID="26253" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009574948379" locationID="60004228" typeID="16069" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009613064963" locationID="60004228" typeID="24698" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1009604147035" typeID="22291" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1009604256085" typeID="2048" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636142296" typeID="8105" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636142609" typeID="8105" quantity="1" flag="29" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636168559" typeID="31610" quantity="1" flag="92" singleton="1" rawQuantity="-1" />
+          <row itemID="1010144864728" typeID="10850" quantity="1" flag="24" singleton="1" rawQuantity="-1" />
+          <row itemID="1010654894596" typeID="209" quantity="9500" flag="5" singleton="0" />
+          <row itemID="1010132195591" typeID="8749" quantity="1" flag="14" singleton="1" rawQuantity="-1" />
+          <row itemID="1010131546188" typeID="3841" quantity="1" flag="23" singleton="1" rawQuantity="-1" />
+          <row itemID="1009769594601" typeID="3841" quantity="1" flag="22" singleton="1" rawQuantity="-1" />
+          <row itemID="1009752967295" typeID="2454" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1009752967274" typeID="2454" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636187260" typeID="31790" quantity="1" flag="94" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636165134" typeID="31600" quantity="1" flag="93" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636143218" typeID="8105" quantity="1" flag="31" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636142879" typeID="8105" quantity="1" flag="30" singleton="1" rawQuantity="-1" />
+          <row itemID="1009636141760" typeID="8105" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1009616469506" typeID="8105" quantity="1" flag="32" singleton="1" rawQuantity="-1" />
+          <row itemID="1009616437113" typeID="2454" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1009604440324" typeID="2454" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1009604198690" typeID="2281" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+          <row itemID="1009604165129" typeID="2281" quantity="1" flag="21" singleton="1" rawQuantity="-1" />
+          <row itemID="1009604157539" typeID="22291" quantity="1" flag="13" singleton="1" rawQuantity="-1" />
+          <row itemID="1009604041253" typeID="6005" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1009616517320" locationID="60004228" typeID="2299" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009638125308" locationID="60004228" typeID="30268" quantity="2" flag="4" singleton="0" />
+      <row itemID="1009638366502" locationID="60004228" typeID="30258" quantity="3" flag="4" singleton="0" />
+      <row itemID="1009638366509" locationID="60004228" typeID="30022" quantity="2" flag="4" singleton="0" />
+      <row itemID="1009638384566" locationID="60004228" typeID="30024" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009638384571" locationID="60004228" typeID="30018" quantity="2" flag="4" singleton="0" />
+      <row itemID="1009726902359" locationID="60004228" typeID="9956" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009728392821" locationID="60004228" typeID="31011" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009741189000" locationID="60004228" typeID="34" quantity="1377" flag="4" singleton="0" />
+      <row itemID="1009741189002" locationID="60004228" typeID="38" quantity="1376" flag="4" singleton="0" />
+      <row itemID="1009741189004" locationID="60004228" typeID="39" quantity="2756" flag="4" singleton="0" />
+      <row itemID="1009752730462" locationID="60004228" typeID="207" quantity="1721" flag="4" singleton="0" />
+      <row itemID="1009753135288" locationID="60004228" typeID="2297" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009766889015" locationID="60004228" typeID="256" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010132184129" locationID="60004228" typeID="3888" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010625057661" locationID="60004228" typeID="3427" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010651398625" locationID="60004228" typeID="20230" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1011133684990" locationID="60004228" typeID="11574" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008747023053" locationID="60004243" typeID="3638" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008747023054" locationID="60004243" typeID="3651" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008747056865" locationID="60004243" typeID="3838" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008747134370" locationID="60004243" typeID="222" quantity="2179" flag="4" singleton="0" />
+      <row itemID="1008747202831" locationID="60004243" typeID="399" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008747635235" locationID="60004243" typeID="26983" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008751904118" locationID="60004243" typeID="27014" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008751948289" locationID="60004243" typeID="21718" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008752053483" locationID="60004243" typeID="1244" quantity="4" flag="4" singleton="0" />
+      <row itemID="1008752138590" locationID="60004243" typeID="1317" quantity="4" flag="4" singleton="0" />
+      <row itemID="1008752219462" locationID="60004243" typeID="483" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008752226508" locationID="60004243" typeID="27019" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008752333496" locationID="60004243" typeID="1220" quantity="1" flag="4" singleton="1" rawQuantity="-2" />
+      <row itemID="1008752568749" locationID="60004243" typeID="1230" quantity="104" flag="4" singleton="0" />
+      <row itemID="1008753023993" locationID="60004243" typeID="215" quantity="13" flag="4" singleton="0" />
+      <row itemID="1008753331179" locationID="60004243" typeID="13283" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008753335135" locationID="60004243" typeID="523" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008753500528" locationID="60004243" typeID="526" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008753598786" locationID="60004243" typeID="220" quantity="200" flag="4" singleton="0" />
+      <row itemID="1008753637490" locationID="60004243" typeID="3717" quantity="10" flag="4" singleton="0" />
+      <row itemID="1008753637803" locationID="60004243" typeID="3645" quantity="20" flag="4" singleton="0" />
+      <row itemID="1008753638077" locationID="60004243" typeID="3647" quantity="10" flag="4" singleton="0" />
+      <row itemID="1008755989750" locationID="60004243" typeID="20" quantity="388" flag="4" singleton="0" />
+      <row itemID="1008756043671" locationID="60004243" typeID="683" quantity="1" flag="4" singleton="1" rawQuantity="-2" />
+      <row itemID="1008756065855" locationID="60004243" typeID="35" quantity="92" flag="4" singleton="0" />
+      <row itemID="1008756130961" locationID="60004243" typeID="34" quantity="718" flag="4" singleton="0" />
+      <row itemID="1008756185438" locationID="60004243" typeID="37" quantity="37" flag="4" singleton="0" />
+      <row itemID="1008756295095" locationID="60004243" typeID="3435" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008756341788" locationID="60004243" typeID="32459" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008756380044" locationID="60004243" typeID="32467" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008756468597" locationID="60004243" typeID="21857" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008756526616" locationID="60004243" typeID="3321" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008756611436" locationID="60004243" typeID="32461" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008756713455" locationID="60004243" typeID="30328" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008756954503" locationID="60004243" typeID="17938" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008757333129" locationID="60004243" typeID="32352" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008757533873" locationID="60004243" typeID="3551" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008757539265" locationID="60004243" typeID="27019" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008757899991" locationID="60004243" typeID="27014" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008757993173" locationID="60004243" typeID="30013" quantity="10" flag="4" singleton="0" />
+      <row itemID="1008758019165" locationID="60004243" typeID="25810" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008758027994" locationID="60004243" typeID="32375" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008758158077" locationID="60004243" typeID="605" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008758554821" locationID="60004243" typeID="32463" quantity="98" flag="4" singleton="0" />
+      <row itemID="1008758640320" locationID="60004243" typeID="16238" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008778361613" locationID="60004243" typeID="2046" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008778374019" locationID="60004243" typeID="12274" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008778811517" locationID="60004243" typeID="266" quantity="2639" flag="4" singleton="0" />
+      <row itemID="1008790016325" locationID="60004243" typeID="2516" quantity="660" flag="4" singleton="0" />
+      <row itemID="1008790430427" locationID="60004243" typeID="27019" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008791296988" locationID="60004243" typeID="7892" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008792943250" locationID="60004243" typeID="3454" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008793103106" locationID="60004243" typeID="6437" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008793125845" locationID="60004243" typeID="2512" quantity="600" flag="4" singleton="0" />
+      <row itemID="1008793131360" locationID="60004243" typeID="2514" quantity="600" flag="4" singleton="0" />
+      <row itemID="1008793175264" locationID="60004243" typeID="2293" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008793200918" locationID="60004243" typeID="1808" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008793775543" locationID="60004243" typeID="242" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008793776766" locationID="60004243" typeID="6129" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008797055205" locationID="60004243" typeID="179" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008811665766" locationID="60004243" typeID="33052" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665801" locationID="60004243" typeID="33051" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665810" locationID="60004243" typeID="2589" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008824024242" locationID="60004243" typeID="32876" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1008789795374" typeID="213" quantity="1434" flag="5" singleton="0" />
+          <row itemID="1008825547913" typeID="5841" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825560533" typeID="8089" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825561327" typeID="8089" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825561534" typeID="8089" quantity="1" flag="29" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825561756" typeID="8089" quantity="1" flag="30" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825562028" typeID="8089" quantity="1" flag="31" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825562331" typeID="8089" quantity="1" flag="32" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825562640" typeID="8089" quantity="1" flag="33" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825566204" typeID="6003" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825618664" typeID="11563" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825748994" typeID="212" quantity="10096" flag="5" singleton="0" />
+          <row itemID="1008896354321" typeID="210" quantity="6777" flag="5" singleton="0" />
+          <row itemID="1009477428147" typeID="400" quantity="1" flag="22" singleton="1" rawQuantity="-1" />
+          <row itemID="1009475572186" typeID="2281" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+          <row itemID="1008825543589" typeID="9632" quantity="1" flag="21" singleton="1" rawQuantity="-1" />
+          <row itemID="1008789788267" typeID="211" quantity="10165" flag="5" singleton="0" />
+        </rowset>
+      </row>
+      <row itemID="1008824521075" locationID="60004243" typeID="32880" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1008755481688" typeID="483" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1008790019858" typeID="6001" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1009677674427" typeID="1229" quantity="18" flag="134" singleton="0" />
+          <row itemID="1008753527442" typeID="483" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1008824763503" locationID="60004243" typeID="16433" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008824776985" locationID="60004243" typeID="241" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008824968106" locationID="60004243" typeID="582" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008825549629" locationID="60004243" typeID="8089" quantity="3" flag="4" singleton="0" />
+      <row itemID="1008825558452" locationID="60004243" typeID="12274" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008825574404" locationID="60004243" typeID="6437" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008825698747" locationID="60004243" typeID="1195" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008861053939" locationID="60004243" typeID="43" quantity="10" flag="4" singleton="0" />
+      <row itemID="1008861053942" locationID="60004243" typeID="3715" quantity="10" flag="4" singleton="0" />
+      <row itemID="1008861059947" locationID="60004243" typeID="219" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008861059949" locationID="60004243" typeID="265" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008861059951" locationID="60004243" typeID="203" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008861061213" locationID="60004243" typeID="180" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008861061216" locationID="60004243" typeID="230" quantity="200" flag="4" singleton="0" />
+      <row itemID="1008861061217" locationID="60004243" typeID="1814" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008878784438" locationID="60004243" typeID="32995" quantity="300" flag="4" singleton="0" />
+      <row itemID="1008878784441" locationID="60004243" typeID="32993" quantity="300" flag="4" singleton="0" />
+      <row itemID="1008878784445" locationID="60004243" typeID="32994" quantity="300" flag="4" singleton="0" />
+      <row itemID="1008896055219" locationID="60004243" typeID="7993" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008896254848" locationID="60004243" typeID="7993" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008896325037" locationID="60004243" typeID="7993" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008901137215" locationID="60004243" typeID="6437" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008905349184" locationID="60004243" typeID="3638" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008905349185" locationID="60004243" typeID="3651" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008942961162" locationID="60004243" typeID="15996" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008942961164" locationID="60004243" typeID="5319" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008942961165" locationID="60004243" typeID="5301" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008942965731" locationID="60004243" typeID="15599" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008942968540" locationID="60004243" typeID="15596" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008942969576" locationID="60004243" typeID="15597" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008942973702" locationID="60004243" typeID="578" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008944891398" locationID="60004243" typeID="11345" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008944891399" locationID="60004243" typeID="5135" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008944893812" locationID="60004243" typeID="251" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008981004165" locationID="60004243" typeID="216" quantity="100" flag="4" singleton="0" />
+      <row itemID="1009485644169" locationID="60004243" typeID="602" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009494414769" locationID="60004243" typeID="648" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009617564178" locationID="60004243" typeID="6174" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009617564179" locationID="60004243" typeID="25567" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008752925045" locationID="60004516" typeID="30328" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008758675450" locationID="60004516" typeID="439" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008777378083" locationID="60004516" typeID="15331" quantity="22" flag="4" singleton="0" />
+      <row itemID="1008778791197" locationID="60004516" typeID="19929" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008789789268" locationID="60004516" typeID="246" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008789790482" locationID="60004516" typeID="240" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008789796198" locationID="60004516" typeID="241" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008790006834" locationID="60004516" typeID="183" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008790008027" locationID="60004516" typeID="182" quantity="300" flag="4" singleton="0" />
+      <row itemID="1008790008328" locationID="60004516" typeID="5971" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008790012290" locationID="60004516" typeID="178" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008790024880" locationID="60004516" typeID="239" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008790097849" locationID="60004516" typeID="5973" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008790103095" locationID="60004516" typeID="6633" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011816997072" locationID="60006739" typeID="601" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1011816997073" typeID="3638" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1011816997074" typeID="3651" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1011816997076" typeID="34" quantity="1" flag="5" singleton="0" />
+        </rowset>
+      </row>
+      <row itemID="1011817117623" locationID="60006739" typeID="601" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1011817117632" typeID="3638" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1011817117635" typeID="3651" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1011817117642" typeID="34" quantity="1" flag="5" singleton="0" />
+        </rowset>
+      </row>
+      <row itemID="1011852373780" locationID="60006739" typeID="601" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1011876393726" typeID="5489" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1011876402508" typeID="21096" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1011876399516" typeID="16273" quantity="50" flag="5" singleton="0" />
+          <row itemID="1011876394890" typeID="5489" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1010831039623" locationID="60008494" typeID="11648" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1010831070951" locationID="60008494" typeID="11642" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009687720673" locationID="60008938" typeID="621" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1009687244324" typeID="2048" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687366949" typeID="11309" quantity="1" flag="14" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687740634" typeID="25713" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687741043" typeID="25713" quantity="1" flag="29" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687741466" typeID="25713" quantity="1" flag="30" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687753213" typeID="19814" quantity="1" flag="23" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687778333" typeID="31055" quantity="1" flag="94" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687781375" typeID="31055" quantity="1" flag="93" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687775049" typeID="31011" quantity="1" flag="92" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687743082" typeID="4031" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687739909" typeID="25713" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687733186" typeID="16391" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687507582" typeID="5403" quantity="1" flag="22" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687476603" typeID="16391" quantity="1" flag="13" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687476543" typeID="6005" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687355381" typeID="4031" quantity="1" flag="21" singleton="1" rawQuantity="-1" />
+          <row itemID="1009687232544" typeID="25713" quantity="1" flag="31" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1008793305843" locationID="60011866" typeID="11129" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008824025211" locationID="60012607" typeID="602" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008804975858" locationID="60012652" typeID="13286" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009697255825" locationID="60015027" typeID="1227" quantity="9792" flag="4" singleton="0" />
+      <row itemID="1009484603759" locationID="60011866" typeID="583" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1008778365833" typeID="578" quantity="1" flag="22" singleton="1" rawQuantity="-1" />
+          <row itemID="1008778368879" typeID="526" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+          <row itemID="1008896895782" typeID="5843" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1009956216359" typeID="16525" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1009956376439" typeID="6003" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1009956233072" typeID="5399" quantity="1" flag="21" singleton="1" rawQuantity="-1" />
+          <row itemID="1009956217051" typeID="16525" quantity="1" flag="29" singleton="1" rawQuantity="-1" />
+          <row itemID="1009956216683" typeID="16525" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1009616434236" typeID="22291" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1008792767839" locationID="60011566" typeID="11129" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1010910836088" locationID="60008458" typeID="15465" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008789798239" locationID="60004516" typeID="1810" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008789794125" locationID="60004516" typeID="185" quantity="200" flag="4" singleton="0" />
+      <row itemID="1009604412039" locationID="60004243" typeID="8221" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009477696987" locationID="60004243" typeID="2281" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009477001570" locationID="60004243" typeID="16525" quantity="11" flag="4" singleton="0" />
+      <row itemID="1008922737537" locationID="60004243" typeID="601" quantity="3" flag="4" singleton="0" />
+      <row itemID="1008897022818" locationID="60004243" typeID="6437" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008896324455" locationID="60004243" typeID="7993" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008824521833" locationID="60004243" typeID="603" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665856" locationID="60004243" typeID="32985" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665852" locationID="60004243" typeID="33025" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665846" locationID="60004243" typeID="33020" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665833" locationID="60004243" typeID="33047" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665828" locationID="60004243" typeID="33055" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008811665823" locationID="60004243" typeID="33059" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008793779983" locationID="60004243" typeID="182" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008793778281" locationID="60004243" typeID="181" quantity="100" flag="4" singleton="0" />
+      <row itemID="1008793763029" locationID="60004243" typeID="6959" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008793763018" locationID="60004243" typeID="4831" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008793763010" locationID="60004243" typeID="5858" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008793763003" locationID="60004243" typeID="16323" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008757539021" locationID="60004243" typeID="26983" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008756408537" locationID="60004243" typeID="3422" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008756287268" locationID="60004243" typeID="5141" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008756067340" locationID="60004243" typeID="36" quantity="19" flag="4" singleton="0" />
+      <row itemID="1008753591635" locationID="60004243" typeID="6569" quantity="2" flag="4" singleton="0" />
+      <row itemID="1008753591634" locationID="60004243" typeID="15331" quantity="76" flag="4" singleton="0" />
+      <row itemID="1008752873288" locationID="60004243" typeID="561" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008752310086" locationID="60004243" typeID="13286" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008751942030" locationID="60004243" typeID="27025" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008751892299" locationID="60004243" typeID="30221" quantity="600" flag="4" singleton="0" />
+      <row itemID="1008751892286" locationID="60004243" typeID="19660" quantity="1" flag="4" singleton="0" />
+      <row itemID="1008747114362" locationID="60004243" typeID="10039" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1008747114361" locationID="60004243" typeID="562" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1010697862165" locationID="60004228" typeID="23711" quantity="5" flag="4" singleton="0" />
+      <row itemID="1010403923995" locationID="60004228" typeID="3756" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010403923994" locationID="60004228" typeID="32994" quantity="100" flag="4" singleton="0" />
+      <row itemID="1010402189159" locationID="60004228" typeID="32987" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010402189157" locationID="60004228" typeID="32993" quantity="100" flag="4" singleton="0" />
+      <row itemID="1010402189154" locationID="60004228" typeID="2082" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010402189152" locationID="60004228" typeID="2589" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010402189147" locationID="60004228" typeID="33062" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010402189140" locationID="60004228" typeID="33063" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010402189137" locationID="60004228" typeID="19660" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010144874678" locationID="60004228" typeID="10246" quantity="5" flag="4" singleton="0" />
+      <row itemID="1010144864730" locationID="60004228" typeID="3831" quantity="2" flag="4" singleton="0" />
+      <row itemID="1009806464208" locationID="60004228" typeID="10858" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009752731522" locationID="60004228" typeID="208" quantity="2482" flag="4" singleton="0" />
+      <row itemID="1009752729540" locationID="60004228" typeID="206" quantity="2476" flag="4" singleton="0" />
+      <row itemID="1009726864988" locationID="60004228" typeID="1227" quantity="10208" flag="4" singleton="0" />
+      <row itemID="1009689244898" locationID="60004228" typeID="24241" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009687768413" locationID="60004228" typeID="20307" quantity="4715" flag="4" singleton="0" />
+      <row itemID="1009675030775" locationID="60004228" typeID="11134" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009663863780" locationID="60004228" typeID="2203" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009663863555" locationID="60004228" typeID="5975" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009638371605" locationID="60004228" typeID="30269" quantity="1" flag="4" singleton="0" />
+      <row itemID="1009638123459" locationID="60004228" typeID="30497" quantity="36" flag="4" singleton="0" />
+      <row itemID="1009636202469" locationID="60004228" typeID="8221" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009616470993" locationID="60004228" typeID="2299" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009616468773" locationID="60004228" typeID="2303" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009612080605" locationID="60004228" typeID="3528" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009604136293" locationID="60004228" typeID="2301" quantity="1" flag="4" singleton="1" rawQuantity="-1" />
+      <row itemID="1009752723056" locationID="60004048" typeID="206" quantity="7500" flag="4" singleton="0" />
+      <row itemID="1009752721446" locationID="60004048" typeID="207" quantity="7000" flag="4" singleton="0" />
+      <row itemID="1009617564177" locationID="60004048" typeID="208" quantity="7600" flag="4" singleton="0" />
+      <row itemID="1009604095352" locationID="60004048" typeID="209" quantity="5547" flag="4" singleton="0" />
+      <row itemID="1011956759574" locationID="60003760" typeID="25243" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011878465387" locationID="60003760" typeID="25289" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011675784271" locationID="60003760" typeID="2406" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011670169850" locationID="60003760" typeID="3433" quantity="1" flag="4" singleton="0" />
+      <row itemID="1011157528355" locationID="60003760" typeID="2589" quantity="1" flag="4" singleton="0" />
+      <row itemID="1010697857225" locationID="60003760" typeID="23709" quantity="10" flag="4" singleton="0" />
+      <row itemID="1010690988310" locationID="60003760" typeID="11987" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1010651426629" typeID="1541" quantity="1" flag="14" singleton="1" rawQuantity="-1" />
+          <row itemID="1010651431546" typeID="16487" quantity="1" flag="32" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692975076" typeID="31360" quantity="1" flag="93" singleton="1" rawQuantity="-1" />
+          <row itemID="1010697610470" typeID="31360" quantity="1" flag="92" singleton="1" rawQuantity="-1" />
+          <row itemID="1011747339471" typeID="20218" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+          <row itemID="1010697862990" typeID="23711" quantity="5" flag="87" singleton="0" />
+          <row itemID="1010697839544" typeID="11219" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1010697837926" typeID="11259" quantity="1" flag="13" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692694607" typeID="11325" quantity="1" flag="15" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692675790" typeID="6005" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692659247" typeID="2048" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692012737" typeID="16487" quantity="1" flag="31" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692010526" typeID="16455" quantity="1" flag="29" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692010115" typeID="16455" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1010692009716" typeID="16455" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1010651506377" typeID="16455" quantity="1" flag="30" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1010654872470" locationID="60003760" typeID="209" quantity="50000" flag="4" singleton="0" />
+      <row itemID="1010630470911" locationID="60003760" typeID="11985" quantity="1" flag="4" singleton="1" rawQuantity="-1">
+        <rowset name="contents" key="itemID" columns="itemID,typeID,quantity,flag,singleton">
+          <row itemID="1006702661083" typeID="1541" quantity="1" flag="12" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630140251" typeID="31360" quantity="1" flag="93" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630476817" typeID="23719" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630477675" typeID="8641" quantity="1" flag="28" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630477981" typeID="8641" quantity="1" flag="29" singleton="1" rawQuantity="-1" />
+          <row itemID="1011678274232" typeID="23719" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1011678274241" typeID="23719" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1011678274247" typeID="23719" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1011678274250" typeID="23719" quantity="1" flag="87" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630479906" typeID="2281" quantity="1" flag="20" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630478712" typeID="16487" quantity="1" flag="31" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630477327" typeID="8641" quantity="1" flag="27" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630222140" typeID="31790" quantity="1" flag="92" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630219078" typeID="2553" quantity="1" flag="22" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630211206" typeID="8641" quantity="1" flag="30" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630164356" typeID="16487" quantity="1" flag="32" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630160145" typeID="2048" quantity="1" flag="11" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630159926" typeID="3841" quantity="1" flag="23" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630092486" typeID="6005" quantity="1" flag="19" singleton="1" rawQuantity="-1" />
+          <row itemID="1010630083489" typeID="2281" quantity="1" flag="21" singleton="1" rawQuantity="-1" />
+        </rowset>
+      </row>
+      <row itemID="1009389083403" locationID="60003229" typeID="1228" quantity="10000" flag="4" singleton="0" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-16 18:15:40</cachedUntil>
+</eveapi>

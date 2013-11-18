@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-21 10:30:59</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="430454299"><![CDATA[applicationText: Gynax alt
+charID: 92736777
+corpID: 98190867
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-19 10:30:59</cachedUntil>
+</eveapi>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-25 18:42:40</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Tenshi Hara" characterID="91307095" />
+      <row name="Rebecca Wilde" characterID="92168587" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-25 18:42:40</cachedUntil>
+</eveapi>

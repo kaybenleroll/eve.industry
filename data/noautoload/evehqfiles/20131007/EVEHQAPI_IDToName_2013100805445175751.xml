@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:45:23</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Dorio Whitney" characterID="93051283" />
+      <row name="Zion Zorngarin" characterID="90005896" />
+      <row name="Bero Audeles" characterID="93183505" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-11-08 16:45:23</cachedUntil>
+</eveapi>

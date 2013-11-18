@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 12:18:38</currentTime>
+  <result>
+    <rowset name="itemList" key="recordID" columns="recordID,typeID,quantity,rawQuantity,singleton,included">
+      <row recordID="1096742138" typeID="12044" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742139" typeID="20347" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742140" typeID="5973" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742141" typeID="31538" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742142" typeID="28668" quantity="100" singleton="0" included="1" />
+      <row recordID="1096742143" typeID="3170" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742144" typeID="12614" quantity="2020" singleton="0" included="1" />
+      <row recordID="1096742145" typeID="4025" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742146" typeID="1306" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742147" typeID="31009" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742148" typeID="16527" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742149" typeID="3170" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742150" typeID="10190" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742151" typeID="3170" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742152" typeID="3170" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742153" typeID="2048" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742154" typeID="2456" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742155" typeID="5439" quantity="1" singleton="0" included="1" />
+      <row recordID="1096742156" typeID="12612" quantity="1040" singleton="0" included="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2023-09-07 12:02:48</cachedUntil>
+</eveapi>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-09 12:02:44</currentTime>
+  <result>
+    <corporationID>98012536</corporationID>
+    <corporationName>Gallente Libertarian Front of Gallente</corporationName>
+    <ticker>GLFG</ticker>
+    <ceoID>91227546</ceoID>
+    <ceoName>Mursha Sabezan</ceoName>
+    <stationID>60009418</stationID>
+    <stationName>Bawilan I - Federal Freight Storage</stationName>
+    <description>Enter a description of your corporation here</description>
+    <url>http://</url>
+    <allianceID>0</allianceID>
+    <factionID>0</factionID>
+    <taxRate>25</taxRate>
+    <memberCount>5</memberCount>
+    <memberLimit>20</memberLimit>
+    <shares>1000</shares>
+    <rowset name="divisions" key="accountKey" columns="accountKey,description">
+      <row accountKey="1000" description="Manufacturing" />
+      <row accountKey="1001" description="Research" />
+      <row accountKey="1002" description="Invention" />
+      <row accountKey="1003" description="Ship Hangar" />
+      <row accountKey="1004" description="Equipment" />
+      <row accountKey="1005" description="Refinement" />
+      <row accountKey="1006" description="Outgoing" />
+    </rowset>
+    <rowset name="walletDivisions" key="accountKey" columns="accountKey,description">
+      <row accountKey="1000" description="Wallet Division 1" />
+      <row accountKey="1001" description="Amarr Trades" />
+      <row accountKey="1002" description="Jita Trades" />
+      <row accountKey="1003" description="Rental" />
+      <row accountKey="1004" description="Misc2" />
+      <row accountKey="1005" description="Misc3" />
+      <row accountKey="1006" description="Manufacture" />
+    </rowset>
+    <logo>
+      <graphicID>0</graphicID>
+      <shape1>455</shape1>
+      <shape2>0</shape2>
+      <shape3>0</shape3>
+      <color1>0</color1>
+      <color2>0</color2>
+      <color3>0</color3>
+    </logo>
+  </result>
+  <cachedUntil>2013-09-09 15:44:50</cachedUntil>
+</eveapi>

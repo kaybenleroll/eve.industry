@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-04 12:21:53</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Nahkep Narmelion" characterID="1052911542" />
+      <row name="Tahsasiyah" characterID="91805540" />
+      <row name="2funky 4You" characterID="93573109" />
+      <row name="Leonardo Larev" characterID="93242932" />
+      <row name="Haf Heh" characterID="91995356" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-04 12:21:53</cachedUntil>
+</eveapi>

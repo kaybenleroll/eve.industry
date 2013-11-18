@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-09 12:02:47</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-09-02 09:22:43" refID="8133819064" refTypeID="46" ownerName1="Gynax Gallenor" ownerID1="90192277" ownerName2="Secure Commerce Commission" ownerID2="1000132" argName1="EVE System" argID1="1" amount="-100.00" balance="323985.99" reason="" owner1TypeID="1377" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-09 12:29:47</cachedUntil>
+</eveapi>

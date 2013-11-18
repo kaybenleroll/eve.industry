@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-20 20:08:11</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Felicia Venoo" characterID="503898669" />
+      <row name="Kara Riftwood" characterID="127939514" />
+      <row name="Kesker" characterID="1727736048" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-20 20:08:11</cachedUntil>
+</eveapi>

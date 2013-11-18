@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-22 17:28:38</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Modern Finances" characterID="1000030" />
+      <row name="University of Caille" characterID="1000115" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-22 17:28:38</cachedUntil>
+</eveapi>

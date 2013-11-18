@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-09 00:38:42</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Max Tairach" characterID="90919678" />
+      <row name="Aravinth" characterID="1211349204" />
+      <row name="Naso Gomez" characterID="1952850473" />
+      <row name="Shadow John" characterID="804189003" />
+      <row name="Ioannis Seretis" characterID="93061322" />
+      <row name="Cozmus" characterID="93128030" />
+      <row name="Noob E" characterID="90756574" />
+      <row name="Kolditz Athonille" characterID="92977076" />
+      <row name="H'uLiO" characterID="1577912486" />
+      <row name="Dakor Istamer" characterID="713932007" />
+      <row name="spanky O" characterID="91361007" />
+      <row name="Epocolipto" characterID="1437693930" />
+      <row name="Private Hans" characterID="1022561742" />
+      <row name="Rachel Prime" characterID="92428741" />
+      <row name="Nerosh Saiiko" characterID="92728485" />
+      <row name="James Hawkwood" characterID="91491971" />
+      <row name="Lenari Tenara" characterID="93107231" />
+      <row name="Kerono Thalmor" characterID="91426384" />
+      <row name="Keksi Shardani" characterID="90610073" />
+      <row name="fubarina" characterID="92329340" />
+      <row name="LoBlo Fet" characterID="90771914" />
+      <row name="Ischtar Grey" characterID="1638739591" />
+      <row name="Enteron Anabente" characterID="92219849" />
+      <row name="Kintraxis Hindoran" characterID="93389755" />
+      <row name="lo324" characterID="333381302" />
+      <row name="Ki Ka" characterID="91917826" />
+      <row name="Erlendur Sinirsson" characterID="92702628" />
+      <row name="Palou Solette" characterID="90981461" />
+      <row name="DamnICantFindAName" characterID="1464454690" />
+      <row name="Cheng Chai" characterID="92636668" />
+      <row name="Navios" characterID="1127406878" />
+      <row name="Thunder Jolt" characterID="1494827198" />
+      <row name="Telinious Delkin" characterID="743936383" />
+      <row name="Broegger" characterID="153146166" />
+      <row name="The Arbitrageur" characterID="93508688" />
+      <row name="Chincy Cabrera" characterID="216228429" />
+      <row name="Big Lynx" characterID="1816779358" />
+      <row name="Threeheaded Monkey" characterID="93101897" />
+      <row name="TimmoJay" characterID="1857747470" />
+      <row name="Apeirogon" characterID="93550534" />
+      <row name="Ice Dealer" characterID="459590834" />
+      <row name="ushot melots" characterID="93112521" />
+      <row name="Ty Lee Venditoris" characterID="92442961" />
+      <row name="Kenneth Skybound" characterID="91820772" />
+      <row name="BigPQ" characterID="91168789" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-09 00:38:42</cachedUntil>
+</eveapi>

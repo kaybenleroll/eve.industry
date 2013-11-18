@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:05:23</currentTime>
+  <result>
+    <rowset name="messages" key="messageID" columns="messageID,senderID,sentDate,title,toCorpOrAllianceID,toCharacterIDs,toListID">
+      <row messageID="331229437" senderID="92301516" sentDate="2013-10-01 21:26:00" title="CRUISER TOURNAMENT - Belle" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1373" />
+      <row messageID="331239388" senderID="92202062" sentDate="2013-10-02 02:38:00" title="Re: Stuff in Remoriu" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1376" />
+      <row messageID="331201907" senderID="90192277" sentDate="2013-10-01 02:21:00" title="Misc" toCorpOrAllianceID="" toCharacterIDs="91560447" toListID="" senderTypeID="1377" />
+      <row messageID="331237177" senderID="90192277" sentDate="2013-10-02 01:21:00" title="POS Fuel" toCorpOrAllianceID="" toCharacterIDs="91560447" toListID="" senderTypeID="1377" />
+      <row messageID="331193680" senderID="92701102" sentDate="2013-09-30 22:06:00" title="CRUISER TOURNAMENT - &amp;lt;Blindwillow&amp;gt;" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1379" />
+      <row messageID="331237024" senderID="90192277" sentDate="2013-10-02 01:16:00" title="POS Fuel" toCorpOrAllianceID="" toCharacterIDs="90003608,380606673,1075598849" toListID="" senderTypeID="1377" />
+      <row messageID="331164757" senderID="380606673" sentDate="2013-09-30 03:02:00" title="*READ* Corp Update!" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1375" />
+      <row messageID="331234011" senderID="90192277" sentDate="2013-10-01 23:45:00" title="Hey" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="331163675" senderID="90192277" sentDate="2013-09-30 02:23:00" title="Cruiser Tournament (mea culpa)" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331163125" senderID="91744644" sentDate="2013-09-30 02:02:00" title="Cruiser Tournament - Catherine Kamensky" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="331165452" senderID="93800835" sentDate="2013-09-30 03:27:00" title="CRUISER TOURNAMENT - &amp;lt;Trye Askold&amp;gt;" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1379" />
+      <row messageID="331116985" senderID="90192277" sentDate="2013-09-29 00:51:00" title="Serith's Application" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="331164746" senderID="90192277" sentDate="2013-09-30 03:02:00" title="Re: Re: Cruiser Tournament (mea culpa)" toCorpOrAllianceID="" toCharacterIDs="92701102" toListID="" senderTypeID="1377" />
+      <row messageID="331104594" senderID="92301516" sentDate="2013-09-28 19:03:00" title="API keys" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1373" />
+      <row messageID="331163131" senderID="1795582464" sentDate="2013-09-30 02:02:00" title="CRUISER TOURNAMENT - Steve1596" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="331076305" senderID="90192277" sentDate="2013-09-28 01:20:00" title="Fuel" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="331154474" senderID="90192277" sentDate="2013-09-29 21:31:00" title="FW: Cruiser Tournament Next Weekend (Oct 5/6)" toCorpOrAllianceID="" toCharacterIDs="91744644" toListID="" senderTypeID="1377" />
+      <row messageID="331069017" senderID="90192277" sentDate="2013-09-27 21:40:00" title="Ore" toCorpOrAllianceID="" toCharacterIDs="90009152" toListID="" senderTypeID="1377" />
+      <row messageID="331146952" senderID="90192277" sentDate="2013-09-29 18:29:00" title="EUTZ Destroyer Roam - Tomorrow, Monday 30 Sep" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331234365" senderID="90192277" sentDate="2013-10-01 23:56:00" title="Cruiser Tournament - Update" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331038568" senderID="91688663" sentDate="2013-09-27 00:24:00" title="Sunday Special.... and more!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="331031026" senderID="1264309014" sentDate="2013-09-26 20:18:00" title="Re: Hey" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="331142290" senderID="1264309014" sentDate="2013-09-29 16:40:00" title="CRUISER TOURNAMENT - Hokosaki" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1383" />
+      <row messageID="331211495" senderID="90192277" sentDate="2013-10-01 10:39:00" title="Stuff in Remoriu" toCorpOrAllianceID="" toCharacterIDs="92202062" toListID="" senderTypeID="1377" />
+      <row messageID="331017904" senderID="90192277" sentDate="2013-09-26 12:22:00" title="FCs" toCorpOrAllianceID="" toCharacterIDs="133117038" toListID="" senderTypeID="1377" />
+      <row messageID="331045699" senderID="421457970" sentDate="2013-09-27 04:51:00" title="Special Event" toCorpOrAllianceID="" toCharacterIDs="" toListID="145153084" senderTypeID="1378" />
+      <row messageID="331017514" senderID="90192277" sentDate="2013-09-26 12:00:00" title="Archon Loss" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="331201177" senderID="90192277" sentDate="2013-10-01 01:54:00" title="Robotics" toCorpOrAllianceID="" toCharacterIDs="90003608" toListID="" senderTypeID="1377" />
+      <row messageID="331036138" senderID="90192277" sentDate="2013-09-26 23:03:00" title="Cruiser Tournament - ECM Restriction" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331004427" senderID="90192277" sentDate="2013-09-26 00:13:00" title="Re: Midgard loot" toCorpOrAllianceID="" toCharacterIDs="90209655" toListID="" senderTypeID="1377" />
+      <row messageID="331007210" senderID="90192277" sentDate="2013-09-26 01:53:00" title="Re: Re: Something different" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="331193135" senderID="1777882394" sentDate="2013-09-30 21:52:00" title="PVP-BASIC October 4th &amp; 5th @ 18:00 EVE Time - out of Stacmon!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145112249" senderTypeID="1377" />
+      <row messageID="331007104" senderID="380606673" sentDate="2013-09-26 01:49:00" title="Re: Something different" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1375" />
+      <row messageID="331006340" senderID="90192277" sentDate="2013-09-26 01:22:00" title="Cruiser Tournament Issues" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331164599" senderID="92701102" sentDate="2013-09-30 02:56:00" title="Re: Cruiser Tournament (mea culpa)" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1379" />
+      <row messageID="331163748" senderID="133117038" sentDate="2013-09-30 02:26:00" title="CRUISER TOURNAMENT - &amp;lt;Alyxxa&amp;gt;" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="331154454" senderID="90192277" sentDate="2013-09-29 21:31:00" title="FW: Cruiser Tournament Issues" toCorpOrAllianceID="" toCharacterIDs="91744644" toListID="" senderTypeID="1377" />
+      <row messageID="331154442" senderID="90192277" sentDate="2013-09-29 21:30:00" title="FW: 1v1 Cruiser Tournament - Weekend of Oct 5/6" toCorpOrAllianceID="" toCharacterIDs="91744644" toListID="" senderTypeID="1377" />
+      <row messageID="331154341" senderID="90192277" sentDate="2013-09-29 21:28:00" title="Re: Cruiser Tournament - I'm in" toCorpOrAllianceID="" toCharacterIDs="91744644" toListID="" senderTypeID="1377" />
+      <row messageID="331153308" senderID="91688663" sentDate="2013-09-29 21:02:00" title="SUPRISE SUNDAY SPECIAL!" toCorpOrAllianceID="" toCharacterIDs="" toListID="145134841" senderTypeID="1375" />
+      <row messageID="331151753" senderID="91744644" sentDate="2013-09-29 20:21:00" title="Cruiser Tournament - I'm in" toCorpOrAllianceID="" toCharacterIDs="90192277" toListID="" senderTypeID="1377" />
+      <row messageID="331146753" senderID="90192277" sentDate="2013-09-29 18:24:00" title="Cruiser Tournament Next Weekend (Oct 5/6)" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331040336" senderID="90192277" sentDate="2013-09-27 01:29:00" title="Fitted Ships on Corp Contract" toCorpOrAllianceID="98190867" toCharacterIDs="" toListID="" senderTypeID="1377" />
+      <row messageID="331035406" senderID="90192277" sentDate="2013-09-26 22:37:00" title="Re: Re: Hey" toCorpOrAllianceID="" toCharacterIDs="1264309014" toListID="" senderTypeID="1377" />
+      <row messageID="331007463" senderID="90192277" sentDate="2013-09-26 02:03:00" title="Insurance Fund" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+      <row messageID="331007000" senderID="90192277" sentDate="2013-09-26 01:45:00" title="Something different" toCorpOrAllianceID="" toCharacterIDs="380606673" toListID="" senderTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-02 11:20:23</cachedUntil>
+</eveapi>

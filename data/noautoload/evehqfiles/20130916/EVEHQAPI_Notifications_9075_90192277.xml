@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 14:06:13</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID,typeID,senderID,sentDate,read">
+      <row notificationID="433950504" typeID="128" senderID="1795582464" sentDate="2013-09-16 00:50:00" read="0" />
+      <row notificationID="433950374" typeID="16" senderID="1795582464" sentDate="2013-09-16 00:48:00" read="0" />
+      <row notificationID="433899169" typeID="22" senderID="90003608" sentDate="2013-09-15 16:59:00" read="1" />
+      <row notificationID="433774503" typeID="76" senderID="1000137" sentDate="2013-09-14 19:05:00" read="1" />
+      <row notificationID="433766948" typeID="76" senderID="1000137" sentDate="2013-09-14 18:05:00" read="1" />
+      <row notificationID="433604139" typeID="76" senderID="1000137" sentDate="2013-09-13 09:05:00" read="1" />
+      <row notificationID="433601253" typeID="76" senderID="1000137" sentDate="2013-09-13 08:05:00" read="1" />
+      <row notificationID="433597283" typeID="76" senderID="1000137" sentDate="2013-09-13 07:05:00" read="1" />
+      <row notificationID="433594232" typeID="76" senderID="1000137" sentDate="2013-09-13 06:05:00" read="1" />
+      <row notificationID="433591170" typeID="76" senderID="1000137" sentDate="2013-09-13 05:05:00" read="1" />
+      <row notificationID="433587469" typeID="76" senderID="1000137" sentDate="2013-09-13 04:05:00" read="1" />
+      <row notificationID="433582218" typeID="76" senderID="1000137" sentDate="2013-09-13 03:05:00" read="1" />
+      <row notificationID="433578133" typeID="76" senderID="1000137" sentDate="2013-09-13 02:05:00" read="1" />
+      <row notificationID="433574151" typeID="10" senderID="1000002" sentDate="2013-09-13 01:09:00" read="1" />
+      <row notificationID="433573902" typeID="76" senderID="1000137" sentDate="2013-09-13 01:05:00" read="1" />
+      <row notificationID="433569638" typeID="76" senderID="1000137" sentDate="2013-09-13 00:05:00" read="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-16 14:26:50</cachedUntil>
+</eveapi>

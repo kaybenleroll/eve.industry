@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:45:18</currentTime>
+  <result>
+    <rowset name="itemList" key="recordID" columns="recordID,typeID,quantity,rawQuantity,singleton,included">
+      <row recordID="1120661516" typeID="645" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661517" typeID="2183" quantity="5" singleton="0" included="1" />
+      <row recordID="1120661518" typeID="2454" quantity="5" singleton="0" included="1" />
+      <row recordID="1120661519" typeID="2444" quantity="3" singleton="0" included="1" />
+      <row recordID="1120661520" typeID="2048" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661521" typeID="22993" quantity="2081" singleton="0" included="1" />
+      <row recordID="1120661522" typeID="10190" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661523" typeID="2454" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661524" typeID="2032" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661525" typeID="11642" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661526" typeID="2444" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661527" typeID="2183" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661528" typeID="2444" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661529" typeID="23001" quantity="1665" singleton="0" included="1" />
+      <row recordID="1120661530" typeID="2454" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661531" typeID="2032" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661532" typeID="2032" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661533" typeID="29009" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661534" typeID="25948" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661535" typeID="7447" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661536" typeID="11269" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661537" typeID="7447" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661538" typeID="2454" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661539" typeID="1952" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661540" typeID="23007" quantity="3022" singleton="0" included="1" />
+      <row recordID="1120661541" typeID="10190" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661542" typeID="7447" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661543" typeID="23527" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661544" typeID="2444" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661545" typeID="2454" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661546" typeID="29011" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661547" typeID="2454" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661548" typeID="7447" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661549" typeID="2183" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661550" typeID="24417" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661551" typeID="3540" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661552" typeID="23527" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661553" typeID="2183" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661554" typeID="2444" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661555" typeID="2444" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661556" typeID="2183" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661557" typeID="11644" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661558" typeID="25948" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661559" typeID="22999" quantity="3684" singleton="0" included="1" />
+      <row recordID="1120661560" typeID="2444" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661561" typeID="11646" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661562" typeID="2183" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661563" typeID="11648" quantity="1" singleton="0" included="1" />
+      <row recordID="1120661564" typeID="22995" quantity="3412" singleton="0" included="1" />
+    </rowset>
+  </result>
+  <cachedUntil>2023-10-06 16:45:18</cachedUntil>
+</eveapi>

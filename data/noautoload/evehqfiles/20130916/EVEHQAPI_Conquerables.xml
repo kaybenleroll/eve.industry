@@ -1,0 +1,946 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 12:13:00</currentTime>
+  <result>
+    <rowset name="outposts" key="stationID" columns="stationID,stationName,stationTypeID,solarSystemID,corporationID,corporationName">
+      <row stationID="61000527" stationName="KV-8SN VIII - Defective Refinery" stationTypeID="21645" solarSystemID="30004348" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000528" stationName="SN-Q1T IV - Its yamas fault" stationTypeID="21644" solarSystemID="30001808" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000529" stationName="BWI1-9 V - RIP Vile Rat" stationTypeID="21646" solarSystemID="30004371" corporationID="1886617991" corporationName="JSR1 AND GOLDEN GUARDIAN PRODUCTIONS" />
+      <row stationID="61000530" stationName="E-SCTX IX - Judge High Court" stationTypeID="21644" solarSystemID="30000283" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000531" stationName="1-5GBW VII - 1-5GBW Dexter's Laboratory" stationTypeID="21644" solarSystemID="30004650" corporationID="98109174" corporationName="Progressive Horizon" />
+      <row stationID="61000532" stationName="2DWM-2 II - 2 Years to Listen to Aryth" stationTypeID="21646" solarSystemID="30000292" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000533" stationName="G-LOIT V - G-LOITering Not Allowed" stationTypeID="21644" solarSystemID="30000213" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000534" stationName="1N-FJ8 IX - Triksa's Watchtower" stationTypeID="21644" solarSystemID="30000294" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000535" stationName="6V-D0E III - In Willie We Trust" stationTypeID="21646" solarSystemID="30002832" corporationID="98036559" corporationName="Black Core Federation" />
+      <row stationID="61000536" stationName="4DS-OI III - Dock in the IHUB" stationTypeID="21644" solarSystemID="30000749" corporationID="98005832" corporationName="Soldiers Of WormHoles" />
+      <row stationID="61000537" stationName="VORM-W VII - Generic Bad Station Name" stationTypeID="21644" solarSystemID="30000322" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000538" stationName="KD-KPR V - We're CTA Alliance" stationTypeID="21646" solarSystemID="30000737" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000539" stationName="DVN6-0 V - The Spire HQ" stationTypeID="21646" solarSystemID="30001581" corporationID="98100699" corporationName="0utLaw." />
+      <row stationID="61000540" stationName="Z-Y7R7 II - Z-YMCA" stationTypeID="21645" solarSystemID="30004063" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="61000541" stationName="X-41DA I - Cobalt Radio Station" stationTypeID="21644" solarSystemID="30004173" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000542" stationName="L-1HKR VIII - 3 days since last carrier loss" stationTypeID="21644" solarSystemID="30000874" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000543" stationName="W-4NUU V - W-4No More Brack Region" stationTypeID="21646" solarSystemID="30004055" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000544" stationName="GN-TNT III - Divine Ishtar" stationTypeID="21646" solarSystemID="30002306" corporationID="98147268" corporationName="Things Come and Go" />
+      <row stationID="61000545" stationName="W-MF6J II - Spears Home " stationTypeID="21646" solarSystemID="30000830" corporationID="2023194352" corporationName="Karma Tec" />
+      <row stationID="61000546" stationName="4RS-L1 IV - Katrin's Chillout" stationTypeID="21645" solarSystemID="30002625" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000547" stationName="P-ZWKH VII - Home Sweet NewRingsOrion" stationTypeID="21646" solarSystemID="30003248" corporationID="807155057" corporationName="NewRingsOrion" />
+      <row stationID="61000548" stationName="KS-1TS III - I Want You Inside Me" stationTypeID="21645" solarSystemID="30000807" corporationID="98005832" corporationName="Soldiers Of WormHoles" />
+      <row stationID="61000549" stationName="ZUE-NS VIII - ZUEternity Inc is the best Inc" stationTypeID="21644" solarSystemID="30004658" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000394" stationName="Q-4DEC IV - Q-4DECember Babies" stationTypeID="21645" solarSystemID="30004389" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000395" stationName="H-29TM V - Sundown Shipyard" stationTypeID="21644" solarSystemID="30005123" corporationID="1202806051" corporationName="Sundown Logistics" />
+      <row stationID="61000396" stationName="KCDX-7 III - PANGU Sin City" stationTypeID="21642" solarSystemID="30002178" corporationID="262369075" corporationName="Requiem of Hades" />
+      <row stationID="61000397" stationName="4-1ECP VIII - Nishka's Piggy Pen" stationTypeID="21646" solarSystemID="30005149" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="61000398" stationName="CS-ZGD VIII - Antemnae" stationTypeID="21645" solarSystemID="30004357" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000399" stationName="DBT-GB III - DBThx for the upgrades NCdot" stationTypeID="21644" solarSystemID="30000877" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000400" stationName="4F6-VZ XI - WTB New non spy Supercapital FC" stationTypeID="21646" solarSystemID="30005159" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000401" stationName="B-R5RB VII - Nulli Alliance Please Ignore" stationTypeID="21646" solarSystemID="30002157" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000402" stationName="B-2VXB V - Mount Olympus" stationTypeID="21646" solarSystemID="30002334" corporationID="98147268" corporationName="Things Come and Go" />
+      <row stationID="61000403" stationName="FY0W-N VI - FY0Why Fire Your Only FC" stationTypeID="21646" solarSystemID="30000850" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000404" stationName="C2X-M5 IV - Didn't want this station anyways" stationTypeID="21644" solarSystemID="30000863" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000405" stationName="VPLL-N VI - VPLace to Relax" stationTypeID="21644" solarSystemID="30002948" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000406" stationName="SAH-AD V - FSR Babylon III" stationTypeID="21645" solarSystemID="30002298" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000407" stationName="BDV3-T V - BDVirtually Ours" stationTypeID="21645" solarSystemID="30001976" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000408" stationName="5T-KM3 III - Mangy Wolves" stationTypeID="21646" solarSystemID="30000299" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000409" stationName="XCF-8N VI - XCondolences to VRs family" stationTypeID="21644" solarSystemID="30002897" corporationID="1176688893" corporationName="Ramm's RDI" />
+      <row stationID="61000410" stationName="SI-I89 VII - Volition Prime" stationTypeID="21646" solarSystemID="30003728" corporationID="112702028" corporationName="Volition Cult" />
+      <row stationID="61000411" stationName="W5-VBR III - Will Pew For Food" stationTypeID="21644" solarSystemID="30003205" corporationID="98060622" corporationName="Diversified Holdings" />
+      <row stationID="61000412" stationName="N-HSK0 IV - N-HSK0 Highgarden" stationTypeID="21644" solarSystemID="30000215" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000413" stationName="30-D5G V - Bittervet Euthanasia Facility" stationTypeID="21644" solarSystemID="30003632" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000414" stationName="S-6HHN IV - S-6Hard to Redock" stationTypeID="21642" solarSystemID="30004776" corporationID="98114328" corporationName="Fweddit" />
+      <row stationID="61000415" stationName="MA-XAP IV - Application of Finance" stationTypeID="21642" solarSystemID="30000272" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000416" stationName="9R4-EJ IV - 9R420smokeweedeveryday" stationTypeID="21646" solarSystemID="30004569" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014861" stationName="JZV-F4 V - Moon 1 - Renamed for Impersonation" stationTypeID="12242" solarSystemID="30000325" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="60014862" stationName="0-G8NO VIII - Moon 1 - Dirty Old Bastards Brothel" stationTypeID="12242" solarSystemID="30000480" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="60014863" stationName="4-EFLU VII - Moon 3 - Monsters Prime" stationTypeID="12242" solarSystemID="30000576" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="60014864" stationName="P7-45V IV - Moon 3 - Tom Cruise is a clone" stationTypeID="12242" solarSystemID="30000638" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="60014865" stationName="28Y9-P V - Moon 1 - The Brother's Palace" stationTypeID="12242" solarSystemID="30000714" corporationID="98241771" corporationName="Fraternity Holding" />
+      <row stationID="60014866" stationName="N7-BIY IV - Moon 1 - No country for" stationTypeID="12242" solarSystemID="30000811" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="60014867" stationName="IMK-K1 IX - Moon 1 - RZR Border Zone" stationTypeID="12242" solarSystemID="30000895" corporationID="158202185" corporationName="RHC" />
+      <row stationID="60014868" stationName="FAT-6P VIII - Moon 1 - DBRB Storage Facility" stationTypeID="12242" solarSystemID="30001256" corporationID="98155729" corporationName="Blackwater Swat." />
+      <row stationID="60014869" stationName="Z-H2MA IV - Moon 1 - Sec's Sack" stationTypeID="12242" solarSystemID="30002141" corporationID="98197104" corporationName="Concordiat Industries" />
+      <row stationID="60014870" stationName="Z-N9IP VII - Moon 2 - NeverNude Rehabilitation Station" stationTypeID="12242" solarSystemID="30002617" corporationID="98242577" corporationName="Moon lonely hunter" />
+      <row stationID="60014871" stationName="CZDJ-1 X - Moon 4 - Slon's memorial" stationTypeID="12242" solarSystemID="30002953" corporationID="272675225" corporationName="Monkey Attack Squad" />
+      <row stationID="60014872" stationName="BZ-0GW V - Moon 1 - Palac Muminkow" stationTypeID="12242" solarSystemID="30003121" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="60014873" stationName="V7-MID IX - Moon 1 - Institute of Applied Carebearing" stationTypeID="12242" solarSystemID="30003666" corporationID="158202185" corporationName="RHC" />
+      <row stationID="60014874" stationName="I-UUI5 IV - Moon 1 - Shoot Blues - Then Tell Vile Rat" stationTypeID="12242" solarSystemID="30003701" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="60014875" stationName="H74-B0 III - Moon 4 - Cobra Raiders Kosher Bagel Oven" stationTypeID="12242" solarSystemID="30004034" corporationID="273661345" corporationName="e X i l e" />
+      <row stationID="60014876" stationName="XZH-4X VI - Moon 3 - The Kings Head" stationTypeID="12242" solarSystemID="30004062" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="60014877" stationName="D4R-H7 VII - Moon 2 - D4R-R0W To The Knee" stationTypeID="12242" solarSystemID="30004386" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="60014878" stationName="2-RSC7 VI - Moon 2 - Uganda's Presidential Palace" stationTypeID="12242" solarSystemID="30004492" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="60014879" stationName="MP5-KR VI - Moon 1 - CIA hideout" stationTypeID="12242" solarSystemID="30004702" corporationID="876738141" corporationName="BSX Industries" />
+      <row stationID="60014880" stationName="MO-GZ5 VIII - Moon 2 - Orion was here" stationTypeID="12242" solarSystemID="30004765" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000439" stationName="VVB-QH III - Mike Zavala dies in the end" stationTypeID="21644" solarSystemID="30001073" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000440" stationName="S0U-MO V - HMS Nemesis" stationTypeID="21646" solarSystemID="30000753" corporationID="98148450" corporationName="East India Company Holdings" />
+      <row stationID="61000441" stationName="WV-0R2 V - It won't fit" stationTypeID="21646" solarSystemID="30003638" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000442" stationName="SY0W-2 III - Fortress Decadence" stationTypeID="21644" solarSystemID="30003667" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000443" stationName="L-HV5C I - Panic - The Cake kills Jofrey" stationTypeID="21646" solarSystemID="30002434" corporationID="98066511" corporationName="Fair People" />
+      <row stationID="61000444" stationName="F-88PJ VII - F-88PJade's Pyjama Party" stationTypeID="21646" solarSystemID="30004653" corporationID="98109174" corporationName="Progressive Horizon" />
+      <row stationID="61000445" stationName="UC3H-Y III - Monkey Work's" stationTypeID="21644" solarSystemID="30002024" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000446" stationName="05R-7A X - Horn Hill" stationTypeID="21646" solarSystemID="30000216" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000447" stationName="B2J-5N V - Joey's Bar" stationTypeID="21644" solarSystemID="30001115" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000448" stationName="P-33KR II - P-33Ka Boo" stationTypeID="21646" solarSystemID="30003680" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000449" stationName="J9-5MQ III - J9-5 Unanswered Petitions" stationTypeID="21646" solarSystemID="30004385" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000450" stationName="LR-2XT VI - GO - HARD" stationTypeID="21646" solarSystemID="30002493" corporationID="98066511" corporationName="Fair People" />
+      <row stationID="61000451" stationName="4GYV-Q III - Sonata's Summer House" stationTypeID="21644" solarSystemID="30000239" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000452" stationName="9F-7PZ IX - In Loving Memory of VR-Sean" stationTypeID="21644" solarSystemID="30004366" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000453" stationName="FS-RFL IV - Lannisport" stationTypeID="21642" solarSystemID="30000219" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000454" stationName="Q-5211 VI - Q-uite good at building things" stationTypeID="21644" solarSystemID="30002001" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000455" stationName="VQE-CN VI - F-Con Can't Suicide Gank" stationTypeID="21644" solarSystemID="30004943" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000456" stationName="K4YZ-Y IV - Fatally Rusted" stationTypeID="21646" solarSystemID="30003687" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000457" stationName="O-7LAI VIII - Where RA Learnt Respect" stationTypeID="21646" solarSystemID="30000744" corporationID="98005832" corporationName="Soldiers Of WormHoles" />
+      <row stationID="61000458" stationName="LZ-6SU IV - Goonswarm Forward Command Center" stationTypeID="21646" solarSystemID="30000208" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000459" stationName="12YA-2 III - Fatal Rustbucket" stationTypeID="21646" solarSystemID="30001975" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000460" stationName="B17O-R VI - B170-Region is Ours Now" stationTypeID="21642" solarSystemID="30004590" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000306" stationName="TR07-S V - Slowcats were too slow" stationTypeID="21642" solarSystemID="30004452" corporationID="1698858600" corporationName="Russian Thunder Squad" />
+      <row stationID="61000307" stationName="3L-Y9M V - IKEA Storage" stationTypeID="21644" solarSystemID="30004419" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000308" stationName="GA9P-0 V - PURAA" stationTypeID="21646" solarSystemID="30003777" corporationID="1175513382" corporationName="X.S. Industries" />
+      <row stationID="61000309" stationName="C-PEWN VIII - Space is Dark" stationTypeID="21646" solarSystemID="30003169" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000310" stationName="H-NPXW VIII - H-No Systems for you" stationTypeID="21644" solarSystemID="30004592" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000311" stationName="Z-K495 XI - Pointy Hats Off To Vile Rat" stationTypeID="21642" solarSystemID="30004341" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000312" stationName="6-O5GY I - LAWNdromat" stationTypeID="21646" solarSystemID="30004347" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000313" stationName="2R-CRW X - 2R-CRowded Offices" stationTypeID="21644" solarSystemID="30002905" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000314" stationName="HB7R-F IV - Remember Vile Rat" stationTypeID="21645" solarSystemID="30004325" corporationID="255513673" corporationName="Terra Rosa Militia" />
+      <row stationID="61000315" stationName="5V-BJI VI - 5-Vile Rat Remembrance Station" stationTypeID="21644" solarSystemID="30004008" corporationID="1018389948" corporationName="Dreddit" />
+      <row stationID="61000316" stationName="W-IIYI X - Where am " stationTypeID="21642" solarSystemID="30004005" corporationID="1070320653" corporationName="Burning Napalm" />
+      <row stationID="61000317" stationName="7P-J38 VIII - House of Darkness" stationTypeID="21644" solarSystemID="30003165" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000318" stationName="V-3YG7 VI - B R E S T" stationTypeID="21644" solarSystemID="30001162" corporationID="1360389202" corporationName="AAA Community" />
+      <row stationID="61000319" stationName="FC-3YI VII - Ars Moriendi Refinery" stationTypeID="21646" solarSystemID="30003718" corporationID="548854078" corporationName="HUSARIA" />
+      <row stationID="61000320" stationName="Y9-MDG V - Crow's Nest" stationTypeID="21642" solarSystemID="30003734" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000321" stationName="W6V-VM VI - The Initiative Unleashed" stationTypeID="21646" solarSystemID="30003983" corporationID="470530191" corporationName="Thundercats" />
+      <row stationID="61000322" stationName="7YWV-S VI - Infinite Complexity Labs" stationTypeID="21642" solarSystemID="30003778" corporationID="1618223652" corporationName="The Shadow's Of Eve" />
+      <row stationID="61000323" stationName="P-ZMZV V - P-ZVMVile Rat Memorial Station " stationTypeID="21645" solarSystemID="30003978" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000324" stationName="T-IPZB VIII - Orion Moonstar Appreciation Hut" stationTypeID="21644" solarSystemID="30004748" corporationID="2052404106" corporationName="Valar Morghulis." />
+      <row stationID="61000325" stationName="B-XJX4 VI - b-x bleat" stationTypeID="21646" solarSystemID="30001215" corporationID="705851604" corporationName="Fight Cats Corp" />
+      <row stationID="61000326" stationName="0MV-4W VII - Storm's End" stationTypeID="21644" solarSystemID="30000262" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000327" stationName="TPG-DD X - Red Viper kills the Mountain" stationTypeID="21644" solarSystemID="30000641" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000328" stationName="HY-RWO III - HY-Run away Sheila" stationTypeID="21642" solarSystemID="30001159" corporationID="355443127" corporationName="ANZAC ALLIANCE" />
+      <row stationID="61000174" stationName="S9X-AX III - Sol Ciel" stationTypeID="21644" solarSystemID="30003741" corporationID="832020442" corporationName="Kiith Paktu" />
+      <row stationID="61000175" stationName="E-YCML IV - Lion's Den" stationTypeID="21646" solarSystemID="30003732" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000176" stationName="ZA0L-U VIII - RIP Vile Rat" stationTypeID="21642" solarSystemID="30000304" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000177" stationName="AXDX-F VII - My Stapler" stationTypeID="21645" solarSystemID="30004904" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000178" stationName="Z-M5A1 IX - KICK GEWNS" stationTypeID="21646" solarSystemID="30004965" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000179" stationName="H6-EYX VII - Bastion of Communism" stationTypeID="21646" solarSystemID="30000574" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000180" stationName="KBP7-G VII - The Pig Sty" stationTypeID="21645" solarSystemID="30003729" corporationID="833107938" corporationName="IronPig" />
+      <row stationID="61000181" stationName="WU9-ZR VIII - Hyper's Orca Memorial" stationTypeID="21644" solarSystemID="30002348" corporationID="98100699" corporationName="0utLaw." />
+      <row stationID="61000182" stationName="GE-8JV VII - The Curse of Catch" stationTypeID="21645" solarSystemID="30001198" corporationID="1049962382" corporationName="Rage and Terror" />
+      <row stationID="61000183" stationName="B-WPLZ VII - The Stables" stationTypeID="21644" solarSystemID="30003730" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000184" stationName="5BTK-M VII - 5BTK - 5 BONERS TO KEEP" stationTypeID="21646" solarSystemID="30004761" corporationID="144833788" corporationName="Roving Guns Inc." />
+      <row stationID="61000185" stationName="MH9C-S VII - Memento Humanitas" stationTypeID="21644" solarSystemID="30003712" corporationID="189575189" corporationName="Deep Space Supplies" />
+      <row stationID="61000186" stationName="7UTB-F V - Unfortunately Timed Brain Fart" stationTypeID="21644" solarSystemID="30004788" corporationID="98014018" corporationName="Enlightened Industries" />
+      <row stationID="61000187" stationName="RG9-7U II - XATA RGSU" stationTypeID="21646" solarSystemID="30002954" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000188" stationName="BR-N97 V - 54 Full Deck" stationTypeID="21646" solarSystemID="30001235" corporationID="1258065347" corporationName="Corp 54" />
+      <row stationID="61000189" stationName="8WA-Z6 VIII - We Will Miss Vile Rat" stationTypeID="21642" solarSystemID="30004760" corporationID="377785485" corporationName="ZERO T0LERANCE" />
+      <row stationID="61000190" stationName="I7S-1S V - New Promethea" stationTypeID="21642" solarSystemID="30003716" corporationID="101116365" corporationName="W.A.S.P" />
+      <row stationID="61000191" stationName="C6Y-ZF III - THE DOUGH IS RISING" stationTypeID="21646" solarSystemID="30004791" corporationID="98237957" corporationName="Spaghetti Holding" />
+      <row stationID="61000192" stationName="T-AKQZ X - Ovens Talos and Vaga Graveyard" stationTypeID="21644" solarSystemID="30004877" corporationID="98023840" corporationName="Sneaky Bastards." />
+      <row stationID="61000193" stationName="RNF-YH XI - Cats was here" stationTypeID="21644" solarSystemID="30001187" corporationID="98236172" corporationName="xPOLKAx" />
+      <row stationID="61000194" stationName="6-OQJV III - The Honeymoon Suite" stationTypeID="21646" solarSystemID="30003745" corporationID="1287402745" corporationName="Apocalypse Now Holding Inc." />
+      <row stationID="61000195" stationName="0-HDC8 V - 0-HDC8 Shots For Vile Rat" stationTypeID="21645" solarSystemID="30004756" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000196" stationName="M-MBRT I - Moishe's Pawn Shop - we buy gold" stationTypeID="21646" solarSystemID="30000591" corporationID="1033840998" corporationName="The Moishe Co" />
+      <row stationID="61000728" stationName="30-YOU III - RANE Towers" stationTypeID="21645" solarSystemID="30000534" corporationID="621832986" corporationName="New Eden Regimental Navy" />
+      <row stationID="61000729" stationName="QETZ-W I - Justin Bieber hideout" stationTypeID="21644" solarSystemID="30001246" corporationID="98137996" corporationName="Wanted.." />
+      <row stationID="61000730" stationName="VEQ-3V IV - Pineapple Paradise" stationTypeID="21644" solarSystemID="30004220" corporationID="98162003" corporationName="Insidious Peasants Holdings" />
+      <row stationID="61000731" stationName="UI-8ZE X - UI-8 all the rocks" stationTypeID="21646" solarSystemID="30002047" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000732" stationName="5B-YDD XI - STAR CARRIBIAN" stationTypeID="21644" solarSystemID="30001104" corporationID="175862913" corporationName="Sleepers Awake" />
+      <row stationID="61000733" stationName="OGV-AS V - Roaming Raptors Resort and Hotel" stationTypeID="21642" solarSystemID="30002045" corporationID="774347715" corporationName="Fractured Core" />
+      <row stationID="61000734" stationName="O5Q7-U VII - Stepro's Basement" stationTypeID="21646" solarSystemID="30000512" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="61000735" stationName="V-XANH I - Kopiec Malej Mi" stationTypeID="21646" solarSystemID="30003130" corporationID="1931004917" corporationName="sisters of desman" />
+      <row stationID="61000736" stationName="R-BGSU I -  r-bd surely we can't take Delve" stationTypeID="21646" solarSystemID="30004648" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000737" stationName="F2OY-X III - F2OY did your panther die mark" stationTypeID="21645" solarSystemID="30004013" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000738" stationName="K85Y-6 II - Do not care tbh" stationTypeID="21644" solarSystemID="30000653" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000739" stationName="W-4FA9 VII - Arakynthos" stationTypeID="21645" solarSystemID="30004392" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000740" stationName="UTDH-N VIII - Donald's Pond" stationTypeID="21646" solarSystemID="30004468" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000741" stationName="B-6STA V - Kronos Memorial Station" stationTypeID="21646" solarSystemID="30004873" corporationID="98023840" corporationName="Sneaky Bastards." />
+      <row stationID="61000742" stationName="C-4D0W XI - Chocolate Faces" stationTypeID="21646" solarSystemID="30002375" corporationID="761955047" corporationName="BURN EDEN" />
+      <row stationID="61000743" stationName="60M-TG I - it's one" stationTypeID="21645" solarSystemID="30003956" corporationID="98069833" corporationName="Solar Guards." />
+      <row stationID="61000744" stationName="4-07MU V - 4-07M8 Dabigredliner" stationTypeID="21645" solarSystemID="30001260" corporationID="1639878825" corporationName="Initiative Holding" />
+      <row stationID="61000745" stationName="G3D-ZT V - Refugio de Ositos Venezolanos" stationTypeID="21646" solarSystemID="30000460" corporationID="98140768" corporationName="WHYS0 Franchise" />
+      <row stationID="61000746" stationName="K-6K16 V - K-6 Caan Shot last" stationTypeID="21645" solarSystemID="30004751" corporationID="1200700876" corporationName="Jolly Codgers" />
+      <row stationID="61000747" stationName="08Z-JJ XI - Unicomplex One" stationTypeID="21642" solarSystemID="30003743" corporationID="98056040" corporationName="Event Horizon Expeditionaries" />
+      <row stationID="61000748" stationName="I6-SYN I - MegaAdmiral respect obelisk" stationTypeID="21645" solarSystemID="30000626" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000041" stationName="0-O6XF IX - Mordor Tower" stationTypeID="21646" solarSystemID="30003114" corporationID="1756521678" corporationName="X-Com inc" />
+      <row stationID="61000042" stationName="442-CS V - Cha Ching IRON SKY" stationTypeID="21644" solarSystemID="30002616" corporationID="98236172" corporationName="xPOLKAx" />
+      <row stationID="61000043" stationName="PS-94K V - RIP Vile Rat - Heaven's Diplo" stationTypeID="21644" solarSystemID="30004770" corporationID="144534752" corporationName="Mercurialis Inc." />
+      <row stationID="61000044" stationName="9UY4-H II - Deliverance Reclaimed" stationTypeID="21646" solarSystemID="30003707" corporationID="609450050" corporationName="Cohortes Vigilum" />
+      <row stationID="61000045" stationName="1-NJLK II - VileRat Memorial Station" stationTypeID="21645" solarSystemID="30004940" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000046" stationName="L5D-ZL VI - Col Rhombus Saves The Future" stationTypeID="21644" solarSystemID="30004944" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000047" stationName="77S8-E III - BABYLON 5 FOREVER" stationTypeID="21645" solarSystemID="30000483" corporationID="1072694042" corporationName="Babylon 5 Holdings" />
+      <row stationID="61000048" stationName="PMV-G6 VIII - Bar 3 cockroach" stationTypeID="21646" solarSystemID="30004411" corporationID="98155612" corporationName="FS Co" />
+      <row stationID="61000049" stationName="TDE4-H IV - Zoidberg Prime" stationTypeID="21646" solarSystemID="30002502" corporationID="1719660426" corporationName="NeoCorteX Industry" />
+      <row stationID="61000050" stationName="QR-K85 III - Providence - castra Aqua Caerule" stationTypeID="21644" solarSystemID="30003719" corporationID="98094122" corporationName="Deus Fides Empire" />
+      <row stationID="61000051" stationName="DB1R-4 VIII - We brought the Trash Out" stationTypeID="21644" solarSystemID="30004470" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000052" stationName="KZFV-4 IX - Progod for CSM" stationTypeID="21646" solarSystemID="30000710" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000053" stationName="Y-2ANO VII - Y-2ANothing Left To Steal" stationTypeID="21646" solarSystemID="30004665" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000054" stationName="7BX-6F V - 7Baltec Fleets " stationTypeID="21646" solarSystemID="30004616" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000055" stationName="E-PR0S VI - Station Ultima" stationTypeID="21644" solarSystemID="30004451" corporationID="215297637" corporationName="Far East Inc" />
+      <row stationID="61000056" stationName="I-NGI8 V - I-NAGA STOLE MY BIKE" stationTypeID="21646" solarSystemID="30002134" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000057" stationName="E2-RDQ XI - Bloodtear Was Here" stationTypeID="21646" solarSystemID="30004959" corporationID="98223758" corporationName="S2N Citizens" />
+      <row stationID="61000058" stationName="QSF-EJ IV - Dont take the Candy" stationTypeID="21646" solarSystemID="30004909" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000059" stationName="OE-4HB V - Blitzevakuierung Drill Facility" stationTypeID="21646" solarSystemID="30003657" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000060" stationName="1IX-C0 IX - Carebear Retirement Home" stationTypeID="21646" solarSystemID="30004393" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000061" stationName="RYC-19 III - Fraternity Victory" stationTypeID="21646" solarSystemID="30000712" corporationID="1097611545" corporationName="Light of the moon" />
+      <row stationID="61000062" stationName="9ZFH-Z V - Meet the Mets" stationTypeID="21642" solarSystemID="30002618" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000063" stationName="PNQY-Y VII - PNQY Brewster" stationTypeID="21645" solarSystemID="30004559" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014881" stationName="JV1V-O IV - Moon 1 - fluffy space oink" stationTypeID="12242" solarSystemID="30004883" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="60014882" stationName="Z-7OK1 III - Moon 2 - TH3 LAST LAUGH" stationTypeID="12242" solarSystemID="30004921" corporationID="98133169" corporationName="Jester Syndicate" />
+      <row stationID="60014883" stationName="G-Q5JU VII - Moon 1 - Kick WIDOT" stationTypeID="12242" solarSystemID="30004962" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014884" stationName="LS-JEP IX - Moon 1 - Bukake Palace" stationTypeID="12294" solarSystemID="30000319" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="60014885" stationName="0-W778 VII - Moon 2 - no lego" stationTypeID="12294" solarSystemID="30000440" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="60014886" stationName="F-EM4Q V - Moon 5 - THE DOJO" stationTypeID="12294" solarSystemID="30000578" corporationID="257973829" corporationName="Cobra Kai Dojo" />
+      <row stationID="60014887" stationName="M53-1V VI - Moon 4 - Cache HQ" stationTypeID="12294" solarSystemID="30000633" corporationID="98100699" corporationName="0utLaw." />
+      <row stationID="60014888" stationName="JLO-Z3 IX - Moon 4 - FC Raptor Memorial Station" stationTypeID="12294" solarSystemID="30000708" corporationID="935907718" corporationName="Destructive Influence" />
+      <row stationID="60014889" stationName="F2A-GX IV - Moon 4 - Gnom Land" stationTypeID="12294" solarSystemID="30000804" corporationID="98005832" corporationName="Soldiers Of WormHoles" />
+      <row stationID="60014890" stationName="D7-ZAC VIII - Moon 1 - D7-ZAC The Raccoons Habitat" stationTypeID="12294" solarSystemID="30000867" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014891" stationName="5-N2EY VIII - Moon 5 - 5-N We Took The Initiative" stationTypeID="12294" solarSystemID="30001241" corporationID="583616018" corporationName="Black Aces" />
+      <row stationID="60014892" stationName="E8-YS9 VI - Moon 4 - TMA-We Stand United" stationTypeID="12294" solarSystemID="30002163" corporationID="98056864" corporationName="TMA UNITED" />
+      <row stationID="60014893" stationName="FR-B1H VII - Moon 1 - I Whip My Hair Back 'n Forth" stationTypeID="12294" solarSystemID="30002630" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="60014894" stationName="3JN9-Q XII - Moon 3 - 3JNnominate likes men" stationTypeID="12294" solarSystemID="30002937" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014895" stationName="111-F1 VIII - Moon 3 - Dolina Muminkow" stationTypeID="12294" solarSystemID="30003147" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="60014896" stationName="6OYQ-Z II - Moon 1 - Carebear Rehabilitation Gulag" stationTypeID="12294" solarSystemID="30003648" corporationID="158202185" corporationName="RHC" />
+      <row stationID="60014897" stationName="C4C-Z4 VIII - Moon 3 - See Four See" stationTypeID="12294" solarSystemID="30003697" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="60014898" stationName="3BK-O7 VIII - Moon 1 - Trespasser's House of Bitterness" stationTypeID="12294" solarSystemID="30004000" corporationID="98187519" corporationName="S0uthern Structures" />
+      <row stationID="60014899" stationName="G8AD-C XI - Moon 2 - First White Spot" stationTypeID="12294" solarSystemID="30004061" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="60014921" stationName="9CG6-H VIII - Moon 4 - Kama and Dark's Love Temple" stationTypeID="12295" solarSystemID="30003979" corporationID="98100699" corporationName="0utLaw." />
+      <row stationID="60014922" stationName="9-4RP2 IV - Moon 2 - Kapsalon for everyone - RIP VR" stationTypeID="12295" solarSystemID="30004059" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="60014923" stationName="K-8SQS VI - Moon 2 - Vile Rat Memorial Park" stationTypeID="12295" solarSystemID="30004379" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="60014924" stationName="VNGJ-U V - Moon 1 - WTS Station" stationTypeID="12295" solarSystemID="30004453" corporationID="215297637" corporationName="Far East Inc" />
+      <row stationID="60014925" stationName="H8-ZTO VI - Moon 5 - Don't H8 us" stationTypeID="12295" solarSystemID="30004678" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="60014926" stationName="NOL-M9 VI - Moon 2 - NOL-M9 FOR THE CRUOR" stationTypeID="12295" solarSystemID="30004712" corporationID="725842137" corporationName="Magellanic Itg" />
+      <row stationID="60014927" stationName="DZ6-I5 IV - Moon 1 - Pink Pony Pirateheaven" stationTypeID="12295" solarSystemID="30004852" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="60014928" stationName="6T3I-L VII - Moon 5 - Vodka Deposit" stationTypeID="12295" solarSystemID="30004908" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000020" stationName="J-LPX7 IX - Blastem's Mom" stationTypeID="21646" solarSystemID="30004755" corporationID="146531499" corporationName="Imperium Technologies" />
+      <row stationID="61000021" stationName="Y-CWQY VI - VMF-214" stationTypeID="21646" solarSystemID="30004941" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000022" stationName="39P-1J VII - PLZ NO MORE RATTING DRAMA PLZ" stationTypeID="21646" solarSystemID="30004766" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000023" stationName="GHZ-SJ IV - Clearly Compensating for a LITLD" stationTypeID="21642" solarSystemID="30004474" corporationID="98234575" corporationName="The Dark Triad" />
+      <row stationID="61000024" stationName="TWJ-AW X - TWJack Paladin Best Paladin" stationTypeID="21646" solarSystemID="30002614" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000025" stationName="G-7WUF III - InsertStationNameHere" stationTypeID="21646" solarSystemID="30001183" corporationID="583616018" corporationName="Black Aces" />
+      <row stationID="61000026" stationName="C3-0YD IV - XAJO's Pleasure Palace" stationTypeID="21646" solarSystemID="30004824" corporationID="98103329" corporationName="Nexus-Command" />
+      <row stationID="61000027" stationName="8MG-J6 IX - Metzada" stationTypeID="21646" solarSystemID="30002442" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000028" stationName="JO-32L V - Voice of the People" stationTypeID="21644" solarSystemID="30004462" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000029" stationName="QYZM-W V - 1st rule of FYGHT" stationTypeID="21646" solarSystemID="30004402" corporationID="1054195408" corporationName="Fyght Club" />
+      <row stationID="61000030" stationName="IS-R7P I - Outpost Valkyrja" stationTypeID="21645" solarSystemID="30001236" corporationID="1613831809" corporationName="Burning Skies" />
+      <row stationID="61000031" stationName="ZXIC-7 IV - Samurai Penthouse" stationTypeID="21644" solarSystemID="30001168" corporationID="965613458" corporationName="Runners High" />
+      <row stationID="61000032" stationName="66-PMM V - back to nulli" stationTypeID="21646" solarSystemID="30004923" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000033" stationName="EQI2-2 IX - EQuite Contrary" stationTypeID="21646" solarSystemID="30004388" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000034" stationName="G-D0N3 VIII - TWAT-Drop o'Clock HQ" stationTypeID="21646" solarSystemID="30004876" corporationID="98023840" corporationName="Sneaky Bastards." />
+      <row stationID="61000035" stationName="BY-MSY IV - Hollow of Demons of War" stationTypeID="21646" solarSystemID="30003138" corporationID="325582307" corporationName="Surreal corp" />
+      <row stationID="61000036" stationName="UEJX-G XI - UHave Been Scammed By Countess" stationTypeID="21646" solarSystemID="30002956" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000037" stationName="LXWN-W IX - Arsenale" stationTypeID="21644" solarSystemID="30004364" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000038" stationName="C3N-3S IV - Goons were here" stationTypeID="21646" solarSystemID="30004798" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000039" stationName="E1UU-3 V - RENOVATIO EMPIRE" stationTypeID="21644" solarSystemID="30003136" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000040" stationName="QS-530 XI - LEGIO Prime" stationTypeID="21646" solarSystemID="30003174" corporationID="266439466" corporationName="LEGIO ASTARTES ARCANUM HOLDINGS" />
+      <row stationID="61000064" stationName="C-FP70 VI - Karhold" stationTypeID="21646" solarSystemID="30000302" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000065" stationName="XGH-SH VIII - The Toxic Pod Bar and Grill" stationTypeID="21644" solarSystemID="30004875" corporationID="98159469" corporationName="Morphine and Mystery" />
+      <row stationID="61000066" stationName="GB-6X5 VI - Conqustador Lair" stationTypeID="21646" solarSystemID="30000839" corporationID="1290252425" corporationName="Dudu Micha" />
+      <row stationID="61000067" stationName="F4R2-Q IX - We love roby" stationTypeID="21645" solarSystemID="30001171" corporationID="1550774923" corporationName="AMC." />
+      <row stationID="61000068" stationName="K25-XD VI - General Refinery" stationTypeID="21646" solarSystemID="30002464" corporationID="1719660426" corporationName="NeoCorteX Industry" />
+      <row stationID="61000069" stationName="O-2RNZ VIII - O-2 In Memory of Vile Rat" stationTypeID="21644" solarSystemID="30002935" corporationID="98008630" corporationName="Thunderwaffe" />
+      <row stationID="61000070" stationName="G95F-H III - G95 Day Burnout Recovery Plan" stationTypeID="21646" solarSystemID="30004598" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000071" stationName="MGAM-4 III - MGAM-4 Asperga City Gym" stationTypeID="21646" solarSystemID="30000321" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000072" stationName="YA0-XJ VII - YA0 - The Worst Station Name" stationTypeID="21646" solarSystemID="30002902" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000073" stationName="EIMJ-M I - TheMittaniDotCom" stationTypeID="21642" solarSystemID="30004946" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000074" stationName="ZT-LPU III - Ostrogothica II" stationTypeID="21644" solarSystemID="30003747" corporationID="834777647" corporationName="The Ostrogoths" />
+      <row stationID="61000075" stationName="ED-L9T I - ED- USA USA " stationTypeID="21646" solarSystemID="30004020" corporationID="98135193" corporationName="Dodgy Inc" />
+      <row stationID="61000076" stationName="F-TE1T XV - F-Take Care Vile Rat RIP" stationTypeID="21644" solarSystemID="30004757" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000077" stationName="JBY6-F V - JBY - WTB IHUBS" stationTypeID="21644" solarSystemID="30001185" corporationID="458742701" corporationName="S0utherN Comfort" />
+      <row stationID="61000078" stationName="I-7JR4 X - Thanks for the Memories Vile Rat" stationTypeID="21644" solarSystemID="30004400" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000079" stationName="KW-OAM IX - Dare's Derpatorium" stationTypeID="21646" solarSystemID="30004833" corporationID="98103329" corporationName="Nexus-Command" />
+      <row stationID="61000080" stationName="N-I024 VII - Kiss the Ring" stationTypeID="21646" solarSystemID="30001827" corporationID="257973829" corporationName="Cobra Kai Dojo" />
+      <row stationID="61000081" stationName="R-YWID VIII - RAZOR SUPERCAP SUICIDE SQUADRON" stationTypeID="21646" solarSystemID="30003631" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000082" stationName="3AE-CP VIII - Skype Smacktalk Defence" stationTypeID="21646" solarSystemID="30000798" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000083" stationName="GA58-7 VI - the mexican in end of watch dies" stationTypeID="21644" solarSystemID="30001811" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000084" stationName="T-M0FA IV - T-Marcus Ratz Detention Center" stationTypeID="21644" solarSystemID="30004745" corporationID="144833788" corporationName="Roving Guns Inc." />
+      <row stationID="61000108" stationName="D-IZT9 VII - Unit 1969" stationTypeID="21646" solarSystemID="30002347" corporationID="98196397" corporationName="The Serenity Initiative Holding Corporation" />
+      <row stationID="61000109" stationName="GK3-RX VIII - Gorgonzola DOP" stationTypeID="21646" solarSystemID="30003232" corporationID="544199803" corporationName="Macabre Votum" />
+      <row stationID="61000110" stationName="AZ3F-N VI - unforeseen reproduction" stationTypeID="21646" solarSystemID="30000672" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="61000111" stationName="FYD-TO VI - Vamps House of pain" stationTypeID="21644" solarSystemID="30000675" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000112" stationName="MO-YDG III - This isn't vegas" stationTypeID="21646" solarSystemID="30004223" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000113" stationName="Q-VTWJ V - Diabeeetus" stationTypeID="21644" solarSystemID="30004229" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000114" stationName="U8MM-3 I - U8MM-3 I - U8MM-3 I - Tanis' cave" stationTypeID="21644" solarSystemID="30000427" corporationID="661107786" corporationName="CCP Engineering Corp" />
+      <row stationID="61000115" stationName="3C-26I I - F" stationTypeID="21645" solarSystemID="30000428" corporationID="661107786" corporationName="CCP Engineering Corp" />
+      <row stationID="61000116" stationName="9K-VDI I - T" stationTypeID="21642" solarSystemID="30000429" corporationID="661107786" corporationName="CCP Engineering Corp" />
+      <row stationID="61000117" stationName="Q-KCK3 I - Tanis. Corp Minmatar Service Outpost" stationTypeID="21646" solarSystemID="30000432" corporationID="661107786" corporationName="CCP Engineering Corp" />
+      <row stationID="61000118" stationName="HZFJ-M VIII - BABYLON 5 ALL TO ARMS" stationTypeID="21646" solarSystemID="30000482" corporationID="1072694042" corporationName="Babylon 5 Holdings" />
+      <row stationID="61000119" stationName="VY-866 VI - Waffle for zeh wafflelord" stationTypeID="21644" solarSystemID="30004227" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000120" stationName="GR-J8B VI - CSM Barret " stationTypeID="21644" solarSystemID="30004957" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000121" stationName="TVN-FM X - King's Landing" stationTypeID="21645" solarSystemID="30000263" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000122" stationName="3-JG3X XI - NOT SO BREW" stationTypeID="21645" solarSystemID="30003231" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000123" stationName="N8XA-L IV - MANIFEST DESTINY 15012" stationTypeID="21646" solarSystemID="30003767" corporationID="1618223652" corporationName="The Shadow's Of Eve" />
+      <row stationID="61000124" stationName="X6AB-Y V - Aralis Immortalis" stationTypeID="21644" solarSystemID="30003773" corporationID="147718303" corporationName="Imperial Dreams" />
+      <row stationID="61000125" stationName="RNM-Y6 X - Starcrash's 1MN Loki graveyard" stationTypeID="21644" solarSystemID="30000673" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="61000126" stationName="CNHV-M VII - GILA BOY'S Soap Box DERBY" stationTypeID="21645" solarSystemID="30001825" corporationID="272241800" corporationName="Hounds Of War" />
+      <row stationID="61000127" stationName="5H-SM2 IX - DSP Condos" stationTypeID="21644" solarSystemID="30000581" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000128" stationName="M3-H2Y IV - Florins bidet of doom" stationTypeID="21646" solarSystemID="30002852" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000129" stationName="8RQJ-2 VIII - 8RQJ-2d to NOL oh wait" stationTypeID="21644" solarSystemID="30004771" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000152" stationName="TRKN-L VI - TRKNo Getting away from Braygo" stationTypeID="21644" solarSystemID="30000869" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000153" stationName="JX-SOA III - Elle Mcpherson Pole Dancing club" stationTypeID="21646" solarSystemID="30001793" corporationID="98006468" corporationName="Capital Storm." />
+      <row stationID="61000154" stationName="MSHD-4 IX - MSHD Mynas Seriously Has Downs" stationTypeID="21644" solarSystemID="30000864" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000155" stationName="VH-9VO IV - Scurvy Galleon" stationTypeID="21644" solarSystemID="30001794" corporationID="583867044" corporationName="Ceptacemia" />
+      <row stationID="61000156" stationName="4D9-66 III - The hOr House" stationTypeID="21644" solarSystemID="30002469" corporationID="761955047" corporationName="BURN EDEN" />
+      <row stationID="61000157" stationName="Q-TBHW VIII - Tyrion kills his father Tywin" stationTypeID="21646" solarSystemID="30002471" corporationID="828800677" corporationName="Sniggerdly" />
+      <row stationID="61000158" stationName="1H5-3W V - Elrick's Sushi Bar" stationTypeID="21644" solarSystemID="30002329" corporationID="98014695" corporationName="JOKESTERS" />
+      <row stationID="61000159" stationName="UG-UWZ VII - Hot-Drop Prime" stationTypeID="21644" solarSystemID="30002504" corporationID="1719660426" corporationName="NeoCorteX Industry" />
+      <row stationID="61000160" stationName="O2O-2X VII - Titan graveyard" stationTypeID="21644" solarSystemID="30002499" corporationID="1719660426" corporationName="NeoCorteX Industry" />
+      <row stationID="61000161" stationName="NBW-GD VI - BlueMajere for csm 8" stationTypeID="21644" solarSystemID="30001117" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000162" stationName="9OLQ-6 V - MACTEP is a homeless peasant" stationTypeID="21644" solarSystemID="30000800" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000163" stationName="MY-W1V VIII - Melbourne International Airport" stationTypeID="21644" solarSystemID="30001202" corporationID="98148202" corporationName="Kenshin." />
+      <row stationID="61000164" stationName="QCWA-Z VII - QCWhite Noise Slept In" stationTypeID="21646" solarSystemID="30004343" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000165" stationName="BND-16 VIII - Qahn's Tear Refinery" stationTypeID="21646" solarSystemID="30002438" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000166" stationName="S-DN5M IX - S Don't not shoot blues RIP VR" stationTypeID="21644" solarSystemID="30002912" corporationID="238510404" corporationName="Bat Country" />
+      <row stationID="61000167" stationName="F-DTOO VI - 54 Card Haus" stationTypeID="21644" solarSystemID="30003737" corporationID="1258065347" corporationName="Corp 54" />
+      <row stationID="61000168" stationName="PI5-39 X - Eldorado Biergarten" stationTypeID="21645" solarSystemID="30003735" corporationID="322059498" corporationName="Rennfeuer" />
+      <row stationID="61000169" stationName="I30-3A IX - I30-3A Stronger Chair Was Needed" stationTypeID="21642" solarSystemID="30002908" corporationID="363368013" corporationName="Eighty Joule Brewery" />
+      <row stationID="61000170" stationName="R3-K7K III - Domum Redierimus" stationTypeID="21642" solarSystemID="30003769" corporationID="349567985" corporationName="The Legion of Spoon" />
+      <row stationID="61000171" stationName="Y0-BVN VIII - Bloodtear Retreat" stationTypeID="21646" solarSystemID="30000220" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000172" stationName="UEP0-A VI - Angels o7" stationTypeID="21645" solarSystemID="30004922" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000173" stationName="AY-YCU III - Point Endurance" stationTypeID="21645" solarSystemID="30003746" corporationID="349567985" corporationName="The Legion of Spoon" />
+      <row stationID="61000197" stationName="PA-VE3 IV - If you warped your dead DBRB" stationTypeID="21644" solarSystemID="30004961" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000198" stationName="F-HQWV IV - PL DOESNT LIKE YOU" stationTypeID="21644" solarSystemID="30005183" corporationID="2014367342" corporationName="Blackwater USA Inc." />
+      <row stationID="61000199" stationName="PUIG-F V - PUIGee ENLI Killed a station" stationTypeID="21644" solarSystemID="30004754" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000200" stationName="2AUL-X IV - BDCI no 1" stationTypeID="21644" solarSystemID="30005182" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000201" stationName="GN7-XY II - SONK HAUSEN" stationTypeID="21646" solarSystemID="30003736" corporationID="322059498" corporationName="Rennfeuer" />
+      <row stationID="61000202" stationName="SVM-3K I - SVMany Will Miss Vile Rat" stationTypeID="21642" solarSystemID="30004758" corporationID="98039283" corporationName="Phoenix." />
+      <row stationID="61000203" stationName="Y-OMTZ VII - Y-Ou're killing me Smalls" stationTypeID="21644" solarSystemID="30004763" corporationID="147823541" corporationName="Cutting Edge Incorporated" />
+      <row stationID="61000204" stationName="N7-KGJ IV - Operation HQ" stationTypeID="21644" solarSystemID="30000841" corporationID="626108163" corporationName="5 colomn" />
+      <row stationID="61000205" stationName="3-OKDA VI - Someones getting hit" stationTypeID="21644" solarSystemID="30001199" corporationID="705851604" corporationName="Fight Cats Corp" />
+      <row stationID="61000206" stationName="46DP-O VIII - XEL Prime" stationTypeID="21644" solarSystemID="30004878" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="61000207" stationName="TN25-J VI - Stuck in Libya with no beer" stationTypeID="21646" solarSystemID="30004960" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000208" stationName="M-MCP8 IV - Sansa Stark escapes King Landing" stationTypeID="21642" solarSystemID="30000639" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000209" stationName="1ACJ-6 IV - Alexs Gay Harem" stationTypeID="21644" solarSystemID="30002317" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000210" stationName="MD-0AW II - Ninja Skatta" stationTypeID="21644" solarSystemID="30000443" corporationID="583867044" corporationName="Ceptacemia" />
+      <row stationID="61000211" stationName="ERVK-P VII - Flip Me Baby One More Time" stationTypeID="21644" solarSystemID="30001233" corporationID="1756521678" corporationName="X-Com inc" />
+      <row stationID="61000212" stationName="H6-CX8 III - Just Knives No Spoons" stationTypeID="21645" solarSystemID="30003723" corporationID="1258065347" corporationName="Corp 54" />
+      <row stationID="61000213" stationName="G-5EN2 II - Lawless Bayou" stationTypeID="21644" solarSystemID="30003703" corporationID="833107938" corporationName="IronPig" />
+      <row stationID="61000214" stationName="49GC-R VI - THRINACIA" stationTypeID="21644" solarSystemID="30003708" corporationID="988964181" corporationName="Forging Industries" />
+      <row stationID="61000215" stationName="K1Y-5H IX - The Rusty Miner" stationTypeID="21646" solarSystemID="30003764" corporationID="992125402" corporationName="Yulai Guard" />
+      <row stationID="61000216" stationName="I-MGAB VI - Port Larren" stationTypeID="21642" solarSystemID="30003784" corporationID="1169891682" corporationName="Caldari Independent Navy Reserve" />
+      <row stationID="61000217" stationName="AH-B84 VIII - Hay Haych Glue Factory" stationTypeID="21646" solarSystemID="30004323" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000218" stationName="89-JPE X - TSID Reveneant Memorial" stationTypeID="21642" solarSystemID="30002346" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000241" stationName="AOK-WQ I - AOK bleat" stationTypeID="21644" solarSystemID="30001216" corporationID="705851604" corporationName="Fight Cats Corp" />
+      <row stationID="61000242" stationName="IWZ3-C I - Clones Bar and Grille" stationTypeID="21642" solarSystemID="30003765" corporationID="1230069788" corporationName="Rogue Clones" />
+      <row stationID="61000243" stationName="2-YO2K VI - WTB Revenant" stationTypeID="21644" solarSystemID="30005139" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000244" stationName="QFF-O6 V - Quite Finally Finished" stationTypeID="21646" solarSystemID="30000899" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000245" stationName="23M-PX III - TROLL Pluto's Fun House" stationTypeID="21644" solarSystemID="30004467" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000246" stationName="OWXT-5 IV - OWXTra WANG in Space" stationTypeID="21645" solarSystemID="30002936" corporationID="109788662" corporationName="Merch Industrial" />
+      <row stationID="61000247" stationName="M-SG47 VII - The Loveshack" stationTypeID="21644" solarSystemID="30005140" corporationID="98178676" corporationName="Trans Secunda" />
+      <row stationID="61000248" stationName="F9-FUV IX - Proletariat Party Palace" stationTypeID="21644" solarSystemID="30002320" corporationID="262369075" corporationName="Requiem of Hades" />
+      <row stationID="61000249" stationName="M-OEE8 XI - EC- is better" stationTypeID="21645" solarSystemID="30000848" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000250" stationName="MJI3-8 VI - Porta Praetoria" stationTypeID="21644" solarSystemID="30000851" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000251" stationName="J-GAMP IX - Circle-Of-Two Factory" stationTypeID="21644" solarSystemID="30000847" corporationID="98112824" corporationName="Balkan Mafia" />
+      <row stationID="61000252" stationName="O-JPKH IV - O-range Juice" stationTypeID="21644" solarSystemID="30004326" corporationID="98085760" corporationName="The Eminence Front" />
+      <row stationID="61000253" stationName="1-7B6D VI - Siberian Steel Works" stationTypeID="21644" solarSystemID="30000573" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000254" stationName="3GD6-8 VI - Pashan's Droching Central" stationTypeID="21642" solarSystemID="30001200" corporationID="1049962382" corporationName="Rage and Terror" />
+      <row stationID="61000255" stationName="EUU-4N XII - Alpha 'Aint Got No' Strategy" stationTypeID="21644" solarSystemID="30000796" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000256" stationName="M2GJ-X VII - FEIthabolis" stationTypeID="21644" solarSystemID="30004461" corporationID="215297637" corporationName="Far East Inc" />
+      <row stationID="61000257" stationName="ZID-LE I - Oranges are pink" stationTypeID="21644" solarSystemID="30004489" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000258" stationName="52G-NZ III - 52Great station names needed" stationTypeID="21644" solarSystemID="30004344" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000259" stationName="F-9F6Q IX - F-9 Days to Take Branch" stationTypeID="21644" solarSystemID="30004327" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000260" stationName="HM-XR2 V - Trailer Park Hooker Haven" stationTypeID="21645" solarSystemID="30004715" corporationID="98014018" corporationName="Enlightened Industries" />
+      <row stationID="61000261" stationName="QX-LIJ V - hirr Holiday Cliff" stationTypeID="21646" solarSystemID="30004714" corporationID="148421648" corporationName="hirr" />
+      <row stationID="61000284" stationName="1-2J4P V - FA shot first" stationTypeID="21644" solarSystemID="30004801" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000285" stationName="A-VILQ VI - A-Vril Schlavigne" stationTypeID="21646" solarSystemID="30001210" corporationID="1639878825" corporationName="Initiative Holding" />
+      <row stationID="61000286" stationName="PXF-RF V - PXF-RF Everything" stationTypeID="21646" solarSystemID="30004647" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000287" stationName="IG-ZAM VII - Inst of Goonswarm Anthropology" stationTypeID="21646" solarSystemID="30003614" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000288" stationName="6Z-CKS VII - PREPARE 4 PASTA" stationTypeID="21644" solarSystemID="30004792" corporationID="98237957" corporationName="Spaghetti Holding" />
+      <row stationID="61000289" stationName="M-CMLV V - Banana Warehouse" stationTypeID="21646" solarSystemID="30004449" corporationID="98147550" corporationName="The Mad Monkey Mafia" />
+      <row stationID="61000290" stationName="L-1SW8 I - Lost a Region We Did" stationTypeID="21644" solarSystemID="30004593" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000291" stationName="BJD4-E X - Zumzat's burrow" stationTypeID="21644" solarSystemID="30004422" corporationID="98161033" corporationName="DD Holding" />
+      <row stationID="61000292" stationName="R-ZUOL VII - Kettennatter Kettennatter" stationTypeID="21644" solarSystemID="30002135" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000293" stationName="9DQW-W VII - 9DQW-Want to buy IHubs" stationTypeID="21644" solarSystemID="30004646" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000294" stationName="AY-24I VIII - Dunn is Dutch" stationTypeID="21644" solarSystemID="30003756" corporationID="147718303" corporationName="Imperial Dreams" />
+      <row stationID="61000295" stationName="V6-NY1 I - V6-NY1 more region" stationTypeID="21642" solarSystemID="30004644" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000296" stationName="E1F-LK IX - FSR Walhalla II" stationTypeID="21644" solarSystemID="30002136" corporationID="147849586" corporationName="Free-Space-Ranger" />
+      <row stationID="61000297" stationName="RY-2FX VIII - Booker DeWitt is Comstock" stationTypeID="21645" solarSystemID="30005119" corporationID="1941177176" corporationName="Habitual Euthanasia" />
+      <row stationID="61000298" stationName="K-3PQW I - WTB Revenant pilot" stationTypeID="21644" solarSystemID="30005120" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000299" stationName="MZ1E-P IX - MZ1 Moment of Silence 4 Vile Rat" stationTypeID="21644" solarSystemID="30002940" corporationID="109788662" corporationName="Merch Industrial" />
+      <row stationID="61000300" stationName="WUZ-WM VII -  Vile Rat Memorial Station" stationTypeID="21644" solarSystemID="30002939" corporationID="98046633" corporationName="Raging Ducks" />
+      <row stationID="61000301" stationName="4O-239 III - Hi Ver'Sa" stationTypeID="21644" solarSystemID="30004746" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000302" stationName="U-HYMT IV - Kuat Ship Yards" stationTypeID="21644" solarSystemID="30003717" corporationID="548854078" corporationName="HUSARIA" />
+      <row stationID="61000303" stationName="CX8-6K IX - CX8-6K Dingo's First's Station" stationTypeID="21642" solarSystemID="30004799" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000304" stationName="Shintaht IV (Konrakas) - The Back Alley" stationTypeID="21644" solarSystemID="30003725" corporationID="112702028" corporationName="Volition Cult" />
+      <row stationID="61000305" stationName="JI-LGM VIII - TROLL Skeleton Spawner" stationTypeID="21644" solarSystemID="30004435" corporationID="1360389202" corporationName="AAA Community" />
+      <row stationID="61000329" stationName="LF-2KP VI - The Eagles Nest" stationTypeID="21644" solarSystemID="30003759" corporationID="98151600" corporationName="C.F. Central Command" />
+      <row stationID="61000330" stationName="QFGB-E III - Dark age is coming" stationTypeID="21642" solarSystemID="30003164" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000331" stationName="ZAU-JW VII - Jerry Rin is a Racist " stationTypeID="21644" solarSystemID="30003996" corporationID="1070320653" corporationName="Burning Napalm" />
+      <row stationID="61000332" stationName="ZJA-6U II - GIS Germans in Space" stationTypeID="21644" solarSystemID="30002130" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000333" stationName="N-RMSH VII - Italian Gang space Barracks" stationTypeID="21644" solarSystemID="30003763" corporationID="98091868" corporationName="Oscura Simmetria" />
+      <row stationID="61000334" stationName="DNR-7M III - Syndaxian Pantheon" stationTypeID="21644" solarSystemID="30003762" corporationID="98028768" corporationName="SYNDAX CORPORATION" />
+      <row stationID="61000335" stationName="N-8BZ6 IX - N-8B EnterStationName" stationTypeID="21645" solarSystemID="30001209" corporationID="1639878825" corporationName="Initiative Holding" />
+      <row stationID="61000336" stationName="2-TEGJ VIII - House of Blade" stationTypeID="21646" solarSystemID="30003754" corporationID="398598576" corporationName="Pentag Blade" />
+      <row stationID="61000337" stationName="Y8R-XZ VI - Scorpy Shipyard" stationTypeID="21644" solarSystemID="30002466" corporationID="1719660426" corporationName="NeoCorteX Industry" />
+      <row stationID="61000338" stationName="04-LQM I - 04-LQM Pentos" stationTypeID="21642" solarSystemID="30002460" corporationID="1719660426" corporationName="NeoCorteX Industry" />
+      <row stationID="61000339" stationName="L-6BE1 II - TriHard Central" stationTypeID="21645" solarSystemID="30003951" corporationID="1070320653" corporationName="Burning Napalm" />
+      <row stationID="61000340" stationName="A2-V27 IX - Trade you a Nyx for Querious" stationTypeID="21645" solarSystemID="30003942" corporationID="1070320653" corporationName="Burning Napalm" />
+      <row stationID="61000341" stationName="A1-AUH VI - Buka mart" stationTypeID="21645" solarSystemID="30003125" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000342" stationName="H-T40Z VIII - Nora Buki" stationTypeID="21644" solarSystemID="30003144" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000343" stationName="J1-KJP VI - for the money" stationTypeID="21644" solarSystemID="30003634" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000344" stationName="XHQ-7V VI - Perimeter Ship Yards" stationTypeID="21644" solarSystemID="30003731" corporationID="98033426" corporationName="Yulai Guard Fleet Yards" />
+      <row stationID="61000345" stationName="TU-O0T VI - Elephant Graveyard" stationTypeID="21645" solarSystemID="30003733" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000346" stationName="HB-FSO VII - NIVEA IS BETTER THAN VASELINE" stationTypeID="21644" solarSystemID="30003633" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000347" stationName="D-PNP9 V - BECELO ODNAKO" stationTypeID="21644" solarSystemID="30003135" corporationID="1756521678" corporationName="X-Com inc" />
+      <row stationID="61000348" stationName="J-RVGD VIII - Brudny Interes Ryjka" stationTypeID="21644" solarSystemID="30003142" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000349" stationName="9-F0B2 II - Lornapolis" stationTypeID="21646" solarSystemID="30003704" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000373" stationName="FO9-FZ VIII - Hamster Station" stationTypeID="21646" solarSystemID="30001148" corporationID="98182822" corporationName="Hamsters Corporation" />
+      <row stationID="61000374" stationName="LXQ2-T VIII - Jon Snow Dies" stationTypeID="21645" solarSystemID="30002355" corporationID="1941177176" corporationName="Habitual Euthanasia" />
+      <row stationID="61000375" stationName="I-E3TG V - Gay Barr" stationTypeID="21644" solarSystemID="30004775" corporationID="98114328" corporationName="Fweddit" />
+      <row stationID="61000376" stationName="YWS0-Z III - The Dominion of Seker" stationTypeID="21646" solarSystemID="30003705" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000377" stationName="LVL-GZ IV - Vaab trollface" stationTypeID="21645" solarSystemID="30000813" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000378" stationName="A8A-JN III - A8A-JN Sunspear" stationTypeID="21645" solarSystemID="30000259" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000379" stationName="GTY-FW IX - Everlasting Dawn" stationTypeID="21644" solarSystemID="30002328" corporationID="98113098" corporationName="Torneko Storage" />
+      <row stationID="61000380" stationName="R1O-GN I - UDEAD WAS HERE" stationTypeID="21646" solarSystemID="30002874" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000381" stationName="XKM-DE X - The TackyBoyz Pad" stationTypeID="21646" solarSystemID="30003263" corporationID="98189942" corporationName="Trifectas Executor" />
+      <row stationID="61000382" stationName="K5F-Z2 VIII - Bittervet central" stationTypeID="21646" solarSystemID="30002900" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000383" stationName="X-6WC7 I - Talking back to AAA" stationTypeID="21646" solarSystemID="30002148" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000384" stationName="AZBR-2 IX - The Eyrie" stationTypeID="21642" solarSystemID="30000265" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000385" stationName="LIWW-P VI - LI3WildWest-P" stationTypeID="21645" solarSystemID="30004630" corporationID="98109174" corporationName="Progressive Horizon" />
+      <row stationID="61000386" stationName="H-MHWF X - Boner's Island" stationTypeID="21646" solarSystemID="30003261" corporationID="98189942" corporationName="Trifectas Executor" />
+      <row stationID="61000387" stationName="CZK-ZQ V - DC needs more strontium" stationTypeID="21645" solarSystemID="30001253" corporationID="355443127" corporationName="ANZAC ALLIANCE" />
+      <row stationID="61000388" stationName="K-BBYU III - BALLISTIX Point" stationTypeID="21646" solarSystemID="30001550" corporationID="98065185" corporationName="COW Holding" />
+      <row stationID="61000389" stationName="0-U2M4 IV - MERLE BECOMES A ZOMBIE" stationTypeID="21644" solarSystemID="30005191" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000390" stationName="S-KSWL IX - Kill Yourself for Titans" stationTypeID="21642" solarSystemID="30003629" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000391" stationName="FO8M-2 III - FO8More Man Meat For The Grinder" stationTypeID="21646" solarSystemID="30002891" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000392" stationName="N-TFXK VI - N-TForever in our hearts" stationTypeID="21644" solarSystemID="30002918" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000393" stationName="UMI-KK VII - U MIss Vile Rat" stationTypeID="21645" solarSystemID="30000858" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000417" stationName="I-1QKL VII - Vamps n Turist Pumping Ir0n Jaw" stationTypeID="21645" solarSystemID="30000788" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000418" stationName="4F9Y-3 XII - GIS Waffenfabrik" stationTypeID="21644" solarSystemID="30005154" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000419" stationName="O-CNPR I - Fade Central" stationTypeID="21646" solarSystemID="30003683" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000420" stationName="6-WMKE VIII - Bard kills Smaug" stationTypeID="21646" solarSystemID="30001111" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000421" stationName="C-LP3N V - 9-11 Never Forget-Sean Smith" stationTypeID="21646" solarSystemID="30004365" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000422" stationName="7-UH4Z V - 7-UH4Z Sandstone" stationTypeID="21644" solarSystemID="30000217" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000423" stationName="NLO-3Z VI - ZERO FAT CHICKS" stationTypeID="21644" solarSystemID="30004476" corporationID="98232607" corporationName="You're a Holding Corp" />
+      <row stationID="61000424" stationName="W-CSFY V - GIS Hafen" stationTypeID="21646" solarSystemID="30005177" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000425" stationName="B-7DFU IV - Nolon3 - The LampMeister" stationTypeID="21646" solarSystemID="30004030" corporationID="1070320653" corporationName="Burning Napalm" />
+      <row stationID="61000426" stationName="PND-SI III - TTs Tader Tavern" stationTypeID="21646" solarSystemID="30003262" corporationID="98113842" corporationName="Big Diggers" />
+      <row stationID="61000427" stationName="313I-B VII - 313 Offices" stationTypeID="21645" solarSystemID="30004387" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000428" stationName="8EF-58 I - Castle Black" stationTypeID="21646" solarSystemID="30000748" corporationID="621832986" corporationName="New Eden Regimental Navy" />
+      <row stationID="61000429" stationName="BX2-ZX VIII - SOLAR - ACADEMY ORDER OF ORDER" stationTypeID="21644" solarSystemID="30003993" corporationID="98011036" corporationName="Order of Order" />
+      <row stationID="61000430" stationName="M2-XFE V - Vile Rat - In Memoriam" stationTypeID="21645" solarSystemID="30004773" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000431" stationName="FM-JK5 VI - Petyr Baelich Appreciation Stati" stationTypeID="21646" solarSystemID="30004732" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000432" stationName="K8X-6B V - Praetorian Palace" stationTypeID="21644" solarSystemID="30000244" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000433" stationName="TEG-SD VII - TEG TCUs are a dime" stationTypeID="21645" solarSystemID="30004638" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000434" stationName="BNX-AS X - Come on In" stationTypeID="21646" solarSystemID="30002318" corporationID="262369075" corporationName="Requiem of Hades" />
+      <row stationID="61000435" stationName="HPS5-C II - HPSouth Watchtower" stationTypeID="21642" solarSystemID="30002040" corporationID="225388956" corporationName="Clan Shadow Wolf" />
+      <row stationID="61000436" stationName="C8-CHY X - Useless big green pole" stationTypeID="21645" solarSystemID="30003676" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000437" stationName="3T7-M8 VII - 3T70 Virgins await Kismeteer" stationTypeID="21646" solarSystemID="30002938" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000438" stationName="F-D49D III - hotdrop miners here" stationTypeID="21646" solarSystemID="30000279" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000461" stationName="QYT-X8 II - T-A-R-P-A" stationTypeID="21642" solarSystemID="30003266" corporationID="98189942" corporationName="Trifectas Executor" />
+      <row stationID="61000462" stationName="00TY-J VI - 00 Dear" stationTypeID="21645" solarSystemID="30004068" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="61000463" stationName="2CG-5V VI - 2CG-5Vale was quick" stationTypeID="21642" solarSystemID="30000898" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000464" stationName="AP9-LV II - Robb will be killed at a wedding" stationTypeID="21645" solarSystemID="30002453" corporationID="1504994727" corporationName="Zima Corp" />
+      <row stationID="61000465" stationName="88A-RA II - Hello Insmother" stationTypeID="21646" solarSystemID="30000770" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000466" stationName="6-GRN7 VI - Burning Technologies Open House " stationTypeID="21646" solarSystemID="30001759" corporationID="98180825" corporationName="Burning-Technologies" />
+      <row stationID="61000467" stationName="KU5R-W III - SG-1 - Stargate Command" stationTypeID="21644" solarSystemID="30002042" corporationID="1056944498" corporationName="Stargate SG-1" />
+      <row stationID="61000468" stationName="TN-T7T V - TN-T is The Best Alliance" stationTypeID="21645" solarSystemID="30004047" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000469" stationName="XA5-TY III - Transcom's Pony Palace" stationTypeID="21644" solarSystemID="30000470" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000470" stationName="QHY-RU VI - Nulli Bot" stationTypeID="21646" solarSystemID="30005144" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000471" stationName="YG-82V VII - YG-82 Much" stationTypeID="21644" solarSystemID="30004350" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000472" stationName="A-J6SN V - COW Farm Yard" stationTypeID="21646" solarSystemID="30001537" corporationID="98065185" corporationName="COW Holding" />
+      <row stationID="61000473" stationName="VYO-68 VII - NED claims to be best clan" stationTypeID="21644" solarSystemID="30004936" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000474" stationName="2H-TSE II - Space Mining Outpost" stationTypeID="21646" solarSystemID="30002455" corporationID="1504994727" corporationName="Zima Corp" />
+      <row stationID="61000475" stationName="7EX-14 VII - The Greenhouse" stationTypeID="21642" solarSystemID="30000840" corporationID="98159322" corporationName="Veritas Theory" />
+      <row stationID="61000476" stationName="D-I9HJ IV - Bloodtear always pays their debt" stationTypeID="21646" solarSystemID="30002481" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000477" stationName="YI-8ZM II - Downtown Farmville" stationTypeID="21646" solarSystemID="30004051" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="61000478" stationName="IRD-HU VI - Vamps Chill House" stationTypeID="21644" solarSystemID="30002333" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000479" stationName="WBR5-R V - Summerhall" stationTypeID="21646" solarSystemID="30000238" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000480" stationName="S6QX-N IV - Serene High Command" stationTypeID="21646" solarSystemID="30000284" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000481" stationName="RQH-MY III - RQHi there welcome to Pure Blind" stationTypeID="21645" solarSystemID="30002039" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000482" stationName="SHBF-V VI - Where was your USTZ Roweena" stationTypeID="21646" solarSystemID="30000779" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="61000505" stationName="TFPT-U VII - Lom's Factory Floor" stationTypeID="21644" solarSystemID="30001760" corporationID="98004605" corporationName="Lom Corporation" />
+      <row stationID="61000506" stationName="O-9G5Y X - In trust we POH" stationTypeID="21646" solarSystemID="30000831" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000507" stationName="HJ-BCH VII - ScaldingFreeport" stationTypeID="21646" solarSystemID="30000721" corporationID="98079302" corporationName="Iris Covenant" />
+      <row stationID="61000508" stationName="IR-DYY V - Summers almost gone" stationTypeID="21644" solarSystemID="30000277" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000509" stationName="PE-H02 XI - KOTLETHAR" stationTypeID="21644" solarSystemID="30003159" corporationID="1708136648" corporationName="Xenobytes" />
+      <row stationID="61000510" stationName="BYXF-Q VII - RIP R76983" stationTypeID="21646" solarSystemID="30004562" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000511" stationName="XJ-AG7 VI - Jigsaw's Funhouse of Mirrors" stationTypeID="21646" solarSystemID="30001798" corporationID="1834100429" corporationName="Czerka." />
+      <row stationID="61000512" stationName="WMBZ-U VIII - WMBZ-U The Greater Good" stationTypeID="21645" solarSystemID="30000315" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000513" stationName="R-P7KL VII - Sex Drugs and TECH" stationTypeID="21644" solarSystemID="30000291" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000514" stationName="MQ-NPY III - Generic Station Name" stationTypeID="21644" solarSystemID="30002035" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000515" stationName="A24L-V V - The Batcave" stationTypeID="21644" solarSystemID="30000794" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000516" stationName="0IF-26 IX - Ms Kypps Whiplash Palace" stationTypeID="21644" solarSystemID="30000522" corporationID="98012481" corporationName="Waskisen Innovations" />
+      <row stationID="61000517" stationName="PZMA-E VI - Memorial Station" stationTypeID="21644" solarSystemID="30002615" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000518" stationName="R4K-8L II - R4K - The Oxygen Tank" stationTypeID="21646" solarSystemID="30004473" corporationID="98232607" corporationName="You're a Holding Corp" />
+      <row stationID="61000519" stationName="7-K5EL V - DB Plays With Donkeys" stationTypeID="21644" solarSystemID="30000224" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000520" stationName="5AQ-5H II - welcome to the pleasure doom" stationTypeID="21646" solarSystemID="30004675" corporationID="121480394" corporationName="RATS Corp" />
+      <row stationID="61000521" stationName="CCP-US XII - e POS Badlly" stationTypeID="21645" solarSystemID="30002906" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000522" stationName="9WVY-F II - Risottino con Funghi e Taleggio " stationTypeID="21646" solarSystemID="30005137" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000523" stationName="L-L7PE I - warps nyx to wormhole" stationTypeID="21646" solarSystemID="30000528" corporationID="272241800" corporationName="Hounds Of War" />
+      <row stationID="61000524" stationName="O-PNSN IV - O-Please Ignore" stationTypeID="21645" solarSystemID="30004649" corporationID="98109174" corporationName="Progressive Horizon" />
+      <row stationID="61000525" stationName="Q-EHMJ IX - Q-EHJesus Christ f sov mechanics" stationTypeID="21644" solarSystemID="30000274" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000526" stationName="O7-RFZ IV - James Bond is german born" stationTypeID="21646" solarSystemID="30001099" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000550" stationName="W-IX39 IV - Dale Barbie Barbara" stationTypeID="21644" solarSystemID="30003968" corporationID="98135193" corporationName="Dodgy Inc" />
+      <row stationID="61000551" stationName="5S-KNL V - House of nakedness" stationTypeID="21646" solarSystemID="30004067" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="61000552" stationName="UVHO-F II - Tf20AlchemyX's Love Shack" stationTypeID="21646" solarSystemID="30003988" corporationID="544199803" corporationName="Macabre Votum" />
+      <row stationID="61000553" stationName="PB-0C1 III - PB-0Canterlot" stationTypeID="21642" solarSystemID="30004657" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000554" stationName="LG-RO2 V - Primus Prime I" stationTypeID="21646" solarSystemID="30003172" corporationID="266439466" corporationName="LEGIO ASTARTES ARCANUM HOLDINGS" />
+      <row stationID="61000555" stationName="CR-AQH III - CR-Azy Crazy Crazy Nights" stationTypeID="21645" solarSystemID="30002003" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000556" stationName="A-0IIQ III - Malcore's Got Nothing" stationTypeID="21644" solarSystemID="30004179" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000557" stationName="K4UV-G VII - Your B4LLZ hav been crushed -giz" stationTypeID="21642" solarSystemID="30001762" corporationID="98014695" corporationName="JOKESTERS" />
+      <row stationID="61000558" stationName="LBGI-2 III - LBGI go AFK in titans" stationTypeID="21645" solarSystemID="30004663" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000559" stationName="JUE-DX II - Why JUE So Serious" stationTypeID="21646" solarSystemID="30001743" corporationID="98014695" corporationName="JOKESTERS" />
+      <row stationID="61000560" stationName="38IA-E VI - 38IA-Even TEST Hated This System" stationTypeID="21646" solarSystemID="30004632" corporationID="98109174" corporationName="Progressive Horizon" />
+      <row stationID="61000561" stationName="I-CMZA VIII - Shakuras Plateau" stationTypeID="21646" solarSystemID="30004177" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000562" stationName="5E-EZC VI - XXX Georgiou's Place" stationTypeID="21645" solarSystemID="30004168" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000563" stationName="6UT-1K VI - robb's mom becomes a zombie" stationTypeID="21646" solarSystemID="30001067" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000564" stationName="T-GCGL VIII - T-GCGL Dragonstone" stationTypeID="21645" solarSystemID="30000261" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000565" stationName="OSW-0P VII - KMA Style" stationTypeID="21642" solarSystemID="30001579" corporationID="98193642" corporationName="Anal Cactii Assaulters" />
+      <row stationID="61000566" stationName="MA-VDX VII - MA-Very Bad at Eve" stationTypeID="21646" solarSystemID="30004369" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000567" stationName="FIZU-X VII - Vamps Chronic House" stationTypeID="21642" solarSystemID="30002335" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000568" stationName="0DD-MH VI - Alpha" stationTypeID="21646" solarSystemID="30004917" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000569" stationName="CNC-4V IX - African American Aces" stationTypeID="21646" solarSystemID="30001254" corporationID="583616018" corporationName="Black Aces" />
+      <row stationID="61000570" stationName="9-VO0Q IV - 9-Virgin Furries yiffing Blawrf" stationTypeID="21642" solarSystemID="30004557" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000594" stationName="5S-KXA XI - 5 SHITTY ALTS" stationTypeID="21646" solarSystemID="30002950" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000595" stationName="RXTY-4 III - MMC-Home" stationTypeID="21646" solarSystemID="30001138" corporationID="1426790982" corporationName="Mission Mining Corp" />
+      <row stationID="61000596" stationName="LPVL-5 IV - Another shitty refinery GG" stationTypeID="21644" solarSystemID="30002294" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000597" stationName="CBY8-J II - Didn't Want BUSA Anyway" stationTypeID="21644" solarSystemID="30004180" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000598" stationName="MY-T2P IV - MY-T2P Winterfell" stationTypeID="21646" solarSystemID="30000232" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000599" stationName="JA-G0T V - Tyrion Marries Sansa" stationTypeID="21646" solarSystemID="30001055" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000600" stationName="T-RPFU VII - House of COLDZ" stationTypeID="21645" solarSystemID="30003715" corporationID="1205503799" corporationName="Catalina Operations and Logistics Division" />
+      <row stationID="61000601" stationName="JAWX-R I - TERA's CLAIM" stationTypeID="21644" solarSystemID="30002336" corporationID="98065185" corporationName="COW Holding" />
+      <row stationID="61000602" stationName="3LL-O0 VIII - Blackjack 'n' Hookers" stationTypeID="21645" solarSystemID="30005166" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000603" stationName="U104-3 IV - Academy of DSP" stationTypeID="21646" solarSystemID="30000555" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000604" stationName="J-0KB3 VIII - Tyrion Kills Shae" stationTypeID="21644" solarSystemID="30001812" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000605" stationName="MOSA-I VI - Satans Scottish Beaver Warmer II" stationTypeID="21644" solarSystemID="30001554" corporationID="98065185" corporationName="COW Holding" />
+      <row stationID="61000606" stationName="R-ZESX II - Danubio alla Marmellata" stationTypeID="21644" solarSystemID="30003218" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000607" stationName="0XN-SK VII - FSR Atlantis II" stationTypeID="21646" solarSystemID="30005157" corporationID="98147268" corporationName="Things Come and Go" />
+      <row stationID="61000608" stationName="XY-ZCI IX - Galathea Outpost" stationTypeID="21646" solarSystemID="30005175" corporationID="98224300" corporationName="Galathea Holding" />
+      <row stationID="61000609" stationName="U93O-A X - In memory of Razy-EL" stationTypeID="21644" solarSystemID="30000644" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000610" stationName="B-GC1T VIII - Remember Vile Rat" stationTypeID="21644" solarSystemID="30004328" corporationID="98146544" corporationName="Tetragorn" />
+      <row stationID="61000611" stationName="O-BY0Y IV - Home of Free Sex and Shaved Goat" stationTypeID="21645" solarSystemID="30001964" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000612" stationName="L-TLFU VII - GOOD FORTUNE ALWAYS II" stationTypeID="21646" solarSystemID="30002842" corporationID="98068663" corporationName="ZANSTAR" />
+      <row stationID="61000613" stationName="XME-SW VI - Your Mother Blew Me" stationTypeID="21642" solarSystemID="30001792" corporationID="98039997" corporationName="Dark Mason Society" />
+      <row stationID="61000614" stationName="3IK-7O IV - UDIE Office" stationTypeID="21646" solarSystemID="30002357" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000615" stationName="RQNF-9 XI - ALL VALLEY" stationTypeID="21646" solarSystemID="30001830" corporationID="257973829" corporationName="Cobra Kai Dojo" />
+      <row stationID="61000639" stationName="OP9L-F IV - Primary Mafia Matt" stationTypeID="21644" solarSystemID="30002173" corporationID="1576171750" corporationName="The Ankou" />
+      <row stationID="61000640" stationName="PBD-0G VII - Rest in Peace DR Finisher" stationTypeID="21646" solarSystemID="30000873" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000641" stationName="DL-CDY IV - Hiigara Homeworld" stationTypeID="21642" solarSystemID="30003170" corporationID="266439466" corporationName="LEGIO ASTARTES ARCANUM HOLDINGS" />
+      <row stationID="61000642" stationName="JXQJ-B I - Row's Pancake Express" stationTypeID="21644" solarSystemID="30003264" corporationID="98189942" corporationName="Trifectas Executor" />
+      <row stationID="61000643" stationName="1-EVAX IV - John Snow is a Targaryen" stationTypeID="21642" solarSystemID="30001109" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000644" stationName="QY2Y-N III - Terra Nova Station" stationTypeID="21646" solarSystemID="30003244" corporationID="807155057" corporationName="NewRingsOrion" />
+      <row stationID="61000645" stationName="P4-3TJ IX - p4- elo pls" stationTypeID="21646" solarSystemID="30003971" corporationID="98135193" corporationName="Dodgy Inc" />
+      <row stationID="61000646" stationName="A9-F18 V - Arya is blinded" stationTypeID="21644" solarSystemID="30005092" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000647" stationName="O1Y-ED VII - Highauger's Rebirth" stationTypeID="21645" solarSystemID="30003686" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000648" stationName="IUU3-L III - Vamps and florin2001ro BloodBank" stationTypeID="21646" solarSystemID="30002886" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000649" stationName="CUT-0V XI - Didn't want that station anyway" stationTypeID="21645" solarSystemID="30004200" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000650" stationName="KOI8-Z VII - NESW No 1" stationTypeID="21646" solarSystemID="30005124" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000651" stationName="JE-VLG VI - Big E was here" stationTypeID="21645" solarSystemID="30004192" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000652" stationName="I2D3-5 VII - We'll be in VFK by Christmas" stationTypeID="21645" solarSystemID="30002877" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000653" stationName="KDV-DE III - Everyone loves KD" stationTypeID="21645" solarSystemID="30002027" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000654" stationName="U-HVIX III - Saint-Vincent" stationTypeID="21644" solarSystemID="30000575" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000655" stationName="2D-0SO XI - Icemandk cant speak english" stationTypeID="21646" solarSystemID="30001965" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000656" stationName="XD-TOV IV - CO2 Refinery" stationTypeID="21646" solarSystemID="30000889" corporationID="98112824" corporationName="Balkan Mafia" />
+      <row stationID="61000657" stationName="Q7E-DU VI - Syn's Sinister House of Sin" stationTypeID="21646" solarSystemID="30001763" corporationID="1376247877" corporationName="Interspatial Holding Corp" />
+      <row stationID="61000658" stationName="RO-0PZ VIII - Ruh Ro" stationTypeID="21646" solarSystemID="30002322" corporationID="98152879" corporationName="Black-Listed Industries" />
+      <row stationID="61000659" stationName="9-0QB7 III - GOOD FORTUNE ALWAYS" stationTypeID="21644" solarSystemID="30002868" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000660" stationName="02V-BK IV - Light up the darkness" stationTypeID="21645" solarSystemID="30003149" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000684" stationName="HB-5L3 V - Welcome to the Safari Zone" stationTypeID="21645" solarSystemID="30004228" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000685" stationName="F-NMX6 IV - F'N - The dutch coffee shop" stationTypeID="21644" solarSystemID="30002019" corporationID="225388956" corporationName="Clan Shadow Wolf" />
+      <row stationID="61000686" stationName="RO90-H VIII - RO90 Dead Capital Ships" stationTypeID="21645" solarSystemID="30004370" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000687" stationName="F39H-1 VIII - East India Co" stationTypeID="21646" solarSystemID="30000754" corporationID="98148450" corporationName="East India Company Holdings" />
+      <row stationID="61000688" stationName="8C-VE3 V - Beef Lasagne is Horse" stationTypeID="21642" solarSystemID="30001144" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000689" stationName="R3W-XU VIII - RIP Vile Rat" stationTypeID="21646" solarSystemID="30004566" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000690" stationName="C-C99Z III - C-Check Your Docking Rights" stationTypeID="21644" solarSystemID="30004564" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000691" stationName="WIO-OL V - Last Station On The Right" stationTypeID="21646" solarSystemID="30001756" corporationID="98139018" corporationName="Veritech Enterprises" />
+      <row stationID="61000692" stationName="3G-LFX IV - what to name this station" stationTypeID="21646" solarSystemID="30002302" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000693" stationName="HV-EAP III - GONER BE GONE " stationTypeID="21644" solarSystemID="30002356" corporationID="98078938" corporationName="Divinity Holdings" />
+      <row stationID="61000694" stationName="91-KD8 III - Orion Factories" stationTypeID="21644" solarSystemID="30003253" corporationID="1836961011" corporationName="Orion Expeditions" />
+      <row stationID="61000695" stationName="4-GJT1 IX - Aussie Draken's Saddles and Feed" stationTypeID="21646" solarSystemID="30004007" corporationID="1991488321" corporationName="Ever Flow" />
+      <row stationID="61000696" stationName="IS-OBW V - Vamps and Merices Wh0re House" stationTypeID="21642" solarSystemID="30002331" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000697" stationName="ETO-OT IV - Stymphal's Medal Cabinet" stationTypeID="21645" solarSystemID="30001535" corporationID="98065185" corporationName="COW Holding" />
+      <row stationID="61000698" stationName="O-QKSM VII - The TurdFactory" stationTypeID="21644" solarSystemID="30005171" corporationID="98178676" corporationName="Trans Secunda" />
+      <row stationID="61000699" stationName="FX-7EM VII - Deep Space Port" stationTypeID="21646" solarSystemID="30003711" corporationID="189575189" corporationName="Deep Space Supplies" />
+      <row stationID="61000700" stationName="2-WNTD VIII - NOMAD PLS OK" stationTypeID="21646" solarSystemID="30003188" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000701" stationName="KJ-V0P VI - the muppets House of Cream Puffs" stationTypeID="21646" solarSystemID="30004488" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000702" stationName="IV-UNR VII - xxSTATION666xx" stationTypeID="21644" solarSystemID="30002594" corporationID="1698858600" corporationName="Russian Thunder Squad" />
+      <row stationID="61000703" stationName="Q-CAB2 V - Q-Can 401k catch a break" stationTypeID="21645" solarSystemID="30000872" corporationID="353654460" corporationName="Broski North" />
+      <row stationID="61000704" stationName="7LHB-Z VI - Kitty's House" stationTypeID="21646" solarSystemID="30001218" corporationID="705851604" corporationName="Fight Cats Corp" />
+      <row stationID="61000616" stationName="MZLW-9 V - Koelsch Prime" stationTypeID="21646" solarSystemID="30003185" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000617" stationName="5M2-KP VII - HMS Red Dragon" stationTypeID="21644" solarSystemID="30000741" corporationID="98148450" corporationName="East India Company Holdings" />
+      <row stationID="61000618" stationName="RV-GA8 VII - A POKOTAN IN SHITAO" stationTypeID="21646" solarSystemID="30002326" corporationID="98113098" corporationName="Torneko Storage" />
+      <row stationID="61000619" stationName="U-3FKL I - Fifth Avenue" stationTypeID="21646" solarSystemID="30005156" corporationID="98209903" corporationName="Corp One" />
+      <row stationID="61000620" stationName="7M4-4C VI - Fred Corp Inc" stationTypeID="21644" solarSystemID="30005138" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000621" stationName="DW-T2I VI - FOOFOON ORG" stationTypeID="21644" solarSystemID="30003682" corporationID="1201292162" corporationName="Federal Organization for Outerspace Freedom" />
+      <row stationID="61000622" stationName="M-RPN3 VII - Pinky pig in space" stationTypeID="21645" solarSystemID="30004881" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="61000623" stationName="PQRE-W IV - Hall of the Mountain King" stationTypeID="21646" solarSystemID="30000438" corporationID="1213598824" corporationName="Trojan Trolls" />
+      <row stationID="61000624" stationName="O5-YNW VIII - Vote Travis Musgrat CSM8" stationTypeID="21644" solarSystemID="30002884" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000625" stationName="UNV-3J III - Da Kaynor" stationTypeID="21646" solarSystemID="30001816" corporationID="98171392" corporationName="Da'Kaynor" />
+      <row stationID="61000626" stationName="IAMJ-Q IX - Bridge to Know Where" stationTypeID="21646" solarSystemID="30003241" corporationID="98060622" corporationName="Diversified Holdings" />
+      <row stationID="61000627" stationName="0P-F3K X - Rest In Peace Vile Rat" stationTypeID="21644" solarSystemID="30002899" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000628" stationName="P-8PDJ II - WHY so Super Duper Seri0Us" stationTypeID="21646" solarSystemID="30001823" corporationID="98014695" corporationName="JOKESTERS" />
+      <row stationID="61000629" stationName="1GT-MA VI - Caldari Station for Banlish" stationTypeID="21642" solarSystemID="30004226" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000630" stationName="ZMV9-A III - Dreamslayer's House of Pain" stationTypeID="21646" solarSystemID="30004820" corporationID="98103329" corporationName="Nexus-Command" />
+      <row stationID="61000631" stationName="PFV-ZH VII - Sixth Evenue" stationTypeID="21644" solarSystemID="30005178" corporationID="98209903" corporationName="Corp One" />
+      <row stationID="61000632" stationName="O-O2GN II - AER0 FOB" stationTypeID="21644" solarSystemID="30001751" corporationID="98014695" corporationName="JOKESTERS" />
+      <row stationID="61000633" stationName="LEM-I1 V - The Stables" stationTypeID="21645" solarSystemID="30002865" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000634" stationName="9QS5-C V - n3 forever" stationTypeID="21646" solarSystemID="30002339" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000635" stationName="VE-W7O I - VE- Rust Bucket" stationTypeID="21646" solarSystemID="30001824" corporationID="2040769686" corporationName="Unexpected Company" />
+      <row stationID="61000636" stationName="1-BK1Q IV - Lock's Locker" stationTypeID="21644" solarSystemID="30003258" corporationID="1986287899" corporationName="Boa Innovations" />
+      <row stationID="61000637" stationName="B3ZU-H IV - Ricks Finds Morgan Childless" stationTypeID="21644" solarSystemID="30002860" corporationID="828800677" corporationName="Sniggerdly" />
+      <row stationID="61000638" stationName="EX-GBT IV - The Kings Head" stationTypeID="21645" solarSystemID="30002369" corporationID="98113706" corporationName="Dauntless Asset Management" />
+      <row stationID="61000130" stationName="WH-JCA VI - Castle Black" stationTypeID="21644" solarSystemID="30000871" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000131" stationName="SH1-6P VI - SH1 - Slippery when Wet" stationTypeID="21644" solarSystemID="30000868" corporationID="211551078" corporationName="Eternity INC." />
+      <row stationID="61000132" stationName="MB-NKE VII - MB- CSIRO" stationTypeID="21642" solarSystemID="30001182" corporationID="355443127" corporationName="ANZAC ALLIANCE" />
+      <row stationID="61000133" stationName="MJ-5F9 IV - Fred Corp Inc" stationTypeID="21646" solarSystemID="30005133" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000134" stationName="TP-RTO X - Forever Ethereal" stationTypeID="21646" solarSystemID="30002327" corporationID="98113098" corporationName="Torneko Storage" />
+      <row stationID="61000135" stationName="XKZ8-H I - Muminki Strike Back" stationTypeID="21644" solarSystemID="30003119" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000136" stationName="WNM-V0 V - Fix4Lyfe" stationTypeID="21646" solarSystemID="30002854" corporationID="761955047" corporationName="BURN EDEN" />
+      <row stationID="61000137" stationName="T-ZWA1 IX - Eastwatch by the Sea" stationTypeID="21644" solarSystemID="30000303" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000138" stationName="E8-432 III - Spit Roasting SpiritOnes Mum" stationTypeID="21644" solarSystemID="30002349" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000139" stationName="2-KF56 V - Vegemite Factory Outpost" stationTypeID="21644" solarSystemID="30002903" corporationID="1063360566" corporationName="SUNDERING" />
+      <row stationID="61000140" stationName="15W-GC III - 15What are you looking at" stationTypeID="21642" solarSystemID="30000861" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000141" stationName="5C-RPA VII - BABYLON PRIME" stationTypeID="21646" solarSystemID="30000844" corporationID="98031917" corporationName="VORLON." />
+      <row stationID="61000142" stationName="42SU-L VIII - Never had to use siege fleet" stationTypeID="21644" solarSystemID="30004224" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000143" stationName="QY6-RK V - La BanquICE" stationTypeID="21644" solarSystemID="30004752" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000144" stationName="4O-ZRI VIII - Pumped Out" stationTypeID="21644" solarSystemID="30001828" corporationID="272241800" corporationName="Hounds Of War" />
+      <row stationID="61000145" stationName="Y5C-YD VIII - Yesterday's Dreddit" stationTypeID="21644" solarSystemID="30004785" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000146" stationName="WW-OVQ VI - Trust the Finlander" stationTypeID="21646" solarSystemID="30003256" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000147" stationName="A1RR-M VI - Troika Secret Holiday Dachas" stationTypeID="21644" solarSystemID="30003655" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000148" stationName="Z-SR1I VI - Ishtar Stress Evaluation Centre" stationTypeID="21644" solarSystemID="30003652" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000149" stationName="1A8-6G VI - Fred Corp Inc" stationTypeID="21646" solarSystemID="30005117" corporationID="98164233" corporationName="Do you like fishsticks" />
+      <row stationID="61000150" stationName="QBL-BV IX - 54 Chemin de Fer" stationTypeID="21646" solarSystemID="30003714" corporationID="1258065347" corporationName="Corp 54" />
+      <row stationID="61000151" stationName="4DTQ-K VIII - I ran out of station names" stationTypeID="21644" solarSystemID="30004384" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000001" stationName="RU-97T V - Magic Land" stationTypeID="21642" solarSystemID="30000377" corporationID="109299958" corporationName="C C P" />
+      <row stationID="61000002" stationName="5P-AIP X - 5p Phelmart Central" stationTypeID="21646" solarSystemID="30004477" corporationID="98232607" corporationName="You're a Holding Corp" />
+      <row stationID="61000003" stationName="16P-PX VII - Muszelka Migotki" stationTypeID="21646" solarSystemID="30003122" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000004" stationName="LX5K-W VII - Kocia Kuweta" stationTypeID="21646" solarSystemID="30004705" corporationID="876738141" corporationName="BSX Industries" />
+      <row stationID="61000005" stationName="JU-OWQ VII - JU-rusalem" stationTypeID="21646" solarSystemID="30002911" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000006" stationName="AZN-D2 IX - Station of hopelessness" stationTypeID="21646" solarSystemID="30004450" corporationID="502658884" corporationName="Ecliptic Control" />
+      <row stationID="61000007" stationName="KDF-GY V - Gree's Happy Place" stationTypeID="21645" solarSystemID="30001164" corporationID="583616018" corporationName="Black Aces" />
+      <row stationID="61000008" stationName="K-9UG4 X - VIDE stole Keon's Station" stationTypeID="21646" solarSystemID="30004490" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000009" stationName="R97-CI IV - Awaiting the Return of MIS" stationTypeID="21646" solarSystemID="30004485" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000010" stationName="3PPT-9 VIII - Tribe Memorial Station" stationTypeID="21646" solarSystemID="30004682" corporationID="876738141" corporationName="BSX Industries" />
+      <row stationID="61000011" stationName="0OYZ-G I - Tavern Nasoilor" stationTypeID="21644" solarSystemID="30004483" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000012" stationName="EC-P8R VII - EC-Pod Killing All Day" stationTypeID="21645" solarSystemID="30001984" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000013" stationName="X-R3NM II - Curia Hostilia" stationTypeID="21644" solarSystemID="30003770" corporationID="162458513" corporationName="TalCorp Enterprises" />
+      <row stationID="61000014" stationName="9-980U V - Kermitt loves Piggy" stationTypeID="21646" solarSystemID="30004879" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="61000015" stationName="BWF-ZZ V - Welcome to camp" stationTypeID="21645" solarSystemID="30002440" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000016" stationName="P-2TTL I - P-2empty for toons taste" stationTypeID="21645" solarSystemID="30002030" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000017" stationName="FIO1-8 V - FI Oh Sluggo Where art thou" stationTypeID="21646" solarSystemID="30003691" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000018" stationName="ZS-2LT X - ZS-2LT X KURG " stationTypeID="21646" solarSystemID="30004469" corporationID="202387875" corporationName="Kurgan Military Institute" />
+      <row stationID="61000019" stationName="RIT-A7 IV - Lahari's Sex Lair" stationTypeID="21644" solarSystemID="30004472" corporationID="160901008" corporationName="Novatech Armada" />
+      <row stationID="61000350" stationName="D2-HOS I - D2-HOsiden Had A Hand In This" stationTypeID="21646" solarSystemID="30002036" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000351" stationName="4-CM8I VI - Vamps is spanking ur mum" stationTypeID="21646" solarSystemID="30000718" corporationID="98240937" corporationName="Na.Vampiress sov" />
+      <row stationID="61000352" stationName="B-588R V - B-5 The last best hope for peace" stationTypeID="21644" solarSystemID="30000211" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000353" stationName="HP-6Z6 II - Arx Venatorum" stationTypeID="21645" solarSystemID="30003776" corporationID="1140256713" corporationName="Zero-G Engineering." />
+      <row stationID="61000354" stationName="4AZV-W IX - Ygritte Dies at Castle Black" stationTypeID="21646" solarSystemID="30001815" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000355" stationName="6-TYRX IV - Warsztat Paszczaka" stationTypeID="21646" solarSystemID="30003145" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000356" stationName="TTP-2B V - The Winning Fire" stationTypeID="21646" solarSystemID="30000812" corporationID="98209664" corporationName="Flame Followers" />
+      <row stationID="61000357" stationName="5-CQDA I - Vile Rat Memorial Chikun Coop" stationTypeID="21646" solarSystemID="30004774" corporationID="98114328" corporationName="Fweddit" />
+      <row stationID="61000358" stationName="85-B52 IV - 85-B52s Love Shack" stationTypeID="21646" solarSystemID="30002924" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000359" stationName="CU9-T0 IV - CU9 welped titans later" stationTypeID="21645" solarSystemID="30002896" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000360" stationName="F-NXLQ III - Darks Turdy Tree sheep house" stationTypeID="21646" solarSystemID="30004032" corporationID="470530191" corporationName="Thundercats" />
+      <row stationID="61000361" stationName="EL8-4Q II - EL8-4 The Win" stationTypeID="21644" solarSystemID="30001970" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000362" stationName="JP4-AA V - JAVAH inc" stationTypeID="21644" solarSystemID="30004731" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000363" stationName="6VDT-H V - 6Vile Rat - We miss you" stationTypeID="21645" solarSystemID="30004608" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000364" stationName="2R-KLH IX - SE Prime" stationTypeID="21646" solarSystemID="30003182" corporationID="1708136648" corporationName="Xenobytes" />
+      <row stationID="61000365" stationName="Y-N4EF I - CAT IN STATION" stationTypeID="21646" solarSystemID="30002176" corporationID="1111885788" corporationName="Enterprise Estonia" />
+      <row stationID="61000366" stationName="DN58-U V - Do You Canoe" stationTypeID="21642" solarSystemID="30004195" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000367" stationName="XUW-3X VIII - XUW-3X up if you're a spy" stationTypeID="21646" solarSystemID="30004655" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000368" stationName="E-BYOS IX - The Eagle's Nest" stationTypeID="21645" solarSystemID="30004181" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000369" stationName="V3P-AZ V - YOU BEEN HAZED 4 REAL" stationTypeID="21646" solarSystemID="30001084" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000370" stationName="F-UVBV VII - Szalas Wloczykija" stationTypeID="21644" solarSystemID="30003126" corporationID="120196249" corporationName="C0VEN HOLDING COMPANY" />
+      <row stationID="61000371" stationName="YAP-TN V - COCNCO4HAR" stationTypeID="21646" solarSystemID="30003158" corporationID="1708136648" corporationName="Xenobytes" />
+      <row stationID="61000372" stationName="GJ0-OJ IV - Did I R M T your titan" stationTypeID="21646" solarSystemID="30001192" corporationID="583616018" corporationName="Black Aces" />
+      <row stationID="61000483" stationName="5LJ-MD II - 5LJ-Mostly Not Wanted" stationTypeID="21644" solarSystemID="30004345" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000484" stationName="A3-RQ3 VI - A3-RQ3 The Greater Good" stationTypeID="21644" solarSystemID="30000317" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000485" stationName="I-HRX3 III - Royal Canada Maple Syrup Reserve" stationTypeID="21646" solarSystemID="30001752" corporationID="824912842" corporationName="Poor Old Ornery nOObs" />
+      <row stationID="61000486" stationName="UB-UQZ I - UBest not be relisting" stationTypeID="21645" solarSystemID="30004349" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000487" stationName="GRHS-B IX - MINE MINE mine mine MINE mine" stationTypeID="21646" solarSystemID="30000593" corporationID="272241800" corporationName="Hounds Of War" />
+      <row stationID="61000488" stationName="C-DHON VIII - o7 Vale" stationTypeID="21644" solarSystemID="30000278" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000489" stationName="PE-SAM II - money for all" stationTypeID="21645" solarSystemID="30005118" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000490" stationName="KRUN-N II - Imperium Romanus Retreat" stationTypeID="21645" solarSystemID="30000246" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000491" stationName="B-DBYQ II - B-DBlawrf is basically amazing" stationTypeID="21645" solarSystemID="30004040" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000492" stationName="LS9B-9 VII - Ishukone Corporation Factory" stationTypeID="21644" solarSystemID="30000300" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000493" stationName="V-3K7C XII - Deb Kills Dexter But Saves Him" stationTypeID="21646" solarSystemID="30005097" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000494" stationName="KGCF-5 XII - Kilo Gulf Charly Foxtrot Dash 5" stationTypeID="21644" solarSystemID="30001790" corporationID="98014695" corporationName="JOKESTERS" />
+      <row stationID="61000495" stationName="XM-RMD III - Ernie Bert Ice DIST" stationTypeID="21646" solarSystemID="30003252" corporationID="98057376" corporationName="Interstellar Engineering Inc." />
+      <row stationID="61000496" stationName="M5NO-B V - Thrograth is the HERO of GRDE" stationTypeID="21646" solarSystemID="30005134" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000497" stationName="NG-M8K III - Well godamn" stationTypeID="21645" solarSystemID="30000650" corporationID="1139652088" corporationName="Legion of xXDEATHXx Support" />
+      <row stationID="61000498" stationName="LQ-AHE VIII - EON aime les cailloux" stationTypeID="21646" solarSystemID="30004896" corporationID="799080045" corporationName="Eon Project Holdings" />
+      <row stationID="61000499" stationName="4DH-ST V - Bruce Willis is a ghost" stationTypeID="21644" solarSystemID="30001578" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000500" stationName="XSQ-TF XII - Suddenly VLA" stationTypeID="21642" solarSystemID="30000275" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000501" stationName="MJYW-3 VIII - MJ Faildari Station is fail" stationTypeID="21642" solarSystemID="30004064" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="61000502" stationName="6GWE-A IV - 6GWE never forget" stationTypeID="21646" solarSystemID="30002025" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000503" stationName="7-PO3P VIII - Candy Mountain Candy Cave" stationTypeID="21644" solarSystemID="30000287" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000504" stationName="U0W-DR V - RUMOCHNAYA" stationTypeID="21646" solarSystemID="30000514" corporationID="1747254034" corporationName="TEAM 911" />
+      <row stationID="61000749" stationName="ZD1-Z2 X - Jharvis for CSM" stationTypeID="21646" solarSystemID="30004817" corporationID="98103329" corporationName="Nexus-Command" />
+      <row stationID="61000750" stationName="01TG-J IV - 231 East 47th Street" stationTypeID="21644" solarSystemID="30002609" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000751" stationName="KMC-WI VI - VileRat Memorial RIP" stationTypeID="21646" solarSystemID="30004316" corporationID="744534865" corporationName="DucKtape Unlimited" />
+      <row stationID="61000752" stationName="DR-427 VIII - Central Military Commission" stationTypeID="21646" solarSystemID="30002184" corporationID="98190062" corporationName="Chinese People's Liberation Army" />
+      <row stationID="61000753" stationName="XS-K1O IX - F You Goons" stationTypeID="21646" solarSystemID="30002155" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000754" stationName="TXJ-II IX - Tress Punto's" stationTypeID="21644" solarSystemID="30003779" corporationID="1175513382" corporationName="X.S. Industries" />
+      <row stationID="61000755" stationName="CT8K-0 VIII - eve dash bet dot com" stationTypeID="21646" solarSystemID="30002373" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000756" stationName="HIX4-H IX - Vrodak enjoys goats" stationTypeID="21645" solarSystemID="30004956" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000757" stationName="LBC-AW II - Vamps dose't take drugs" stationTypeID="21644" solarSystemID="30000683" corporationID="98240937" corporationName="Na.Vampiress sov" />
+      <row stationID="61000758" stationName="G5ED-Y VII - G5ED-Y The Greater Good" stationTypeID="21645" solarSystemID="30000310" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000759" stationName="3GXF-U IV - Arch Of Constantine" stationTypeID="21645" solarSystemID="30003748" corporationID="98112127" corporationName="Space Underground" />
+      <row stationID="61000760" stationName="NC-N3F V - NC-N3ver Not Taking All My Taxes" stationTypeID="21646" solarSystemID="30002910" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000761" stationName="QZ-DIZ V - From The Ash" stationTypeID="21645" solarSystemID="30003236" corporationID="98060622" corporationName="Diversified Holdings" />
+      <row stationID="61000762" stationName="IPX-H5 III - Primetopia" stationTypeID="21646" solarSystemID="30003176" corporationID="266439466" corporationName="LEGIO ASTARTES ARCANUM HOLDINGS" />
+      <row stationID="61000763" stationName="6O-XIO V - LLIAXTo4ka" stationTypeID="21646" solarSystemID="30004442" corporationID="98083729" corporationName="RED-GU-Academy" />
+      <row stationID="61000764" stationName="4F89-U VIII - Nova Shipyards" stationTypeID="21644" solarSystemID="30000536" corporationID="98168615" corporationName="Novaku Properties Corp" />
+      <row stationID="61000765" stationName="CKX-RW VII - Pangu Coalition Navy Shipyard" stationTypeID="21645" solarSystemID="30002170" corporationID="262369075" corporationName="Requiem of Hades" />
+      <row stationID="61000766" stationName="21M1-B VII - Southern Traveler Rest Stop" stationTypeID="21644" solarSystemID="30003238" corporationID="98060622" corporationName="Diversified Holdings" />
+      <row stationID="61000767" stationName="ORB4-J VI - Badboris' Love Nest" stationTypeID="21646" solarSystemID="30003201" corporationID="98060622" corporationName="Diversified Holdings" />
+      <row stationID="61000768" stationName="6W-6O9 V - Cactus Cult Project Headquarters" stationTypeID="21644" solarSystemID="30001574" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000769" stationName="5KG-PY II - 20000 Isotopes" stationTypeID="21642" solarSystemID="30003738" corporationID="1258065347" corporationName="Corp 54" />
+      <row stationID="61000219" stationName="Y-MPWL VII - Stone's Wishing Well" stationTypeID="21642" solarSystemID="30003726" corporationID="112702028" corporationName="Volition Cult" />
+      <row stationID="61000220" stationName="C-BHDN III - Dancul number 1 AT winner EU" stationTypeID="21646" solarSystemID="30001576" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000221" stationName="F-YH5B III - The Providence Petting Zoo" stationTypeID="21645" solarSystemID="30003751" corporationID="349567985" corporationName="The Legion of Spoon" />
+      <row stationID="61000222" stationName="J2-PZ6 IX - Vamps Off his box again" stationTypeID="21644" solarSystemID="30000677" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000223" stationName="KW-I6T VI - Kangaroo Paradise" stationTypeID="21646" solarSystemID="30001180" corporationID="355443127" corporationName="ANZAC ALLIANCE" />
+      <row stationID="61000224" stationName="BK4-YC IV - Ostrogothica" stationTypeID="21646" solarSystemID="30003757" corporationID="834777647" corporationName="The Ostrogoths" />
+      <row stationID="61000225" stationName="O-0ERG IV - O-0 Sov Left for Dotbros" stationTypeID="21644" solarSystemID="30000870" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000226" stationName="W6VP-Y IV - W6VPretty Bad At Eve" stationTypeID="21644" solarSystemID="30000894" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000227" stationName="RO0-AF VIII - RO0zOO" stationTypeID="21646" solarSystemID="30002926" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000228" stationName="TAL1-3 VII - Enochia Starr is AFK" stationTypeID="21642" solarSystemID="30005143" corporationID="761955047" corporationName="BURN EDEN" />
+      <row stationID="61000229" stationName="H9-J8N VII - Imperial Trading Bank" stationTypeID="21644" solarSystemID="30003775" corporationID="1775200498" corporationName="Intergalactic Crossing" />
+      <row stationID="61000230" stationName="F-G7BO VIII - F-G7 Ways to Die in Null" stationTypeID="21644" solarSystemID="30000897" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000231" stationName="C-4ZOS VI - Elkaboom32 Salvage Memorial" stationTypeID="21644" solarSystemID="30004378" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000232" stationName="GY5-26 IX - GY5 Days Camping then Curse" stationTypeID="21646" solarSystemID="30002947" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000233" stationName="DYPL-6 II - Vamps killing wallace Xious" stationTypeID="21644" solarSystemID="30002378" corporationID="1257470030" corporationName="spartan gladiators inc." />
+      <row stationID="61000234" stationName="RK-Q51 II - Vamps getting high" stationTypeID="21646" solarSystemID="30002380" corporationID="1257470030" corporationName="spartan gladiators inc." />
+      <row stationID="61000235" stationName="V-OL61 II - Vamps ran out of names" stationTypeID="21644" solarSystemID="30002379" corporationID="1257470030" corporationName="spartan gladiators inc." />
+      <row stationID="61000236" stationName="O-Y5JQ V - Conditional Convergence" stationTypeID="21644" solarSystemID="30003761" corporationID="98024798" corporationName="Virtues Corporation" />
+      <row stationID="61000237" stationName="D-GTMI XI - Geotopia" stationTypeID="21645" solarSystemID="30003709" corporationID="495392624" corporationName="GeoCorp." />
+      <row stationID="61000238" stationName="3D-CQU VII - CNO Kimotoro Dreams" stationTypeID="21644" solarSystemID="30003786" corporationID="1169891682" corporationName="Caldari Independent Navy Reserve" />
+      <row stationID="61000239" stationName="ME-4IU V - ME-Gusta Prostate Tickler" stationTypeID="21644" solarSystemID="30004398" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000240" stationName="O94U-A I - In Honor of Sean -Vile Rat" stationTypeID="21644" solarSystemID="30004381" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="60014900" stationName="BKG-Q2 VIII - Moon 1 - BKGoodbye Black Legion" stationTypeID="12294" solarSystemID="30004333" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014901" stationName="UB5Z-3 II - Moon 1 - Chuck Norris lives here" stationTypeID="12294" solarSystemID="30004463" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="60014902" stationName="GQ2S-8 III - Moon 3 - 0SUF-3 Pamietamy" stationTypeID="12294" solarSystemID="30004694" corporationID="876738141" corporationName="BSX Industries" />
+      <row stationID="60014903" stationName="5-6QW7 VII - Moon 3 - 5-6QQ CryMaker's Pleasure Palace" stationTypeID="12294" solarSystemID="30004789" corporationID="543812812" corporationName="Northstar Cabal" />
+      <row stationID="60014904" stationName="NZW-ZO VII - Moon 1 - Frogs Heaven" stationTypeID="12294" solarSystemID="30004863" corporationID="799080045" corporationName="Eon Project Holdings" />
+      <row stationID="60014905" stationName="D2EZ-X VI - Moon 3 - TOMB OF THE SEVEN TITANS" stationTypeID="12294" solarSystemID="30004902" corporationID="98001422" corporationName="The Kadeshi Alliance Holding Corp" />
+      <row stationID="60014906" stationName="TPAR-G IX - Moon 3 - Kick MAGEL" stationTypeID="12294" solarSystemID="30004935" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014907" stationName="ZLZ-1Z IV - Moon 3 - ZLZZZ Sleeping on sov" stationTypeID="12295" solarSystemID="30000296" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="60014908" stationName="DG-8VJ IV - Moon 3 - Everyday Im Chapulin" stationTypeID="12295" solarSystemID="30000441" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="60014909" stationName="Q-GQHN VIII - Moon 3 - Icon of Socialism" stationTypeID="12295" solarSystemID="30000586" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="60014910" stationName="995-3G V - Moon 5 - PURGING SOLAR ERRRDAY" stationTypeID="12295" solarSystemID="30000616" corporationID="627005926" corporationName="Erasers inc." />
+      <row stationID="60014911" stationName="1V-LI2 III - Moon 2 - INK lives here now" stationTypeID="12295" solarSystemID="30000680" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="60014912" stationName="C-J6MT IV - Moon 1 - Vamps and Yamans M00N Sh1ne" stationTypeID="12295" solarSystemID="30000772" corporationID="98240937" corporationName="Na.Vampiress sov" />
+      <row stationID="60014913" stationName="H-W9TY XII - Moon 2 - H-W9TY Who wants this station" stationTypeID="12295" solarSystemID="30000865" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014914" stationName="V2-VC2 II - Moon 5 - Game of Catch" stationTypeID="12295" solarSystemID="30001222" corporationID="121480394" corporationName="RATS Corp" />
+      <row stationID="60014915" stationName="2O-EEW IV - Moon 3 - The Not So Tribute" stationTypeID="12295" solarSystemID="30002175" corporationID="701662509" corporationName="D00M." />
+      <row stationID="60014916" stationName="68FT-6 VI - Moon 1 - The Eagle's Nest" stationTypeID="12295" solarSystemID="30002593" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="60014917" stationName="VFK-IV VI - Moon 1 - VFK-IVee didn't want FC5 anyways" stationTypeID="12295" solarSystemID="30002904" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="60014918" stationName="C9N-CC I - Moon 2 - DD is coming" stationTypeID="12295" solarSystemID="30003109" corporationID="98058224" corporationName="RED GUARD.inc" />
+      <row stationID="60014919" stationName="S-EVIQ III - Moon 1 - Ministry of Warmongering and Win" stationTypeID="12295" solarSystemID="30003611" corporationID="158202185" corporationName="RHC" />
+      <row stationID="60014920" stationName="L-C3O7 VII - Moon 5 - Fatalfell" stationTypeID="12295" solarSystemID="30003689" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000085" stationName="1I5-0V X - SweetAshleys Dungeon  " stationTypeID="21646" solarSystemID="30001540" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000086" stationName="R3P0-Z II - NO EVAC ALLOWED" stationTypeID="21646" solarSystemID="30001806" corporationID="98195163" corporationName="Life in Jail" />
+      <row stationID="61000087" stationName="5ED-4E IV - Not another inch" stationTypeID="21646" solarSystemID="30004193" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000088" stationName="B-7LYC IX - BUSA No 1" stationTypeID="21646" solarSystemID="30005160" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000089" stationName="YM-SRU VIII - Jigsaw is alive" stationTypeID="21646" solarSystemID="30001118" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000090" stationName="NGM-OK I - KNOW WHAT YOU'RE THINKING" stationTypeID="21646" solarSystemID="30005170" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000091" stationName="R-6KYM V - Dango Chaya II" stationTypeID="21646" solarSystemID="30002324" corporationID="98113098" corporationName="Torneko Storage" />
+      <row stationID="61000092" stationName="MK-YNM V - The Marseille " stationTypeID="21646" solarSystemID="30004183" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000093" stationName="8-2JZA XII - Haftansta" stationTypeID="21646" solarSystemID="30001071" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000094" stationName="P-E9GN V - The Eastern Front" stationTypeID="21646" solarSystemID="30002467" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000095" stationName="BQ0-UU VII - 18 Bottles of Beer on the Wall" stationTypeID="21646" solarSystemID="30003230" corporationID="544199803" corporationName="Macabre Votum" />
+      <row stationID="61000096" stationName="Q3-BAY VII - Station Name Not Found" stationTypeID="21644" solarSystemID="30000324" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000097" stationName="3-LJW3 VII - Master Kent's Play house" stationTypeID="21646" solarSystemID="30000448" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="61000098" stationName="YHN-3K XIII - I MISSED YOU MY LOVELY CATCH" stationTypeID="21646" solarSystemID="30001204" corporationID="705851604" corporationName="Fight Cats Corp" />
+      <row stationID="61000099" stationName="3H58-R V - Vamps and Mercies Bong Den" stationTypeID="21644" solarSystemID="30002325" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000100" stationName="87-1PM III - 231 East 47th Street" stationTypeID="21644" solarSystemID="30004190" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000101" stationName="U-SOH2 VII - U yiffers are awesome" stationTypeID="21646" solarSystemID="30004594" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000102" stationName="9IZ-HU VIII - Bago Dourado" stationTypeID="21644" solarSystemID="30005180" corporationID="257973829" corporationName="Cobra Kai Dojo" />
+      <row stationID="61000103" stationName="LO5-LN IX - Gollum bites frodos finger off" stationTypeID="21644" solarSystemID="30001119" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000104" stationName="I1Y-IU X - I1y- Major JSilva is MEN" stationTypeID="21645" solarSystemID="30004023" corporationID="98135193" corporationName="Dodgy Inc" />
+      <row stationID="61000105" stationName="49-U6U IX - INIT to WINIT" stationTypeID="21646" solarSystemID="30004009" corporationID="273661345" corporationName="e X i l e" />
+      <row stationID="61000106" stationName="25S-6P XI - 25Shit Hits The Fan" stationTypeID="21646" solarSystemID="30001258" corporationID="1639878825" corporationName="Initiative Holding" />
+      <row stationID="61000107" stationName="Z-UZZN I - REAL Drug Store" stationTypeID="21646" solarSystemID="30003991" corporationID="98107624" corporationName="Real Enemy" />
+      <row stationID="61000661" stationName="QZV-X3 VIII - A Bao A Qu" stationTypeID="21644" solarSystemID="30002330" corporationID="98113098" corporationName="Torneko Storage" />
+      <row stationID="61000662" stationName="SN-DZ6 V - Contact Farasoloni for renting" stationTypeID="21646" solarSystemID="30001780" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000663" stationName="YVSL-2 V - The return of SSBS" stationTypeID="21644" solarSystemID="30004174" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000664" stationName="O-F4SN IV - Desk Flippers Anonymous" stationTypeID="21644" solarSystemID="30004199" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000665" stationName="RJBC-I I - Boa Constrictor Station" stationTypeID="21646" solarSystemID="30003260" corporationID="1986287899" corporationName="Boa Innovations" />
+      <row stationID="61000666" stationName="FZCR-3 I - Lasagne Alla Dark Eirlys" stationTypeID="21642" solarSystemID="30003213" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000667" stationName="KRPF-A II - Lil Dicky's SidePad" stationTypeID="21644" solarSystemID="30002286" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000668" stationName="PXE-RG III - Vince Hourse Draken Naaaayyyyyyy" stationTypeID="21642" solarSystemID="30002290" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000669" stationName="08-N7Q IV - Pangu Entertainment Shipyard" stationTypeID="21646" solarSystemID="30002168" corporationID="98120016" corporationName="Lion Heart Development Group" />
+      <row stationID="61000670" stationName="HO4E-Q III - Linguine all'Astice" stationTypeID="21644" solarSystemID="30003243" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000671" stationName="MJ-LGH IV - DSP Refinery" stationTypeID="21646" solarSystemID="30000803" corporationID="98005832" corporationName="Soldiers Of WormHoles" />
+      <row stationID="61000672" stationName="9GI-FB VIII - 9GI-FBurn the South" stationTypeID="21646" solarSystemID="30000875" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000673" stationName="B1UE-J V - Numengrad II" stationTypeID="21644" solarSystemID="30002850" corporationID="98036559" corporationName="Black Core Federation" />
+      <row stationID="61000674" stationName="II-5O9 VIII - Formula 509 better than 409" stationTypeID="21642" solarSystemID="30002907" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000675" stationName="L-AS00 II - We dont need stinking badges" stationTypeID="21642" solarSystemID="30004910" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000676" stationName="49V-E4 VI - Yara is captured by Stannis" stationTypeID="21644" solarSystemID="30005165" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000677" stationName="UM-SCG IV - Pets At Home" stationTypeID="21646" solarSystemID="30000558" corporationID="98035646" corporationName="THE UNTHINKABLES HOLDING" />
+      <row stationID="61000678" stationName="JTAU-5 IV - Green Lantern Hall of Justice" stationTypeID="21645" solarSystemID="30004324" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000679" stationName="VBPT-T XI - VBPT" stationTypeID="21644" solarSystemID="30000806" corporationID="98005832" corporationName="Soldiers Of WormHoles" />
+      <row stationID="61000680" stationName="MOCW-2 III - Schoey 5's Cat House" stationTypeID="21646" solarSystemID="30000801" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000681" stationName="R-AG7W I - Lady Stark is still alive" stationTypeID="21645" solarSystemID="30005099" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000682" stationName="EX6-AO VII - EX6 " stationTypeID="21646" solarSystemID="30001252" corporationID="1360389202" corporationName="AAA Community" />
+      <row stationID="61000683" stationName="1-1I53 IV - Paladin's Creed" stationTypeID="21646" solarSystemID="30003766" corporationID="98094122" corporationName="Deus Fides Empire" />
+      <row stationID="61000262" stationName="ZQ-Z3Y III - ZQ Border Control" stationTypeID="21644" solarSystemID="30001226" corporationID="112702028" corporationName="Volition Cult" />
+      <row stationID="61000263" stationName="SWBV-2 I - The Shadow Realm" stationTypeID="21645" solarSystemID="30004484" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000264" stationName="HED-GP III - Hatuk's Homestead" stationTypeID="21645" solarSystemID="30001161" corporationID="1049962382" corporationName="Rage and Terror" />
+      <row stationID="61000265" stationName="3KB-J0 IX - Trony's Undock Ramp and Market" stationTypeID="21645" solarSystemID="30003781" corporationID="1169891682" corporationName="Caldari Independent Navy Reserve" />
+      <row stationID="61000266" stationName="7T6P-C IX - 7Teens for 6Pastors" stationTypeID="21644" solarSystemID="30002929" corporationID="244898283" corporationName="OEG" />
+      <row stationID="61000267" stationName="KA6D-K VII - RIP phalanx hero" stationTypeID="21646" solarSystemID="30001231" corporationID="583616018" corporationName="Black Aces" />
+      <row stationID="61000268" stationName="DBRN-Z IX - Bottom 8" stationTypeID="21644" solarSystemID="30004595" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000269" stationName="XB-9U2 VII - The Greatest Station EVER" stationTypeID="21644" solarSystemID="30002319" corporationID="262369075" corporationName="Requiem of Hades" />
+      <row stationID="61000270" stationName="G-YZUX VI - Hellsgate Tower" stationTypeID="21642" solarSystemID="30003133" corporationID="1756521678" corporationName="X-Com inc" />
+      <row stationID="61000271" stationName="Z-RFE3 VII - CNO Griffin Door" stationTypeID="21646" solarSystemID="30003783" corporationID="1169891682" corporationName="Caldari Independent Navy Reserve" />
+      <row stationID="61000272" stationName="6F-H3W XI - 6F-H3We took your region" stationTypeID="21644" solarSystemID="30004591" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000273" stationName="ZOYW-O X - ZOo of Dirty Monkeys" stationTypeID="21644" solarSystemID="30002923" corporationID="1795177903" corporationName="RGSU" />
+      <row stationID="61000274" stationName="PNDN-V VII - PNDNext stop Delve" stationTypeID="21646" solarSystemID="30000866" corporationID="125490663" corporationName="TnT Strong Hold" />
+      <row stationID="61000275" stationName="O-N589 VIII - C0ven strikes back" stationTypeID="21644" solarSystemID="30004703" corporationID="876738141" corporationName="BSX Industries" />
+      <row stationID="61000276" stationName="JEIV-E X - Spire of Orthodoxy" stationTypeID="21645" solarSystemID="30003760" corporationID="98012915" corporationName="Yulai Guard 1st Fleet" />
+      <row stationID="61000277" stationName="Q-02UL VII - Q-02 Edgy 4 U" stationTypeID="21642" solarSystemID="30004787" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000278" stationName="EOY-BG III - EOY Do you want Tenal" stationTypeID="21645" solarSystemID="30003612" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000279" stationName="DKUK-G VIII - DKUK DKUK GOOSE" stationTypeID="21646" solarSystemID="30002920" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000280" stationName="J6QB-P II - J6Q - ThisIsARandomStationName" stationTypeID="21642" solarSystemID="30001230" corporationID="1499100834" corporationName="Nova Holdings Inc." />
+      <row stationID="61000281" stationName="TSG-NO III -  Staging Station" stationTypeID="21645" solarSystemID="30004423" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000282" stationName="JC-YX8 VIII - JC- Penny for your thoughts" stationTypeID="21646" solarSystemID="30001971" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000283" stationName="U-HYZN VI - James Big Jim Rennie" stationTypeID="21644" solarSystemID="30004024" corporationID="1755204643" corporationName="Tactical Withdrawal" />
+      <row stationID="61000571" stationName="GQ-7SP XI - Barons EMO-period is over" stationTypeID="21644" solarSystemID="30002875" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000572" stationName="WVMS-X I - Asparago Rosa di Mezzago" stationTypeID="21646" solarSystemID="30003216" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000573" stationName="APM-6K VII - APM-6KIATolon Lost Caps in Synd" stationTypeID="21644" solarSystemID="30004576" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000574" stationName="FV1-RQ VII - Get your BDCI Coins Here" stationTypeID="21644" solarSystemID="30004197" corporationID="828800677" corporationName="Sniggerdly" />
+      <row stationID="61000575" stationName="6-8QLA V - SOLAR Commode" stationTypeID="21646" solarSystemID="30005114" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000576" stationName="X0-6LH VIII - Ashes of Hope" stationTypeID="21644" solarSystemID="30000808" corporationID="98209664" corporationName="Flame Followers" />
+      <row stationID="61000577" stationName="H23-B5 V - L A S A R B O N G H I T S" stationTypeID="21644" solarSystemID="30004178" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000578" stationName="J-D5U7 VI - Rakaar's Blow Hole" stationTypeID="21644" solarSystemID="30003206" corporationID="98189942" corporationName="Trifectas Executor" />
+      <row stationID="61000579" stationName="CHA2-Q VII - In Memory of Vile Rat" stationTypeID="21645" solarSystemID="30004601" corporationID="98008630" corporationName="Thunderwaffe" />
+      <row stationID="61000580" stationName="HVGR-R V - Panda Paradise" stationTypeID="21646" solarSystemID="30002871" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000581" stationName="SH-YZY VIII - Euron sits the seastone chair" stationTypeID="21644" solarSystemID="30001098" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000582" stationName="ZTS-4D V - ins Await You" stationTypeID="21644" solarSystemID="30004660" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000583" stationName="29YH-V VII - Legionellas Extaordinarus" stationTypeID="21644" solarSystemID="30003171" corporationID="266439466" corporationName="LEGIO ASTARTES ARCANUM HOLDINGS" />
+      <row stationID="61000584" stationName="C-V6DQ III - Arch Angels Paradise" stationTypeID="21646" solarSystemID="30002367" corporationID="98078938" corporationName="Divinity Holdings" />
+      <row stationID="61000585" stationName="SR-10Z V - fetters and lashes" stationTypeID="21644" solarSystemID="30005141" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000586" stationName="QSCO-D III - Lorna's Opus" stationTypeID="21644" solarSystemID="30001137" corporationID="98055700" corporationName="Helix Pulse" />
+      <row stationID="61000587" stationName="KED-2O V - ASH Appreciation Station" stationTypeID="21646" solarSystemID="30003239" corporationID="98060622" corporationName="Diversified Holdings" />
+      <row stationID="61000588" stationName="OBK-K8 VII - 404 outpost not found" stationTypeID="21642" solarSystemID="30004487" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000589" stationName="QRH-BF IV - AWECO Shipyard" stationTypeID="21646" solarSystemID="30001596" corporationID="944838017" corporationName="AWE Corporation" />
+      <row stationID="61000590" stationName="HXK-J6 IX - Boundless Creation Factory" stationTypeID="21644" solarSystemID="30004205" corporationID="1323105611" corporationName="Nisroc Angels" />
+      <row stationID="61000591" stationName="G-GRSZ VIII - Snigg No 1" stationTypeID="21646" solarSystemID="30005113" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000592" stationName="V0DF-2 V - V0DFeligast for CSM8" stationTypeID="21646" solarSystemID="30000849" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000593" stationName="4OIV-X VII - Gateway to the Empire" stationTypeID="21646" solarSystemID="30002585" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000705" stationName="UQ9-3C I - Hey It Was Free" stationTypeID="21645" solarSystemID="30004310" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000706" stationName="E-ACV6 III - The Promised Land" stationTypeID="21646" solarSystemID="30000503" corporationID="98125075" corporationName="Weyland Capital Initiative" />
+      <row stationID="61000707" stationName="9I-SRF V - An Insidious Existence" stationTypeID="21646" solarSystemID="30002589" corporationID="325582307" corporationName="Surreal corp" />
+      <row stationID="61000708" stationName="E-DOF2 V - Kick MERCHI" stationTypeID="21644" solarSystemID="30004948" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000709" stationName="U3SQ-X I - Greeny the U3stoppable" stationTypeID="21646" solarSystemID="30002608" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000710" stationName="58Z-IH X - Industry gives me aids" stationTypeID="21646" solarSystemID="30004212" corporationID="98162003" corporationName="Insidious Peasants Holdings" />
+      <row stationID="61000711" stationName="L7XS-5 I - Not a free port anymore" stationTypeID="21646" solarSystemID="30001174" corporationID="1550774923" corporationName="AMC." />
+      <row stationID="61000712" stationName="3KNA-N II - So Long Thanks for all the Fish" stationTypeID="21646" solarSystemID="30004403" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000713" stationName="B-U299 VII - PhalanxIII Appreciation Station" stationTypeID="21644" solarSystemID="30004194" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000714" stationName="L-VXTK III - CO2 Factory" stationTypeID="21644" solarSystemID="30000891" corporationID="98112824" corporationName="Balkan Mafia" />
+      <row stationID="61000715" stationName="E0DR-G IX - Biber Bomber " stationTypeID="21644" solarSystemID="30004208" corporationID="98162003" corporationName="Insidious Peasants Holdings" />
+      <row stationID="61000716" stationName="T-67F8 VII - Purge the Ratters" stationTypeID="21644" solarSystemID="30004211" corporationID="98162003" corporationName="Insidious Peasants Holdings" />
+      <row stationID="61000717" stationName="L-Z9NB V - Black Rock Haven" stationTypeID="21644" solarSystemID="30004203" corporationID="1323105611" corporationName="Nisroc Angels" />
+      <row stationID="61000718" stationName="E-YJ8G VIII - That Fresh New Car Smell" stationTypeID="21645" solarSystemID="30001229" corporationID="98023840" corporationName="Sneaky Bastards." />
+      <row stationID="61000719" stationName="QPO-WI VI - QPO-WI hope you used a scout" stationTypeID="21645" solarSystemID="30002893" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000720" stationName="43B-O1 VIII - 43d since Teth lost a capital" stationTypeID="21644" solarSystemID="30002941" corporationID="888001549" corporationName="Wildly Inappropriate" />
+      <row stationID="61000721" stationName="YQB-22 VII - Anthemoessa " stationTypeID="21646" solarSystemID="30003753" corporationID="98112127" corporationName="Space Underground" />
+      <row stationID="61000722" stationName="BUZ-DB VIII - Ken Lays School or Economics" stationTypeID="21646" solarSystemID="30001245" corporationID="458742701" corporationName="S0utherN Comfort" />
+      <row stationID="61000723" stationName="E-B957 IV - Phreeze's love nest" stationTypeID="21644" solarSystemID="30004186" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000724" stationName="J7YR-1 V - RIP VILE RAT - SMA " stationTypeID="21644" solarSystemID="30004312" corporationID="98090676" corporationName="Next Chapter For New Adventures" />
+      <row stationID="61000725" stationName="RU-PT9 IV - TCO HQ " stationTypeID="21646" solarSystemID="30002183" corporationID="98023840" corporationName="Sneaky Bastards." />
+      <row stationID="61000726" stationName="0B-VOJ X - Calm Yo Tits" stationTypeID="21644" solarSystemID="30004214" corporationID="98162003" corporationName="Insidious Peasants Holdings" />
+      <row stationID="61000727" stationName="V-LDEJ III - Goat Shed" stationTypeID="21644" solarSystemID="30003672" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000770" stationName="YZ-UKA V - YZ-UKamteix Spanking Palace" stationTypeID="21644" solarSystemID="30002925" corporationID="624410653" corporationName="Les chevaliers de l'ordre" />
+      <row stationID="61000771" stationName="D-3GIQ X - D-3 Gates until home" stationTypeID="21645" solarSystemID="30004750" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000772" stationName="T-IDGH IX - Vamps Hidden Grow Den" stationTypeID="21646" solarSystemID="30002382" corporationID="98008728" corporationName="Northern Associates Holdings" />
+      <row stationID="61000773" stationName="48I1-X VII - Blood and Skulls" stationTypeID="21646" solarSystemID="30004949" corporationID="308694199" corporationName="Caldari Deep Space Ventures" />
+      <row stationID="61000774" stationName="2WU-XT V - Sweet Tittis Love Shack" stationTypeID="21646" solarSystemID="30001799" corporationID="272241800" corporationName="Hounds Of War" />
+      <row stationID="61000775" stationName="IOO-7O VIII - Winter Infinity Space" stationTypeID="21646" solarSystemID="30002439" corporationID="1504994727" corporationName="Zima Corp" />
+      <row stationID="61000776" stationName="OGY-6D VIII - OGwhY so many eggs" stationTypeID="21645" solarSystemID="30003984" corporationID="775889062" corporationName="Rionnag Alba" />
+      <row stationID="61000777" stationName="08S-39 VII - Just For Lulz Station" stationTypeID="21646" solarSystemID="30004954" corporationID="98033064" corporationName="Just For Lulz Corp" />
+      <row stationID="61000778" stationName="FJ-GUR IV - Parmigiano Reggiano DOP" stationTypeID="21644" solarSystemID="30003234" corporationID="1727573569" corporationName="Best Friends Forever" />
+      <row stationID="61000779" stationName="0A-KZ0 V - GB's Walmart" stationTypeID="21644" solarSystemID="30004947" corporationID="98008525" corporationName="The Fiction Factory" />
+      <row stationID="61000780" stationName="U-INPD II - U-IN The Mittani We Trust" stationTypeID="21646" solarSystemID="30001997" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000781" stationName="D4-2XN VII - Ghost Storm Rats Here" stationTypeID="21644" solarSystemID="30004491" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000782" stationName="H-4R6Z X - Vamps And Mercie1's Amsterdam" stationTypeID="21644" solarSystemID="30003986" corporationID="1070320653" corporationName="Burning Napalm" />
+      <row stationID="61000783" stationName="BGN1-O IV - LENINGRAD SPB Ru Home" stationTypeID="21644" solarSystemID="30004417" corporationID="98069579" corporationName="LENINGRAD SPB Ru" />
+      <row stationID="61000784" stationName="8W-OSE VII - 8W - Overpriced Shipyard" stationTypeID="21644" solarSystemID="30003695" corporationID="1858084512" corporationName="Sigillum Militum Xpisti" />
+      <row stationID="61000785" stationName="GIH-ZG VIII - CO2 Stronghold" stationTypeID="21645" solarSystemID="30000887" corporationID="98112824" corporationName="Balkan Mafia" />
+      <row stationID="61000786" stationName="X6-J6R VI - LENINGRAD SPB RU Research" stationTypeID="21642" solarSystemID="30004416" corporationID="98069579" corporationName="LENINGRAD SPB Ru" />
+      <row stationID="61000787" stationName="X-ARMF III - Stellar Refineries" stationTypeID="21646" solarSystemID="30000541" corporationID="98168615" corporationName="Novaku Properties Corp" />
+      <row stationID="61000788" stationName="VL3I-M VI - Why Is Nobody Ever Trained" stationTypeID="21644" solarSystemID="30004315" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000789" stationName="L7-APB III - L7-APB Vince Draken" stationTypeID="21646" solarSystemID="30004659" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000790" stationName="H4X-0I XI - There is no Tyler Durden" stationTypeID="21646" solarSystemID="30001575" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000791" stationName="Y-PZHM VIII - Baths of Caracalla" stationTypeID="21645" solarSystemID="30000884" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000792" stationName="06-70G XII -  Thorin Oakenshield dies" stationTypeID="21646" solarSystemID="30001120" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000793" stationName="GXK-7F VII - Szorakoztato Kozpont" stationTypeID="21645" solarSystemID="30002123" corporationID="1742852554" corporationName="HUN Offshore Bt." />
+      <row stationID="61000794" stationName="CX7-70 I - Lurks Amarr was here" stationTypeID="21646" solarSystemID="30004072" corporationID="98061706" corporationName="Executive Outcomes Holdings" />
+      <row stationID="61000795" stationName="N-YLOE V - Amy and Rory Pond Die" stationTypeID="21645" solarSystemID="30001062" corporationID="302750157" corporationName="ElitistOps" />
+      <row stationID="61000796" stationName="H-GKI6 VI - Basilica of Maxentius" stationTypeID="21644" solarSystemID="30003752" corporationID="98112127" corporationName="Space Underground" />
+      <row stationID="61000797" stationName="XW-2XP V - RSA Boere Monkeys HK" stationTypeID="21646" solarSystemID="30004320" corporationID="418183520" corporationName="EXPCS Corp" />
+      <row stationID="61000798" stationName="C-HCGU I - Constantinople - New Rome" stationTypeID="21645" solarSystemID="30004319" corporationID="418183520" corporationName="EXPCS Corp" />
+      <row stationID="61000799" stationName="Q-FEEJ IV - Da Bearded Clam" stationTypeID="21644" solarSystemID="30004321" corporationID="418183520" corporationName="EXPCS Corp" />
+      <row stationID="61000800" stationName="C-LBQS IX - Golden Rod Production Factory " stationTypeID="21644" solarSystemID="30004372" corporationID="669646544" corporationName="SpaceMonkey Holding" />
+      <row stationID="61000801" stationName="NTV0-1 I - The C0K Ring" stationTypeID="21642" solarSystemID="30004318" corporationID="418183520" corporationName="EXPCS Corp" />
+      <row stationID="61000802" stationName="3V8-LJ IV - 3V8-Love and Kisses to Hans Eat" stationTypeID="21645" solarSystemID="30002011" corporationID="506268234" corporationName="Fatal Holdings" />
+      <row stationID="61000803" stationName="JI-1UQ V - RAZOR Slave Pen" stationTypeID="21646" solarSystemID="30003661" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000804" stationName="EN-GTB VI - Ring of Doom" stationTypeID="21642" solarSystemID="30003662" corporationID="158202185" corporationName="RHC" />
+      <row stationID="61000805" stationName="GBT4-J I - Pu capable 'sti" stationTypeID="21644" solarSystemID="30002620" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000806" stationName="Q-ITV5 VI - North Venice" stationTypeID="21646" solarSystemID="30003222" corporationID="701662509" corporationName="D00M." />
+      <row stationID="61000807" stationName="B9E-H6 I - Kugutsumen 4 Life" stationTypeID="21646" solarSystemID="30002110" corporationID="98093993" corporationName="Assisted Recovery Solutions" />
+      <row stationID="61000808" stationName="X1W-AL V - NESW is the best corp in PL" stationTypeID="21644" solarSystemID="30001086" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000809" stationName="K-6SNI V - CO2 Factory" stationTypeID="21644" solarSystemID="30000890" corporationID="98112824" corporationName="Balkan Mafia" />
+      <row stationID="61000810" stationName="UC-8XF III - Steel nest" stationTypeID="21645" solarSystemID="30001813" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000811" stationName="1M4-FK VII - Overman's Love Shack" stationTypeID="21646" solarSystemID="30003952" corporationID="544199803" corporationName="Macabre Votum" />
+      <row stationID="61000812" stationName="G-B22J IV - CF Thunderdome" stationTypeID="21646" solarSystemID="30003772" corporationID="98151600" corporationName="C.F. Central Command" />
+      <row stationID="61000813" stationName="L-SCBU IV - The house that Jack wrecked" stationTypeID="21644" solarSystemID="30003684" corporationID="165741165" corporationName="Underworld Protection Agency" />
+      <row stationID="61000814" stationName="VKI-T7 IV - Imperial Haven" stationTypeID="21644" solarSystemID="30003749" corporationID="147718303" corporationName="Imperial Dreams" />
+      <row stationID="61000815" stationName="90-A1P IX - 1488 ways to be awesome" stationTypeID="21646" solarSystemID="30001814" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000816" stationName="4-BE0M IV - The Tunnels of Thasos" stationTypeID="21646" solarSystemID="30004360" corporationID="1371955702" corporationName="FCON Aerarium Militare" />
+      <row stationID="61000817" stationName="FYI-49 V - Cukraszda" stationTypeID="21646" solarSystemID="30002128" corporationID="1742852554" corporationName="HUN Offshore Bt." />
+      <row stationID="61000818" stationName="5-CSE3 IV - STUDS Nut House" stationTypeID="21646" solarSystemID="30004670" corporationID="98223932" corporationName="D4RK M00N RISING" />
+      <row stationID="61000819" stationName="7RM-N0 IX - Nocturne Domum De Aratus" stationTypeID="21642" solarSystemID="30002016" corporationID="1817710684" corporationName="House Aratus" />
+      <row stationID="61000820" stationName="Y6-9LF I - Caitlyn Stark is not dead" stationTypeID="21644" solarSystemID="30001058" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000821" stationName="9G5J-1 I - Bellatrix Alchemy" stationTypeID="21646" solarSystemID="30003249" corporationID="1836961011" corporationName="Orion Expeditions" />
+      <row stationID="61000822" stationName="F-TQWO III - Mei Xiu1 Leopard Print" stationTypeID="21644" solarSystemID="30001064" corporationID="98181032" corporationName="BOT EXECS" />
+      <row stationID="61000823" stationName="5-P1Y2 III - 5- RIP Vile Rat" stationTypeID="21646" solarSystemID="30004374" corporationID="98236432" corporationName="Naga gave me Harpies" />
+      <row stationID="61000824" stationName="2PG-KN VII - CKICK's Mountain Of Minerals" stationTypeID="21646" solarSystemID="30004830" corporationID="98103329" corporationName="Nexus-Command" />
+      <row stationID="61000825" stationName="V-TN6Q II - V-TN6Q - Razer Penthouse" stationTypeID="21646" solarSystemID="30004406" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000826" stationName="U-JJEW VIII - Evils place" stationTypeID="21646" solarSystemID="30004439" corporationID="1788217428" corporationName="Masters of EG Corp" />
+      <row stationID="61000827" stationName="E-FIC0 I - E-FICrap we have an outpost" stationTypeID="21644" solarSystemID="30002922" corporationID="1132466394" corporationName="Kernel of War" />
+      <row stationID="61000828" stationName="JKWP-U IX -  Greasy Nuts" stationTypeID="21644" solarSystemID="30002150" corporationID="98008268" corporationName="Research Industry Mining and Support" />
+      <row stationID="61000829" stationName="FH-TTC IV - Fuhk Gossamer DT" stationTypeID="21645" solarSystemID="30000226" corporationID="98237912" corporationName="Greater Western Co-Prosperity Sphere Exec" />
+      <row stationID="61000830" stationName="L-A5XP VI - L-Amarr Victor" stationTypeID="21645" solarSystemID="30004625" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000831" stationName="K1I1-J X - ACPR Via Sacra" stationTypeID="21646" solarSystemID="30003758" corporationID="604434280" corporationName="Aquilia Cohors Praetoria" />
+      <row stationID="61000832" stationName="MTO2-2 III - KFC for Christmas" stationTypeID="21645" solarSystemID="30005189" corporationID="1463841432" corporationName="Nulli Secunda Holding" />
+      <row stationID="61000833" stationName="S-NJBB I - He Who Must Not Be Named" stationTypeID="21646" solarSystemID="30000260" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000834" stationName="GPUS-A X - ALLEXCAT Grato Por Tudo Amigo" stationTypeID="21642" solarSystemID="30004465" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000835" stationName="MSKR-1 IV - Imperror Togosaki Memorial" stationTypeID="21645" solarSystemID="30004464" corporationID="1115348857" corporationName="the muppets" />
+      <row stationID="61000836" stationName="4Y-OBL VII - STUDS Luve Shack" stationTypeID="21644" solarSystemID="30004673" corporationID="98223932" corporationName="D4RK M00N RISING" />
+      <row stationID="61000837" stationName="3HX-DL I - Afk Camper Paradise" stationTypeID="21645" solarSystemID="30000228" corporationID="98011559" corporationName="Gentlemen of Means" />
+      <row stationID="61000838" stationName="9CK-KZ III - Ze ICEberg" stationTypeID="21644" solarSystemID="30002949" corporationID="649254410" corporationName="ICE is Coming to EVE" />
+      <row stationID="61000839" stationName="BJ-ZFD VI - Catholic School for Boys" stationTypeID="21644" solarSystemID="30004444" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000840" stationName="OXIY-V VI - Fox Den" stationTypeID="21646" solarSystemID="30003722" corporationID="1653490156" corporationName="Callide Vulpis" />
+      <row stationID="61000841" stationName="S-W8CF III - The G-Spot" stationTypeID="21644" solarSystemID="30004172" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000842" stationName="1M7-RK VIII - Inquisitors Madhouse" stationTypeID="21646" solarSystemID="30004189" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000843" stationName="4B-NQN I - Station for Sale 15 billion ISK" stationTypeID="21644" solarSystemID="30003706" corporationID="1246769453" corporationName="SEV3RANCE HOLDINGS" />
+      <row stationID="61000844" stationName="QZ1-OH VII - DOCKING BANNED" stationTypeID="21644" solarSystemID="30001107" corporationID="1556180652" corporationName="Ab origine" />
+      <row stationID="61000845" stationName="X-CFN6 I - X-C of LAWN" stationTypeID="21645" solarSystemID="30000882" corporationID="98139285" corporationName="Love All Woodland Nymphs" />
+      <row stationID="61000846" stationName="X-7BIX VIII - 4E6YPE4HAR v2" stationTypeID="21645" solarSystemID="30003110" corporationID="867291705" corporationName="Red Fleet Corp" />
+      <row stationID="61000847" stationName="DJK-67 IV - Germanenkrug" stationTypeID="21644" solarSystemID="30004903" corporationID="98125251" corporationName="Angry Angels Holding" />
+      <row stationID="61000848" stationName="2-9Z6V VI - Grotex Smoke House" stationTypeID="21642" solarSystemID="30004184" corporationID="395846479" corporationName="Damned Yankees" />
+      <row stationID="61000849" stationName="863P-X VII - MMC-Arcaden" stationTypeID="21644" solarSystemID="30001132" corporationID="1426790982" corporationName="Mission Mining Corp" />
+      <row stationID="61000850" stationName="6BPS-T III - ASS3 HOLE" stationTypeID="21646" solarSystemID="30001257" corporationID="432738024" corporationName="Initiative Associates Holding" />
+      <row stationID="61000851" stationName="D-BAMJ VI - Somnia Furatis" stationTypeID="21646" solarSystemID="30002149" corporationID="1436392124" corporationName="Raytheon Intergalactic Research" />
+      <row stationID="61000852" stationName="GZ1-A1 VI - HD tower" stationTypeID="21644" solarSystemID="30002621" corporationID="98218744" corporationName="DDsit" />
+      <row stationID="61000853" stationName="D-6WS1 IV - Finko Divine Space Center" stationTypeID="21645" solarSystemID="30003727" corporationID="261632485" corporationName="Fink Operations" />
+      <row stationID="61000854" stationName="4-EP12 VIII - 4-EP12 Inches for Mittens" stationTypeID="21645" solarSystemID="30004553" corporationID="667531913" corporationName="GoonWaffe" />
+      <row stationID="61000855" stationName="X-4WZD II - Outpost Ticonderoga" stationTypeID="21645" solarSystemID="30003744" corporationID="1089744282" corporationName="Organized-Chaos" />
+      <row stationID="61000856" stationName="AF0-V5 X - Kate and Arramar Kinky Ho Corner" stationTypeID="21646" solarSystemID="30002107" corporationID="98197104" corporationName="Concordiat Industries" />
+      <row stationID="61000857" stationName="3Q-VZA IX - PornSTARS Penthouse" stationTypeID="21642" solarSystemID="30000590" corporationID="98087805" corporationName="Stealth Tactics and Reconnaissance Service" />
+      <row stationID="61000858" stationName="TYB-69 VIII - THE LIGHT HOUSE" stationTypeID="21646" solarSystemID="30000485" corporationID="98006495" corporationName="Beacon light holding Corp" />
+      <row stationID="61000859" stationName="NSI-MW VI - UHAFT Kieselgrube" stationTypeID="21646" solarSystemID="30001061" corporationID="98164737" corporationName="Elite Carebears" />
+      <row stationID="61000860" stationName="EF-QZK VIII - The Boobie Bungalow" stationTypeID="21646" solarSystemID="30005104" corporationID="98178676" corporationName="Trans Secunda" />
+      <row stationID="61000861" stationName="FMH-OV I - TORTUGA PIRATES HAVEN" stationTypeID="21646" solarSystemID="30000484" corporationID="98143154" corporationName="Estamos Solos Corporation" />
+      <row stationID="61000862" stationName="GPD5-0 II - Tauntaun Guts" stationTypeID="21646" solarSystemID="30000598" corporationID="98095887" corporationName="Ghost Net Industrialists" />
+      <row stationID="61000863" stationName="0PU2-R V - The Milliways Station" stationTypeID="21642" solarSystemID="30003251" corporationID="98057376" corporationName="Interstellar Engineering Inc." />
+      <row stationID="61000864" stationName="F-QQ5N VIII - New DSP Home" stationTypeID="21644" solarSystemID="30000572" corporationID="98083415" corporationName="Darkspawn Holding" />
+      <row stationID="61000865" stationName="ZO-YJZ X - MMC-Service" stationTypeID="21646" solarSystemID="30001133" corporationID="1426790982" corporationName="Mission Mining Corp" />
+      <row stationID="61000866" stationName="P3X-TN IX - BlackWatch Tavern " stationTypeID="21644" solarSystemID="30001125" corporationID="532148499" corporationName="BlackWatch Industrial Group" />
+      <row stationID="61000867" stationName="9NI-FW I - Sandras High Heel Bar" stationTypeID="21644" solarSystemID="30001128" corporationID="98178002" corporationName="Angelus Nox Atra" />
+      <row stationID="61000868" stationName="XW2H-V I - La 3 Caini Grasi" stationTypeID="21646" solarSystemID="30000499" corporationID="98085851" corporationName="Meet The Fockers" />
+      <row stationID="61000869" stationName="BI0Y-X V - Hyperion Grande" stationTypeID="21644" solarSystemID="30004163" corporationID="603731932" corporationName="Salient Logistics Inc." />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-16 13:05:53</cachedUntil>
+</eveapi>

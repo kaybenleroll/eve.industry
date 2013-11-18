@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-12 15:29:14</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Eleria Hux" characterID="1614003633" />
+      <row name="LordInvisible" characterID="873066036" />
+      <row name="little Kiddo" characterID="90448124" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-12 15:29:14</cachedUntil>
+</eveapi>

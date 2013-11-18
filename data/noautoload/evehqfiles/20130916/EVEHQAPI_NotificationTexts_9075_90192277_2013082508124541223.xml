@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-25 19:12:46</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="431359075"><![CDATA[applicationText: Yarrr!
+charID: 93733054
+corpID: 98190867
+]]></row>
+      <row notificationID="431175531"><![CDATA[applicationText: ''
+charID: 91744644
+corpID: 98190867
+]]></row>
+      <row notificationID="431173994"><![CDATA[applicationText: ''
+charID: 91744644
+corpID: 98190867
+]]></row>
+      <row notificationID="431115507"><![CDATA[isHouseWarmingGift: 1
+shipTypeID: 606
+]]></row>
+      <row notificationID="431098505"><![CDATA[applicationText: hello i am D's roomate
+charID: 93758802
+corpID: 98190867
+]]></row>
+      <row notificationID="431047378"><![CDATA[body:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailBody
+- {}
+header:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailHeader
+- {}
+missionKeywords:
+  dungeonLocationID: 30002188
+  dungeonSolarSystemID: 30002188
+  rewardQuantity: 1050000
+  rewardTypeID: 29
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-23 19:12:46</cachedUntil>
+</eveapi>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:05:46</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="435571056"><![CDATA[corpID: 98190867
+newTaxRate: 8.0
+oldTaxRate: 10.0
+]]></row>
+      <row notificationID="435499178"><![CDATA[body:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailBody
+- {}
+header:
+- UI/Agents/DefaultMessages/MissionOfferExpirationEmailHeader
+- {}
+missionKeywords:
+  dungeonLocationID: 30003492
+  dungeonSolarSystemID: 30003492
+  objectiveLocationID: 60008173
+  objectiveLocationSystemID: 30003488
+  objectiveQuantity: 1
+  objectiveTypeID: 11742
+  rewardQuantity: 141000
+  rewardTypeID: 29
+]]></row>
+      <row notificationID="435365351"><![CDATA[applicationText: Serith and Belle would like to join up :)
+charID: 92301516
+corpID: 98190867
+]]></row>
+      <row notificationID="435365327"><![CDATA[applicationText: Serith and Belle would like to join up.
+charID: 92129024
+corpID: 98190867
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-09-30 11:05:46</cachedUntil>
+</eveapi>

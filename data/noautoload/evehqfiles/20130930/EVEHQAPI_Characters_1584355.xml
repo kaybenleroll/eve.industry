@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-30 14:58:32</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID">
+      <row name="Reikan Koraka" characterID="92736777" corporationName="Conquering Darkness" corporationID="98190867" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-30 15:14:23</cachedUntil>
+</eveapi>

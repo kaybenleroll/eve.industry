@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-25 15:12:03</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Robin Silver" characterID="1879646901" />
+      <row name="Last Airbender" characterID="1784755668" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-25 15:12:03</cachedUntil>
+</eveapi>

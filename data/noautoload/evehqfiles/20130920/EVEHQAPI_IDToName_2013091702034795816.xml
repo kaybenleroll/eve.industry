@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-17 13:03:55</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Dubidox" characterID="1839006907" />
+      <row name="pink pumpkin" characterID="503600383" />
+      <row name="Shari Felpps" characterID="1996515761" />
+      <row name="Marissa Kodai" characterID="93773838" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-17 13:03:55</cachedUntil>
+</eveapi>

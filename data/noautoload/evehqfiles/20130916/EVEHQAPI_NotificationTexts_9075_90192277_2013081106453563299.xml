@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-11 17:45:35</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <row notificationID="429422266"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 640
+  typeID: 4247
+]]></row>
+      <row notificationID="429416664"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 680
+  typeID: 4247
+]]></row>
+      <row notificationID="429409075"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 720
+  typeID: 4247
+]]></row>
+      <row notificationID="429402178"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 760
+  typeID: 4247
+]]></row>
+      <row notificationID="429394359"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 800
+  typeID: 4247
+]]></row>
+      <row notificationID="429386160"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 840
+  typeID: 4247
+]]></row>
+      <row notificationID="429376708"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 880
+  typeID: 4247
+]]></row>
+      <row notificationID="429368808"><![CDATA[allianceID: null
+corpID: 98190867
+moonID: 40451115
+solarSystemID: 31001938
+typeID: 12235
+wants:
+- quantity: 920
+  typeID: 4247
+]]></row>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-09 17:45:35</cachedUntil>
+</eveapi>

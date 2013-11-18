@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:45:15</currentTime>
+  <result>
+    <rowset name="transactions" key="transactionID" columns="transactionDateTime,transactionID,quantity,typeName,typeID,price,clientID,clientName,stationID,stationName,transactionType,transactionFor,journalTransactionID,clientTypeID">
+      <row transactionDateTime="2013-09-20 18:21:43" transactionID="3081952597" quantity="500" typeName="Gallente Federation Starbase Charter" typeID="24594" price="4100.00" clientID="325114220" clientName="Harisdrop" stationID="60011851" stationName="Fricoure VIII - Moon 2 - Federation Navy Assembly Plant" transactionType="buy" transactionFor="corporation" journalTransactionID="8220880742" clientTypeID="1378" />
+      <row transactionDateTime="2013-09-19 01:38:21" transactionID="3079967888" quantity="50" typeName="Gallente Federation Starbase Charter" typeID="24594" price="4100.00" clientID="325114220" clientName="Harisdrop" stationID="60011851" stationName="Fricoure VIII - Moon 2 - Federation Navy Assembly Plant" transactionType="buy" transactionFor="corporation" journalTransactionID="8213890929" clientTypeID="1378" />
+      <row transactionDateTime="2013-09-13 17:17:33" transactionID="3072425393" quantity="1" typeName="Pulse Shield Emitter Blueprint" typeID="17341" price="5000000.00" clientID="1000109" clientName="Duvolle Laboratories" stationID="60010927" stationName="Ainaille VII - Moon 5 - Duvolle Laboratories Factory" transactionType="buy" transactionFor="corporation" journalTransactionID="8187480794" clientTypeID="2" />
+      <row transactionDateTime="2013-09-10 10:32:47" transactionID="3068322602" quantity="199" typeName="Water-Cooled CPU" typeID="2328" price="3099.00" clientID="109021355" clientName="Argus Greymoore" stationID="60011797" stationName="Jel VIII - Moon 20 - Federation Navy Assembly Plant" transactionType="buy" transactionFor="corporation" journalTransactionID="8172982113" clientTypeID="1377" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-08 17:02:52</cachedUntil>
+</eveapi>

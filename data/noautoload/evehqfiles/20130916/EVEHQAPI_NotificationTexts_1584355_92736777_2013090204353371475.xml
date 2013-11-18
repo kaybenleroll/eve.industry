@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-02 15:35:43</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID">
+      <missingIDs>432333382,432244334,432236541,432229006,432221869,432213592,431927598,431926454</missingIDs>
+    </rowset>
+  </result>
+  <cachedUntil>2023-08-31 15:35:43</cachedUntil>
+</eveapi>

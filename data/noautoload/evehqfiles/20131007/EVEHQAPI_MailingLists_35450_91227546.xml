@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:44:13</currentTime>
+  <result>
+    <rowset name="mailingLists" key="listID" columns="listID,displayName">
+      <row listID="145096714" displayName="Bulk Trade" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-08 22:32:52</cachedUntil>
+</eveapi>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:44:39</currentTime>
+  <result>
+    <characterID>90577903</characterID>
+    <name>Yunella Dukos</name>
+    <DoB>2011-03-27 23:37:00</DoB>
+    <race>Caldari</race>
+    <bloodLine>Deteis</bloodLine>
+    <ancestry>Scientists</ancestry>
+    <gender>Female</gender>
+    <corporationName>Gallente Libertarian Front of Gallente</corporationName>
+    <corporationID>98012536</corporationID>
+    <allianceName />
+    <allianceID>0</allianceID>
+    <cloneName>Clone Grade Alpha</cloneName>
+    <cloneSkillPoints>900000</cloneSkillPoints>
+    <balance>994875.46</balance>
+    <attributeEnhancers />
+    <attributes>
+      <intelligence>20</intelligence>
+      <memory>20</memory>
+      <charisma>19</charisma>
+      <perception>20</perception>
+      <willpower>20</willpower>
+    </attributes>
+    <rowset name="skills" key="typeID" columns="typeID,skillpoints,level,published">
+      <row typeID="3300" skillpoints="1415" level="2" published="1" />
+      <row typeID="3301" skillpoints="8000" level="3" published="1" />
+      <row typeID="3327" skillpoints="8000" level="3" published="1" />
+      <row typeID="3330" skillpoints="2829" level="2" published="1" />
+      <row typeID="3386" skillpoints="1415" level="2" published="1" />
+      <row typeID="3392" skillpoints="1415" level="2" published="1" />
+      <row typeID="3402" skillpoints="8000" level="3" published="1" />
+      <row typeID="3413" skillpoints="8000" level="3" published="1" />
+      <row typeID="3416" skillpoints="1415" level="2" published="1" />
+      <row typeID="3426" skillpoints="8000" level="3" published="1" />
+      <row typeID="3449" skillpoints="8000" level="3" published="1" />
+    </rowset>
+    <rowset name="certificates" key="certificateID" columns="certificateID" />
+    <rowset name="corporationRoles" key="roleID" columns="roleID,roleName">
+      <row roleID="1" roleName="roleDirector" />
+    </rowset>
+    <rowset name="corporationRolesAtHQ" key="roleID" columns="roleID,roleName">
+      <row roleID="1" roleName="roleDirector" />
+    </rowset>
+    <rowset name="corporationRolesAtBase" key="roleID" columns="roleID,roleName">
+      <row roleID="1" roleName="roleDirector" />
+    </rowset>
+    <rowset name="corporationRolesAtOther" key="roleID" columns="roleID,roleName">
+      <row roleID="1" roleName="roleDirector" />
+    </rowset>
+    <rowset name="corporationTitles" key="titleID" columns="titleID,titleName" />
+  </result>
+  <cachedUntil>2013-10-08 16:50:32</cachedUntil>
+</eveapi>

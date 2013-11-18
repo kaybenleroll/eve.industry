@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-09-16 14:06:11</currentTime>
+  <result>
+    <rowset name="notifications" key="notificationID" columns="notificationID,typeID,senderID,sentDate,read" />
+  </result>
+  <cachedUntil>2013-09-16 14:27:47</cachedUntil>
+</eveapi>

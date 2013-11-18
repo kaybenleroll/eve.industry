@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-08 16:45:21</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason,owner1TypeID,owner2TypeID">
+      <row date="2013-10-02 14:35:09" refID="8276978733" refTypeID="37" ownerName1="Conquering Darkness" ownerID1="98190867" ownerName2="Conquering Darkness" ownerID2="98190867" argName1="Sidi'Novis Tallon" argID1="380606673" amount="-85103940.00" balance="0.00" reason="" owner1TypeID="2" owner2TypeID="2" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-08 17:12:21</cachedUntil>
+</eveapi>

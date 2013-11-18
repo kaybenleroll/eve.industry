@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-08-22 02:10:54</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Knight Deathros" characterID="93477961" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-09-22 02:10:54</cachedUntil>
+</eveapi>

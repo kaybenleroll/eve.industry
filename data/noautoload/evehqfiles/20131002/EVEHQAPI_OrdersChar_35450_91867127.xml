@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2013-10-02 11:14:41</currentTime>
+  <result>
+    <rowset name="orders" key="orderID" columns="orderID,charID,stationID,volEntered,volRemaining,minVolume,orderState,typeID,range,accountKey,duration,escrow,price,bid,issued">
+      <row orderID="3096368210" charID="91867127" stationID="60004588" volEntered="1" volRemaining="1" minVolume="1" orderState="0" typeID="3895" range="32767" accountKey="1000" duration="90" escrow="0.00" price="24998000.00" bid="0" issued="2013-07-28 19:04:15" />
+    </rowset>
+  </result>
+  <cachedUntil>2013-10-02 11:33:00</cachedUntil>
+</eveapi>
