@@ -3,6 +3,7 @@ cache_loading: on
 munging: on
 logging: on
 load_libraries: on
-libraries: data.table, RSQLite
+libraries: data.table, RSQLite, scales
 as_factors: on
 data_tables: on
+recursive_loading: off

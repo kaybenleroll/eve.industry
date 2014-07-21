@@ -26,10 +26,15 @@ idlist.datacore   <- market.item.dt[groupName == 'Datacores']$typeID;
 idlist.decryptor  <- market.item.dt[grep('Decryptor', groupName)]$typeID;
 
 
-
 idlist.t2mods   <- construction.t2mods$typeID;
 
 idlist.marketdata <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.pi.p0, idlist.ship, idlist.gas, idlist.t2mods, idlist.datacore, idlist.decryptor, idlist.commodity, idlist.extras, idlist.subsystem, idlist.relics);
+
+
+### Remove the Rogue Drone Nexus Chips as they are not on eve-central yet
+idlist.exclude    <- c(33618:33620, 33625, 33627, 33633, 33635, 33655, 33659, 33665, 33667, 33677);
+idlist.marketdata <- idlist.marketdata[!idlist.marketdata %in% idlist.exclude];
+
 
 idlist.buyitems   <- c(idlist.asteroid, idlist.material, idlist.pi, idlist.pi.p0, idlist.gas, idlist.datacore, idlist.decryptor, idlist.commodity, idlist.extras, idlist.subsystem, idlist.relics);
 idlist.sellitems  <- c(idlist.posfuel, idlist.subsystem);
