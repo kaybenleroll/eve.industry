@@ -1,10 +1,11 @@
-data_loading: on
-cache_loading: on
-recursive_loading: off
-munging: on
-logging: on
-load_libraries: on
+data_loading: TRUE
+cache_loading: TRUE
+recursive_loading: FALSE
+munging: TRUE
+logging: TRUE
+load_libraries: TRUE
 libraries: data.table, RSQLite, scales
-as_factors: on
-data_tables: on
-recursive_loading: off
+as_factors: TRUE
+data_tables: TRUE
+version: 0.6
+attach_internal_libraries: FALSE
